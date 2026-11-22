@@ -301,3 +301,10 @@ Publish the methods and metadata with the results, not just a colour-coded map.
 - **Gate 4 — Sensor validation:** no quantitative drone product without local calibration and independent validation.
 - **Gate 5 — Statistical design:** no full deployment until sample numbers and cadence have a documented power rationale.
 - **Gate 6 — Public reporting:** no interpretation without methods, QA/QC, detection limits and uncertainty disclosed.
+
+
+## 14. Dewatering, Geotube filtrate and containment-cell monitoring
+
+Do not treat dredging and dewatering as a black box. The project process moves sediment, lagoon water and porewater through slurry conditioning, Geotube filtration, water treatment and containment. Each transfer is a potential pathway for particulate or dissolved contaminants. A separate detailed analysis and proposed monitoring-point list is in [Remediation Process and Leachate Monitoring](06-remediation-process-and-leachate-monitoring.md).
+
+At minimum, design the independent programme to measure both total and dissolved metals, TSS/particulate matter, pH, redox, conductivity and process conditions at source water, slurry, Geotube filtrate, treatment influent/effluent, contact water, leachate and relevant groundwater/surface-water points. The 2021 Boat Harbour sediment geotextile study supports monitoring Cu, Pb and Zn migration and filter-cake development, but it does not validate all analytes or full-scale operation.
