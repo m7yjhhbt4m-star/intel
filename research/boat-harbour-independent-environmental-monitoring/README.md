@@ -21,18 +21,13 @@ Develop an independent, evidence-led environmental monitoring investigation cove
 - Do not describe suspected contamination or transport as confirmed without supporting evidence.
 - Record source, date, method, location, detection limit, uncertainty, and relevant quality-control information for every material claim.
 
-## Initial work sequence
-1. Compile historical studies, regulatory records, laboratory datasets, sampling coordinates, and remediation documents.
-2. Map historical sampling coverage, known findings, data gaps, and suitable reference areas.
-3. Assess optical, sonar, in-water and laboratory methods against the actual monitoring questions.
-4. Design a permissioned pilot with paired remote-sensing observations and physical samples.
-5. Validate methods and establish a repeatable monitoring baseline before scaling up.
+## Research documents
+1. [Initial Research Findings](01-initial-research-findings.md) — historical contamination evidence, wetland findings, Northumberland Strait baseline, federal assessment, current project status and drone limitations.
+2. [Technical Monitoring Design](02-technical-monitoring-design.md) — proposed water, sediment, wetland, marine, drone, sonar, laboratory, QA/QC and governance framework.
+3. [Source Register](03-source-register.md) — source authority, evidence used, limitations and priority follow-up tasks.
+
+## Project status
+**Status:** Desk-research dossier and proposed technical framework created 21 November 2026. No field measurements, equipment validation or new contamination findings are asserted. Several source-recovery tasks remain open and are explicitly listed in the source register.
 
 ## Governance and permissions
 Plan engagement with Pictou Landing First Nation and relevant rights-holders before defining access, sampling locations, culturally sensitive data handling, or public release. Obtain all required land-access, drone, marine, wildlife, and sampling permissions before fieldwork.
-
-## Project status
-**Status:** Research planning. No field measurements, equipment validation, or new contamination findings are asserted in this repository entry.
-
-## Working documents
-Add reviewed research reports, source registers, maps, sampling plans, equipment assessments, laboratory protocols, and field records here. Keep proposed plans separate from verified findings.
