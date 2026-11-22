@@ -1,0 +1,469 @@
+# Boat Harbour / A’se’k — Comprehensive Evidence Review
+
+**Version:** 2.0 — rebuilt from primary scientific and government sources, 21 November 2026  
+**Purpose:** Evidence review for an independent environmental investigation of Boat Harbour/A’se’k, the associated wetlands and waterways, the estuary, and the Northumberland Strait receiving environment.  
+**Status:** Desk research. No new field samples have been collected. This is not a regulatory compliance determination, human-health risk assessment, legal opinion, or proof of contaminant migration outside the sampled areas.
+
+## 1. Executive assessment
+
+### 1.1 What the evidence establishes
+
+1. **Boat Harbour is a documented legacy industrial-effluent site.** A natural tidal estuary connected to the Northumberland Strait was converted into a closed effluent stabilization basin in 1967. Pulp-mill effluent entered the treatment system from 1967 to January 2020. Effluent from the adjacent Canso Chemicals chlor-alkali facility was also treated there from 1971 to 1992. The federal assessment describes early raw-effluent routing through a natural wetland/settling area before the later settling-basin and aeration system was built.
+
+2. **The lagoon sediment has a long record of metal contamination.** Hoffman et al. (2017) reviewed 103 Boat Harbour sediment samples from 81 stations and four reference locations, using secondary records collected from 1992–2015. Seven metal(loid)s (As, Cd, Cr, Cu, Pb, Hg and Zn) exceeded at least one low-effect sediment guideline in some samples. Several exceeded probable-effect levels (PEL) in a substantial proportion of samples. The historical dataset was not spatially or vertically adequate to delineate all contamination.
+
+3. **Organic contaminants are a separate and serious line of evidence.** Hoffman et al. (2019) reviewed 1992–2015 secondary data for PCDD/Fs and PAHs. PCDD/F toxic-equivalency concentrations exceeded the highest-effect thresholds in Boat Harbour sediment. Five individual PAH compounds frequently exceeded severe-effect thresholds, even though total PAHs were below the severe-effect threshold. The authors found important horizontal, vertical and temporal gaps and recommended detailed sampling in the lagoon and down-gradient receiving environments.
+
+4. **Contamination is not confined to the main lagoon dataset.** Quanz et al. (2021) sampled sediment, surface water and dragonfly larvae from five site wetlands and two reference wetlands. Their study found site-specific exceedances for As, Cd, Cr, Cu, Pb, Zn, total mercury and PCDD/PCDF. The most striking result was a PCDD/PCDF TEQ sediment value of 594 ng TEQ/kg at a deep-water sampling point in WL2; the other two WL2 values were 2.0 and 2.6 ng TEQ/kg. The study also identified exceedances in WL5, which had not been included in the consultant-led risk assessment discussed by the authors.
+
+5. **Ecological availability is not the same as total sediment concentration.** A 2020 DGT passive-sampling study deployed 80 devices at the sediment/water interface in Boat Harbour, a de-watered cove, surrounding wetlands and the Northumberland Strait. It reported low DGT-labile metal(loid) and total-Hg concentrations and MeHg below detection in the deployment period. DGT measures a labile/bioavailable fraction over a defined deployment, not total contaminant inventory, not all exposure routes, and not the chemistry of every sediment layer. It does not negate the bulk-sediment guideline exceedances.
+
+6. **The marine receiving-environment baseline is limited in footprint and duration.** Chaudhary et al. (2020) sampled a defined set of stations along two near-field transects from the estuary mouth and a short coastal mussel line. Sediment concentrations of measured metals and dioxins/furans were generally below the cited sediment guidelines in the samples collected. However, the study itself followed a review that found historical marine-biota data too inconsistent to establish a robust baseline. The 2020 baseline is useful but cannot be extrapolated to the entire Northumberland Strait.
+
+7. **A second lobster baseline (2018 sampling, published 2023) adds a wider-distance comparison.** Maltby et al. sampled three lobster age classes at sites 4, 20 and 70 km from the Boat Harbour estuary. Arsenic was elevated in all age classes and sites (4.8–12.68 mg/kg); mercury and methylmercury were approximately 0.04 mg/kg and minimally exceeded one guideline in some age-class/site combinations. There was no consistent pattern of accumulation by age class or site. Total arsenic is not equivalent to inorganic arsenic, and this result is not by itself a food-safety determination.
+
+8. **The 2025 federal assessment identifies major sediment-mobilization and monitoring issues.** Proponent modelling predicted approximately 270,000 m³ of suspended solids could be mobilized after dam removal, with average daily TSS initially around ten times the applicable marine guideline threshold and falling below it within 140 days in the model. Modelled deposition in much of the embayment was 4–10 cm. These are predictions, not measured outcomes. Fisheries and Oceans Canada raised concerns about old 2003 marine sediment data, inadequate benthic habitat information, model-domain limitations and uncertainty about the sediment endpoint.
+
+9. **The project had not begun implementation monitoring in the 2025 reporting year.** Build Nova Scotia’s 2025 annual report states that the project remained in pre-construction while the judicial review proceeded. It reports no project follow-up monitoring completed in that year and no specific implementation of the independent environmental monitor condition. “No non-compliance reported” in a year with no project monitoring is not evidence that environmental conditions were measured and found compliant.
+
+### 1.2 What the evidence does not establish
+
+- It does not establish that contaminants have spread throughout the Northumberland Strait.
+- It does not establish that the wider Strait is free of contamination.
+- It does not provide a current, complete, depth-resolved sediment inventory for the lagoon and all associated wetlands.
+- It does not provide a complete seasonal water-quality baseline for the estuary and marine receiving environment.
+- It does not allow drone imagery to identify dissolved mercury, methylmercury, arsenic, cadmium, dioxins/furans, PAHs or PFAS as individual chemicals.
+- It does not show that all 25 wetlands, all waterways, or the marine regional study area have been sampled adequately.
+- It does not provide the independent project follow-up monitoring results that would be expected after site preparation/remediation begins; the 2025 annual report says such monitoring had not yet occurred.
+
+### 1.3 Overall conclusion
+
+There is enough source-backed evidence to justify an independent monitoring programme. The defensible approach is to combine a historical-data/GIS reconstruction, water and sediment sampling, depth-resolved sediment cores, targeted biota monitoring, in-situ water-quality and passive-sampler measurements, bathymetry/sonar, and calibrated drone imagery. Laboratory chemistry must remain the basis for identifying and quantifying contaminants.
+
+The programme must test for transport into the Strait rather than presume it. It must also avoid treating a small set of near-field marine stations as a survey of the whole receiving environment.
+
+---
+
+## 2. Site history and physical setting
+
+### 2.1 Industrial timeline established in the federal assessment
+
+- **1967:** The provincial government constructed the Boat Harbour Effluent Treatment Facility and converted the natural tidal estuary into a closed stabilization basin.
+- **1967–1972:** Before construction of the later settling basins and aeration stabilization basin, raw effluent was discharged from a pipeline into an effluent ditch east of Highway 348, which flowed through a natural wetland area used as settling ponds before entering Boat Harbour.
+- **1971–1992:** Effluent from Canso Chemicals Ltd., a chlor-alkali plant producing chlorine, caustic soda and hydrogen for the pulp mill, was treated in the facility.
+- **1996:** A hazardous-waste containment cell was constructed and used for dewatered sludge from the aeration stabilization basin.
+- **2014:** A pipeline break released more than 47 million litres of untreated pulp-and-paper effluent into an area leading to the East River/Pictou Harbour. Environment and Climate Change Canada reported the Fisheries Act offence and $225,000 penalty in 2016.
+- **2015:** The Boat Harbour Act established the deadline for cessation of effluent receipt.
+- **July 2019:** A pilot-scale testing programme was completed.
+- **31 January 2020:** The treatment facility ceased receiving effluent under the Boat Harbour Act.
+
+The 2014 pipeline release is a separate release pathway and should not be conflated with the historical lagoon sediment inventory. It warrants its own spatial evidence review: the pipeline route, spill area, wetland receiving area, East River pathway and Pictou Harbour receiving environment.
+
+### 2.2 Site and study-area dimensions
+
+The 2025 federal assessment describes the project Site Study Area (SSA) as approximately **546 hectares**. It includes the stabilization lagoon, settling basins, aeration stabilization basin, dam, effluent ditches, pipeline, estuary, wetlands, uplands and hazardous-waste containment cell.
+
+Other dimensions reported in the assessment include:
+- The former natural tidal estuary was about 142 hectares (Build Nova Scotia project description).
+- The assessment identifies approximately 25 wetland areas covering about 86 hectares.
+- The estuary/marsh complex is reported at approximately 10.02 hectares in the assessment.
+- Nineteen watercourses were identified within the SSA; several were intermittent or dry at the time of assessment.
+
+**Do not combine these areas as if they are mutually exclusive or use them to infer an exact contaminated footprint.** The 546-hectare SSA is a project-assessment boundary, not a measured contamination boundary.
+
+### 2.3 Marine study boundaries — important distinction
+
+The federal assessment's Appendix C defines the marine environment differently from most terrestrial components:
+- Marine SSA: the estuary and Northumberland Strait shoreline immediately outside the estuary mouth, plus the portion of the East River containing the underwater pipeline.
+- Marine LSA: Northumberland Strait waters within 500 m of the Pictou Road shoreline and waters within 500 m of the underwater pipeline in the East River.
+- Marine RSA: the portion of the Northumberland Strait extending from the east side of the Confederation Bridge to the eastern coast of Prince Edward Island.
+
+This is a broad regional assessment boundary. It is **not** evidence that this entire area was sampled at a density adequate for contaminant delineation. The 2020 marine baseline sampled a much smaller set of near-field transects and coastal mussel locations. Study boundary and sample footprint must be mapped separately.
+
+---
+
+## 3. Sediment metals — Hoffman et al. (2017)
+
+**Paper:** Hoffman, E., Lyons, J., Boxall, J., Robertson, C., Lake, C.B. & Walker, T.R. (2017). “Spatiotemporal assessment (quarter century) of pulp mill metal(loid) contaminated sediment to inform remediation decisions.” *Environmental Monitoring and Assessment*, 189, 257. DOI: https://doi.org/10.1007/s10661-017-5952-0. Full text record: https://dalspace.library.dal.ca/items/3ef900df-0350-4b9a-b5ae-659b78c4f7fd
+
+### 3.1 Study design and limitations
+
+- 103 sediment samples from 81 Boat Harbour stations, plus four reference locations.
+- Secondary data from 1992–2015, assembled from a review of more than 200 documents; eight reports contained relevant sediment metal chemistry data.
+- About 69% of samples were shallow (0–15 cm).
+- About 38% of the historic samples were grabs and 62% cores, according to later synthesis of the data.
+- Methods varied across original studies; samples were not collected under one uniform, modern design.
+- GIS review showed inadequate spatial coverage, especially in the western half compared with the eastern tidal channel.
+- Core deformation and variable sample methods/depths could affect vertical interpretation.
+- The paper recommends additional vertical and horizontal sampling and local background/reference concentrations.
+
+### 3.2 Guideline exceedances reported in the paper
+
+The following table reproduces the study's counts of samples above the Canadian Council of Ministers of the Environment (CCME) sediment guideline values. ISQG is the Interim Sediment Quality Guideline (lower-effect screening value); PEL is the Probable Effect Level. These are screening benchmarks, not a direct measure of toxicity at every site.
+
+| Analyte | n | Freshwater ISQG exceedances | Freshwater PEL exceedances | Marine ISQG exceedances | Marine PEL exceedances |
+|---|---:|---:|---:|---:|---:|
+| Arsenic (As) | 100 | 59 (59.0%) | 1 (1.0%) | 23 (23.0%) | 0 |
+| Cadmium (Cd) | 103 | 91 (88.4%) | 58 (56.3%) | 88 (85.4%) | 55 (53.4%) |
+| Chromium (Cr) | 103 | 58 (56.3%) | 4 (3.9%) | 39 (37.9%) | 0 |
+| Copper (Cu) | 103 | 58 (56.3%) | 0 | 94 (91.3%) | 21 (20.4%) |
+| Lead (Pb) | 103 | 70 (68.0%) | 11 (10.7%) | 79 (76.7%) | 0 |
+| Mercury (Hg) | 84 | 68 (81.0%) | 53 (63.1%) | 70 (83.3%) | 43 (51.2%) |
+| Zinc (Zn) | 103 | 81 (78.6%) | 55 (53.4%) | 80 (77.7%) | 56 (54.4%) |
+
+Guideline thresholds in mg/kg dry weight:
+- As: freshwater ISQG 5.9; PEL 17; marine ISQG 7.24; PEL 41.6.
+- Cd: freshwater 0.6 / 3.5; marine 0.7 / 4.2.
+- Cr: freshwater 37.3 / 90; marine 52.3 / 160.
+- Cu: freshwater 35.7 / 197; marine 18.7 / 108.
+- Pb: freshwater 35 / 91.3; marine 30.2 / 112.
+- Hg: freshwater 0.17 / 0.486; marine 0.13 / 0.7.
+- Zn: freshwater 123 / 315; marine 124 / 271.
+
+### 3.3 Temporal and vertical interpretation
+
+- Cd, Cu, Pb, Hg and Zn were significantly higher in 1998–2000 than in 1992–1996 and 2003–2015.
+- The paper describes a decline after peak concentrations in 1998, except for Hg.
+- The 2015 samples were below PELs, and many were at or below ISQGs. This does not demonstrate that all sediment in the lagoon had reached background conditions.
+- Historical samples were heavily weighted toward the upper 15 cm, leaving deeper horizons poorly characterized.
+- The authors noted that contaminated sediment may be under 30 cm at many stations based on earlier work, but this does not replace direct depth-resolved delineation at each depositional zone.
+
+**Interpretation:** The dataset supports a historical metal-contamination finding within the facility. It does not provide a complete current inventory or a reliable map of all contaminant thicknesses. A new survey should retain discrete depth intervals and avoid homogenizing whole cores.
+
+---
+
+## 4. Organic sediment contaminants — Hoffman et al. (2019)
+
+**Paper:** Hoffman, E., Alimohammadi, M., Lyons, J., Davis, E., Walker, T.R. & Lake, C.B. (2019). “Characterization and spatial distribution of organic-contaminated sediment derived from historical industrial effluents.” *Environmental Monitoring and Assessment*, 191, 590. DOI: https://doi.org/10.1007/s10661-019-7763-y. Open repository copy: https://dalspaceb.library.dal.ca/server/api/core/bitstreams/646463e2-ae03-4297-9ac4-4a4fcbefba72/content
+
+### 4.1 Findings
+
+- Reviewed secondary monitoring data from 1992–2015 across Boat Harbour and off-site reference locations.
+- Target groups included polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/Fs) and polycyclic aromatic hydrocarbons (PAHs).
+- PCDD/F toxic equivalency (TEQ) concentrations exceeded the highest sediment-effect thresholds in Boat Harbour.
+- Elevated PCDD/F concentrations persisted despite the 1992 pulp-and-paper dioxin/furan regulations.
+- Five individual PAH compounds frequently exceeded severe-effect thresholds, even though total PAHs were below severe-effect thresholds.
+- PAH diagnostic ratios suggested pyrogenic sources associated with wood processing or coal combustion. This is source interpretation, not proof of a single source or release event.
+- The study identified inadequate horizontal, vertical and temporal coverage; deeper sediment horizons were less well characterized than 0–15 cm surface sediment.
+- A later thesis synthesis reports PCDD/F TEQ calculations for 60 samples from 48 stations. The exact sample set and station-level values should be confirmed against the paper's supplementary material before station-level use.
+
+### 4.2 Monitoring implications
+
+- PCDD/Fs must remain in the sediment analytical programme; a metal-only programme is inadequate.
+- Report individual congeners and TEQ, with the TEF scheme and detection limits documented.
+- PAHs should be reported by individual compound and summed groups; total PAH alone can conceal individual compounds exceeding benchmarks.
+- Grain size and total organic carbon should accompany sediment chemistry because organic matter and fine particles affect contaminant distribution and interpretation.
+- The 2019 paper specifically recommends detailed sampling within Boat Harbour, local baseline concentrations and down-gradient receiving-environment sampling.
+
+---
+
+## 5. Wetlands — Quanz et al. (2021)
+
+**Paper:** Quanz, M.E., Walker, T.R., Oakes, K. & Willis, R. (2021). “Contaminant characterization in wetland media surrounding a pulp mill industrial effluent treatment facility.” *Wetlands Ecology and Management*, 29, 209–229. DOI: https://doi.org/10.1007/s11273-020-09779-0. Open full text: https://link.springer.com/article/10.1007/s11273-020-09779-0
+
+### 5.1 Design
+
+- Seven wetlands were included: five site wetlands (WL1–WL5) and two reference wetlands (REF1, REF2).
+- The project literature identified 25 wetland areas; this study did not sample all 25.
+- Media: sediment, surface water and composite dragonfly larvae (Libellulidae) tissue.
+- Sediment samples represented the 0–10 cm horizon. Three sediment samples were collected across shallow, medium and deep water-column locations in each wetland.
+- Surface-water samples were collected before sediment sampling at corresponding locations.
+- Sediment and surface-water metals were analyzed by ICP-MS; total mercury by an appropriate mercury-specific method; PCDD/PCDF by high-resolution mass spectrometry.
+- The study analyzed metals, total Hg and PCDD/PCDF; it was not a full broad-spectrum organic contaminant survey.
+
+### 5.2 Sediment findings
+
+Mean sediment metal concentrations shown in the paper's figure (mg/kg; values are figure-derived and should be treated as approximate where graph extraction rather than a numerical table is used):
+
+| Wetland | As | Cd | Cr | Cu | THg | Pb | Zn |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Reference (REF1) | 3.6 | 0.4 | 12 | 10 | 0.06 | 29 | 55 |
+| WL1 | 8.0 | 2.4 | 41 | 31 | 0.17 | 28.5 | 220 |
+| WL2 | 9.6 | 2.0 | 45 | 40 | 0.31 | 31.5 | 250 |
+| WL3 | 7.0 | 0.2 | 6 | 5 | 0.03 | 9 | 35 |
+| WL4 | 7.6 | 0.6 | 20 | 20 | 0.12 | 25 | 75 |
+| WL5 | 10.0 | 6.3 | 36 | 69 | 0.40 | 59 | 705 |
+
+Key comparisons reported by the authors:
+- WL3 and WL4 exceeded the As ISQG (5.9 mg/kg).
+- WL1 exceeded ISQGs for As, Cd, Cr and Zn.
+- WL2 exceeded ISQGs for As, Cd, Cr, Cu and Zn.
+- WL5 exceeded ISQGs for As, Cu and Pb and exceeded higher-tier values for Cd (3.5 mg/kg) and Zn (315 mg/kg).
+- WL1, WL2 and WL5 exceeded the THg ISQG (0.17 mg/kg).
+- Mean PCDD/PCDF TEQ in REF1, WL2 and WL4 exceeded the ISQG (0.85 ng TEQ/kg). WL2 exceeded the cited 21.5 ng TEQ/kg Tier 1/PEL value.
+- One deep-water WL2 sediment sample had 594 ng TEQ/kg; two other WL2 TEQ values were 2.0 and 2.6 ng TEQ/kg. This is an extreme within-wetland spatial contrast and argues against relying on shallow shoreline-only sampling.
+
+### 5.3 Surface-water findings
+
+The study reported site-specific exceedances, including:
+- Cadmium at WL3 and WL5 relative to the cited long-term guideline.
+- Chromium at WL3, WL5 and REF1 relative to the conservative 1 µg/L comparison used in the paper.
+- Copper and lead at WL3 and WL5 relative to conservative screening values (2 and 1 µg/L respectively).
+- Total Hg at WL5: 0.064 µg/L compared with the cited long-term guideline of 0.026 µg/L.
+- Zinc at WL3 and WL5: 96 and 138 µg/L, respectively, above the cited 30–37 µg/L comparison values.
+
+The paper notes that water hardness was unknown, so conservative Cu and Pb guideline values were used. Surface-water concentrations vary with season, water chemistry and hydrology; a single sampling round cannot establish year-round conditions.
+
+### 5.4 Biota and ecological interpretation
+
+- Composite dragonfly larvae tissue samples were compared with reference tissue concentrations plus 20%; there are no directly applicable Odonata tissue guidelines in the study.
+- Elevated As, Cu and Pb tissue concentrations occurred at two site wetlands, but reference THg and PCDD/PCDF tissue concentrations were higher than near-facility values.
+- Insufficient tissue mass prevented stronger statistical treatment; Cd and Cr tissue values were below reporting limits.
+- Authors interpreted ecological risk to macroinvertebrates from current effluent inputs as relatively low in the studied wetlands, while also identifying sediment and surface-water guideline exceedances.
+- This is not a finding that all wetlands are uncontaminated or that all ecological pathways are low-risk.
+
+### 5.5 Follow-up macroinvertebrate study
+
+Quanz et al. (2021), “Effects of industrial effluent on wetland macroinvertebrate community structures near a wastewater treatment facility,” *Ecological Indicators*. The study sampled five site wetlands and two reference wetlands during spring, summer and fall 2018 using triplicate two-minute dip-net sweeps per wetland. It identified 31 families in spring, 33 in summer and 17 in fall. WL1/WL2 communities were not significantly different from reference sites in the main comparisons, while WL3 had a high proportion of pollution-tolerant groups in each season. Limitations included family-level identification, dip-net-only sampling, small sample sizes, differing wetland sizes and seasonal drying. Community similarity does not invalidate chemical exceedances; chemistry and biological community metrics answer different questions.
+
+**Interpretation:** Wetlands require their own sampling design. Prioritize deeper depositional areas, historical discharge/settling areas, wetland WL5 and other unsampled wetlands, while retaining genuine reference wetlands. Do not infer from one wetland to all 25.
+
+---
+
+## 6. Bioavailable metals at the sediment/water interface — DGT study (2020)
+
+**Paper:** Chaudhary, M., Quanz, M., Williams, J., Maltby, E., Oakes, K., Spooner, I. & Walker, T.R. (2020). “Assessment of metal(loid) concentrations using diffusive gradient thin (DGT) films in marine, freshwater and wetland aquatic ecosystems impacted by industrial effluents.” *Case Studies in Chemical and Environmental Engineering*, 2, 100041. DOI: https://doi.org/10.1016/j.cscee.2020.100041. Open article: https://www.sciencedirect.com/science/article/pii/S2666016420300396
+
+### 6.1 Design and what DGT measures
+
+- 80 DGT discs: 40 Chelex binding gels for As, Cd, Cr, Cu, Pb and Zn; 40 MFS binding gels for total Hg and methylmercury.
+- Four deployment areas: water-covered Boat Harbour sediment, a de-watered cove, surrounding wetlands and Northumberland Strait marine sediment.
+- Devices were positioned within 5 cm of the sediment/water interface.
+- Marine deployment was one week (21–28 May 2019); freshwater deployments were one month (21 May–18 June 2019).
+- DGT is an in-situ passive sampler for a labile/bioavailable fraction diffusing to the binding gel. It is not a total sediment digest and does not measure every contaminant class.
+
+### 6.2 Main result and limits
+
+The authors reported low bioavailable metal(loid) and total-Hg concentrations and MeHg below detection across deployment sites. Their interpretation was that bioavailable concentrations at the interface were low during the deployment windows, despite higher bulk sediment concentrations in some areas.
+
+This is an important complementary result, not a contradiction of total-sediment contamination:
+- Total sediment concentrations describe the inventory in the sampled solid material.
+- DGT describes a time-integrated labile fraction under the deployment conditions.
+- Bioavailability can change with redox, salinity, pH, organic carbon, sulfide, resuspension and season.
+- The paper notes uncertainty in extrapolating DGT results to organism toxicity.
+
+**Data-quality note:** The published DGT table as extracted contains a MeHg mean for Boat Harbour (0.00039 µg/L) that is below its listed range (0.0006–0.00082 µg/L). Do not copy this value into a dataset without checking the original table/image or contacting the authors. The table also reports differing detection limits for the marine matrix. Preserve the anomaly as a source-verification task.
+
+---
+
+## 7. Northumberland Strait — sediment and marine-biota baseline
+
+### 7.1 Chaudhary et al. (2020)
+
+**Paper:** “Baseline characterization of sediments and marine biota near industrial effluent discharge in Northumberland Strait, Nova Scotia, Canada.” *Marine Pollution Bulletin*, 157, 111372. DOI: https://doi.org/10.1016/j.marpolbul.2020.111372. PubMed: https://pubmed.ncbi.nlm.nih.gov/32658714/
+
+The study was designed because historical marine-biota data were inconsistent and insufficient to establish a reliable baseline.
+
+Reported sampling design:
+- Two transects from the estuary mouth, extending approximately 7 km north and 8 km northeast.
+- Sixteen station positions were used for sediment/lobster/rock-crab work, divided into near-, mid- and far-field zones.
+- Eight blue-mussel stations covered approximately 8 km of Pictou Harbour coastline.
+- The sediment programme included 12 samples: six collected at mid/far-field stations in July 2018 using a gravity corer, and six near-field surface samples in July 2019 using a petite Ponar grab.
+- Biological samples included 13 adult lobsters, 13 composite rock-crab samples and composite blue mussel samples from eight intertidal stations.
+- Sediment analytes included grain size, total organic carbon, As, Cd, Cr, Cu, total Hg, Pb, Zn and dioxins/furans. Metals were analyzed by ICP-MS and dioxins/furans by high-resolution mass spectrometry.
+- Selected biota analyses included metals, methylmercury and dioxins/furans.
+
+The paper reports that sediment metal and dioxin/furan concentrations were below the CCME Interim Sediment Quality Guidelines in the sampled marine sediments. It also reports methylmercury guideline exceedances in selected lobster/rock-crab tissue samples and recommends further investigation and long-term monitoring. The article's conclusion of limited impacts/low risk is specific to the measured media, analytes, locations and sampling period.
+
+**Interpretation:** This study is a useful near-field baseline but not a full Strait survey. It has limited sediment sample numbers, only two transects, limited coastline mussel coverage and a finite set of biological samples. It should be used as a repeatable starting set of stations, not as proof of regional absence.
+
+### 7.2 Historical marine-biota review — Romo et al. (2019)
+
+**Paper:** Romo, J., Chaudhary, M. & Walker, T.R. (2019). “Baseline assessment of contaminants in marine biota prior to remediation of industrial effluent impacted sediments in a former tidal estuary in Nova Scotia, Canada.” *Marine Pollution Bulletin*, 145, 641–648. DOI: https://doi.org/10.1016/j.marpolbul.2019.06.048. PubMed: https://pubmed.ncbi.nlm.nih.gov/31590833/
+
+The authors reviewed historical qualitative and quantitative marine-biota contaminant data from Boat Harbour and the surrounding marine environment. They found that species, contaminants of concern and sampling locations had often been selected ad hoc and were inconsistent with federal pulp-and-paper environmental-effects-monitoring requirements. Historical studies had measured elevated metals, dioxins and furans in marine biota, but the dataset required updating to support a defensible pre-remediation baseline.
+
+### 7.3 American lobster baseline — Maltby et al. (2023)
+
+**Paper:** Maltby, E.A. et al. (2023). “Baseline monitoring of contaminant concentrations in American lobster (Homarus americanus) tissues from coastal Northumberland Strait, Nova Scotia, Canada.” *Marine Pollution Bulletin*, 189, 114794. DOI: https://doi.org/10.1016/j.marpolbul.2023.114794. PubMed: https://pubmed.ncbi.nlm.nih.gov/36917927/
+
+- 2018 survey of three lobster age classes at sites 4, 20 and 70 km from the Boat Harbour estuary.
+- Analytes: metal(loid)s, methylmercury, PAHs and PCDD/PCDF.
+- Arsenic was 4.8–12.68 mg/kg and elevated in all age classes at all sites relative to the cited comparison.
+- Mercury and methylmercury were both approximately 0.04 mg/kg; some age-class/site combinations minimally exceeded one guideline.
+- No consistent pattern of accumulation by age class or at particular sites was observed.
+
+**Interpretation:** The 4/20/70-km design provides a useful distance comparison but does not establish a contamination gradient from Boat Harbour. Total arsenic must not be treated as inorganic arsenic. A future study should use arsenic speciation if the purpose is dietary risk interpretation.
+
+---
+
+## 8. Phase II Environmental Site Assessment — what it covers and what it misses
+
+**Source:** Supplemental Phase 2 Environmental Site Assessment PDF: https://static1.squarespace.com/static/5fa9ac321d1bf94e1f13e118/t/5fb2fc6aa269ed475ca25ce7/1605565624084/Supplementary+Phase+2+Study.pdf
+
+Reported field programme:
+- 19 sediment samples from 10 site locations, plus five Northumberland Strait sediment samples.
+- 20 surface-soil samples and 14 subsurface-soil samples from 13 boreholes.
+- Seven groundwater samples from seven monitoring wells.
+- One surface-water sample from a stream east of the sludge-disposal-cell overflow pond.
+- Five background surface-water samples from Chance Harbour Lake.
+- Sediment sample IDs include Northumberland Strait samples NS-SED-1 to NS-SED-7 and site locations associated with Boat Harbour, former settling ponds, the sludge disposal cell and twin settling basins.
+
+Analyte groups included metals, mercury, PCBs, PAHs, VOCs, petroleum hydrocarbons, phenols, cyanide, chlorate/chlorite, dioxins/furans, hydrogen sulphide, grain size, fraction of organic carbon and resin/fatty acids. The report used accredited laboratory methods, including ICP-MS, GC-MS and high-resolution dioxin/furan methods as appropriate.
+
+Important limitations and gaps:
+- Ten pipeline-corridor boreholes, one hand-augered borehole and eight proposed sediment samples were not collected because of pipeline-damage risk while the facility was operating.
+- Seven planned boreholes/monitoring wells around Boat Harbour and the estuary were not completed during the earlier field programme because access agreements were not obtained in time; some were later addressed in the supplemental work.
+- A sample at FSP3 could not be collected below 0.7 m because underlying sediment was too dense.
+- The report's sample count is not a comprehensive sample count for the entire wetland/estuary/Strait region.
+- Exact concentration tables and station coordinates should be digitized and independently checked before use in a new statistical baseline.
+
+**Required next action:** Build a machine-readable table from all ESA sample tables and laboratory certificates. Preserve the sample IDs, coordinates, depths, analytes, results, qualifiers, reporting limits and criteria. Do not rely on narrative exceedance summaries alone.
+
+---
+
+## 9. Federal Environmental Assessment — project design, predicted effects and evidence gaps
+
+**Primary source:** Impact Assessment Agency of Canada (IAAC), *Boat Harbour Remediation Project — Environmental Assessment Report*, January 2025, Project 80164, document 71. HTML: https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/161580?culture=en-CA. PDF: https://iaac-aeic.gc.ca/050/documents/p80164/160559E.pdf
+
+### 9.1 Remediation concept
+
+- Wet dredging is the preferred method for most sediment removal.
+- Geotubes or equivalent dewatering are proposed.
+- Mechanical excavation is anticipated in tight/shallow areas.
+- Approximately 27 hectares of freshwater wetlands and 1.69 hectares of estuary were estimated to require ex-situ remediation; other areas were proposed for natural attenuation.
+- The existing 6.7-hectare containment cell would be vertically expanded, with capacity increasing from 220,000 m³ to up to approximately 1,074,000 m³.
+- The assessment describes approximately 180,000–188,000 m³ of existing waste in the cell and approximately 930,000 m³ of additional remediation waste in the project estimate. These are different quantities and must not be treated as a measured lagoon sediment inventory.
+
+### 9.2 Sediment mobilization predictions
+
+- Proponent hydraulic modelling predicted approximately 270,000 m³ of suspended solids, mainly clay, silt and sand, could be mobilized by tidal action after dam removal.
+- Average daily TSS immediately after dam removal was predicted to be about ten times the applicable marine guideline threshold, declining below it within 140 days in the model.
+- Modelled net deposition was approximately 4–10 cm in much of the estuary embayment.
+- Armouring the estuary channel bed with gravel was modelled to reduce TSS entering the Strait by more than 50% relative to the initial scenario.
+- Fisheries and Oceans Canada identified a model-domain issue that left approximately 70,000 m³ of sediment with an uncertain endpoint in an alternative scenario.
+
+These are model results, not measured outcomes. The new independent programme should preserve model assumptions, input datasets, uncertainty bounds and predicted spatial footprints, then compare actual monitoring observations against the predictions if the project proceeds.
+
+### 9.3 Marine baseline weaknesses identified during assessment
+
+- Marine sediment information from 2003 was considered potentially too old by Fisheries and Oceans Canada to represent current conditions; new sediment sampling before dam removal was recommended.
+- Comprehensive field-based benthic habitat information for the estuary and Northumberland Strait embayment was lacking.
+- Sensitive habitat, including eelgrass, required better characterization.
+- The assessment identified uncertainty about TSS equilibrium and the timing for concentrations to fall below guidelines.
+- The 2020 marine baseline helps fill part of the gap but remains limited in footprint and sample count.
+
+### 9.4 External Technical Review of containment-cell design
+
+The BGC Engineering external technical review identified significant uncertainties in the proposed cell expansion and waste-management alternatives. Key issues included:
+- Existing berm condition and slope stability had not been demonstrated sufficiently for the proposed height and side slopes.
+- Global stability factors for proposed 4H:1V or 3H:1V slopes and waste heights up to about 25 m needed further demonstration.
+- Geosynthetic clay liner (GCL) subgrade preparation could be affected by residual sludge/wastewater.
+- End-dumped sludge in 1–3 m lifts may be difficult to compact or contain without flow.
+- Geotube consolidation and differential settlement could create stress or cracking in the cover geomembrane and affect equipment bearing capacity.
+- Hydrogeological water-quality mass-balance calculations relied on a single underdrain liquid sample.
+- HELP modelling reportedly omitted the landfill crown and used parameters that reviewers considered inconsistent with provincial industrial landfill guidance.
+- Pilot-scale leachate treatment performance did not prove full-scale performance for approximately 1 million m³ of waste; final discharge criteria and a detailed sampling/QA plan were still needed.
+- Climate-related assessment was limited; cold conditions affected Geotube filling, stability and dewatering in pilot work.
+- BGC recommended reconsidering contingency capacity (new on-site cell and/or off-site disposal), developing a detailed Geotube execution plan, and strengthening water monitoring/QA/QC.
+
+These are technical-review findings and uncertainties, not proof that a containment cell failure will occur. They matter because independent monitoring should include containment-cell groundwater, surface-water, leachate and geotechnical indicators if that component proceeds.
+
+---
+
+## 10. Legal and implementation status snapshot
+
+- The Minister issued the federal Environmental Assessment Decision Statement on **24 January 2025**.
+- Pictou Landing First Nation sought judicial review of the federal decision in February 2025.
+- Build Nova Scotia's March 2026 update says the judicial review remained ongoing and that it was assessing an alternative to the existing approved containment cell with Pictou Landing First Nation.
+- Build Nova Scotia's 2025 annual report states that the project remained in pre-construction for the reporting period 24 January–31 December 2025. It reports no project follow-up monitoring completed in that year and no specific implementation action on the independent environmental monitor condition.
+- The annual report says an Alternative Site Advisory Committee had been established, terms of reference executed and meetings held on 20 November and 18 December 2025. It also records a 22 January 2026 report saying a technically and economically feasible alternative location had not been identified, while a potential alternative was being assessed.
+- A September 2026 news report says the Federal Court hearing was expected in December 2026. This is a media report, not an official court docket. The exact hearing date and current status must be confirmed from the Federal Court record or the parties before being treated as confirmed.
+
+**Key interpretation:** The approved project monitoring conditions are not the same as monitoring data already collected. The annual report's lack of reported non-compliance in a pre-construction year is not evidence of measured environmental compliance.
+
+---
+
+## 11. Contaminants and indicators for an independent programme
+
+### 11.1 Core analytes supported by site-specific evidence
+
+| Group | Candidate analytes | Basis |
+|---|---|---|
+| Metals/metalloids | As, Cd, Cr, Cu, Pb, Hg, Zn | 2017 lagoon sediment, 2021 wetland study, ESA |
+| Mercury species | Total Hg, methylmercury | Chlor-alkali history, sediment data, DGT and marine-biota results |
+| Dioxins/furans | PCDD/F congeners and TEQ | 2019 lagoon sediment study, 2021 wetland study, ESA |
+| PAHs | Individual PAHs and summed groups | 2019 organic sediment study, ESA |
+| Petroleum hydrocarbons | Appropriate fractions/TPH | ESA |
+| PCBs | Congener or total PCB suite where supported | ESA analyte suite |
+| VOCs | Site-specific VOC suite, including chloroform where indicated | ESA |
+| Phenols | Site-specific phenols | ESA |
+| Cyanide | Total/free cyanide as justified by source history and ESA | ESA |
+| Chlorate/chlorite | Chlorate and chlorite | ESA and process history |
+| Sulphur compounds | Sulphide and hydrogen sulphide where relevant | Federal assessment and ESA |
+| Resin/fatty acids | Site-relevant resin/fatty acids | ESA |
+| General chemistry | pH, conductivity/salinity, hardness, alkalinity, chloride, sulfate, nutrients, DOC/TOC, TSS | Hydrology, speciation and interpretation |
+
+**Do not present PFAS as an established Boat Harbour contaminant on the basis of the sources reviewed.** PFAS could be a separate screening question only if a credible source/pathway rationale or new evidence supports it. Do not expand the analyte list simply because a sensor vendor claims remote detectability.
+
+### 11.2 Supporting measurements
+
+- Sediment grain size, total organic carbon, moisture, bulk density and redox potential.
+- Water temperature, pH, conductivity/salinity, dissolved oxygen, turbidity, depth and oxidation-reduction potential.
+- Tide, current, water level, rainfall and weather.
+- Benthic habitat, eelgrass and sediment deposition.
+- Targeted biota tissue chemistry where permitted and co-designed with rights-holders.
+
+---
+
+## 12. Core evidence gaps
+
+1. Current, depth-resolved contaminant inventory for the lagoon and settling basins.
+2. Western-lagoon spatial coverage and vertical delineation below the shallow 0–15 cm historic bias.
+3. Sampling of all relevant wetlands, especially those not included in the 2021 study and wetlands connected hydrologically to historic discharge routes.
+4. Current sediment and water chemistry in the estuary and near-field Strait, using comparable repeat stations.
+5. A defensible marine reference network with similar substrate, depth, exposure and habitat.
+6. Wider Strait coverage guided by hydrodynamic transport and the marine RSA rather than by arbitrary distance circles.
+7. Seasonal and event-driven variability in water chemistry and TSS.
+8. Methylmercury pathways in sediment, porewater and food webs.
+9. Benthic habitat and eelgrass mapping, particularly in the estuary and embayment.
+10. Recovery of original laboratory certificates, station coordinates, raw datasets and QA/QC records.
+11. Full table-level validation of the Phase II ESA and historical organic sediment data.
+12. Project follow-up monitoring plans and results after the project advances beyond pre-construction.
+13. Independent review of the hydrodynamic/sediment transport model and its boundary conditions.
+14. Current legal/project status after the expected December 2026 judicial review hearing.
+
+---
+
+## 13. Recommended next research sequence
+
+1. **Historical data recovery:** Obtain original raw datasets and station coordinates from the 1992–2015 sediment campaigns, Phase II ESA and all follow-up studies.
+2. **GIS reconstruction:** Map all historic sample locations, depths, analytes, detection limits, wetlands, waterways, pipeline, spill pathway, bathymetry, habitat and model boundaries.
+3. **Data QA:** Harmonize units and dry/wet-weight basis, preserve detection limits, flag censored values and separate guideline versions.
+4. **Spatial gap analysis:** Identify uncharacterized areas by contaminant group, media, depth, season and pathway.
+5. **Independent pilot:** Select pilot stations across lagoon, wetland, estuary, near-field marine and reference strata, with matched water/sediment and sonar/drone observations.
+6. **Method validation:** Test optical sensor value only with concurrent water samples; test core recovery and sonar thickness against actual cores.
+7. **Full design:** Finalize sample numbers and cadence using statistical power, access, cost, lab reporting limits and rights-holder direction.
+8. **Public evidence release:** Publish methods, metadata, laboratory certificates, QA/QC and results in a reproducible format, subject to agreed data governance and cultural protections.
+
+---
+
+## 14. Principal references
+
+1. Hoffman et al. (2017), metal(loid) sediment dataset, DOI 10.1007/s10661-017-5952-0: https://doi.org/10.1007/s10661-017-5952-0
+2. Hoffman et al. (2019), PCDD/F and PAH sediment dataset, DOI 10.1007/s10661-019-7763-y: https://doi.org/10.1007/s10661-019-7763-y
+3. Quanz et al. (2021), wetland media, DOI 10.1007/s11273-020-09779-0: https://doi.org/10.1007/s11273-020-09779-0
+4. Quanz et al. (2021), wetland macroinvertebrates, *Ecological Indicators*: https://www.sciencedirect.com/science/article/pii/S1470160X21003745
+5. Chaudhary et al. (2020), DGT passive sampling, DOI 10.1016/j.cscee.2020.100041: https://doi.org/10.1016/j.cscee.2020.100041
+6. Chaudhary et al. (2020), Strait sediment and biota baseline, DOI 10.1016/j.marpolbul.2020.111372: https://doi.org/10.1016/j.marpolbul.2020.111372
+7. Romo et al. (2019), marine biota historical baseline review, DOI 10.1016/j.marpolbul.2019.06.048: https://doi.org/10.1016/j.marpolbul.2019.06.048
+8. Maltby et al. (2023), lobster baseline, DOI 10.1016/j.marpolbul.2023.114794: https://doi.org/10.1016/j.marpolbul.2023.114794
+9. IAAC (2025), Environmental Assessment Report, Project 80164, document 71: https://iaac-aeic.gc.ca/050/documents/p80164/160559E.pdf
+10. IAAC (2025), Decision Statement, document 73: https://iaac-aeic.gc.ca/050/documents/p80164/160592E.pdf
+11. IAAC/Build Nova Scotia, 2025 Annual Report, document 166307: https://iaac-aeic.gc.ca/050/documents/p80164/166307E.pdf
+12. BGC Engineering, External Technical Review: https://iaac-aeic.gc.ca/050/documents/p80164/141419E.pdf
+13. Supplemental Phase II ESA: https://static1.squarespace.com/static/5fa9ac321d1bf94e1f13e118/t/5fb2fc6aa269ed475ca25ce7/1605565624084/Supplementary+Phase+2+Study.pdf
+14. IAAC, EIA Information Requirement 82 Analysis: https://iaac-aeic.gc.ca/050/documents/p80164/159330E.pdf
+15. Environment and Climate Change Canada (2016), Northern Pulp effluent spill: https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/notifications/northern-pulp-nova-scotia-effluent-spill.html
+16. Build Nova Scotia project updates: https://boatharbourproject.buildns.ca/updates
+
+## Research integrity notes
+
+- The Hoffman 2017 metal paper and Hoffman 2019 organic paper analyze historical secondary datasets, not a single new standardized field campaign.
+- The wetland paper's mean sediment concentrations are figure-derived; where exact numeric tables are unavailable, the values are marked approximate and must be checked against the original figures/supplement.
+- The DGT article's extracted MeHg mean/range inconsistency is explicitly flagged and not silently corrected.
+- The 2020 Strait study's spatial footprint is limited; no whole-Strait conclusion is made.
+- The 2025 assessment's TSS and deposition values are model predictions.
+- The 2025 annual report is proponent compliance reporting; it states no project follow-up monitoring was completed in 2025.
+- Legal status beyond the March 2026 proponent update is not confirmed from an official court docket in this research pass.
+- No new field measurements have been made.
