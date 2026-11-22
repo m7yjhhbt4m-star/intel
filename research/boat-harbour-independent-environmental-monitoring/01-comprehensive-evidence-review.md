@@ -542,3 +542,16 @@ The federal EA records the proponent's estimate of approximately 270,000 m³ of 
 ### 16.8 Updated conclusion
 
 The first review understated the importance of groundwater, country-food exposure, marine methylmercury, existing hydrographic datasets and regional source attribution. These are now explicit work packages. They do not prove contamination beyond the known sampled footprint; they materially change what an adequate independent monitoring programme must investigate.
+
+
+## 15. Additional primary-record recovery — 22 November 2026
+
+A further records pass recovered the readable 2018 Supplemental Phase II ESA and EIS Volume IV. The Supplemental Phase II ESA documents 19 sediment samples at 10 site locations plus five Northumberland Strait background locations approximately 2.5 km east of the estuary; seven new groundwater wells; and localized cadmium/chloroform and pH exceedances. It also provides UTM coordinates and sample depths for marine background and nearshore stations. The EIS confirms that 43 groundwater wells (13 existing and 30 newly installed) were sampled around the facility between February and August 2018. These are historical site-assessment data, not current groundwater conditions or proof of impact to the PLFN production wellfield.
+
+The 2020 marine baseline paper is now readable in full. It sampled 16 stations on two transects extending about 7–8 km from the estuary mouth, 12 sediment samples, eight mussel stations, 13 adult lobster samples (including duplicates) and 13 composite rock-crab samples. Multiple selected lobster/rock-crab samples exceeded the paper's cited methylmercury tissue residue guideline; the paper states that Boat Harbour biota, water and sediment had not previously been tested for MeHg, so the source remains unresolved. These near-field findings cannot be attributed to Boat Harbour or extrapolated to the entire Strait.
+
+BGC's 2021 external technical review quotes key numerical findings from GHD's 580-page 2019 pilot report: average slurry solids of 5.2% in Phase 1 and 2.4% in Phase 2, low values of 1.0–1.5%, slow Geotube volume consolidation, and limited pilot sample numbers relative to full-scale volumes. BGC also notes that leachate-quality modelling relied on a single underdrain sample. This is evidence of scale-up uncertainty, not proof that the pilot or proposed system failed.
+
+**Important regulatory correction:** the draft 2024 conditions contained a separate groundwater follow-up condition 5.7, but the final January 2025 Decision Statement does not retain it. The final condition 5.5 covers sediment, soil, surface water, drinking water and ambient air; it does not expressly list groundwater as a separate monitoring medium. Drinking-water monitoring is not automatically equivalent to a full aquifer monitoring network. Obtain the final follow-up plans and provincial approval requirements before judging the groundwater programme adequate.
+
+See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) for exact sample coordinates, results, condition-by-condition details and the remaining records list.
