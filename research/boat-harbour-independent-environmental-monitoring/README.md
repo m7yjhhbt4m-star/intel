@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.1, expanded 22 November 2026.  
+**Current research package:** Version 2.2, expanded 22 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
@@ -31,7 +31,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 
 ## Status
 
-<badge>Desk research package — version 2.1</badge>
+<badge>Desk research package — version 2.2</badge>
 
 This package is a substantial source-based desk review and proposed technical framework. It is not a field survey and does not claim that all underlying historic laboratory datasets have been recovered. Outstanding tasks are explicit in the research gaps plan. Do not describe this package as a completed environmental investigation until those datasets are recovered, the current project/legal status is checked, and any field programme is authorized and completed.
 
