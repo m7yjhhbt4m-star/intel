@@ -343,3 +343,27 @@ Treat the June 2014 pipeline rupture as a separate incident footprint with its o
 ### 15.7 Dam-removal model audit
 
 Independently obtain and review the complete sediment transport model, model domain, calibration/validation, sediment properties, boundary conditions and scenarios. The federal EA records a proponent estimate of approximately 270,000 m³ of mobilized suspended solids and a predicted TSS exceedance period, while also recording DFO disagreement with the selected guideline basis and IAAC uncertainty about model predictions and geographic extent. Do not equate suspended-solids volume with hazardous sediment volume or contaminant mass. Model contaminant loads only when chemistry and particle partitioning data support it.
+
+
+## 16. Design update — recovered baseline and final Decision Statement
+
+The primary-record recovery pass adds several constraints to the proposed design:
+
+- Preserve the 2018 Supplemental Phase II marine background stations BKGD-SED-11 to BKGD-SED-15 and the nearshore NS-SED locations as historical comparators where coordinate accuracy and permissions permit. The five background stations were sampled at 0.0–0.2 m in April 2018. They are not a sufficient Strait-wide reference network.
+- Reconstruct the 43-well groundwater network sampled in February–August 2018 (13 existing and 30 new wells), then add the seven Supplemental Phase II wells. Obtain surveyed elevations, screened intervals and raw chemistry before designing replacement or repeat wells.
+- Include MeHg and total Hg as separate analytes in the marine biota programme. The 2020 near-field study found selected lobster and rock-crab tissue MeHg results above its cited tissue residue guideline; source attribution remains unresolved.
+- Treat the GHD pilot results as a warning against assuming stable solids percentages or rapid Geotube consolidation at scale. Record slurry solids, feed rate, polymer/coagulant dose, filtrate volume and chemistry, filter-cake age, and all solid/liquid mass-balance terms.
+- Do not use the draft 2024 groundwater condition 5.7 as if it were final. The final 2025 Decision Statement omits that separate condition. Condition 5.5 names sediment, soil, surface water, drinking water and ambient air, but not groundwater as a separate medium. Before final station design, obtain the final follow-up plans and provincial approvals and resolve what aquifer monitoring is actually required.
+
+### 16.1 Binding follow-up scope to incorporate
+
+The final Decision Statement requires, among other things:
+- sediment transport/deposition modelling in the Northumberland Strait before dam removal (condition 3.4);
+- benthic habitat, TSS, surface-water quality and sediment deposition extent/thickness monitoring in the estuary and Northumberland Strait embayment through post-closure (condition 3.7);
+- country-food monitoring that includes vegetation, wildlife and fish/shellfish (condition 5.4);
+- follow-up for sediment, soil, surface water, drinking water and ambient air (condition 5.5);
+- collection and treatment of containment-cell leachate and contact water as necessary before release (condition 3.6).
+
+The third-party independent environmental monitor under condition 8 is a separate implementation-oversight role running from site preparation through closure; it is not a substitute for the full follow-up programme and does not itself extend through post-closure.
+
+See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) for the source-by-source comparison and data status.
