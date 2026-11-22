@@ -505,3 +505,40 @@ These quantities refer to different sources, dates, spatial footprints and mater
 A Boat Harbour sediment-specific study by Tackley, Lake and Alimohammadi (2021) examined Cu, Pb and Zn migration through geotextiles during dewatering. It found that the formation of a filter cake improved filtrate quality for the metals and particulates tested, with metals detected in filtrate primarily in solid/particulate form. The study does not validate every contaminant or full-scale treatment condition. It supports monitoring both dissolved and total fractions, TSS and process conditions throughout the dewatering train.
 
 Source: https://doi.org/10.1016/j.geotexmem.2020.09.002.
+
+
+## 16. Second-pass blindspot findings — 22 November 2026
+
+The following evidence materially expands the first review. Full analysis and limitations are in [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md).
+
+### 16.1 Groundwater is a priority exposure pathway
+
+The 2025 IAAC report records 2017–2018 groundwater exceedances of aluminum, arsenic, cobalt, lead and/or chloride in wells adjacent to the aeration stabilization basin. It also records that Health Canada, Nova Scotia Environment and Climate Change, and PLFN disagreed with the proponent's decision to exclude potable groundwater as an exposure pathway. The provincial regulator described the PLFN wellfield aquifer as semi-confined or "leaky" because of fracture flow; IAAC agreed the potable groundwater pathway should not have been deemed inoperable. This is evidence of a contested pathway and uncertainty, **not proof that PLFN's current wellfield is contaminated**. A hydrogeological conceptual model and independent long-term monitoring are priority requirements. [BH-029]
+
+### 16.2 Country-food and food-web pathways require stronger scrutiny
+
+The federal assessment records Health Canada concerns that the HHERA may have screened out relevant exposure pathways and inadequately considered bioaccumulation and biomagnification. Health Canada specifically recommended reconsidering shellfish and extending country-food monitoring beyond the estuary to address potential exposure from suspended sediment in the Strait. The Decision Statement requires follow-up monitoring for country foods, sediment, soil, air, surface water and drinking water. These are binding future programme requirements, not evidence that all such monitoring has already occurred. [BH-029, BH-035]
+
+### 16.3 Qualify the marine baseline finding
+
+The accessible abstract for the 2020 Northumberland Strait baseline paper reports that sediment metal, total mercury, dioxin and furan concentrations were below the cited sediment guideline thresholds, **but also reports methylmercury tissue guideline exceedances in lobster and rock crab**. The earlier summary did not make this qualification sufficiently clear. The full paper and sample-level data are needed to establish tissue type, exact concentrations, sample counts and exceedance frequency. [BH-030]
+
+### 16.4 Existing 2016 physical-oceanography data should be recovered before duplicate surveys
+
+The NSCC AGRG 2017 report describes 2016 topo-bathymetric lidar, seabed classification, a 35-day ADCP deployment and a hydrodynamic model of outer Pictou Harbour. It provides a valuable historical baseline but documents limitations in current-model phase/amplitude, bed resistance and habitat classification. It is not a current whole-Strait model. Recover the original digital deliverables and update them where justified. [BH-031]
+
+### 16.5 Regional sources complicate attribution
+
+A 2001 DFO regional habitat report identifies significant fish and shellfish habitat and historical regional pressures, including organotin/TBT contamination in Pictou and other industrial/municipal inputs. It also reports a historical estimate of 1,122 kg of mercury contributed by Canso Chemicals to the surrounding environment during 1976–1987 through liquid effluent, air, impounded solids and products. That figure is **not** a measured Boat Harbour-only discharge. It supports source-history and mass-balance research, not a claim that this mass entered the lagoon or Strait. [BH-032]
+
+### 16.6 The 2014 pipeline spill needs a separate footprint reconstruction
+
+ECCC confirms more than 47 million litres of untreated effluent were released in June 2014 into an area leading to East River/Pictou Harbour and that samples near the break were deleterious to fish. The enforcement notice does not establish the full spill polygon or current residual contamination. Recover the incident investigation, spill response, sampling, cleanup and follow-up records. [BH-033]
+
+### 16.7 Dam-removal sediment predictions are consequential but remain predictions
+
+The federal EA records the proponent's estimate of approximately 270,000 m³ of suspended solids mobilized by reintroduced tidal action, and a predicted period of elevated TSS. DFO disputed the selected guideline basis; IAAC identified model limitations and uncertainty about timing, geographic extent and benthic habitat. This is not a measured impact. Nor should the suspended-solids volume be equated with hazardous sediment volume or contaminant mass. The full model and inputs require independent review. [BH-029]
+
+### 16.8 Updated conclusion
+
+The first review understated the importance of groundwater, country-food exposure, marine methylmercury, existing hydrographic datasets and regional source attribution. These are now explicit work packages. They do not prove contamination beyond the known sampled footprint; they materially change what an adequate independent monitoring programme must investigate.
