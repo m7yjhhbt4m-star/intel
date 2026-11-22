@@ -38,3 +38,5 @@ This package is a substantial source-based desk review and proposed technical fr
 ## Legacy draft files
 
 The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.0 package and should not be used as the current technical baseline.
+
+8. [Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) — recovered Phase II sample coordinates and exceedances, groundwater well inventory, marine baseline sampling and methylmercury results, pilot-scale numerical evidence, and a draft-versus-final Decision Statement audit.
