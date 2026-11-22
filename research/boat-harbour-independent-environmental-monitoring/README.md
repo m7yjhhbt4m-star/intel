@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.0, rebuilt 21 November 2026.  
+**Current research package:** Version 2.1, expanded 22 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
@@ -16,6 +16,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 4. [Research Gaps and Data Recovery Plan](04-research-gaps-and-data-recovery-plan.md) — missing datasets, records requests, validation tasks and stop rules.
 5. [Source Register and Evidence Quality](05-source-register-and-evidence-quality.md) — source authority, evidence used, limitations and follow-up.
 6. [Remediation Process and Leachate Monitoring](06-remediation-process-and-leachate-monitoring.md) — Geotube dewatering, filtrate, treatment, leachate and containment-cell monitoring.
+7. [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) — newly recovered groundwater, human-health, country-food, marine methylmercury, hydrodynamic, regional-source and 2014 spill evidence.
 
 ## Evidence standards
 
@@ -30,7 +31,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 
 ## Status
 
-<badge>Desk research package — version 2.0</badge>
+<badge>Desk research package — version 2.1</badge>
 
 This package is a substantial source-based desk review and proposed technical framework. It is not a field survey and does not claim that all underlying historic laboratory datasets have been recovered. Outstanding tasks are explicit in the research gaps plan. Do not describe this package as a completed environmental investigation until those datasets are recovered, the current project/legal status is checked, and any field programme is authorized and completed.
 
