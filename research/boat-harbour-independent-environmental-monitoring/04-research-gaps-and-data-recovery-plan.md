@@ -104,3 +104,36 @@ Subject to PLFN direction and applicable access/privacy rules, request:
 - Do not treat DGT-labile concentration as total sediment concentration.
 - Do not treat no reported project monitoring as evidence of compliance.
 - Do not finalize sampling stations before PLFN engagement, access and GIS reconstruction.
+
+
+## 6. Additional priority gaps identified on 22 November 2026
+
+The second-pass evidence review identified several omissions that should be added to the records-recovery programme. See [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) for the source-based analysis.
+
+### P0 — Groundwater and human-health records
+- Full 2007–2010, 2017–2018 and subsequent groundwater datasets, well construction logs, screened intervals, elevations, water levels, field sheets, lab certificates and QA/QC.
+- Hydrogeological conceptual model, MODFLOW model files, calibration/validation, sensitivity analysis, fracture mapping, hydraulic testing and groundwater/surface-water interaction records.
+- Complete HHERA, Health Canada comments, all revisions, exposure assumptions, pathway screening rationale, remedial objectives and post-remediation monitoring protocols.
+- Country-food sample-level data, species/tissue metadata, analytical methods, detection limits, and rationale for pathways screened out.
+- Full 2020 marine baseline article and raw lobster, rock crab and mussel data, with particular attention to methylmercury tissue guideline exceedances.
+
+### P0 — Historical physical oceanography and spill records
+- NSCC AGRG 2016 lidar point clouds, bathymetry, seabed classification, ground-truth points, underwater imagery, ADCP raw time series and model files.
+- All 2014 pipeline failure, spill response, spill-volume, sampling, cleanup, disposal, restoration and follow-up monitoring records.
+
+### P1 — Regional source and habitat context
+- Current and historical inventory of municipal outfalls, industrial discharges, watershed inputs, power-generation cooling-water discharges, shipping/port pressures and other relevant sources.
+- Updated DFO habitat and fisheries layers, including fish spawning/rearing/migration habitat, shellfish and lobster grounds, eelgrass, benthic habitats and bird staging areas.
+- Historical TBT/organotin source records and current sampling evidence; treat as a regional screening lead unless site-specific source evidence is found.
+- Historical Canso Chemicals mercury mass-balance records. The cited 1,122 kg figure includes multiple pathways to the surrounding environment and must not be attributed solely to Boat Harbour.
+
+### P1 — Dam removal and sediment transport
+- Full sediment transport model, input files, calibration and validation data, model domain, sediment properties, TSS guideline rationale, sensitivity analysis and alternative dam-opening scenarios.
+- Independent evaluation of whether predicted suspended-solid mass can be linked to contaminant load; do not assume all suspended solids are contaminated or hazardous.
+
+### Verification rules
+- The groundwater record demonstrates a contested exposure pathway and local well exceedances, not proof of contamination in PLFN's current drinking-water wellfield.
+- The 2020 marine abstract reports methylmercury tissue guideline exceedances in lobster and rock crab; exact values and exceedance frequency remain to be verified from the full paper/data.
+- The 2017 NSCC model is historical outer Pictou Harbour work, not a current Northumberland Strait-wide model.
+- The 2001 DFO report is historical context and cannot establish current habitat status or current outfall conditions.
+- ECCC's 2016 notice confirms the 2014 spill event and approximate volume, not its complete present-day footprint.
