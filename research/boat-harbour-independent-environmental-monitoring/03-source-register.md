@@ -1,0 +1,35 @@
+# Boat Harbour / A’se’k — Source Register
+
+**Compiled:** 21 November 2026  
+**Purpose:** Track source identity, evidence extracted, limitations and follow-up status. Source authority and study scope matter; a source is not proof beyond the media, locations, dates and methods it actually covers.
+
+| ID | Source | Type / authority | Evidence used | Limitations / next action |
+|---|---|---|---|---|
+| BH-001 | Hoffman et al. (2017), “Spatiotemporal assessment (quarter century) of pulp mill metal(loid) contaminated sediment to inform remediation decisions,” DOI 10.1007/s10661-017-5952-0. https://doi.org/10.1007/s10661-017-5952-0 | Peer-reviewed paper | 103 sediment samples, 81 stations, four reference locations; 1992–2015; guideline exceedances; 69% shallow samples; data gaps | Full publisher text not retrieved; current dossier uses visible abstract and figure captions. Obtain full text and underlying data tables/station coordinates. |
+| BH-002 | Chaudhary et al. (2020), “Baseline characterization of sediments and marine biota near industrial effluent discharge in Northumberland Strait, Nova Scotia, Canada,” DOI 10.1016/j.marpolbul.2020.111372. https://doi.org/10.1016/j.marpolbul.2020.111372 | Peer-reviewed paper | 16 sediment/lobster/crab stations, 8 mussel stations; sediment results below ISQG; MeHg exceedances in six lobster/crab tissue samples | Sampling footprint is limited (two transects 7–8 km and 8 km coastline); only 12 sediment samples; not whole-Strait coverage. Full article proof reviewed. |
+| BH-003 | Quanz et al. (2021), “Contaminant characterization in wetland media surrounding a pulp mill industrial effluent treatment facility,” DOI 10.1007/s11273-020-09779-0. https://doi.org/10.1007/s11273-020-09779-0 | Peer-reviewed paper; full text from CBU repository | Selected wetland sediment, water and dragonfly tissue; metals, total Hg, PCDD/PCDF; site-specific exceedances and limitations | Seven wetlands sampled out of 25 identified; small/composite tissue samples and limited PCDD/PCDF sampling. Full text reviewed. |
+| BH-004 | Impact Assessment Agency of Canada (January 2025), Boat Harbour Remediation Project Environmental Assessment Report, Project 80164, document 160559. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/160559?culture=en-CA | Federal assessment / primary regulatory source | Site and project description; wetland/estuary areas; modelled 270,000 m³ suspended solids; TSS model predictions; Strait sediment modelling and follow-up requirements | Proponent model outputs are predictions, not measurements. Review full report and binding decision-statement conditions before operational use. |
+| BH-005 | Supplementary Phase II Environmental Site Assessment PDF. https://static1.squarespace.com/static/5fa9ac321d1bf94e1f13e118/t/5fb2fc6aa269ed475ca25ce7/1605565624084/Supplementary+Phase+2+Study.pdf | Site assessment report | Sediment, soil, groundwater and surface-water sampling; sample counts; analyte groups; reported exceedances; uncompleted sampling | Machine-extracted. Validate exact tables, sample IDs, results, qualifiers and appendices manually before designing exact station plan. |
+| BH-006 | Jaywant & Arif (2024), “Remote Sensing Techniques for Water Quality Monitoring: A Review,” Sensors 24(24), 8041. https://doi.org/10.3390/s24248041 | Peer-reviewed methods review | Multispectral/hyperspectral capabilities, water-quality proxy monitoring, calibration and validation | General review, not Boat Harbour-specific. Remote sensing models do not equal direct chemical assays. |
+| BH-007 | Build Nova Scotia, Boat Harbour project page. https://buildns.ca/projects/boat-harbour/ | Provincial project proponent | Facility history, contaminant list, project overview and remediation context | Proponent source; consult underlying technical reports for specific results. |
+| BH-008 | Build Nova Scotia, project updates. https://boatharbourproject.buildns.ca/updates | Provincial project proponent | March 2026 project status update: alternative containment-cell feasibility with PLFN; judicial review stated to be ongoing | Status page may change; recheck date and legal status before relying on it. |
+| BH-009 | IAAC 2025 Annual Report landing page, document 166307. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/166307?culture=en-CA | Federal follow-up reporting source | Establishes that the 2025 annual report exists and is published | PDF contents not yet extracted/reviewed; do not attribute substantive findings to it until reviewed. |
+| BH-010 | Build Nova Scotia / WSP project resources. https://boatharbourproject.buildns.ca/resources | Project resource index | Entry point for environmental assessment, annual reports and technical documents | Inventory all linked documents and identify missing appendices/data. |
+
+## Priority source-recovery tasks
+
+1. Obtain full text and appendices for BH-001 and original underlying sediment datasets.
+2. Extract the 2025 IAAC Annual Report PDF (BH-009), record exact monitoring data and compliance/follow-up findings.
+3. Obtain the complete Phase II ESA tables and all associated appendices; validate exact sample IDs, locations, analyte results, units and qualifiers (BH-005).
+4. Recover the 2020 Strait study's complete tables, sample coordinates and detection limits; preserve comparability to future stations (BH-002).
+5. Recover the IAAC decision statement and all legally binding conditions and subsequent compliance records (BH-004).
+6. Inventory all publicly accessible reports from the provincial project resources page and deduplicate versions.
+7. Request historical raw laboratory datasets, GIS station layers, bathymetry, sediment thickness data and monitoring reports through appropriate public-records channels, subject to permissions and legal process.
+
+## Evidence classification
+
+- **CONFIRMED IN SOURCE:** A source explicitly reports the fact/result for its defined scope.
+- **SOURCE CLAIM / MODEL:** A proponent or authority prediction/assessment, not a field measurement.
+- **TECHNICAL CONCLUSION:** A conclusion derived from method capabilities or comparison of studies; cite its basis.
+- **PROPOSED:** A suggested future monitoring action, not an existing requirement unless explicitly mandated.
+- **UNKNOWN:** Evidence not yet found or insufficient to answer.
