@@ -308,3 +308,38 @@ Publish the methods and metadata with the results, not just a colour-coded map.
 Do not treat dredging and dewatering as a black box. The project process moves sediment, lagoon water and porewater through slurry conditioning, Geotube filtration, water treatment and containment. Each transfer is a potential pathway for particulate or dissolved contaminants. A separate detailed analysis and proposed monitoring-point list is in [Remediation Process and Leachate Monitoring](06-remediation-process-and-leachate-monitoring.md).
 
 At minimum, design the independent programme to measure both total and dissolved metals, TSS/particulate matter, pH, redox, conductivity and process conditions at source water, slurry, Geotube filtrate, treatment influent/effluent, contact water, leachate and relevant groundwater/surface-water points. The 2021 Boat Harbour sediment geotextile study supports monitoring Cu, Pb and Zn migration and filter-cake development, but it does not validate all analytes or full-scale operation.
+
+
+## 15. Additional requirements from blindspot-closure research
+
+The second-pass evidence review identified requirements that must be incorporated before this framework can become a field-ready plan. Full rationale and source detail are in [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md).
+
+### 15.1 Groundwater and hydrogeology are a priority medium
+
+Do not treat groundwater as only a containment-cell contingency. The 2025 federal assessment records 2017–2018 exceedances of aluminum, arsenic, cobalt, lead and/or chloride in wells adjacent to the aeration stabilization basin. Health Canada, Nova Scotia Environment and Climate Change, and PLFN challenged the exclusion of potable groundwater as an exposure pathway; IAAC agreed it should not have been screened out. The regulator described fracture flow in the PLFN wellfield aquifer and recommended a robust long-term groundwater programme. This does not establish that the PLFN wellfield is contaminated; it establishes a material uncertainty that requires independent evaluation.
+
+Add a hydrogeological conceptual site model, full well inventory and raw historical database, seasonal groundwater elevations, fracture-flow assessment, groundwater/surface-water interaction monitoring, and PLFN-governed drinking-water baseline. Include analytes supported by the site record and compare results with appropriate drinking-water criteria without confusing natural background with industrial influence.
+
+### 15.2 Country-food and food-web monitoring
+
+The federal assessment records Health Canada concerns about screened-out country-food pathways, inadequate consideration of bioaccumulation/biomagnification, and the need to reconsider shellfish. It recommends extending relevant country-food monitoring beyond the estuary to address potential exposure from suspended sediment in the Strait. Work with PLFN to identify consumed/intended species, edible tissues, seasonal harvesting areas and monitoring priorities. Include species-appropriate total Hg/MeHg and total/inorganic As speciation where warranted. Do not assume any species is contaminated or safe based on a limited proxy species.
+
+### 15.3 Marine methylmercury follow-up
+
+The accessible abstract of the 2020 Northumberland Strait baseline paper reports methylmercury tissue guideline exceedances in lobster and rock crab, despite generally low sediment guideline results. Obtain the full paper and raw/sample-level dataset before using exact values. Make methylmercury a specific marine-biota follow-up question, not a general inference of regional contamination.
+
+### 15.4 Reuse and update existing physical-oceanography data
+
+Before commissioning duplicate surveys, obtain the 2016 NSCC AGRG topo-bathymetric lidar, seabed classification, 35-day ADCP record and outer Pictou Harbour model deliverables. The report documents limitations in current-model phase/amplitude, bed resistance, wind forcing and bottom classification. Treat it as a valuable historical baseline, not a current whole-Strait model. Compare with current hydrographic data and design additional seasonal ADCP deployments and model updates where needed.
+
+### 15.5 Regional source attribution and reference stations
+
+Map other historic and current industrial, municipal, watershed and marine inputs around Pictou Harbour and the Strait. The 2001 DFO regional habitat report identifies historic TBT in Pictou and other regional sources and habitats. Use this as a historical lead requiring current verification. Do not attribute regional contaminants to Boat Harbour without source-specific evidence. Reference sites must be matched for substrate, habitat, exposure and hydrodynamics.
+
+### 15.6 Separate 2014 spill assessment
+
+Treat the June 2014 pipeline rupture as a separate incident footprint with its own source, pathway and receiving-environment records. Recover spill investigation, pipeline failure, emergency response, sampling, cleanup, waste disposal and follow-up monitoring records. ECCC confirms the event and approximate release volume but its enforcement notice does not delineate current residual contamination.
+
+### 15.7 Dam-removal model audit
+
+Independently obtain and review the complete sediment transport model, model domain, calibration/validation, sediment properties, boundary conditions and scenarios. The federal EA records a proponent estimate of approximately 270,000 m³ of mobilized suspended solids and a predicted TSS exceedance period, while also recording DFO disagreement with the selected guideline basis and IAAC uncertainty about model predictions and geographic extent. Do not equate suspended-solids volume with hazardous sediment volume or contaminant mass. Model contaminant loads only when chemistry and particle partitioning data support it.
