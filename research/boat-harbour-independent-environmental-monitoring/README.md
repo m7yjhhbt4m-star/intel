@@ -15,6 +15,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 3. [Drone and Sensor Feasibility](03-drone-and-sensor-feasibility.md) — what RGB, multispectral and hyperspectral sensors can and cannot establish; paired sampling and procurement rules.
 4. [Research Gaps and Data Recovery Plan](04-research-gaps-and-data-recovery-plan.md) — missing datasets, records requests, validation tasks and stop rules.
 5. [Source Register and Evidence Quality](05-source-register-and-evidence-quality.md) — source authority, evidence used, limitations and follow-up.
+6. [Remediation Process and Leachate Monitoring](06-remediation-process-and-leachate-monitoring.md) — Geotube dewatering, filtrate, treatment, leachate and containment-cell monitoring.
 
 ## Evidence standards
 
