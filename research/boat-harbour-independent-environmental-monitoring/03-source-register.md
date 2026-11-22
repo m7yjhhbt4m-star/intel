@@ -33,3 +33,6 @@
 - **TECHNICAL CONCLUSION:** A conclusion derived from method capabilities or comparison of studies; cite its basis.
 - **PROPOSED:** A suggested future monitoring action, not an existing requirement unless explicitly mandated.
 - **UNKNOWN:** Evidence not yet found or insufficient to answer.
+
+
+| BH-011 | IAAC / Build Nova Scotia (2026 publication of 2025 reporting year), Boat Harbour Remediation Project — Annual Report 2025, document 166307. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/166307?culture=en-CA | Federal compliance/follow-up annual report | Project remained pre-construction in 2025; no follow-up monitoring completed; independent monitor and other implementation conditions had no specific action; alternative-site committee met; potential alternative location under feasibility review | This is proponent annual compliance reporting, not independent verification of site conditions. No monitoring data were reported because implementation had not started. Read with the Decision Statement and subsequent judicial review/status records. |
