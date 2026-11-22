@@ -146,3 +146,18 @@ Do not treat the Geotube/containment system as an engineering black box. The con
 **Source sediment + lagoon water → dredged slurry → conditioned slurry → Geotube filtrate + dewatered solids → treatment/discharge or containment.**
 
 Every arrow is a potential transfer point. The independent monitor should verify both the solid residuals and all liquid/particulate outputs.
+
+## 7. Numerical pilot-scale findings recovered through BGC review — 22 November 2026
+
+The BGC 2021 External Technical Review quotes the GHD Pilot Scale Testing Construction Report (23 December 2019, 580 pages):
+
+- Average slurry solids were 5.2% in Phase 1 and 2.4% in Phase 2; values as low as 1.0–1.5% occurred despite a 5% target.
+- BGC noted that low solids could extend Geotube dewatering time and delay construction.
+- Geotubes initially dewatered rapidly, but much of the volume reduction occurred over time. BGC cites one Phase 1 example with an overall 28% volume reduction after four months (net volume change of 63% when accounting for the reported bulking factor).
+- The pilot results were considered promising but limited in sample count relative to the anticipated full-scale material volume approaching 1 million m³.
+- BGC noted that final discharge criteria were still in development, leaving uncertainty about whether the full-scale temporary leachate treatment facility would meet final performance criteria.
+- The water balance used HELP modelling, while site-specific leachate-quality modelling relied on a single underdrain liquid sample from MH-1.
+
+These are scale-up and design-confidence limitations, not proof of failure. They strengthen the need to obtain the entire 580-page pilot report, all laboratory certificates and process logs, and to monitor the complete liquid and solids mass balance during any full-scale operation.
+
+Source: [BGC Engineering, External Technical Review – Final, 29 January 2021](https://aeic.gc.ca/050/documents/p80164/141419E.pdf), especially the pilot-testing discussion and leachate modelling review.
