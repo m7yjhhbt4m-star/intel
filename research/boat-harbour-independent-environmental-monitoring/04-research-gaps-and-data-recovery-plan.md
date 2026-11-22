@@ -137,3 +137,38 @@ The second-pass evidence review identified several omissions that should be adde
 - The 2017 NSCC model is historical outer Pictou Harbour work, not a current Northumberland Strait-wide model.
 - The 2001 DFO report is historical context and cannot establish current habitat status or current outfall conditions.
 - ECCC's 2016 notice confirms the 2014 spill event and approximate volume, not its complete present-day footprint.
+
+
+## 7. Status update — 22 November 2026: recovered versus still missing
+
+The primary-record recovery pass has narrowed several P0 gaps. The 2018 Supplemental Phase II ESA is readable and provides sample IDs, UTM coordinates, sample depths, analytical matrix and selected exceedance results. The EIS Volume IV confirms 43 groundwater wells sampled February–August 2018 (13 existing and 30 new) and summarizes groundwater, surface-water and marine baseline work. The 2020 marine baseline paper is accessible in readable full text and its near-field station design and MeHg results have been extracted. BGC's 2021 independent review quotes key pilot-scale slurry and Geotube figures from GHD's 580-page 2019 report.
+
+### Reclassified gaps
+
+| Dataset | Revised status | Remaining work |
+|---|---|---|
+| Supplemental Phase II ESA | Partially recovered | Machine-readable all-sample results, lab certificates, qualifiers, QA/QC, full GIS layers and all media coordinates |
+| Groundwater baseline | Partially recovered | Full well logs, screened intervals, elevations, hydraulic tests, raw time series and 2020–2026 data |
+| Marine 2020 baseline | Substantially recovered at paper level | Exact GPS coordinates, sample-level lab certificates, raw dataset and repeat sampling |
+| GHD 2019 pilot report | Partially recovered through BGC quotations | Full 580-page report, appendices, process logs, all lab data and water balance |
+| 2014 spill | Partially recovered | Full investigation, spill footprint, response samples and long-term monitoring |
+| NSCC lidar/ADCP | Partially recovered | Original point clouds, ADCP series, model files and reuse permission |
+| Dam-removal sediment model | Partially recovered | Full model files, scenarios, calibration, validation and sensitivity runs |
+| Current monitoring | Not recovered | Later annual reports, approved follow-up plans, actual field results and independent-monitor reports |
+
+### New P0 regulatory question
+
+The 2024 draft Decision Statement included a separate groundwater follow-up condition 5.7, but the final January 2025 Decision Statement omitted that condition. Final condition 5.5 requires monitoring of sediment, soil, surface water, drinking water and ambient air, but does not explicitly list groundwater as a separate medium. Obtain the final follow-up programmes and provincial approvals to determine whether a full groundwater network is required through other instruments. Do not assume that drinking-water sampling alone is an adequate substitute for groundwater-level and aquifer-quality monitoring.
+
+### Exact records to request next
+
+- GHD 580-page Pilot Scale Testing Construction Report (23 December 2019), appendices, raw process logs and lab certificates.
+- Full Phase II and Supplemental Phase II ESA machine-readable datasets and original laboratory certificates.
+- Groundwater well construction logs, screened intervals, surveyed elevations, hydraulic testing, time-series water levels and post-2018 chemistry.
+- Final approved follow-up programmes under conditions 3.7, 5.4 and 5.5; contaminant lists, station maps, thresholds, endpoints and public reports.
+- Clarification of groundwater obligations under final provincial permits/approvals and any follow-up programme.
+- Revised HHERA and country-food target levels under final condition 5.3/5.4.
+- Containment-cell groundwater, surface-water, leachate and geotechnical monitoring records.
+- 2014 spill investigation and restoration records; NSCC lidar/ADCP raw data and licence.
+
+See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) for the recovered sample coordinates and full decision-statement comparison.
