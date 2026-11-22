@@ -467,3 +467,41 @@ These are technical-review findings and uncertainties, not proof that a containm
 - The 2025 annual report is proponent compliance reporting; it states no project follow-up monitoring was completed in 2025.
 - Legal status beyond the March 2026 proponent update is not confirmed from an official court docket in this research pass.
 - No new field measurements have been made.
+
+
+## 15. Additional sediment and remediation-process studies recovered in the second research pass
+
+### 15.1 Paleolimnological sediment cores — Davidson et al. (2021)
+
+**Paper:** Davidson, K.B., Holmes, B.E.J., Spooner, I.S., Dunnington, D.W., Walker, T.R., Lake, C.B. & Su, C.-C. (2021). “Application of the paleolimnological method to assess metal contaminant distribution (As, Cu, Pb, Zn) in pulp mill stabilization basin sediments, Nova Scotia, Canada.” *Environmental Science and Pollution Research*, 28, 51342–51355. DOI: https://doi.org/10.1007/s11356-021-14212-x.
+
+- The study obtained 25 lakebed sediment gravity cores between 2016 and 2019.
+- It measured As, Cu, Pb and Zn and used paleolimnological methods to distinguish geogenic/background contributions from industrially influenced signals.
+- The authors described more than 577,000 m³ of unconsolidated sediment in the former estuary; this is a published estimate and must not be treated as interchangeable with the 2017 paper's >170,000 m³, the existing containment-cell inventory, the projected waste volume or the modelled 270,000 m³ suspended-solids scenario.
+- The authors found no distinct spatial trend in metal concentrations despite point-source effluent inputs.
+- Cu and Zn variability was interpreted as reflecting both organic-rich sediment binding and pulp-mill influences; elevated Pb was attributed to atmospheric fossil-fuel combustion deposition and bioaccumulation in effluent feedstock.
+- Average sedimentation was reported at approximately 1 cm per 3 years, higher than a nearby freshwater lake; the authors associated this with nutrient loading and increased productivity following effluent introduction.
+- Top-sediment Zn and Cu concentrations were significantly higher, consistent with changes in effluent treatment procedures and effluent-solids composition.
+- The study demonstrates the value of comparing undisturbed time-transgressive cores with pre-effluent substrate and reference sites.
+
+**Implication:** The new field design should include dated/depth-resolved cores and background geochemistry, not only surface grabs. The absence of a distinct spatial trend in this 25-core dataset also warns against assuming a simple gradient from the discharge point.
+
+Source: https://doi.org/10.1007/s11356-021-14212-x.
+
+### 15.2 Implications for sediment-volume estimates
+
+Published estimates include:
+- >170,000 m³ of unconsolidated sediment in the 2017 Hoffman paper's context;
+- >577,000 m³ in the 2020 DGT paper and 2021 paleolimnological paper;
+- approximately 180,000–188,000 m³ of existing waste in the containment cell in the 2025 assessment;
+- approximately 930,000 m³ of projected additional remediation waste in the containment-cell planning estimate;
+- maximum containment-cell capacity up to approximately 1,074,000 m³;
+- approximately 270,000 m³ of suspended solids predicted by the dam-removal hydraulic model.
+
+These quantities refer to different sources, dates, spatial footprints and material states. They are not contradictory until the underlying definitions are aligned, and they must never be added together or treated as one measured volume.
+
+### 15.3 Geotube dewatering and contaminant migration
+
+A Boat Harbour sediment-specific study by Tackley, Lake and Alimohammadi (2021) examined Cu, Pb and Zn migration through geotextiles during dewatering. It found that the formation of a filter cake improved filtrate quality for the metals and particulates tested, with metals detected in filtrate primarily in solid/particulate form. The study does not validate every contaminant or full-scale treatment condition. It supports monitoring both dissolved and total fractions, TSS and process conditions throughout the dewatering train.
+
+Source: https://doi.org/10.1016/j.geotexmem.2020.09.002.
