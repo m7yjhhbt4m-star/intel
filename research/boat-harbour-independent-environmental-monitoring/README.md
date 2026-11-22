@@ -1,33 +1,38 @@
-# Boat Harbour Independent Environmental Monitoring
+# Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-## Project purpose
-Develop an independent, evidence-led environmental monitoring investigation covering Boat Harbour (A’se’k), surrounding wetlands and waterways, the estuary, and relevant receiving waters of the Northumberland Strait.
+**Current research package:** Version 2.0, rebuilt 21 November 2026.  
+**Repository:** `m7yjhhbt4m-star/intel`  
+**Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
-## Scope
-- Water quality and dissolved/particulate contaminants
-- Surface and subsurface sediment
-- Shoreline, wetland and vegetation condition
-- Estuarine and nearshore sediment transport
-- Marine reference locations and biological indicators, where authorized
-- Drone-based RGB, multispectral and hyperspectral screening
-- Sonar and in-water instrumentation
-- Laboratory verification and geospatial analysis
+## Purpose
 
-## Evidence rules
-- Clearly distinguish **CONFIRMED**, **PROPOSED**, **HYPOTHESIS**, and **UNKNOWN**.
-- Remote sensing identifies anomalies and supports sampling design; it does not, by itself, establish concentrations of specific dissolved chemicals or contaminants in submerged sediment.
-- Chemical identities and concentrations require appropriate physical sampling and laboratory analysis.
-- Preserve raw imagery, sensor records, laboratory certificates, metadata, and chain-of-custody records.
-- Do not describe suspected contamination or transport as confirmed without supporting evidence.
-- Record source, date, method, location, detection limit, uncertainty, and relevant quality-control information for every material claim.
+Build a rigorous, independently reviewable evidence base and technical framework for monitoring Boat Harbour/A’se’k, its connected wetlands and waterways, the estuary, and the Northumberland Strait receiving environment.
 
-## Research documents
-1. [Initial Research Findings](01-initial-research-findings.md) — historical contamination evidence, wetland findings, Northumberland Strait baseline, federal assessment, current project status and drone limitations.
-2. [Technical Monitoring Design](02-technical-monitoring-design.md) — proposed water, sediment, wetland, marine, drone, sonar, laboratory, QA/QC and governance framework.
-3. [Source Register](03-source-register.md) — source authority, evidence used, limitations and priority follow-up tasks.
+## Start here
 
-## Project status
-**Status:** Desk-research dossier and proposed technical framework created 21 November 2026. No field measurements, equipment validation or new contamination findings are asserted. Several source-recovery tasks remain open and are explicitly listed in the source register.
+1. [Comprehensive Evidence Review](01-comprehensive-evidence-review.md) — site history, contamination studies, actual sample footprints, scientific findings, project design, federal assessment, implementation status and key gaps.
+2. [Independent Monitoring Technical Design](02-independent-monitoring-technical-design.md) — proposed spatial strata, water and sediment sampling, biota, DGT, sonar, QA/QC, data architecture, governance and pilot sequence.
+3. [Drone and Sensor Feasibility](03-drone-and-sensor-feasibility.md) — what RGB, multispectral and hyperspectral sensors can and cannot establish; paired sampling and procurement rules.
+4. [Research Gaps and Data Recovery Plan](04-research-gaps-and-data-recovery-plan.md) — missing datasets, records requests, validation tasks and stop rules.
+5. [Source Register and Evidence Quality](05-source-register-and-evidence-quality.md) — source authority, evidence used, limitations and follow-up.
 
-## Governance and permissions
-Plan engagement with Pictou Landing First Nation and relevant rights-holders before defining access, sampling locations, culturally sensitive data handling, or public release. Obtain all required land-access, drone, marine, wildlife, and sampling permissions before fieldwork.
+## Evidence standards
+
+- Label facts as measured results, source-reported findings, model predictions, estimates, interpretations or proposals.
+- Never claim that a contaminant has spread beyond sampled areas without direct evidence.
+- Never claim the wider Northumberland Strait is clean based on a small near-field sample set.
+- Remote sensing is for optical proxies, mapping and reconnaissance; chemical identification requires laboratory analysis.
+- DGT is a labile/bioavailable fraction measure, not a total contaminant inventory.
+- Sonar maps bathymetry and bottom structure, not chemical composition.
+- Preserve original raw data, lab certificates, detection limits, qualifiers, metadata and chain of custody.
+- Engage Pictou Landing First Nation and follow its direction on research governance, access, sensitive data and publication before fieldwork.
+
+## Status
+
+<badge>Desk research package — version 2.0</badge>
+
+This package is a substantial source-based desk review and proposed technical framework. It is not a field survey and does not claim that all underlying historic laboratory datasets have been recovered. Outstanding tasks are explicit in the research gaps plan. Do not describe this package as a completed environmental investigation until those datasets are recovered, the current project/legal status is checked, and any field programme is authorized and completed.
+
+## Legacy draft files
+
+The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.0 package and should not be used as the current technical baseline.
