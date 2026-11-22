@@ -224,3 +224,19 @@ The evidence does **not** justify asserting that contaminants have spread throug
 - The January 2025 IAAC assessment was reviewed from the agency's HTML version; the underlying report is the controlling source for section-by-section details.
 - The 2025 annual report landing page was located, but its PDF contents have not yet been extracted and reviewed. It is listed as a source to inspect, not as a source for substantive findings in this dossier.
 - No new field measurements have been made. All results are attributed to the cited studies or agencies.
+
+
+## 13. 2025 Annual Report — actual implementation status
+
+The 2025 IAAC annual report was subsequently retrieved and reviewed. This materially updates the status picture:
+
+- The report states that the project remained in the **pre-construction phase** during 2025, pending the judicial review initiated by Pictou Landing First Nation.
+- No project follow-up environmental monitoring was completed in 2025. No monitoring results, non-compliances or corrective actions were reported for the project conditions because construction and implementation had not begun.
+- The report states that the fish and fish habitat, migratory bird, Indigenous health/socio-economic, cultural heritage, Indigenous monitor and independent environmental monitor conditions had no specific implementation action in 2025.
+- Draft follow-up/monitoring plans had been submitted with the Environmental Assessment documentation, but revised plans incorporating the EA conditions were still to be prepared. Specified reports, plans and schedules under conditions 2.14 and 2.15 were not yet prepared/shared in 2025.
+- The alternative-site process did advance: an Alternative Site Advisory Committee Terms of Reference was agreed and executed, and the committee met on November 20 and December 18, 2025. The report says a potential alternative location for long-term waste storage had been identified for feasibility analysis. It also records a January 22, 2026 submission indicating that a technically and economically feasible alternative had not yet been identified.
+- The report says the project remained in pre-construction and that the judicial review outcome would determine next steps.
+
+**Why this matters to independent monitoring:** The 2025 annual report is not a monitoring dataset. It establishes that no project follow-up monitoring results were generated in 2025 and that the independent environmental monitor condition had not yet been implemented at that time. Do not confuse “no non-compliances reported” in a pre-construction year with evidence that environmental conditions were measured and found compliant.
+
+Source: [IAAC 2025 Annual Report, Project 80164, document 166307](https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/166307?culture=en-CA) (PDF: https://iaac-aeic.gc.ca/050/documents/p80164/166307E.pdf).
