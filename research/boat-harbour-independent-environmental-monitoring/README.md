@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.3, expanded 22 November 2026.  
+**Current research package:** Version 2.4, expanded 22 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
@@ -19,6 +19,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 7. [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) — groundwater, human-health, country-food, marine methylmercury, hydrodynamic, regional-source and 2014 spill evidence.
 8. [Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) — recovered Phase II sample coordinates, groundwater inventory, marine baseline, pilot figures and draft-versus-final conditions audit.
 9. [Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md) — full EIS/appendix inventory, IR1–82 correction, Round 2 records, registry comments, annual report, and explicit located/reviewed/missing status.
+10. [2025–2026 Status, Public Comment and Technical Review Findings](10-status-public-comments-and-final-monitoring-implications.md) — latest located project status, judicial-review/alternative-cell context, groundwater and country-food gaps, key public comments, DFO/Health Canada/provincial review concerns, and immediate evidence requests.
 
 ## Evidence standards
 
