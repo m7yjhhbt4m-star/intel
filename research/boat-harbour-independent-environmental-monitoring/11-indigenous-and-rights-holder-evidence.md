@@ -205,3 +205,52 @@ The research team must not:
 6. [PLFN Well-Being Baseline Study executive summary](https://iaac-aeic.gc.ca/050/documents/p80164/137890E.pdf)
 7. [Mi’kmaq Ecological Knowledge Study executive summary](https://iaac-aeic.gc.ca/050/documents/p80164/137891E.pdf)
 8. [IAAC public comments registry](https://iaac-aeic.gc.ca/050/evaluations/proj/80164/contributions)
+
+
+## 11. Further findings from the IAAC report cross-check — 23 November 2026
+
+The January 2025 IAAC report provides additional detail that materially sharpens the rights-holder evidence map. These are **government-recorded summaries or quotations of PLFN's position**, not a substitute for the underlying PLFN documents.
+
+### 11.1 PLFN referenda on long-term containment-cell use
+
+IAAC records that PLFN's April 2024 Final Position stated that PLFN held two referenda, in 2021 and 2023, on the use of Boat Harbour, and that in both cases 98% of those who voted opposed long-term use of the containment cell.
+
+**What is established:** IAAC's final report records this as a statement made in PLFN's April 2024 submission.
+
+**What is not yet independently established in this research:** the referendum questions, dates, eligible-voter counts, turnout, voting procedures, detailed results, and whether official referendum records are publicly available. The 98% figure must therefore be attributed as “PLFN reported, as recorded by IAAC,” until the original referendum records or full PLFN submission are reviewed.
+
+### 11.2 The proponent-funded land-use plan was not an adopted PLFN plan
+
+IAAC's report records a disagreement between the proponent and PLFN about the status of a future land-use plan. The proponent said it had funded development of a plan laying out a vision for Boat Harbour after remediation. IAAC records PLFN's statement that the plan had not been ratified by PLFN membership or approved through a formal Band Council Resolution of Chief and Council and was not an official PLFN plan.
+
+**Implication:** The proponent-funded plan must not be represented as an adopted PLFN land-use decision, a community mandate, or consent to the proposed project. Obtain the plan, its authorship and engagement record, and any later PLFN resolution or formal adoption record before relying on it.
+
+### 11.3 The independent environmental monitor — report recipient is not the same as governance control
+
+In its assessment analysis, IAAC identifies a third-party independent environmental monitor to observe and report on implementation of mitigation and follow-up programmes from site preparation through post-closure. The report describes reporting to the proponent, PLFN, the Mi’kmaq of Nova Scotia and IAAC, with frequency and format to be determined in consultation with PLFN and IAAC.
+
+This is relevant to the monitoring design, but it does not by itself answer the governance questions in Section 7.2. In particular, being a report recipient does not necessarily establish that PLFN selects the monitor, controls the scope, can require additional sampling, owns the raw data, or controls publication of sensitive knowledge. Those issues must be checked against the final Decision Statement, approved follow-up plans, provincial approvals and any agreement with PLFN.
+
+### 11.4 Consultation representation is not a single undifferentiated mandate
+
+IAAC's report says the Assembly of Mi’kmaq Chiefs passed a resolution on 25 April 2019, supported by all 13 Mi’kmaq communities in Nova Scotia, authorizing PLFN to lead consultation for this project on their behalf. The report's footnote also says Membertou, Millbrook and Sipekne’katik were, at the time described, consulted independently and were not represented by the Kwilmu’kw Maw-Klusuaqn Negotiation Office (KMKNO).
+
+This reinforces the need to record the actual author and consultation route for each submission. The Assembly resolution is a project-specific consultation governance fact; it should not be simplified into a claim that every community's position on every later technical issue was identical. Sipekne’katik's own public-comment support for PLFN's Final Position is a separate, attributable record.
+
+### 11.5 Health and monitoring caveat in IAAC's own assessment
+
+The IAAC report states that it considered the proponent's proposed remedial objectives and recognized uncertainty about whether they would be fully protective of human health. It says that using the proponent's proposed objectives could create a greater potential for post-remediation contamination levels to exceed levels fully protective of human health compared with objectives that consider all operable exposure pathways, contaminants of potential concern and accurate site-exposure assumptions. IAAC also notes that residual contamination may remain in wetlands after remediation and that post-closure monitoring may trigger an updated human-health risk assessment and further mitigation, potentially including access restrictions or country-food bans.
+
+This is a government assessment finding, not a PLFN statement. It matters to rights-holder concerns because a programme that relies on post-remediation restrictions could leave continued limits on access and harvesting even after the remediation works are declared complete.
+
+### 11.6 Required follow-up against primary records
+
+Add these to the next retrieval batch:
+
+- Obtain the 2021 and 2023 PLFN referendum questions, official results and any resolutions, subject to PLFN access direction.
+- Obtain the proponent-funded land-use plan and verify whether PLFN later adopted, rejected, amended or superseded it.
+- Read the final Decision Statement wording for the independent environmental monitor and compare it with the IAAC report's analysis; then inspect any approved monitoring plan and procurement documents.
+- Retrieve the full PLFN comment 62 letter and map each requested change to IAAC's final report and binding conditions.
+- Retrieve the original PLFN Final Position and its document brief; verify the referendum and alternative-site statements directly.
+
+**Source:** [IAAC Environmental Assessment Report, January 2025](https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/161580), particularly the sections on consultation, health and well-being, current use of lands/resources, the final comments table and conclusions.
