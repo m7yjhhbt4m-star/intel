@@ -1,6 +1,6 @@
 # Research Gaps, Data Recovery and Records Plan
 
-**Version:** 2.0 — 21 November 2026  
+**Version:** 2.1 — 22 November 2026  
 **Purpose:** Convert the known gaps into a traceable source-recovery and validation work plan. The presence of a gap here means the evidence has not yet been verified sufficiently for a final station plan or a public factual claim.
 
 ## 1. Highest-priority data recovery
@@ -172,3 +172,4 @@ The 2024 draft Decision Statement included a separate groundwater follow-up cond
 - 2014 spill investigation and restoration records; NSCC lidar/ADCP raw data and licence.
 
 See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) for the recovered sample coordinates and full decision-statement comparison.
+\n\n## 8. Expanded registry and evidence-completeness gaps — 22 November 2026\n\nThe federal registry contains a larger record set than the previous gap list made visible. The EIS registry lists five volumes and Appendices A–EE. Round 1 comprised 82 information requirements: IRs 1–81 were consolidated in August 2022 and IR82 was answered separately in February 2024. Round 2 Part 1 response and agency technical-review outcome are also available. The registry search returned 152 entries (81 documents and 71 comments) at the time checked.\n\nThese records are now indexed in [09 — Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md). The following remain open: (1) an 82-row IR concordance; (2) systematic review of all five EIS volumes and Appendices A–EE, prioritizing A, B, Y, Z, AA and BB; (3) screening of all 71 comments and attachments; (4) PLFN-governed review of relevant consultation, well-being and ecological-knowledge material; and (5) review of the 2025 Annual Report and any later records.\n\n**Important correction:** Do not say that IR82 was still outstanding merely because the 2022 consolidated response covered IRs 1–81. The registry shows a separate IR82 response in February 2024. The adequacy of the response remains a technical-review question.\n
