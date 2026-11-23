@@ -212,3 +212,29 @@ EIS Volume IV contains selected material from the GHD 2018 PLFN Well Field Evalu
 - A discussion of the historical and operational water-level patterns.
 
 This is suitable as a page-cited secondary extraction from the EIS, but the chart values must not be silently treated as raw electronic measurements. Any digitization from the hydrograph images must be marked as graph-derived, with pixel-to-axis calibration, digitizer identity, resolution and uncertainty. Request the native logger data and GHD source spreadsheets before presenting a numerical time series as measured data.
+
+
+## 13. Current official project resource page — new acquisition route
+
+The current project website exposes direct document links and has proven more useful than trying to retrieve the old 230 MB Appendix Z bundle.
+
+**Official resources page:** https://boatharbourproject.buildns.ca/resources
+
+Documents successfully opened and text-reviewed:
+- *Boat Harbour Remediation Project 2025 Annual Report* (25 pages), direct PDF: https://buildns.ca/wp-content/uploads/2026/03/2025-Annual-Report-to-IAAC-Final.pdf — source BH-110.
+- GHD, *Design Requirements Document*, Report No. 4, Project 11148275, 12 September 2017, 37 pages: https://boatharbourproject.buildns.ca/s/Design-Requirements-Document.pdf — source BH-112.
+- GHD, *Remedial Option Decision Document*, Report No. 5, Project 11148275, 1 May 2018, 406 pages: https://boatharbourproject.buildns.ca/s/Remedial-Options-Decision-Document_compressed.pdf — source BH-111.
+
+Other resources listed on the same official page:
+- Laboratory Treatability Study — link target surfaced as a Squarespace static PDF, but this retrieval browser could not access the redirected file.
+- Pilot Scale Testing Report — Google Drive file ID `1zj2W3EnpDle4CWewX9QPhnBfP5VAwEgR`; web page only exposed a Google Drive sign-in/loading screen, so file bytes/content not retrieved.
+- Supplementary Phase II Study — official project-site link surfaced, but PDF fetch failed.
+- Project Description — official project-site link surfaced, but PDF fetch failed.
+- Sludge Thickness Determination — Google Drive file ID `1h-mTHes_jBLzMDt57UZEFGE54J7YJorT`; web retrieval returned cache miss.
+- Quantitative Human Health and Ecological Risk Assessment, Phase I ESA and Phase II ESA — listed as large Google Drive downloads; not retrieved in this pass.
+
+The RODD itself is particularly important because its executive summary explicitly qualifies the “Qualified Remedial Options”: they are not necessarily final decisions and could change following executive direction, regulator conditions, new assessments, pilot testing, unknowns and environmental assessment outcomes. It should be used as a dated design/options snapshot, not as proof of final approved or completed work.
+
+The Design Requirements Document is a 2017 conceptual requirements source. It defines functional/performance/safety/operational requirements and includes a site layout/study-boundary figure. It says the conceptual design scope included remediation of groundwater as well as soil, sediment and surface water; that scope statement must not be confused with the later federal Decision Statement's specific condition 5.5 media list.
+
+**Preservation status:** all three successfully opened PDFs have been read in browser-rendered form, but no original PDF binary has yet been downloaded into the controlled evidence vault or SHA-256 hashed. They are therefore content-reviewed, not source-file-preserved.
