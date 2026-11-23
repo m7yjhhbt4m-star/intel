@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.6, expanded 23 November 2026.  
+**Current research package:** Version 2.7, expanded 23 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
@@ -19,7 +19,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 7. [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) — groundwater, human-health, country-food, marine methylmercury, hydrodynamic, regional-source and 2014 spill evidence.
 8. [Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) — recovered Phase II sample coordinates, groundwater inventory, marine baseline, pilot figures and draft-versus-final conditions audit.
 9. [Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md) — full EIS/appendix inventory, IR1–82 correction, Round 2 records, registry comments, annual report, and explicit located/reviewed/missing status.
-10. [2025–2026 Status, Public Comment and Technical Review Findings](10-status-public-comments-and-final-monitoring-implications.md) — latest located project status, judicial-review/alternative-cell context, groundwater and country-food gaps, key public comments, DFO/Health Canada/provincial review concerns, and immediate evidence requests.\n11. [Indigenous and Rights-Holder Evidence](11-indigenous-and-rights-holder-evidence.md) — separates PLFN's own submissions, Indigenous knowledge studies, other Mi’kmaq community positions, government interpretations and proponent accounts; records monitoring and governance implications and clearly marks unreviewed attachments.
+10. [2025–2026 Status, Public Comment and Technical Review Findings](10-status-public-comments-and-final-monitoring-implications.md) — latest located project status, judicial-review/alternative-cell context, groundwater and country-food gaps, key public comments, DFO/Health Canada/provincial review concerns, and immediate evidence requests.\n11. [Indigenous and Rights-Holder Evidence](11-indigenous-and-rights-holder-evidence.md) — separates PLFN's own submissions, Indigenous knowledge studies, other Mi’kmaq community positions, government interpretations and proponent accounts; includes dated full-text review status updates.\n12. [Litigation-Supporting Evidence Management Standard](12-litigation-supporting-evidence-management-standard.md) — draft procedures for source acquisition, digital chain of custody, hashes, claim ledgers, field/lab sampling, Indigenous knowledge governance, AI controls, legal hold and audit gates. Requires counsel, technical and rights-holder review before operational use.\n13. [Primary Rights-Holder Record Examination](13-primary-rights-holder-record-examination.md) — full-text examination of PLFN Final Position and Document Brief, EXP technical review submitted by PLFN, PLFN counsel letter, Sipekne’katik submission and comparison with final federal conditions.
 
 ## Evidence standards
 
@@ -34,11 +34,11 @@ Build a rigorous, independently reviewable evidence base and technical framework
 
 ## Status
 
-<badge>Desk research package — version 2.6</badge>
+<badge>Desk research package — version 2.7</badge>
 
-This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. The Indigenous and rights-holder evidence stream is an initial build: several original PLFN attachments and the full Appendix S/T materials remain to be retrieved and reviewed. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
+This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. The Indigenous and rights-holder evidence stream now includes full-text review of five primary submissions; underlying technical reports, referendum records, land instruments, full Appendix S/T studies and the official 2025 Annual Report remain outstanding. A draft litigation-supporting evidence standard has been added but is not yet implemented or approved by counsel. The GitHub repository is public and is not an evidence vault. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
 
 ## Legacy draft files
 
-The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.6 package and should not be used as the current technical baseline.
+The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.7 package and should not be used as the current technical baseline.
 
