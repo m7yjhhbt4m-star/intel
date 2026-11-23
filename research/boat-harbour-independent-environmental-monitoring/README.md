@@ -16,7 +16,8 @@ Build a rigorous, independently reviewable evidence base and technical framework
 4. [Research Gaps and Data Recovery Plan](04-research-gaps-and-data-recovery-plan.md) — missing datasets, records requests, validation tasks and stop rules.
 5. [Source Register and Evidence Quality](05-source-register-and-evidence-quality.md) — source authority, evidence used, limitations and follow-up.
 6. [Remediation Process and Leachate Monitoring](06-remediation-process-and-leachate-monitoring.md) — Geotube dewatering, filtrate, treatment, leachate and containment-cell monitoring.
-7. [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) — newly recovered groundwater, human-health, country-food, marine methylmercury, hydrodynamic, regional-source and 2014 spill evidence.\n8. [Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) — recovered Phase II sample coordinates, groundwater inventory, marine baseline, pilot figures and draft-versus-final conditions audit.\n9. [Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md) — full five-volume EIS and Appendices A–EE inventory, IR1–82 correction, Round 2 records, registry comments, annual report, and explicit located/reviewed/missing status.
+7. [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) — groundwater, human-health, country-food, marine methylmercury, hydrodynamic, regional-source and 2014 spill evidence.
+9. [Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md) — full EIS/appendix inventory, IR1–82 correction, Round 2 records, registry comments, annual report, and explicit located/reviewed/missing status.
 
 ## Evidence standards
 
@@ -31,12 +32,11 @@ Build a rigorous, independently reviewable evidence base and technical framework
 
 ## Status
 
-<badge>Desk research package — version 2.2</badge>
+<badge>Desk research package — version 2.3</badge>
 
 This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
 
 ## Legacy draft files
 
-The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.0 package and should not be used as the current technical baseline.
+The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.3 package and should not be used as the current technical baseline.
 
-8. [Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) — recovered Phase II sample coordinates and exceedances, groundwater well inventory, marine baseline sampling and methylmercury results, pilot-scale numerical evidence, and a draft-versus-final Decision Statement audit.
