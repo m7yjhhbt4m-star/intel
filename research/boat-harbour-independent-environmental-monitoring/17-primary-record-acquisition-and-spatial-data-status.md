@@ -175,3 +175,40 @@ All three were reviewed in full browser-rendered text. Their original binaries h
 - Listing: reference 74, document 166307E.pdf, dated 30 March 2026.
 - Registry attachment page and direct PDF fetch timed out; guessed direct path was not accessible.
 - Canada Commons lists a 25-page copy/catalogue, but access was not confirmed. Treat as not acquired until a downloadable official or authenticated copy is obtained and hashed.
+
+
+## 12. Project-hosted technical reference library located
+
+A more useful acquisition lead was found inside the EIS itself. EIS Volume V, Section 10.2 (PDF pages 10-15 to 10-16) explicitly states that selected references are available for download from the former Boat Harbour Remediation Project website:
+
+**Project resource index cited by the EIS:** https://novascotia.ca/boatharbour/resources.asp
+
+The EIS assigns numbered download entries. The key groundwater records are:
+- **Item 01:** AECOM (2016), *Drilling and Hydraulic Testing Program Boat Harbour, NS*, Project No. 60446127.
+- **Item 05:** Dillon Consulting (January 2003), *Pictou Landing IR24 Groundwater Exploration Study – Phase II*.
+- **Item 06:** Dillon Consulting (August 2011), *Pictou Landing IR24 2010 Groundwater Monitoring Program – Final Report*.
+- **Item 07:** Dillon Consulting (March 2019), *Sludge Disposal Cell – BHETF – 2018 Monitoring Report*.
+- **Item 08:** Dillon Consulting (March 2020), *Sludge Disposal Cell – BHETF – 2019 Monitoring Report*.
+
+The EIS identifies the resource page and item numbers, but the legacy ASP resource page itself was not accessible to the current retrieval browser. Do not infer the underlying file URLs from the item numbers. The exact link targets must be recovered from the page source, an archived copy, or a current provincial records custodian.
+
+This is materially better than an unbounded search: it provides an official, contemporaneous index of the exact original documents and a numbered route by which the proponent intended them to be obtained.
+
+### 12.1 Separate report identities — do not merge
+
+The following are distinct and should have separate source IDs and separate original-file records:
+- PLFN wellfield history: Dillon 2003 Phase II exploration (BH-091).
+- PLFN wellfield monitoring: Dillon 2010 program / August 2011 final report (BH-088).
+- BHETF sludge disposal cell monitoring: 2018 monitoring report (BH-092).
+- BHETF sludge disposal cell monitoring: 2019 monitoring report (BH-109).
+- BHETF broader groundwater/surface-water station network: Dillon March 2019 *2018 Monitoring Program*, File 18-7281-2000 (BH-102).
+
+### 12.2 What can be used now from the EIS itself
+
+EIS Volume IV contains selected material from the GHD 2018 PLFN Well Field Evaluation (job 11148275-25), including:
+- Figures 7.1-17 to 7.1-24, with hydrographs for multiple depth intervals and manual/continuous measurements.
+- Figure title blocks showing 6 June 2018.
+- Water elevation tables for PLFN shallow and bedrock monitoring wells.
+- A discussion of the historical and operational water-level patterns.
+
+This is suitable as a page-cited secondary extraction from the EIS, but the chart values must not be silently treated as raw electronic measurements. Any digitization from the hydrograph images must be marked as graph-derived, with pixel-to-axis calibration, digitizer identity, resolution and uncertainty. Request the native logger data and GHD source spreadsheets before presenting a numerical time series as measured data.
