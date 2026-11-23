@@ -17,7 +17,7 @@ The standard is deliberately stricter than ordinary desk research. It does not c
 
 ## 2. Immediate repository and information-security finding
 
-**The GitHub repository `m7yjhhbt4m-star/intel` was confirmed on 23 November 2026 to have public visibility.** It is therefore not an evidence vault and must be treated as a public publication surface.
+**The visibility setting of GitHub repository `m7yjhhbt4m-star/intel` has not been independently verified in this evidence review.** Until the repository owner confirms the setting directly in GitHub, treat it as a public publication surface and do not upload restricted material.
 
 Until its visibility and access model are deliberately changed by the repository owner:
 
@@ -102,7 +102,7 @@ For each source, create an immutable Source ID before analysis. Record:
 - SHA-256 is the minimum file-integrity hash for original files and derivatives.
 - Store the hash in a signed or otherwise independently protected manifest that identifies the exact file and its storage location.
 - Git commit history is useful for the history of research notes and metadata; it is not a substitute for a controlled evidence vault, a source-file hash, a digital-signature validation or an independently protected audit log.
-- The public GitHub repository must not be treated as WORM storage. Repository administrators can change history, permissions and contents.
+- The GitHub repository must not be treated as WORM storage, regardless of its visibility setting. Repository administrators can change history, permissions and contents.
 - No silent overwrite or deletion is permitted. Corrections are new versions with a reason, author, timestamp, affected records and prior-version reference. Preserve the prior version.
 - Any future migration to a new repository or database must preserve Source IDs, hashes, version history, custody logs and cross-references.
 
@@ -309,7 +309,7 @@ The database must preserve a full audit trail of changes, access, review, correc
 
 Confirmed in this review:
 
-- The GitHub repository is public.
+- The GitHub repository's visibility has not been independently verified; treat it as public pending owner confirmation.
 - Original PLFN documents are accessible through the official IAAC registry and their complete PDF text is available in the browser review.
 - The source files have not yet been acquired as binary originals into a controlled evidence vault and SHA-256 hashed in this work session. Their current acquisition classification is B, not A0/A1.
 - The repository does not yet contain a deployed immutable evidence vault, signed hash manifest, append-only custody log, role-based access control, WORM retention or independent backup verification.
