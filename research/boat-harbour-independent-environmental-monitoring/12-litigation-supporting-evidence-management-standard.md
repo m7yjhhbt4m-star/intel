@@ -335,3 +335,37 @@ This draft must be reviewed and approved by:
 4. PLFN or the appropriate knowledge-holder authority for any rights-holder data, Indigenous knowledge, interview or cultural material to be collected or used.
 
 Until those approvals occur, use this as a conservative research control framework, not as a representation that all legal requirements have been met.
+
+
+## 18. Third-party source rights and publication restrictions
+
+Source authenticity and public accessibility do not automatically establish permission to reproduce, publish, summarize or redistribute a third-party report. At intake, record all copyright, confidentiality, contractual, attribution and permitted-use notices. A public registry link is not itself a licence to republish the underlying work or derived material.
+
+### 18.1 BGC Engineering External Technical Review — specific restriction identified
+
+The BGC Engineering External Technical Review dated 29 January 2021 (Project 2155001; IAAC registry document reference 30; source-register aliases BH-012, BH-040 and BH-052) contains a notice stating that authorization for use and/or publication of the document or any data, statements, conclusions or abstracts from or regarding BGC documents/drawings, including posting or reproduction on a website, is reserved pending BGC's written approval.
+
+The report also states that BGC prepared it for IAAC and that third-party use/reliance is at the third party's responsibility. Its scope limitations include no detailed data-quality review, no site visit, no itemized cost estimate, and the Nova Scotia Industrial Approval No. 94-032 was not included in the original scope-document transmission.
+
+**Required control:**
+- Do not upload or reproduce the BGC report or extended BGC-derived content in the public repository.
+- Record the source identity, registry location, exact notice and review limitations.
+- Before retaining, publishing or further summarizing BGC-derived data/statements/conclusions in a public report, obtain written permission from BGC or have counsel assess the legal basis for the proposed use.
+- Audit existing Boat Harbour documents for BGC-derived passages and flag them for counsel review. Do not silently delete historical research; preserve the version history and record any authorized correction or restriction.
+- Do not assume that the IAAC registry's public hosting overrides the report's own use notice.
+
+This is a source-use restriction requiring legal review; this document does not determine its enforceability or the scope of any statutory/public-record exception.
+
+### 18.2 Source identity aliases
+
+The source register historically used BH-012, BH-040 and BH-052 for the same BGC External Technical Review. To preserve old cross-references while avoiding duplicate source records, **BH-012 is the canonical source record** and BH-040/BH-052 are legacy aliases only. New references should use BH-012 and point to the same exact report. Do not create additional source IDs for duplicate copies of the same document; use a version/representation field instead.
+
+### 18.3 Mandatory review
+
+Before publication or external disclosure of any third-party report or derivative:
+- identify the exact copyright/use notice;
+- identify whether the record is public, confidential, licensed, restricted or privileged;
+- check whether permission is needed for direct quotation, figures, tables, data, abstracts or summaries;
+- record permission and its scope, or the counsel-approved legal basis for use;
+- apply attribution and quotation limits; and
+- preserve the unmodified source separately from any permitted derivative.
