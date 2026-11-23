@@ -218,3 +218,45 @@ Send formal requests to IAAC and Build Nova Scotia for:
 The most important newly confirmed issue is not a new contaminant detection. It is the combination of (a) a project still in pre-construction/approval uncertainty in the latest located status material, (b) an unfinished alternative-containment-cell process, (c) significant baseline and pathway concerns raised by DFO, Health Canada and provincial reviewers, and (d) the need to distinguish a compliance monitor from an independently controlled environmental investigation.
 
 The independent monitoring project should therefore proceed as an evidence-recovery and governance programme first, followed by a refreshed, independently designed baseline and then construction/post-closure monitoring. It should not be represented as a ready-to-deploy drone chemical-detection system: laboratory chemistry remains essential, and drones provide reconnaissance/optical proxies only.
+
+
+## 1.4 Later 2026 developments — alternative site and adjacent mill-site closure
+
+The March 2026 Build Nova Scotia page is no longer the newest located status evidence. Two later 2026 developments materially change the regional monitoring and alternative-site analysis.
+
+### June 18, 2026 — alternative-site assessment
+
+CBC reporting reproduced by Yahoo states that Nova Scotia and PLFN were in discussions about an alternative location for the dredged Boat Harbour sludge. Public Works Minister Fred Tilley said technical assessments were underway to determine the site's viability and declined to identify it before those assessments were complete. The article notes that PLFN Chief Tamara Young had previously said the former Northern Pulp mill site at Abercrombie Point would be preferable; this is a reported preference, **not confirmation that Abercrombie has been selected**.
+
+Source: https://nz.news.yahoo.com/n-government-pictou-landing-first-175647982.html (CBC News, 18 June 2026).
+
+### August 27, 2026 — amended ministerial order for the former Northern Pulp mill site
+
+Nova Scotia issued amended Ministerial Order MO-60030 to Northern Timber Nova Scotia Corporation for decommissioning, abatement and demolition at the former Northern Pulp mill site at Abercrombie Point. The official release says:
+- hazardous materials in buildings must be safely removed before demolition;
+- the department's large industrial file team will monitor during and after demolition;
+- the order continues requirements to monitor surface water and groundwater, collect surface water for testing and dispose of leachate at an approved facility;
+- the reclamation process is separate from demolition, separately regulated under the Environment Act and Contaminated Sites Regulations, and generally requires Industrial Approvals.
+
+Official order (27 August 2026): https://novascotia.ca/nse/issues/docs/Signed%20MO-60030%20and%20Schedule%20A%20-%20August%2027%2C%202026.pdf  
+Official news release: https://news.novascotia.ca/en/2026/08/27/ministerial-order-issued-demolish-pictou-county-pulp-mill-buildings
+
+The amended order requires continued groundwater and surface-water monitoring at the mill site, quarterly surface-water reporting, and retention of the original 2021 order except where expressly amended. The 2021 order requires annual reporting that includes historical/static water levels, groundwater gradients and flow direction, historical groundwater and surface-water/leachate chemistry, lab certificates, trend interpretation and adverse-impact recommendations. This is a potentially valuable regional dataset and a major data-recovery lead.
+
+### September 2026 — judicial review reported for December
+
+September 2026 reporting says the Federal Court hearing on PLFN's challenge to the federal Boat Harbour approval was expected in December 2026. A secondary professional social-media post gives 14 December 2026, but I did not verify that exact date against the official Federal Court hearing calendar in this pass. Treat December as reported scheduling, and the exact hearing date as unconfirmed until the official docket/calendar is checked.
+
+### Why the former mill site changes the monitoring problem
+
+If Abercrombie Point is considered as an alternative waste-containment location, it cannot be assessed as an empty, clean receiving site. It is a former industrial mill property undergoing a separate closure/decommissioning and reclamation process. The two projects have different proponents/approval pathways, regulators, site boundaries and obligations. They may nevertheless share connected receiving waters and potentially interacting groundwater/surface-water pathways.
+
+Before any alternative-site decision:
+1. obtain the full MO-60030 and underlying MO-60006 monitoring records, all quarterly reports and annual groundwater/surface-water reports;
+2. obtain well logs, surveyed coordinates/elevations, screened intervals, analytical certificates, time-series data, landfill/leachate chemistry and discharge records;
+3. obtain the mill-site closure plan, hazard-material surveys, landfill records, contaminated-site investigations, remediation plans and all provincial approvals;
+4. establish whether former Canso Chemicals/chlor-alkali mercury contamination or other legacy sources are spatially relevant to the candidate parcel; the historic regional mercury evidence is not proof of current conditions at a specific parcel;
+5. characterize the proposed candidate footprint and all potential transport pathways independently before treating it as feasible;
+6. coordinate environmental monitoring across Boat Harbour, Pictou Harbour and the former mill site while keeping each site's data, liabilities and legal responsibilities distinct.
+
+This is a critical regional-source and siting blind spot. It does **not** establish that the former mill site is the selected alternative, that it is suitable, or that it is unsuitable. Those questions require the site-specific technical assessment and raw monitoring records.
