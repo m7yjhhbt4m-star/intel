@@ -434,3 +434,20 @@ The MO-60007 reporting requirements are particularly important for a time-based 
 Before mapping flow arrows or contours, verify that water-level measurements are from the same hydrostratigraphic unit and comparable survey windows, and that measuring-point elevations share a consistent vertical datum. Before mapping concentration surfaces, verify the station network, analyte, sample medium, units, detection limits, qualifiers and laboratory QA/QC. Do not infer a plume from the well points alone.
 
 **Source review status:** full browser-rendered text of the official MO-60007 PDF reviewed; original PDF binary not yet downloaded/hashed in the evidence vault. Source-register ID BH-101. See Document 17 for acquisition status and Document 16 for spatial-data requirements.
+
+
+## 9. EIS map and historical water-level time-series evidence
+
+EIS Volume IV (BH-038) contains an additional set of spatial and temporal records that should be extracted for the atlas:
+
+- Figure 7.1-12, *Containment Cell Monitoring Network*.
+- Figure 7.1-13, *Groundwater Elevations Associated with the Containment Cell Versus Time*.
+- Figure 7.1-14, *PLFN Well Field — Location of Water Supply Wells and Monitoring Wells*, figure date 17 August 2020; coordinate system NAD 1983 CSRS UTM Zone 20N.
+- Figures 7.1-15 and 7.1-16, PLFN overburden and shallow-bedrock groundwater elevations versus time.
+
+The EIS states that groundwater elevations at the containment-cell monitoring wells were typically measured quarterly from 1995 through 2019. It provides hydrographs and summary tables for the containment-cell and PLFN wellfield networks. This is an important historic temporal record, but the EIS plots and summary statistics are not the raw field dataset.
+
+**Map-use rule:** The 17 August 2020 figure can serve as a dated map source. If the well symbols are digitized, the resulting coordinates must be labelled as digitized/approximate unless the underlying surveyed coordinates are separately recovered. The figure's NAD83(CSRS) UTM Zone 20N reference must be preserved. Digitization requires documented control points, transformation and residual error.
+
+**Retrieval:** Obtain the original well inventory, surveyed coordinates, measuring-point elevations, well construction/screen intervals, complete quarterly water-level series, field sheets, lab EDDs/certificates and source GIS project. The EIS itself points to Appendix Z and earlier consultant reports. Do not reconstruct the 1995–2019 series from figure pixels when the original measurements can be requested.
+
