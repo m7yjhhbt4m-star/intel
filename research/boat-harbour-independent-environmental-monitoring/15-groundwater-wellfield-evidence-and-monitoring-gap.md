@@ -490,3 +490,51 @@ The priority evidence is now:
 6. Original AECOM 2016 and GHD 2018 PLFN wellfield reports and their native model/time-series files.
 
 Sources: MO-55774 (BH-103), MO-60003 (BH-104), MO-60007 (BH-101), EIS Volume IV (BH-105), EIS Volume V (BH-106). Full browser-rendered PDF text reviewed; original PDF binaries remain unacquired/hashed.
+
+
+## 11. Newly recovered 2025 Annual Report — implications for monitoring and alternative-site research
+
+**Primary source:** Build Nova Scotia, *Boat Harbour Remediation Project 2025 Annual Report to IAAC*, March 2026, 25 pages. Official proponent PDF: https://buildns.ca/wp-content/uploads/2026/03/2025-Annual-Report-to-IAAC-Final.pdf. Full browser-rendered text reviewed; original binary not yet downloaded/hashed. Source ID BH-110.
+
+### 11.1 Status and dates reported by the proponent
+
+The report covers 24 January–31 December 2025. It states:
+- Federal approval with conditions was issued 24 January 2025.
+- PLFN filed for judicial review on 24 February 2025.
+- The project remained in pre-construction and no substantive planning work to move the project forward was initiated during the reporting period.
+- GHD continued as the proponent's environmental and engineering consultant.
+- The proponent states it expected the judicial-review decision in 2026. This is the proponent's expectation in a March 2026 report, not a verified current court status.
+
+### 11.2 Alternative-site status — a crucial distinction
+
+The report says the proponent submitted a separate report to IAAC on 22 January 2026 under Condition 9. Its account says:
+- no technically and economically feasible alternative location had been identified in that submission;
+- the Alternative Site Advisory Committee's terms of reference had been agreed and executed by Build Nova Scotia and PLFN;
+- the committee met on 20 November and 18 December 2025;
+- a **potential** alternative location had been identified and engaged consultants were conducting a feasibility analysis.
+
+Therefore, it is incorrect to say that an alternative site had been selected as feasible or approved. The report records a potential candidate under assessment. The separate 22 January 2026 Condition 9 submission is a priority source to obtain; it is not included in this annual report.
+
+### 11.3 Independent and Indigenous monitoring status
+
+The report reproduces Decision Statement conditions 7.1 and 8.1–8.2. It states that no specific action was taken on these conditions in 2025 because the project remained pre-construction. The independent environmental monitor was not yet retained, and Indigenous-monitor arrangements were not implemented during that reporting period. The conditions require the relevant arrangements before site preparation.
+
+### 11.4 Health follow-up monitoring and the groundwater distinction
+
+The report reproduces final Decision Statement condition 5.5. Its named media are sediment, soil, surface water, drinking water and ambient air. Groundwater is not named as a standalone medium in condition 5.5. The report states no specific action was taken on Section 5 conditions in 2025 because the project remained pre-construction.
+
+This does not cancel or answer the separate historical/provincial MO-55774, MO-60003 and MO-60007 groundwater-monitoring obligations. It does mean the federal Decision Statement's condition 5.5 should not be described as an express groundwater monitoring condition. The provincial orders and any current provincial approvals/EMP/PEPP must be examined separately.
+
+### 11.5 Public disclosure and record-keeping
+
+The report states the condition 2.14 reports/plans/schedules—other than the annual report—had yet to be prepared for the project and therefore were not shared in 2025. Condition 12 requires records relevant to the Decision Statement to be retained in Canada; the report says relevant 2025 records were maintained at Build Nova Scotia's Halifax office. This is the proponent's description, not an independent audit of the record set.
+
+### 11.6 Immediate acquisition targets
+
+1. The separate Condition 9 report submitted to IAAC on 22 January 2026, including all appendices, maps, candidate-site identifiers and consultant feasibility work.
+2. Alternative Site Advisory Committee terms of reference, meeting agendas/minutes, attendance, decisions, dissenting views, and technical instructions, subject to PLFN's governance and access protocols.
+3. The first candidate site's desktop and field investigations, parcel/title records, landowner engagement and constraints.
+4. All 2025 annual-report supporting records, and any subsequent 2026 update.
+5. The current court record/status and any judicial reasons/orders, obtained from authoritative court sources.
+
+**Attribution rule:** All statements in BH-110 about project status, consultation, monitoring, and committee progress must be introduced as “Build Nova Scotia reported…” unless independently corroborated.
