@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Comprehensive Evidence Review
 
-**Version:** 2.0 — rebuilt from primary scientific and government sources, 21 November 2026  
+**Version:** 2.1 — expanded with registry completeness audit, 22 November 2026  
 **Purpose:** Evidence review for an independent environmental investigation of Boat Harbour/A’se’k, the associated wetlands and waterways, the estuary, and the Northumberland Strait receiving environment.  
 **Status:** Desk research. No new field samples have been collected. This is not a regulatory compliance determination, human-health risk assessment, legal opinion, or proof of contaminant migration outside the sampled areas.
 
@@ -555,3 +555,4 @@ BGC's 2021 external technical review quotes key numerical findings from GHD's 58
 **Important regulatory correction:** the draft 2024 conditions contained a separate groundwater follow-up condition 5.7, but the final January 2025 Decision Statement does not retain it. The final condition 5.5 covers sediment, soil, surface water, drinking water and ambient air; it does not expressly list groundwater as a separate monitoring medium. Drinking-water monitoring is not automatically equivalent to a full aquifer monitoring network. Obtain the final follow-up plans and provincial approval requirements before judging the groundwater programme adequate.
 
 See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) for exact sample coordinates, results, condition-by-condition details and the remaining records list.
+\n\n---\n\n## 14. Federal record-set completeness — important qualification\n\nThe IAAC registry lists five EIS volumes and Appendices A–EE, as well as 82 Round 1 Information Requirements, Round 2 material, a 2025 Annual Report and public comments. This evidence review has not yet systematically extracted every volume, appendix, response or public submission. The current findings are therefore a substantial but incomplete desk review.\n\nThe full inventory, direct registry links, review-status labels and prioritized outstanding work are recorded in [09 — Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md). In particular, Appendix A (HHERA), B (environmental management/control), Y (geology/geochemistry), Z (groundwater/surface water), AA (wetlands/terrestrial) and BB (aquatic environments) require systematic review. Do not infer that an appendix has been fully reviewed merely because it is linked or cited elsewhere.\n
