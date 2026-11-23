@@ -108,7 +108,7 @@ Key records:
 The registry contains Build Nova Scotia's **2025 Annual Report**, dated 30 March 2026:
 https://iaac-aeic.gc.ca/050/evaluations/document/166307
 
-The previous review cited this report's pre-construction status and absence of project follow-up monitoring during 2025, but the repository did not give it sufficient prominence in the master source inventory. The report must be checked for:
+The report is indexed and its metadata is verified. A secondary catalogue summary describes the project as pre-construction during the 2025 reporting period and says many conditions were awaiting the judicial-review outcome. The official PDF was not successfully retrieved and read in the latest review pass; therefore, detailed claims about condition-by-condition compliance or absence of specific monitoring must remain unverified until the official report is examined. The report must be checked for:
 - actual project status and schedule;
 - whether site preparation or construction had commenced;
 - independent environmental monitor appointment and scope;
@@ -146,7 +146,7 @@ This is a **proposal/lead**, not verified Boat Harbour field evidence, not proof
 Registry search page and entry:
 https://iaac-aeic.gc.ca/050/evaluations/exploration?culture=en-CA&projDocs=80164
 
-**Important limitation:** This audit has not yet systematically read all 71 public comments and attachments. The full comment set remains an explicit research task. The 152-entry result count is a registry snapshot and may change.
+**Important limitation:** This audit has not yet systematically read all 71 public comments and attachments. The full comment set remains an explicit research task. The contributions page reports 71 results and is paginated; only the displayed first-page material and selected key attachments have been screened in the latest pass. The 152-entry search result count is a registry snapshot and may change.
 
 ## 5. Material already in the repository that must not be mistaken for complete recovery
 
@@ -227,3 +227,10 @@ https://iaac-aeic.gc.ca/050/evaluations/exploration?culture=en-CA&projDocs=80164
 The earlier package contained important findings but did not make the full evidence universe and its incomplete review status sufficiently visible. This update corrects that.
 
 The most important newly exposed work is not buying another sensor. It is systematically extracting the EIS appendices, auditing all 82 information requirements, screening the 71 public comments, and recovering the original datasets and operating records. Until those tasks are complete, the research package must be described as a substantial but incomplete desk review—not a complete independent environmental evidence review.
+
+
+## 10. Additional retrieval-status correction — 22 November 2026
+
+Appendix B (registry PDF https://iaac-aeic.gc.ca/050/documents/p80164/137872E.pdf) was opened. Its front matter identifies an Environmental Management Plan, Revision 1.0 dated 30 September 2020, and explicitly labels it **DRAFT** with a warning that the final version may differ and that the draft should not be relied upon. The table of contents includes proposed groundwater, surface-water, marine, dewatering-effluent, leachate, containment-cell and long-term monitoring sections. It is a historical proposed plan, not evidence of the final approved monitoring programme or monitoring actually performed.
+
+Attempts to extract Appendix A, Y and Z exceeded the Firecrawl 50 MiB file-size limit; Appendix AA (610 pages) and BB timed out. These records remain located but not substantively reviewed in this pass. The correct recovery route is alternate-format request to IAAC or direct download and local PDF processing in smaller page ranges. Do not describe the PDFs as absent or their contents as reviewed.
