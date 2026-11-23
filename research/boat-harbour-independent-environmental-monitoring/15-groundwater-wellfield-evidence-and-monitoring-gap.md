@@ -367,3 +367,70 @@ The final Decision Statement also expressly states that its conditions do not re
 IAAC's final Environmental Assessment Report Appendix E summarizes comments from PLFN and Sipekne’katik on the draft report and draft conditions. The portions reviewed record PLFN's comments on title, use and enjoyment, consultation, and the monitoring conditions. The report records that condition 5.3 was revised in response to certain comments, but the reviewed Appendix E does not provide an express explanation for why the standalone draft groundwater condition 5.7 was not carried into the final Decision Statement.
 
 The reason for that change remains unverified. Obtain the complete administrative decision record, including the Proponent's comments on draft conditions, internal/technical review records that are disclosable, and any correspondence addressing groundwater condition 5.7. Counsel must assess what is obtainable and any privilege or confidentiality limitations.
+
+
+## 8. Provincial monitoring instrument recovered — Ministerial Order MO-60007
+
+**Primary source:** Nova Scotia Environment and Climate Change, Ministerial Order **MO-60007**, issued 28 May 2021 to Nova Scotia Lands Inc.; Schedule A monitoring obligations commence 1 June 2021. Official PDF: https://novascotia.ca/nse/issues/docs/Nova-Scotia-Lands-Ministerial-Order-June-01-2021.pdf
+
+This is a material addition to the regulatory record. It corrects any broad statement that no provincial groundwater-monitoring instrument has been located.
+
+### 8.1 What the order requires on its face
+
+The order is directed to Nova Scotia Lands Inc. in relation to the former Boat Harbour effluent treatment facility and associated works. Its Schedule A states:
+
+- **Condition 29:** from 1 June 2021, sample and analyse the BHETF groundwater and surface-water monitoring network in Appendix B, Table 3.
+- **Condition 30:** collect surface- and groundwater samples consistently in accordance with established industry standards and best practices.
+- **Condition 31:** visually inspect the BHETF monitoring-well network during each field visit and maintain wells as required, with protective casing and security.
+- **Condition 32:** the Department reserves the right to modify groundwater/surface-water locations, parameters and frequency, and require remedial measures.
+- **Conditions 33–34:** NS Lands may not change monitoring locations, parameters or frequency without written Department authorization; a qualified professional must provide written justification and the request must be submitted at least 30 days before implementation.
+- **Condition 35:** review groundwater/surface-water quality as data are collected and report any groundwater-quality change immediately to the Department.
+- **Condition 36:** maintain records for all BHETF groundwater wells, including maintenance records, for at least 15 years.
+- **Conditions 37–38:** submit an annual groundwater/surface-water monitoring report by 1 April of the following year, prepared by or under the direction of a qualified professional licensed in Nova Scotia.
+
+The required annual report contents include field methods, current groundwater and surface-water networks, recommendations, well-inspection deficiencies and maintenance, current and historical static water levels, groundwater gradients and flow directions, current and historical groundwater and surface-water chemistry, laboratory certificates, spatial and temporal trend interpretation, and identification of adverse impacts/recommendations.
+
+### 8.2 The named network and required parameters
+
+Appendix B, Table 3 identifies the following BHETF groundwater wells:
+
+- MW15-1S
+- MW15-1D
+- MW15-2S
+- MW15-2D
+- MW15-3S
+- MW15-3D
+- MW15-4S
+- MW15-5S
+
+The order specifies **quarterly** sampling. The listed groundwater parameters are general inorganic chemistry (including fluoride), dissolved metals, dissolved organic carbon (DOC), chemical oxygen demand (COD), total Kjeldahl nitrogen (TKN), total phosphorus, absorbable organic halogens (AOX), and water levels.
+
+The same table specifies quarterly surface-water sampling at Point 1, Point 2 and Pond 2 for a broader suite including total metals (including mercury), chromium species, dissolved zinc, DOC, TSS, BOD, COD, TKN, total phosphorus, TPH/BTEX, PAHs, VOCs and AOX.
+
+The order states that the monitoring locations are depicted in Figure 3-1 of Dillon Consulting Limited, File 18-7281-2000, March 2019, *Boat Harbour Effluent Treatment System – 2018 Monitoring Program*. That report is therefore a high-priority map and monitoring-design source.
+
+### 8.3 What this order does not establish
+
+- It is a BHETF site network order. The named MW15 wells are not the same identifiers as PLFN production wells PW9 and PW10.
+- The order does not by itself demonstrate that the quarterly monitoring was completed, that results were compliant, or that the data were independently validated.
+- The order's well list does not establish that the PLFN off-peninsula wellfield capture zone was delineated or that the deep production aquifer was adequately monitored.
+- The parameter list in the order must not be confused with a complete contaminant inventory for all site media. For example, the surface-water suite is broader than the groundwater suite.
+- The existence of an annual-report requirement is not proof that all annual reports were submitted, accepted, complete or publicly released.
+
+### 8.4 Legal and temporal status still to verify
+
+The PDF reviewed is the order issued 28 May 2021, with sampling obligations stated to begin 1 June 2021. No later public amendment or rescission of MO-60007 was located in this retrieval pass. That is **not** proof that none exists. Obtain written confirmation from Nova Scotia Environment and Climate Change of:
+1. whether MO-60007 remains in force, and any amendments, replacements, suspensions or written authorizations modifying its network;
+2. the monitoring periods and actual sampling frequency performed from 2021 to the present;
+3. all annual reports required by condition 37, including attachments and laboratory certificates;
+4. all quarterly field sheets, sample results, electronic data deliverables and QA/QC;
+5. the current and historical well inventory, coordinates, measuring-point elevations, screen intervals and maintenance records;
+6. all requests and written approvals to change monitoring locations, analytes or frequency.
+
+### 8.5 Analytical implications
+
+The MO-60007 reporting requirements are particularly important for a time-based groundwater map because they call for historical/static water levels, gradients and flow direction, historical chemistry, lab certificates and spatial/temporal trend interpretation. If the required annual reports and raw records are recovered, they can anchor a dated monitoring layer.
+
+Before mapping flow arrows or contours, verify that water-level measurements are from the same hydrostratigraphic unit and comparable survey windows, and that measuring-point elevations share a consistent vertical datum. Before mapping concentration surfaces, verify the station network, analyte, sample medium, units, detection limits, qualifiers and laboratory QA/QC. Do not infer a plume from the well points alone.
+
+**Source review status:** full browser-rendered text of the official MO-60007 PDF reviewed; original PDF binary not yet downloaded/hashed in the evidence vault. Source-register ID BH-101. See Document 17 for acquisition status and Document 16 for spatial-data requirements.
