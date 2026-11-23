@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.9, expanded 23 November 2026.  
+**Current research package:** Version 3.0, expanded 23 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
@@ -34,11 +34,11 @@ Build a rigorous, independently reviewable evidence base and technical framework
 
 ## Status
 
-<badge>Desk research package — version 2.9</badge>
+<badge>Desk research package — version 3.0</badge>
 
-This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. The Indigenous and rights-holder evidence stream now includes full-text review of five primary submissions; underlying technical reports, referendum records, land instruments, full Appendix S/T studies and the official 2025 Annual Report remain outstanding. The full Hive Engineering IR82 report and the July 2022 GHD/NSLands technical/economic feasibility assessment have now been reviewed, along with the February 2024 Build Nova Scotia response. The comparative review identifies a material GHG scenario-attribution mismatch and unresolved groundwater, parcel, cost and field-investigation questions. A draft litigation-supporting evidence standard has been added but is not yet implemented or approved by counsel. The GitHub repository is public and is not an evidence vault. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
+This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. The Indigenous and rights-holder evidence stream now includes full-text review of five primary submissions; underlying technical reports, referendum records, land instruments, full Appendix S/T studies and the official 2025 Annual Report remain outstanding. The full Hive Engineering IR82 report and the July 2022 GHD/NSLands technical/economic feasibility assessment have now been reviewed, along with the February 2024 Build Nova Scotia response. The comparative review identifies a material GHG scenario-attribution mismatch, transport-distance ambiguity, cost-scope/arithmetic inconsistencies, and unresolved groundwater, parcel and field-investigation questions. Underlying 2010/2016 groundwater reports and the 2018 GHG assessment are now explicit source leads, not yet reviewed. A draft litigation-supporting evidence standard has been added but is not yet implemented or approved by counsel. The GitHub repository is public and is not an evidence vault. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
 
 ## Legacy draft files
 
-The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.9 package and should not be used as the current technical baseline.
+The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 3.0 package and should not be used as the current technical baseline.
 
