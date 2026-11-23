@@ -186,3 +186,28 @@ The full text of five official-registry submissions has now been examined: PLFN 
 | BH-085 | GHD, *GHG Emissions Assessment Memorandum*, 7 April 2022, Annex 7 to BH-083 | Proponent consultant GHG calculation | Annex text reviewed. Explicitly marked DRAFT and says opinions/conclusions must not be relied upon. Internal scenario attribution mismatch identified: 183,164 t CO2e for 1,250-km existing third-party facility; 21,530 t for new landfill 20 km away. Main text attributes 183,164 t to PLFN proposed site and pairs it with the 5,042-home equivalency that Annex 7 associates with 21,530 t. Distance/trip-count table needs independent recalculation. Class B derivative within BH-083 |
 | BH-086 | GHD, *Class C Costing — Off-Site Disposal of Consolidated Waste at Third Party Facility*, 17 November 2021, Annex 6 to BH-083 | Proponent consultant cost memorandum | Annex text reviewed. Explicitly marked DRAFT and non-reliance. Assumes 1,150,000 m³ incl. 15% contingency, 18 m³ / 22.5 t truck, approx. 63,000 loads, 1,250 km one-way to Stablex, 70 loads/day and wide $225–$3,400/t tipping-fee range; uses lower end for estimate. Excludes PLFN participation, independent monitor, existing-cell restoration and proponent project management. Class B derivative within BH-083 |
 | BH-087 | Membertou Geomatics Solutions, *A’se’k (Boat Harbour) Land Use Plan*, 6 February 2019, embedded as Annex 3.1 in BH-084 | PLFN-invited consultant plan, funded/supported by Nova Scotia Lands; planning process described as community-driven | Introductory/methodology sections reviewed. Plan identifies formal adoption as a stage and says Chief and Council would decide later about amendments/adoption. Full plan, maps and community-engagement appendices not reviewed. IAAC 2025 report records PLFN's statement that it was not ratified/adopted by formal BCR. Do not describe as adopted PLFN policy. Class C |
+
+
+## Additional source leads identified from the IR82 record — not yet retrieved
+
+| ID | Source lead | How identified | Status / next action |
+|---|---|---|---|
+| BH-088 | Dillon Consulting Limited, *Groundwater Monitoring Program Report*, 2010 | Cited in Hive IR82 report and Build Nova Scotia's response | Source lead only; complete report, figures, appendices and underlying well data not retrieved. Required for PLFN wellfield dispute |
+| BH-089 | AECOM, *Boat Harbour Hydrogeology Assessment*, Project No. 60446127, April 2016 | Cited in Hive IR82 report and Build Nova Scotia's response | Source lead only; full report, appendices, model files and wellfield data not retrieved |
+| BH-090 | GHD, *Greenhouse Gas Mitigation Assessment*, June 2018 | Cited by GHD's April 2022 draft GHG memorandum | Source lead only; full report and calculation workbook not retrieved |
+| BH-091 | 2003 groundwater exploration report for the PLFN wellfield | Referenced in EXP technical review, which states figures/appendices were missing from its reference set | Exact title, author and complete report not yet identified; retrieve from project registry and PLFN/proponent records |
+| BH-092 | 2019 groundwater/containment-cell monitoring report | Quoted in EXP technical review regarding VOC/PAH and dioxin/furan analysis history | Exact title and full report not yet identified; retrieve with laboratory certificates and analytical tables |
+| BH-093 | GHD, *Sampling and Analysis of Dredge Spoils Report* | Identified by EXP technical review as a referenced report not included in the materials it reviewed | Exact registry record and complete report not yet retrieved |
+| BH-094 | Existing Boat Harbour containment-cell Industrial Approval and all amendments | Referred to by Build Nova Scotia's February 2024 response as authority for current cell capacity/use | Obtain certified/official current approval, schedules, amendments, compliance records and monitoring requirements |
+
+**Important distinction:** These are document leads cited by other reviewed sources, not reviewed source documents. They remain status D until the actual records are obtained. Do not cite the lead as if the underlying report itself has been examined.
+
+## IR82 internal-consistency findings — source register update
+
+BH-083 / BH-085 / BH-086 require these caveats in any downstream use:
+
+- The GHD Class D estimate includes $5.329 million in 25-year post-closure line items, while the comparative narrative says post-closure maintenance/monitoring costs are excluded. The $21 million existing-cell estimate excludes post-closure costs. Cost scope is not comparable until reconciled.
+- The GHD Class D narrative upper range is $161,986,500; the attached table shows $161,968,500.
+- The GHD Class C Stablex memo and GHG memo are explicitly marked draft/non-reliance.
+- The GHG Annex 7 scenario attribution/equivalency mismatch and distance/trip-count ambiguity are documented in Document 14, Section 16.
+- The $108 million Class D estimate is a planning estimate in 2020 dollars with -20/+50 accuracy, no HST or time value of money, and no detailed quotations for most activities. It is not a current price or a binding offer.
