@@ -134,3 +134,44 @@ EIS Volume IV (BH-038) contains Figures 7.1-12 through 7.1-16:
 The EIS states containment-cell monitoring-well groundwater elevations were typically measured quarterly from 1995 through 2019. The EIS figures and tables are available as part of the reviewed EIS Volume IV, but the raw time-stamped readings, original coordinates, well construction records, measuring-point elevations and source GIS project remain outstanding.
 
 **Required extraction:** preserve the EIS figure pages as page-image assets, extract each displayed hydrograph/table with page/figure locators, and separately request the underlying electronic time-series from the proponent/regulator. If the map is digitized, store digitized coordinates as approximate/derived geometry with control points, transformation method and residual error; do not relabel them as surveyed coordinates.
+
+
+## 11. Alternate retrieval route: official EIS volumes and provincial orders
+
+The standalone Appendix Z attachment could not be retrieved through the registry's 230 MB PDF endpoint. The alternate route was to retrieve the EIS volumes separately, use their internal references and figure content, and retrieve the provincial orders as individual smaller PDFs.
+
+### 11.1 EIS Volume IV — recovered through direct PDF indexing
+
+- Official PDF: https://iaac-aeic.gc.ca/050/documents/p80164/137222E.pdf
+- Full text is available through the web PDF index.
+- Relevant material: pages 7-44 to 7-73, Figure 7.1-14 (PLFN wellfield map), Figures 7.1-17 to 7.1-24 (GHD 2018 PLFN wellfield hydrographs), Tables 7.1-20 and 7.1-21 (shallow and deep bedrock wellfield elevation ranges), and discussion of 1995–2019 historical monitoring.
+- Figure title blocks identify GHD job 11148275-25 and 6 June 2018 for the wellfield hydrographs. Hydrographs cover several screened depth intervals and show manual/continuous water elevations alongside precipitation.
+- This provides a useful evidence extract while the standalone GHD report and original logger files remain outstanding.
+
+### 11.2 EIS Volume V — recovered as a bibliographic source
+
+- Official PDF: https://iaac-aeic.gc.ca/050/documents/p80164/137223E.pdf
+- Its reference list confirms the exact titles/dates of AECOM 2016, Dillon 2003, Dillon 2011, and the separate Dillon 2018/2019 sludge-disposal-cell monitoring reports.
+- This is bibliographic confirmation, not a substitute for the underlying reports.
+
+### 11.3 Appendix Z — identified but large-file retrieval failed
+
+- Official registry page: https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/137959
+- Registry attachment filename: 137897E.pdf; size listed as 230 MB.
+- Registry fetch timed out. Direct download through the working container also failed.
+- The request should now be split: ask IAAC/Build Nova Scotia for AECOM 2016, GHD 2018 and relevant Dillon reports as individual attachments rather than requesting the combined 230 MB PDF. Ask for native spreadsheets, model files, well construction logs and GIS layers separately.
+
+### 11.4 Smaller official provincial orders recovered
+
+- MO-55774, 29 January 2020, Northern Pulp: https://novascotia.ca/nse/issues/docs/55774-Ministerial-Order-NPNS-January-2020.pdf
+- MO-60003, 14 May 2020, Northern Pulp: https://novascotia.ca/nse/issues/docs/MO-60003-NPNSC.pdf
+- MO-60007, 28 May 2021, Nova Scotia Lands: https://novascotia.ca/nse/issues/docs/Nova-Scotia-Lands-Ministerial-Order-June-01-2021.pdf
+
+All three were reviewed in full browser-rendered text. Their original binaries have not yet been downloaded to the controlled evidence vault or hashed. Their chronology and conditions are summarized in Document 15, Section 10.
+
+### 11.5 2025 annual report retrieval status
+
+- Registry search page: https://iaac-aeic.gc.ca/050/evaluations/exploration?culture=en-CA&projDocs=80164
+- Listing: reference 74, document 166307E.pdf, dated 30 March 2026.
+- Registry attachment page and direct PDF fetch timed out; guessed direct path was not accessible.
+- Canada Commons lists a 25-page copy/catalogue, but access was not confirmed. Treat as not acquired until a downloadable official or authenticated copy is obtained and hashed.
