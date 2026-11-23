@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.4, expanded 22 November 2026.  
+**Current research package:** Version 2.5, expanded 22 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
