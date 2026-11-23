@@ -326,3 +326,132 @@ A 2025 Annual Report is listed in the IAAC registry as Document 74, dated 30 Mar
 The five records examined in this document are primary records of their respective submissions. Their original PDF text was reviewed through the official IAAC registry, but the original binary files have not yet been acquired and hashed into the controlled evidence vault. They remain class B under Document 12.
 
 No conclusion in this document should be represented as a judicial finding, independent technical validation, proof of causation, or proof of legal breach. The next step is to acquire and authenticate the underlying instruments and technical records identified in the issue register, then obtain independent technical and legal review.
+
+
+## 11. Follow-up examination — Hive Engineering IR82 analysis, 4 August 2023
+
+**New source located and reviewed:** Hive Engineering Limited, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, project NS23.03.157, dated 4 August 2023.
+
+**Official IAAC-hosted PDF:**  
+https://iaac-aeic.gc.ca/050/documents/p80164/155835E.pdf
+
+**Authorship/retainer:** The report states that Hive was retained by McKiggan Hebert Lawyers on behalf of PLFN to provide technical advice and analysis on the environmental assessment and the alternatives to the proposed permanent containment-cell location. It is therefore a consultant report prepared for PLFN, not a regulator's report and not an independent government study.
+
+The complete PDF text, including Appendices A, B and C, has been reviewed through the official IAAC-hosted PDF. The original binary has not been acquired and hashed in the controlled evidence vault. It is class B under Document 12.
+
+### 11.1 What Hive actually evaluated
+
+The report compares four location categories:
+
+1. Existing Boat Harbour containment cell.
+2. Northern Pulp Nova Scotia pulp plant **active waste cell (Cell 3)**.
+3. Mount William parcels.
+4. Granton parcels.
+
+This is more precise than saying Hive assessed the entire former Northern Pulp mill property. The report says NPNS had three landfill cells: Cells 1 and 2 closed, Cell 3 active under an existing Nova Scotia Environment and Climate Change approval. Hive reported no siting-criteria exceedances for the active cell and called it a viable candidate, while expressly excluding political and financial considerations from its analysis.
+
+**Do not state that the whole former mill property, every Northern Pulp landfill cell, or the entire former mill site was proven suitable.** The report's positive comparison is specifically about the NPNS active waste cell (Cell 3) under the screening criteria it applied.
+
+### 11.2 The scope and limitations are explicit in the report
+
+Hive states in its closing section that:
+
+- only siting requirements for a long-term hazardous-waste containment cell were considered;
+- no field visits or studies were completed;
+- publicly available data and data submitted by others for the Boat Harbour EIS were used;
+- construction, operation, monitoring, closure and other requirements were assumed to be examined during later design and permitting.
+
+This is a decisive limitation. The report is a desktop siting analysis, not a geotechnical investigation, hydrogeological study, environmental site assessment, detailed engineering design, waste-acceptance assessment, regulatory approval or proof that a particular site can accept the estimated waste volume.
+
+### 11.3 Crown-land screening
+
+Hive describes a GIS screening process within a 50-km radius:
+
+- An initial size screen identified 1,376 Crown-land locations.
+- After removing locations below the assumed minimum cell footprint, 928 locations remained potentially available.
+- After screening for mapped streams, rivers, lakes, wetlands, old-growth forest, protected areas, significant species/habitat and potable-water wells, 109 Crown parcels remained.
+- Three of those were within 10 km; the report gives distance bands for the remaining parcels.
+- Appendix A lists the 109 screened parcels and surficial geology/overburden information.
+
+These are **desktop-screened candidates**, not 109 sites confirmed suitable for a hazardous-waste facility. Mapped datasets, ownership, legal availability, site access, subsurface conditions, groundwater, geotechnical suitability, ecological impacts and community effects all require independent verification.
+
+### 11.4 Private-land screening is expressly incomplete
+
+Hive states that the private-land assessment relied on visual screening in the Service Nova Scotia Property Online web application because the application did not provide downloadable spatial data for GIS analysis. The report explicitly says the list is not comprehensive and that GeoNova files would need to be purchased to conduct a complete GIS screening. It also says depth to groundwater could only be assumed at this stage and requires detailed investigation.
+
+Hive lists 97 private parcels, including 12 within 10 km. Appendix B contains owner names, property identifiers and location details. Those personal/property details are not reproduced in this public repository. The source can be reviewed in the restricted evidence environment and disclosed only under an approved privacy and legal process.
+
+**Interpretation:** the 97-parcel list is a preliminary candidate list generated by a non-comprehensive visual screen. It is not an exhaustive land inventory and does not establish the availability or suitability of any listed property.
+
+### 11.5 Siting criteria are a mixed-source screening framework
+
+Hive says its analysis used criteria from:
+
+- Nova Scotia Environment and Climate Change Municipal Solid Waste Landfill Guidelines;
+- Canadian Council of Ministers of the Environment, *National Guidelines for Hazardous Waste Landfills* (PN 1365); and
+- British Columbia Environmental Management Act / Hazardous Waste Regulation requirements.
+
+The report distinguishes the source frameworks and applies them comparatively. Some criteria are from British Columbia regulations, not Nova Scotia legislation. The fact that a criterion is used in Hive's comparison does not, without further legal analysis, establish that it is a binding statutory siting rule in Nova Scotia.
+
+For a defensible legal/technical comparison, the database must:
+- obtain the exact versions of all three source documents used in 2023;
+- verify whether each criterion was legally binding, incorporated by approval, guidance-only or used as a comparative benchmark;
+- check subsequent amendments and current Nova Scotia approvals;
+- reproduce the criterion and the source jurisdiction accurately; and
+- separate a guideline exceedance from a legal violation or a demonstrated environmental failure.
+
+### 11.6 Main site-comparison findings, accurately attributed
+
+**Existing Boat Harbour cell:** Hive identifies exceedances against several criteria, including groundwater separation, proximity to Boat Harbour/wetlands, property setback, surface-water isolation, special-significance/wildlife-area isolation, groundwater isolation, 3-metre unsaturated-soil separation, 300-metre waterbody separation and potable-water-supply/recharge-area criteria. Hive states that groundwater is in contact with the lowest point of the existing cell, based on test-pit logs and monitoring wells. That underlying evidence must be obtained and checked.
+
+**NPNS active waste cell (Cell 3):** Hive reports no exceedances against the criteria it applied and describes the active cell as a viable candidate, but says political and financial considerations were outside scope. The report does not establish available capacity for the Boat Harbour waste volume, waste acceptance, operational compatibility, long-term liability, community consent, ownership arrangements, or regulatory approval to receive this material.
+
+**Mount William:** Hive describes the four parcels and considers the site marginally viable, with several siting criteria exceedances that it believes could be mitigated. These include proximity to wetlands/watercourses, buildings and populated/public areas. Some mitigation suggestions include stream realignment, property buffers and engineering measures. No field studies were done.
+
+**Granton:** Hive describes the site as somewhat viable, with a small number of setback exceedances that it believes may be mitigated, but notes size/shape limitations and potential need to acquire neighbouring property to create adequate buffers. No field studies were done.
+
+### 11.7 Groundwater/wellfield inference
+
+Hive states that the PLFN off-peninsula wellfield is approximately 2 km from the existing containment cell. It cites the 2016 AECOM hydrogeology assessment and 2010 Dillon groundwater monitoring report, including concerns about pumping water levels falling below sea level and a possible reversal of the predicted horizontal flow direction.
+
+Hive then states that, for the purpose of its analysis, it is reasonable to conclude that the existing Boat Harbour containment cell is within the recharge area for the PLFN wellfield.
+
+This is a reasoned inference made by Hive from the reports it cites. It is not a new field measurement or a new calibrated groundwater-flow model in the Hive report. It must be tested by obtaining the complete 2010 and 2016 source reports, well construction details, water-level time series, pumping rates, elevations, hydraulic testing and any later monitoring. Do not turn this inference into an established hydraulic connection without that work.
+
+### 11.8 Internal consistency / parcel identity checks
+
+The Hive report itself contains parcel-description details that need reconciliation before using the Mount William analysis as a precise land record:
+
+- Its opening description identifies a 29.14-hectare PLFN parcel as a potential alternative.
+- Its site-comparison section describes a four-parcel Mount William area and identifies PID 00865469 as 29.14 hectares, while also listing PID 00801241 as another large parcel.
+- The four PIDs named in the Mount William section are 00865485, 00865469, 65170508 and 65170516; the mention of PID 00801241 in the same section needs to be reconciled against the original parcel maps, title records and report table.
+- The report's Appendix A and Appendix C contain parcel IDs, screening assumptions and site comparisons that must be checked against current authoritative cadastral and well databases.
+
+No property should be mapped or treated as PLFN-owned, available or selected solely from this report. Obtain current official parcel maps, ownership/title records and PLFN confirmation.
+
+### 11.9 How this changes the earlier PLFN source analysis
+
+The Final Position's headline numbers (109 Crown and 97 private parcels) are traceable to the Hive report. However, the full Hive report narrows what those numbers mean:
+
+- 109 Crown parcels are the result of a GIS desktop screen using mapped exclusions and a 50-km radius.
+- 97 private parcels are the result of a non-comprehensive visual screen, and Hive expressly says a complete GIS screen would require GeoNova data.
+- Groundwater depth for private parcels was assumed and requires detailed investigation.
+- The four comparative sites were not subjected to field investigations in this report.
+- The NPNS finding concerns its active waste cell, Cell 3, and excludes political/financial factors.
+- The report does not establish that any alternative is fully permitted, available, accepted by PLFN, technically designed for the specific waste, or ready to receive it.
+
+This strengthens the record of PLFN having commissioned a technical alternative-site screen, while requiring more careful language about what that screen proves.
+
+## 12. Follow-up issue register additions
+
+| Issue ID | Issue | Current status | Required next evidence |
+|---|---|---|---|
+| PLFN-016 | Hive report scope and limitations | Full browser PDF text reviewed; no field visits/studies; desktop-only siting comparison | Preserve original PDF bytes and hash; independent technical peer review |
+| PLFN-017 | NPNS Cell 3 suitability | Hive reports no siting-criteria exceedances and calls it a viable candidate; political/financial factors outside scope | Current approval, waste acceptance criteria, available capacity, cell design, leachate/groundwater data, owner position, legal liability, permitting path |
+| PLFN-018 | Private parcel screen completeness | Hive expressly says not comprehensive; visual Property Online screen; GeoNova data required | Obtain GeoNova GIS files and repeat a reproducible complete GIS screen |
+| PLFN-019 | Mount William parcel identity | Internal PID references require reconciliation | Official parcel maps, current title/ownership, survey, PLFN confirmation |
+| PLFN-020 | Groundwater recharge-area inference | Hive inference based on 2010 Dillon and 2016 AECOM reports | Original reports, well logs, hydraulic tests, time series and current groundwater model |
+| PLFN-021 | Criteria legal status | Mixed Nova Scotia, CCME and British Columbia sources | Verify source versions, adoption/incorporation and current legal applicability with counsel/regulator |
+| PLFN-022 | Field verification gap | Hive explicitly reports no field visits or studies | Site-specific hydrogeology, geotechnical, ecological, hydrology and waste-acceptance investigations for any candidate |
+
+**Source:** Hive Engineering Limited, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, 4 August 2023, project NS23.03.157, official IAAC-hosted PDF above.
