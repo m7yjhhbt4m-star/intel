@@ -331,3 +331,76 @@ The proponent's assertions that there were no observed impacts outside the conta
 8. Nothing in this document determines Aboriginal title, the legality of consultation, the legal effect of any agreement, or the admissibility of evidence.
 
 All conclusions above are limited to the records and text reviewed to date. No original PDF binary has yet been hashed in a controlled evidence vault and no independent second reviewer has signed this comparison.
+
+
+## 16. Additional internal consistency audit of the July 2022 GHD assessment — 23 November 2026
+
+A closer review of the cost tables and Annex 7 identified further discrepancies that must be resolved before any of the headline financial, transport or emissions figures are relied upon.
+
+### 16.1 Post-closure costs: the $108 million estimate and comparison text conflict
+
+The GHD Class D cost estimate (Annex 4) explicitly includes a 25-year post-closure allowance:
+- leachate hauling and disposal: $1.750 million;
+- post-closure monitoring/reporting: $2.500 million; and
+- post-closure care/maintenance: $1.079 million;
+- subtotal: $5.329 million.
+
+The detailed cost memo describes 25 years of post-closure care and maintenance, with groundwater sampling at 10 locations and leachate sampling at two locations, twice annually. It assumes off-site leachate disposal of up to 100 m³/year and states that financial assurance is not required.
+
+However, the main comparative section says that post-closure maintenance and monitoring costs are not included for either the existing cell or the PLFN proposed site. The alternative site's $107.979 million Class D total, as shown in Annex 4, does include the $5.329 million post-closure line items. The existing cell's approximately $21 million Class A estimate excludes post-closure maintenance and monitoring.
+
+**Finding:** The report's cost comparison contains a scope inconsistency. The detailed $108 million total and the narrative comparison do not describe the same post-closure treatment. The $21 million existing-cell estimate is also Class A while the new-site estimate is Class D, with different scope and estimate maturity.
+
+**Required action:** obtain the editable GHD cost workbook and the exact cost schedules used in the February 2024 response. Reconcile every cost item, price year, estimate class, contingency, post-closure term, common cost, incremental cost, HST, inflation, time value, financial assurance and excluded item. Do not recalculate a new total from PDF tables alone.
+
+### 16.2 The reported upper cost bound differs between the memo and its table
+
+The GHD cost memo's narrative gives an upper range of **$161,986,500**. The attached Class D cost table gives **$161,968,500**. The two amounts differ by $18,000.
+
+This may be a transcription error, but it must be recorded and corrected from the source workbook rather than silently normalized. The summary figure “$162 million” obscures the discrepancy.
+
+### 16.3 Financial assurance and leachate disposal are assumptions
+
+The GHD estimate assumes no financial assurance is required for the proposed alternative site. It also assumes that post-closure leachate can be hauled to a licensed industrial wastewater treatment facility at up to 100 m³/year.
+
+These are estimate assumptions, not proof that a regulator would waive financial assurance, that a receiving facility would accept the leachate, or that the volume and contaminant profile would remain within the receiving facility's acceptance criteria. Obtain the regulatory basis, facility identity/acceptance criteria, leachate characterization, volume model, transport cost and contingency plan.
+
+### 16.4 The Stablex estimate is a different alternative and has additional exclusions
+
+The $762.603 million Class C estimate is for a third-party licensed facility at Stablex in Blainville, Quebec, approximately 1,250 km one-way from Boat Harbour. It is not the Mount William new-landfill estimate.
+
+The memorandum is marked draft/non-reliance. Its tipping-fee range is extremely wide ($225–$3,400 per tonne), and the estimate selects the low end because the waste was assumed likely to be acceptable. Stablex had requested additional data or a sample to narrow the range. The memo says the acceptance timeframe was broadly more than one year and less than five years.
+
+The memo expressly excludes PLFN participation/engagement, an independent monitor, decommissioning/restoration of the existing cell after waste removal, and NSLands project management. It also assumes no new access roads/points, no additional permits/approvals, and routine air monitoring during loading. These assumptions require verification before the estimate can be used as a fair comparator.
+
+### 16.5 GHG transport-distance and trip-count labels are inconsistent
+
+Annex 7 describes the Stablex distance as 1,250 km one-way, but the calculation table labels its distance column “Distance (Round Trip)” and enters 1,250. For the new landfill scenario, the memo says the site is 20 km from the project site and the table enters 40 km under “Distance (Round Trip).”
+
+The table also reports 128,100 “Total Trips” in both scenarios. The main report separately refers to approximately 63,000 truckloads. It is not clear from the published table whether “trips” counts loaded movements, empty return movements, or round trips, and whether the distance field is one-way or round-trip for each scenario.
+
+**Required action:** obtain the calculation workbook and reconstruct the transport model from first principles: total consolidated waste mass and volume, truck payload and legal limits, load count, empty returns, route distance in each direction, cycle count, annual throughput, fleet assumptions, fuel consumption and emissions factors. Have an independent GHG specialist sign the corrected calculation.
+
+### 16.6 GHG memo's draft disclaimer and scenario mismatch
+
+The 7 April 2022 GHD GHG memorandum is explicitly marked draft and says its opinions, conclusions and recommendations must not be relied upon. Yet its numbers are carried into the July 2022 main assessment and repeated in the February 2024 proponent response.
+
+The mismatch remains:
+- 183,164 t CO₂e is Scenario 1: disposal at a licensed existing third-party facility 1,250 km away.
+- 21,530 t CO₂e is Scenario 2: disposal at a newly built landfill 20 km from the project.
+- 42,896 homes is the equivalency attached to 183,164 t.
+- 5,042 homes is the equivalency attached to 21,530 t.
+
+The main report attributes 183,164 t to the PLFN proposed-site scenario and pairs it with 5,042 homes. Both the scenario and equivalency are inconsistent with Annex 7. This is a material source-reporting error requiring a corrected, signed and independently recalculated assessment.
+
+### 16.7 Cost and schedule maturity
+
+The GHD Class D planning memo assumes 18–24 months for baseline data collection, 3.5–4 years for environmental assessment, 6–12 months for approvals post-EA, and 4.25–5.5 years from project start to first waste receipt. It assumes 5–6 years for landfill filling and closure, plus 25 years post-closure care.
+
+These are 2021/2022 conceptual assumptions, not actual schedule performance or a current 2026 forecast. The report also assumes no significant project delays due to labour or material shortages, despite noting that pandemic-era supply-chain price increases were excluded from the estimate.
+
+### 16.8 Revised assessment of the cost/GHG evidence
+
+The July 2022 assessment remains evidence of the Province/proponent's 2022 planning assumptions and comparative rationale. It is not a current market estimate, firm offer, final design, approved site, or validated life-cycle comparison. Its Class C and GHG annexes are explicitly draft/non-reliance. The Class D cost memo has material scope and arithmetic inconsistencies requiring workbook-level reconciliation.
+
+Do not use the $108 million, $763 million, 183,164-tonne or 21,530-tonne figures in an external report as uncontested facts. They may be reported only with exact attribution, date, estimate class, scenario, exclusions and the unresolved inconsistencies described here.
