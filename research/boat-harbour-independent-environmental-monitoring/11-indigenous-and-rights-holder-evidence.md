@@ -309,7 +309,7 @@ The following remain outstanding and are not established merely by being cited o
 
 ### 12.7 Public repository restriction
 
-The GitHub repository was confirmed public on 23 November 2026. This document and the public repository must not be used to store privileged communications, personal health records, private witness information or restricted Indigenous knowledge. The repository is a public research index, not a controlled evidence vault.
+The GitHub repository's visibility was not independently verified in this review. Until the owner confirms the setting, treat it as public. Do not store privileged communications, personal health records, private witness information or restricted Indigenous knowledge here. The repository is a research index, not a controlled evidence vault.
 
 
 ## 13. Hive Engineering report review update — 23 November 2026
