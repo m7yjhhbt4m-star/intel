@@ -161,3 +161,12 @@ The BGC 2021 External Technical Review quotes the GHD Pilot Scale Testing Constr
 These are scale-up and design-confidence limitations, not proof of failure. They strengthen the need to obtain the entire 580-page pilot report, all laboratory certificates and process logs, and to monitor the complete liquid and solids mass balance during any full-scale operation.
 
 Source: [BGC Engineering, External Technical Review – Final, 29 January 2021](https://aeic.gc.ca/050/documents/p80164/141419E.pdf), especially the pilot-testing discussion and leachate modelling review.
+
+
+---
+
+## Unverified biological-dredging / bioremediation proposal — registry comment 68
+
+A 28 November 2024 public registry submission from Buckman Laboratories of Canada Ltd. proposes biological dredging/bioremediation as an option to reduce sludge, leachate and remediation timelines. The submission and attachments are indexed in [09 — Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md) and source-register entry BH-051.
+
+This is an unverified proposal, not evidence of successful treatment at Boat Harbour and not an approved remediation method. It should be screened before being accepted or dismissed. Require the proponent to specify the organisms/agents, biochemical mechanism, target compounds, treatment conditions, measured mass balance, by-products, residual toxicity, impacts on benthic/ecological receptors, sludge volume changes, dewatering effects, and independent pilot/field validation. Metals cannot be destroyed by biological treatment; at most, biological processes can change metal speciation, mobility, partitioning or immobilization, or transfer metals into a residual stream that still requires management. Any trial would need PLFN and regulatory approval, independent controls, pre-registered success/failure criteria, and complete characterization of liquid and solid residuals.
