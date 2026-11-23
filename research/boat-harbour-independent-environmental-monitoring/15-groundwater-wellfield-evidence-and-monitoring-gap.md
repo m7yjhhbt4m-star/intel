@@ -451,3 +451,42 @@ The EIS states that groundwater elevations at the containment-cell monitoring we
 
 **Retrieval:** Obtain the original well inventory, surveyed coordinates, measuring-point elevations, well construction/screen intervals, complete quarterly water-level series, field sheets, lab EDDs/certificates and source GIS project. The EIS itself points to Appendix Z and earlier consultant reports. Do not reconstruct the 1995–2019 series from figure pixels when the original measurements can be requested.
 
+
+
+## 10. Corrected provincial monitoring-order chronology and evidence implications
+
+The first pass had identified MO-60007 but missed two earlier orders that establish the transition and clarify the original legal/monitoring record. These instruments must be read together and not treated as one timeless approval.
+
+### 10.1 MO-55774 — 29 January 2020 — Northern Pulp
+
+MO-55774 was issued to Northern Pulp Nova Scotia Corporation. Appendix C, Table 6 sets quarterly groundwater monitoring at eight BHETF wells: MW15-1S, MW15-1D, MW15-2S, MW15-2D, MW15-3S, MW15-3D, MW15-4S and MW15-5S. It lists general inorganic chemistry, dissolved metals, DOC, COD, TKN, total phosphorus, chlorate/chlorite and AOX. It cites Dillon Consulting File 18-7281-2000, March 2019, *Boat Harbour Effluent Treatment System – 2018 Monitoring Program*, Figure 3-1 for station locations.
+
+### 10.2 MO-60003 — 14 May 2020 — Northern Pulp
+
+MO-60003 expressly requires NPNSC to comply with MO-55774 except where MO-60003 states otherwise or until MO-55774 is revoked (condition 2). Its hydrology/hydrogeology conditions:
+- Condition 33: during 2020, sample/analyse the NPNSC Mill Site groundwater and surface-water network in Appendix B Table 3.
+- Condition 35: from 1 May 2020, sample/analyse the BHETF groundwater and surface-water network in Appendix B Table 4.
+- Conditions 36–40: consistent sampling, inspect and maintain monitoring wells, Department power to modify locations/parameters/frequency, no changes without written authorization, qualified-professional justification and 30-day advance request.
+- Condition 41: review data as collected and immediately report any groundwater-quality change.
+- Condition 42: retain records for all groundwater monitoring and production wells at the Mill Site and BHETF, including borehole logs, construction details and maintenance records, for at least 15 years.
+- Conditions 43–44: submit a 2020 annual groundwater/surface-water report by 1 April 2021, prepared by or under a Nova Scotia-licensed qualified professional. Required contents include field methods, current networks, recommendations, well inspection/maintenance, current and historical static water levels, groundwater gradients/flow direction, current/historical groundwater and surface-water/leachate chemistry, laboratory certificates, spatial/temporal trend interpretation and adverse-impact recommendations.
+
+### 10.3 MO-60007 — 28 May 2021 — Nova Scotia Lands
+
+MO-60007 is the later order to Nova Scotia Lands Inc. It continues the BHETF monitoring obligations under a different responsible entity. It should not be used as evidence that the Northern Pulp orders never applied, nor should the Northern Pulp orders be assumed to remain operative after transfer/transition. The legal succession, approvals and any written changes must be confirmed from the Department's complete instrument file.
+
+### 10.4 What the order chronology tells us — and does not tell us
+
+The legal instruments create a documented requirement for repeated quarterly BHETF groundwater and surface-water sampling and for annual technical reporting with spatial/temporal analysis. They also require preservation of well construction and maintenance records. This is a much stronger acquisition path than searching for consultant reports alone.
+
+However, the orders do **not** establish that monitoring occurred as prescribed, that all required annual reports were submitted, or that the data were complete, reliable or independently reviewed. Nor do the eight BHETF well identifiers establish monitoring of the PLFN production wells PW9/PW10 or complete delineation of their capture zone.
+
+The priority evidence is now:
+1. MO-55774 and MO-60003 complete order files, including service, appeals, amendments and written authorizations.
+2. 2020 annual report required by MO-60003 condition 43, plus raw quarterly data and laboratory certificates.
+3. MO-60007 annual reports from the 2021 reporting year onward, plus all quarterly data and certificates.
+4. The March 2019 Dillon *2018 Monitoring Program* and its Figure 3-1.
+5. The separate Dillon March 2019 *2018 Monitoring Report* and March 2020 *2019 Monitoring Report* for the sludge disposal cell.
+6. Original AECOM 2016 and GHD 2018 PLFN wellfield reports and their native model/time-series files.
+
+Sources: MO-55774 (BH-103), MO-60003 (BH-104), MO-60007 (BH-101), EIS Volume IV (BH-105), EIS Volume V (BH-106). Full browser-rendered PDF text reviewed; original PDF binaries remain unacquired/hashed.
