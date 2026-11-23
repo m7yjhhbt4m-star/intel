@@ -33,7 +33,7 @@ The purpose is to identify what is established, what is asserted, what remains d
 | BH-082 | Hive Engineering IR82 Analysis, 4 August 2023. https://iaac-aeic.gc.ca/050/documents/p80164/155835E.pdf | PLFN-retained consultant | Full PDF text reviewed; relies on earlier hydrogeology reports; no field visits/studies |
 | BH-076 | IAAC final Decision Statement, 24 January 2025. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/164947?culture=en-CA | Binding federal decision instrument | Full text reviewed; no express use of the term “groundwater” in final conditions |
 | BH-042 | IAAC draft potential conditions, 15 October 2024. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/159634?culture=en-CA | Draft regulatory document | Draft condition 5.7 text reviewed; not binding |
-| BH-097 | IAAC Environmental Assessment Report, 23 January 2025. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/161580 | Federal assessment report | Relevant groundwater and health sections reviewed; government analysis, not a substitute for raw data |
+| BH-055 | IAAC Environmental Assessment Report, 23 January 2025. https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/161580 | Federal assessment report | Relevant groundwater and health sections reviewed; government analysis, not a substitute for raw data |
 
 The original binary PDFs for these records have not yet been acquired and hashed in the controlled evidence vault. They remain class B under Document 12 where full PDF text was reviewed.
 
