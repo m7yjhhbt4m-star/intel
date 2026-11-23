@@ -310,3 +310,20 @@ The following remain outstanding and are not established merely by being cited o
 ### 12.7 Public repository restriction
 
 The GitHub repository was confirmed public on 23 November 2026. This document and the public repository must not be used to store privileged communications, personal health records, private witness information or restricted Indigenous knowledge. The repository is a public research index, not a controlled evidence vault.
+
+
+## 13. Hive Engineering report review update — 23 November 2026
+
+The original Hive Engineering IR82 analysis dated 4 August 2023 has now been located in the official IAAC document repository and its full PDF text, including Appendices A, B and C, has been reviewed.
+
+**Direct official PDF:** https://iaac-aeic.gc.ca/050/documents/p80164/155835E.pdf
+
+The report states that Hive was retained by McKiggan Hebert Lawyers on behalf of PLFN. It is a PLFN-retained consultant report, not a government report. Hive states that it completed no field visits or field studies and relied on publicly available data and data submitted by others for the EIS. It limits its analysis to long-term containment-cell siting criteria and assumes that construction, operation, monitoring and closure issues would be examined at design/permitting stage.
+
+The report's 109 Crown parcel screen is based on a GIS desktop process. Its 97 private parcel list is explicitly non-comprehensive and based on visual screening of Property Online; Hive says GeoNova data would be needed for a complete GIS screen and groundwater depths require detailed field investigation.
+
+Hive compared the existing Boat Harbour cell, NPNS active waste Cell 3, Mount William and Granton. It reports no siting-criteria exceedances for NPNS active Cell 3 and calls it a viable candidate, but excludes political and financial considerations. This is not proof that the former mill property as a whole, other NPNS cells, or the entire site can accept Boat Harbour waste. The report does not establish available capacity, waste acceptance, current approval conditions, owner agreement or final regulatory approval.
+
+Hive's criteria combine Nova Scotia Municipal Solid Waste Landfill Guidelines, CCME National Guidelines for Hazardous Waste Landfills and British Columbia hazardous-waste regulation criteria. The legal status and applicability of each criterion in Nova Scotia must be verified separately.
+
+See Document 13, Section 11 and source-register entry BH-082. The original PDF binary has not yet been acquired and SHA-256 hashed in the controlled evidence vault; status remains class B, not A0/A1.
