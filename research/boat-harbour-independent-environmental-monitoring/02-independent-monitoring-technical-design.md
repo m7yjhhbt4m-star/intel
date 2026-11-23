@@ -367,3 +367,12 @@ The final Decision Statement requires, among other things:
 The third-party independent environmental monitor under condition 8 is a separate implementation-oversight role running from site preparation through closure; it is not a substitute for the full follow-up programme and does not itself extend through post-closure.
 
 See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) for the source-by-source comparison and data status.
+
+
+---
+
+## Evidence-completeness gate before final station design — 22 November 2026
+
+Do not treat this technical design as ready for final station coordinates, sample counts or procurement. The IAAC registry contains five EIS volumes and Appendices A–EE, 82 Round 1 Information Requirements, Round 2 response material and public comments. The complete inventory and current review status are in [09 — Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md). Priority source material still requiring systematic review includes Appendix A (HHERA), B (environmental management/control), Y (geology/geochemistry), Z (groundwater/surface water), AA (wetlands/terrestrial) and BB (aquatic environments). The 82-row IR concordance and screening of all 71 public comments also remain open.
+
+The field design must be revised after those records are extracted, the 2018–2026 groundwater evidence is reconciled, the 2016 ADCP/lidar data are obtained or permission status is confirmed, and Pictou Landing First Nation has directed the appropriate governance, access and use of community/ecological-knowledge material. Until then, station layouts and frequencies remain provisional design proposals, not a final sampling plan.
