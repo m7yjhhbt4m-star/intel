@@ -347,3 +347,23 @@ Do not define thresholds after seeing the results. Do not rely only on regulator
 8. Obtain PLFN's direction on independent access to the wellfield, split sampling, raw data, data ownership, publication and governance.
 
 Do not describe the groundwater pathway as resolved until these primary records have been reviewed and a qualified independent hydrogeologist has assessed the data and model.
+
+
+## 12. Additional legal-document cross-check — what the final Decision Statement incorporates
+
+A further check of the opening provisions of the January 2025 Decision Statement clarifies the distinction between the assessment report, the EIS, the project description and binding conditions.
+
+- Condition 1.7 defines the Designated Project by reference to Chapter 2 of the IAAC Environmental Assessment Report.
+- Condition 1.12 identifies the Environmental Impact Statement as the November 2020 EIS, but does not itself state that every commitment or proposed monitoring measure in the EIS is a condition.
+- The Minister's decision states that the conditions set out in the Decision Statement are conditions with which the Proponent must comply.
+- The IAAC Environmental Assessment Report records the proponent's commitment to groundwater quality and quantity monitoring through post-closure, but that commitment is not repeated as a standalone groundwater condition in the final Decision Statement.
+
+**Important limitation:** This textual comparison does not decide whether the groundwater commitment is binding through the defined project description, another condition, a provincial approval, an approved environmental management plan, a contract or another legal instrument. It identifies the exact question counsel must answer: what instrument, if any, legally requires the proponent to implement the groundwater quality/quantity monitoring commitment recorded in the IAAC report?
+
+The final Decision Statement also expressly states that its conditions do not relieve the Proponent from complying with other applicable federal, provincial or local legal requirements. Therefore, the absence of an express federal groundwater condition does not establish that provincial groundwater monitoring requirements are absent.
+
+### 12.1 Appendix E review — no reason for removal yet established
+
+IAAC's final Environmental Assessment Report Appendix E summarizes comments from PLFN and Sipekne’katik on the draft report and draft conditions. The portions reviewed record PLFN's comments on title, use and enjoyment, consultation, and the monitoring conditions. The report records that condition 5.3 was revised in response to certain comments, but the reviewed Appendix E does not provide an express explanation for why the standalone draft groundwater condition 5.7 was not carried into the final Decision Statement.
+
+The reason for that change remains unverified. Obtain the complete administrative decision record, including the Proponent's comments on draft conditions, internal/technical review records that are disclosable, and any correspondence addressing groundwater condition 5.7. Counsel must assess what is obtainable and any privilege or confidentiality limitations.
