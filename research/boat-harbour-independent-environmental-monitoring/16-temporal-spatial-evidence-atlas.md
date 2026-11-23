@@ -184,3 +184,26 @@ The first defensible visual package should be a sequence of dated, clearly capti
 - EIS Appendix Z: https://iaac-aeic.gc.ca/050/documents/p80164/137897E.pdf
 - EIS registry index: https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/137959
 - 2025 Annual Report registry record: https://iaac-aeic.gc.ca/050/evaluations/exploration?culture=en-CA&projDocs=80164
+
+
+## 11. Second confirmed map anchor: 2020 EIS groundwater mapping
+
+EIS Volume IV contains a set of dated groundwater and site maps that can form a separate **2020 documentary map scene**. Source: GHD, Environmental Impact Statement, Volume IV, 17 November 2020. Official PDF: https://iaac-aeic.gc.ca/050/documents/p80164/137222E.pdf. Existing source-register ID: BH-038.
+
+Confirmed from the EIS text and figure register:
+- Figure 7.1-12: Containment Cell Monitoring Network.
+- Figure 7.1-13: Groundwater Elevations Associated with the Containment Cell Versus Time.
+- Figure 7.1-14: PLFN Well Field — Location of Water Supply Wells and Monitoring Wells. The figure itself is dated **17 August 2020** and identifies its coordinate system as **NAD 1983 CSRS UTM Zone 20N**.
+- Figures 7.1-15 and 7.1-16: PLFN overburden and shallow-bedrock groundwater elevations versus time.
+- The EIS states containment-cell groundwater elevations were typically measured quarterly from **1995 through 2019**.
+- The EIS includes summary statistics and hydrographs for containment-cell and PLFN wellfield monitoring wells. The plotted hydrographs and summary statistics are not a substitute for the underlying time-stamped water-level records.
+
+### What this adds to the time-based atlas
+The EIS provides a 2020-dated map of the PLFN wellfield's supply and monitoring wells and a historical time-series context reaching back to 1995 for the containment-cell monitoring network. This makes it possible to plan at least two evidence-based spatial scenes:
+1. **2016 survey scene:** AGRG topo-bathymetric surface, orthophoto and hydrodynamic baseline (subject to native-data permission).
+2. **2020 EIS scene:** EIS source-mapped containment-cell and PLFN wellfield monitoring networks, with the 17 August 2020 figure date and NAD83(CSRS) UTM Zone 20N coordinate system explicitly shown.
+
+The map geometry must be digitized from the original EIS figures only after the figure image is obtained and georeferenced. Store digitized features as **derived/interpretive geometry**, with source figure, digitizer, control points, transformation method, residual error and uncertainty. Do not claim surveyed coordinates if the source provides only a map symbol or approximate location.
+
+### Critical data gap
+The EIS text identifies the map and hydrographs but the raw time-series, original well inventory, construction logs, surveyed coordinates, measuring-point elevations and source GIS project have not been acquired. Retrieve the underlying EIS Appendix Z reports, Dillon 2003/2011 groundwater reports, AECOM 2016, GHD 2018 and provincial annual reports before attempting a complete historical groundwater animation.
