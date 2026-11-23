@@ -192,8 +192,8 @@ The full text of five official-registry submissions has now been examined: PLFN 
 
 | ID | Source lead | How identified | Status / next action |
 |---|---|---|---|
-| BH-088 | Dillon Consulting Limited, *Groundwater Monitoring Program Report*, 2010 | Cited in Hive IR82 report and Build Nova Scotia's response | Source lead only; complete report, figures, appendices and underlying well data not retrieved. Required for PLFN wellfield dispute |
-| BH-089 | AECOM, *Boat Harbour Hydrogeology Assessment*, Project No. 60446127, April 2016 | Cited in Hive IR82 report and Build Nova Scotia's response | Source lead only; full report, appendices, model files and wellfield data not retrieved |
+| BH-088 | Dillon Consulting, *Pictou Landing IR24 2010 Groundwater Monitoring Program — Final Report*, August 2011 | Exact title/date identified in EIS Volume V reference list; cited in Hive IR82 report and Build Nova Scotia's response | Source lead only; complete report, figures, appendices and underlying well data not retrieved. “2010” is the monitoring-program year in the title, not the report publication year |
+| BH-089 | AECOM, *Drilling and Hydraulic Testing Program, Boat Harbour, NS*, Project No. 60446127, 2016 (referred to by Hive as the Boat Harbour Hydrogeology Assessment) | Exact title identified in EIS Volume V reference list; cited in Hive IR82 report and Build Nova Scotia's response | Source lead only; full report, appendices, model files and wellfield data not retrieved |
 | BH-090 | GHD, *Greenhouse Gas Mitigation Assessment*, June 2018 | Cited by GHD's April 2022 draft GHG memorandum | Source lead only; full report and calculation workbook not retrieved |
 | BH-091 | 2003 groundwater exploration report for the PLFN wellfield | Referenced in EXP technical review, which states figures/appendices were missing from its reference set | Exact title, author and complete report not yet identified; retrieve from project registry and PLFN/proponent records |
 | BH-092 | 2019 groundwater/containment-cell monitoring report | Quoted in EXP technical review regarding VOC/PAH and dioxin/furan analysis history | Exact title and full report not yet identified; retrieve with laboratory certificates and analytical tables |
@@ -211,3 +211,6 @@ BH-083 / BH-085 / BH-086 require these caveats in any downstream use:
 - The GHD Class C Stablex memo and GHG memo are explicitly marked draft/non-reliance.
 - The GHG Annex 7 scenario attribution/equivalency mismatch and distance/trip-count ambiguity are documented in Document 14, Section 16.
 - The $108 million Class D estimate is a planning estimate in 2020 dollars with -20/+50 accuracy, no HST or time value of money, and no detailed quotations for most activities. It is not a current price or a binding offer.
+
+
+| BH-095 | GHD, *Well Field Evaluation Report*, 2018, included in EIS Appendix Z, Groundwater and Surface Water Assessment Documentation, p. 300 (Appendix Z registry PDF 137897E.pdf, 230 MB). Registry index: https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/137959 | Proponent consultant report; cited in EIS and IAAC-67 response | Source identity and location in Appendix Z confirmed; full report not independently retrieved. Its conclusion is summarized by GHD/NSL and discussed by external reviewers; obtain the original report and all appendices/model files |
