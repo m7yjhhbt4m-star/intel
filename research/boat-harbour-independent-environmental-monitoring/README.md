@@ -1,6 +1,6 @@
 # Boat Harbour / A’se’k — Independent Environmental Monitoring Research
 
-**Current research package:** Version 2.7, expanded 23 November 2026.  
+**Current research package:** Version 2.8, expanded 23 November 2026.  
 **Repository:** `m7yjhhbt4m-star/intel`  
 **Path:** `research/boat-harbour-independent-environmental-monitoring/`
 
@@ -34,11 +34,11 @@ Build a rigorous, independently reviewable evidence base and technical framework
 
 ## Status
 
-<badge>Desk research package — version 2.7</badge>
+<badge>Desk research package — version 2.8</badge>
 
-This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. The Indigenous and rights-holder evidence stream now includes full-text review of five primary submissions; underlying technical reports, referendum records, land instruments, full Appendix S/T studies and the official 2025 Annual Report remain outstanding. A draft litigation-supporting evidence standard has been added but is not yet implemented or approved by counsel. The GitHub repository is public and is not an evidence vault. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
+This package is a substantial but incomplete source-based desk review and proposed technical framework. The registry contains five EIS volumes, Appendices A–EE, 82 Round 1 information requirements, Round 2 records and public comments; not all have been systematically reviewed. The new registry audit distinguishes located records from reviewed content and unrecovered raw data. The Indigenous and rights-holder evidence stream now includes full-text review of five primary submissions; underlying technical reports, referendum records, land instruments, full Appendix S/T studies and the official 2025 Annual Report remain outstanding. The full Hive Engineering IR82 report has now been reviewed; it is a desktop siting analysis that expressly reports no field visits or studies. A draft litigation-supporting evidence standard has been added but is not yet implemented or approved by counsel. The GitHub repository is public and is not an evidence vault. Do not describe this package as a completed environmental investigation until the outstanding records, data, current project/legal status and any authorized field programme are addressed.
 
 ## Legacy draft files
 
-The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.7 package and should not be used as the current technical baseline.
+The earlier preliminary files `01-initial-research-findings.md`, `02-technical-monitoring-design.md` and `03-source-register.md` are retained as a historical record only. They are superseded by this version 2.8 package and should not be used as the current technical baseline.
 
