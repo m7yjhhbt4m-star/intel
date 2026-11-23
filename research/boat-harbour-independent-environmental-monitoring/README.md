@@ -17,6 +17,7 @@ Build a rigorous, independently reviewable evidence base and technical framework
 5. [Source Register and Evidence Quality](05-source-register-and-evidence-quality.md) — source authority, evidence used, limitations and follow-up.
 6. [Remediation Process and Leachate Monitoring](06-remediation-process-and-leachate-monitoring.md) — Geotube dewatering, filtrate, treatment, leachate and containment-cell monitoring.
 7. [Blindspot Closure and New Evidence](07-blindspot-closure-and-new-evidence.md) — groundwater, human-health, country-food, marine methylmercury, hydrodynamic, regional-source and 2014 spill evidence.
+8. [Primary Records Recovery and Monitoring-Condition Audit](08-primary-records-recovery-and-monitoring-condition-audit.md) — recovered Phase II sample coordinates, groundwater inventory, marine baseline, pilot figures and draft-versus-final conditions audit.
 9. [Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md) — full EIS/appendix inventory, IR1–82 correction, Round 2 records, registry comments, annual report, and explicit located/reviewed/missing status.
 
 ## Evidence standards
