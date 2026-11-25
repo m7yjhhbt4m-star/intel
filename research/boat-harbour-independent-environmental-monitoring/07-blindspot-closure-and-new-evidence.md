@@ -906,3 +906,21 @@ The final ToR then required a completed HHRA, four-season marine baseline, fish/
 **Critical status:** Northern Pulp withdrew the replacement ETF project on 5 May 2021. The required EA Report was never accepted and no final provincial approval was issued. Do not treat the Focus Report appendices as satisfying the final ToR or as evidence that the proposed project was approved/built.
 
 **Additional discrepancy:** the ToR/project page describes about 15 km total pipeline (8.7 km land, 1.5 km Pictou Harbour crossing, 4 km offshore, plus a short mill section), while EARD Section 14 states 11.4 km total/4.1 km marine. Obtain final route chainages and drawings; do not select one length without reconciliation.
+
+
+
+## 45. November 2019 agency comments establish the most important unresolved technical issues
+
+The consolidated government-submissions PDF (BH-197) contains contemporaneous comments from DFO, ECCC, Health Canada and provincial departments. Highest-priority issues to carry into the independent monitoring design:
+
+- **Marine baseline:** May 2019 video survey/desktop review inadequate; missing marine mammals, leatherback turtles and sharks; herring spawning grounds overlap the outfall; herring eggs/larvae, scallop, shellfish and crustaceans not adequately assessed; 4 tonnes/day organic loading unsupported; lobster/crab tissue baseline of five or fewer unknown-size/sex animals is inadequate.
+- **Plume/model:** 2D far-field model not adequate for 3D layer/wind/tide/buoyancy dynamics; isolated pockets may exceed 1% beyond 250 m; sediment transport, deposition, flocculation and shoreline accumulation unresolved.
+- **Human health:** Health Canada says HHRA incomplete and cannot assess acceptable/unacceptable risk; missing FSC species, seaweed, sediment contact, vulnerable receptors, mixtures/additivity, bioaccumulation, and proper natural-background reference site; cadmium BAF/BCF screening may be wrong.
+- **Air:** predicted exceedances for ammonia, chloroform, TRS and hexavalent chromium without mitigation; 10-minute TRS odour exceedance up to 19.24%; H2S emission rates changed between draft/final without rationale; model used 280–300k ADMT instead of authorized 330k; ambient monitoring lacked VOC/metal/PAH species, locations and durations.
+- **Flow and COD:** two raw-effluent samples only; average rather than daily maximum flow; possible >85,000 m³/day; sCOD instead of tCOD; no COD fractionation; daily PPER limits not compared.
+- **Spill basin/dangerous goods:** basin simultaneously used for off-spec effluent/equalization and dangerous-goods secondary containment; 110% largest-tank requirement; incompatible/reactive chemicals may react; no complete worst-case spill or disposal plan; basin not reliably empty during upset conditions.
+- **Pipeline/wells:** thicker pipe does not prevent joint leaks/vandalism; no confirmed continuous automated leak detection outside land section; 60 L leak threshold unsupported; 500 m domestic-well survey and pre/post groundwater monitoring recommended; source-water protection risk and groundwater flow changes not assessed.
+- **Causeway/herring:** 1.5 km marine crossing near Pictou Causeway requires embankment-stability analysis; marine trench affects critical herring habitat; sediment disposal/reuse constrained by background sediment quality.
+- **Climate:** no operational climate adaptation plan; warmer water and project effects should be assessed together.
+
+The 17 December 2019 Minister decision and 2020 final ToR incorporate many of these concerns. Use BH-197 to build a requirement-by-requirement crosswalk: agency comment → proponent response → Minister decision → final ToR requirement → actual completion evidence. Since the project was withdrawn in 2021, do not assume the required work was ever completed.
