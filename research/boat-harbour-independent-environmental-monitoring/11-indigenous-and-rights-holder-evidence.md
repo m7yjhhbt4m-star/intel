@@ -365,3 +365,15 @@ The signed 16 June 2014 Agreement in Principle (BH-138) is a primary record of t
 The 14 October 2014 MOA (BH-139) addresses the participation-cost clause only; it provides a $100,000 accountable advance and eligible technical, legal, travel and community-participation costs. The separate Indian Cross Point land-purchase agreement (BH-140) funds acquisition up to $103,500 and says the purchase is meaningful progress toward clause 2(c), but expressly acknowledges that it does not fulfill all burial-site obligations. The 2015 BHCC Terms of Reference says the cleanup/remediation agreement remained outstanding.
 
 These agreements should be described by their actual scope. The funding MOA is not the remediation agreement; the land-purchase agreement does not establish that all burial sites were identified or protected; and the closure legislation did not itself complete remediation. Any remaining burial-site work and the Palmer parcel require respectful, rights-holder-led handling and appropriate cultural protocols.
+
+
+
+## 13. IAAC 2025 assessment: rights impacts acknowledged, but relocation is not guaranteed
+
+The full IAAC Environmental Assessment Report (BH-144) acknowledges that the operation of the effluent treatment facility contaminated A'se'k and restricted access to lands and resources, reducing opportunities for PLFN to hunt, trap, gather plants/medicines and fish for subsistence or a moderate livelihood. It states that PLFN is unlikely to resume hunting, trapping, gathering or cultural use in the site study area while the vertically expanded containment cell remains; IAAC says use is likely only after waste removal and cell decommissioning.
+
+IAAC's “not likely significant” conclusion is conditional on implementation of mitigation, follow-up and monitoring. The cell is to be designed for future removal and an Alternative Site Advisory Committee is required, but relocation depends on identifying a suitable site and obtaining later approvals, permits and appropriations. The report characterizes mental-health and cultural/traditional-use effects as high magnitude and long-term while the cell remains.
+
+The report also states that PLFN opposes vertical expansion and permanent use and records the 98% opposition results from the 2021 and 2023 referenda. It notes that the 2019 Land Use Plan was not ratified by membership or approved by a formal Band Council Resolution. These are important corrections to any claim that earlier project participation or land-use planning established community consent.
+
+IAAC assumes PLFN continues to lead on behalf of the Mi'kmaq of Nova Scotia for certain mitigation/follow-up arrangements, but notes that Membertou, Millbrook and Sipekne'katik consult independently of KMKNO. This assumption must be handled carefully and not treated as universal delegation without confirmation from the relevant rights holders.
