@@ -538,3 +538,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 
 ### Inventory status reconciliation
 The 71 inventory entries are now represented in this log. “B” means browser-rendered text was reviewed; “C” means only an index/archive description or excerpt was available; “E” means direct retrieval failed. None of these entries has A1/A2 status in this workflow. Several entries remain partial or unread and are explicitly marked above; therefore the inventory is **not** a claim that all 71 original PDFs have been fully read or preserved.
+
+
+## 44. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 41 | `137220E` | GHD / Nova Scotia Lands, *Environmental Impact Statement, Volume II of V*; https://iaac-aeic.gc.ca/050/documents/p80164/137220E.pdf | **B — Full 9,311-line browser-rendered text reviewed**, Sections 2–3 (alternatives and project description) | **Not A1/A2.** Original 12 MB PDF bytes not downloaded, hashed or preserved | Existing source entry BH-139 updated. Key discrepancies to resolve: 2019 RAP deck total 1.224 million m³ in-place versus EIS 770,000–922,000 m³ total waste; 2018 RODD dewatering effluent 0.7–1.7 million m³ versus EIS estimate 5.2 million m³; 2018 liner concept versus 2020 EIS GCL/FML single-composite description; 17,500 versus 18,200 truckloads. EIS says all waste-management alternatives leave the existing ~180,000 m³ cell in place; off-site disposal only removes new remediation waste. It says current leachate monitoring did not include PHCs, dioxins/furans or cyanide, and that the sediment compliance criteria/sampling methodology were still being developed. It also records the on-land pipeline segment from Indian Cross Point to Highway 348 property line for removal, underwater line abandonment, and other on-land segments abandonment in place. |
