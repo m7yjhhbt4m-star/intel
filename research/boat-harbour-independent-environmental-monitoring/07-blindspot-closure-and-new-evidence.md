@@ -451,7 +451,7 @@ These issues do not prove the Mount William site is suitable. They mean the Prop
 
 ## 19. Hive Engineering 2023 alternative-site screen — what remains unproven
 
-The original Hive Engineering report (BH-137) identifies a wider search space than the 2022 Mount William assessment: 109 Crown parcels and 97 private parcels within 50 km, and a four-site comparison that includes Northern Pulp's active landfill. It concludes that Northern Pulp has no exceedances against the criteria applied and is the preferred site under that screen.
+The original Hive Engineering report (BH-188) identifies a wider search space than the 2022 Mount William assessment: 109 Crown parcels and 97 private parcels within 50 km, and a four-site comparison that includes Northern Pulp's active landfill. It concludes that Northern Pulp has no exceedances against the criteria applied and is the preferred site under that screen.
 
 **Do not convert this desktop screen into a finding that a landfill is ready or approved.** Hive's own report says its private-parcel list is not comprehensive because it relied on visual screening of Property Online; GeoNova data would be required for a proper GIS screen. Groundwater depth was assumed and requires detailed investigation. The Crown inventory excludes mapped sensitivities but is not field-verified. The “no exceedances” result for Northern Pulp is only against the criteria Hive applied.
 
@@ -489,7 +489,7 @@ The 2019 Land Use Plan records a community concern to improve the existing PLFN 
 
 ## 20. Indian Cross Point: GPR anomalies and later pipeline removal must be reconciled
 
-Boreas Heritage's full 2019 report (BH-141) identifies a historic Mi'kmaw burial ground likely along the East River shoreline on/near the Palmer property, with possible extension south toward the pipeline ROW terminus. Four GPR grids in the ROW detected no burials, but a separate grid on an adjacent potential area found regular subsurface anomalies at approximately 70 cm to 1.05 m depth. Boreas says these could be burials but cannot be identified without ground-truthing. It classifies the western end of the ROW as high potential and recommends archaeological monitoring if the pipeline is removed there.
+Boreas Heritage's full 2019 report (BH-185) identifies a historic Mi'kmaw burial ground likely along the East River shoreline on/near the Palmer property, with possible extension south toward the pipeline ROW terminus. Four GPR grids in the ROW detected no burials, but a separate grid on an adjacent potential area found regular subsurface anomalies at approximately 70 cm to 1.05 m depth. Boreas says these could be burials but cannot be identified without ground-truthing. It classifies the western end of the ROW as high potential and recommends archaeological monitoring if the pipeline is removed there.
 
 IAAC's January 2025 EA Report says the Indian Cross Point-to-Highway 348 pipeline segment was removed by Northern Pulp before the project, with no archaeological effects identified and no further ground disturbance proposed. This creates a documentary reconciliation requirement, not proof of a mishap:
 - What exact pipeline length and ROW segment were removed, and on what date?
@@ -508,7 +508,7 @@ Do not claim the anomalies are human remains, and do not claim no burials exist 
 
 ## 21. 1966 authorization chain — recommendation located; final provincial decision still to verify
 
-The 6 April 1966 *Report for the Executive Council* (BH-142) is a one-page ministerial recommendation that the Governor in Council authorize the Nova Scotia Water Authority to dispose of Scott Maritimes Pulp Limited mill effluent into Boat Harbour, acquire all land required and charge certified costs to a dedicated “Waste Disposal Facility (Scott Maritimes Pulp Limited)” capital vote.
+The 6 April 1966 *Report for the Executive Council* (BH-186) is a one-page ministerial recommendation that the Governor in Council authorize the Nova Scotia Water Authority to dispose of Scott Maritimes Pulp Limited mill effluent into Boat Harbour, acquire all land required and charge certified costs to a dedicated “Waste Disposal Facility (Scott Maritimes Pulp Limited)” capital vote.
 
 This is important evidence of the intended project and funding arrangement, but it is not the final Executive Council instrument. The following must be recovered and compared:
 - the final provincial Order in Council / Executive Council minute approving the recommendation;
@@ -524,7 +524,7 @@ Do not say the 6 April recommendation itself legally authorized effluent dischar
 
 ## 22. PLFN 2014 submission exposes a high-value 1965–2011 archive still to recover
 
-PLFN's March 21, 2014 submission (BH-143) indexes 35 tabbed records. The source index is a research roadmap, not proof that every attachment is legible or independently verified. Several primary sources remain unreviewed or only partially OCR-readable:
+PLFN's March 21, 2014 submission (BH-187) indexes 35 tabbed records. The source index is a research roadmap, not proof that every attachment is legible or independently verified. Several primary sources remain unreviewed or only partially OCR-readable:
 - 1965 meeting/consent: Shubenacadie Indian Agency memo (26 Aug 1965); W.A. MacDonald memo (9 Sep 1965); B.G. Clench memoranda (14 Sep and 22 Oct 1965); W.P. McIntyre letter (14 Oct 1965); handwritten agreement signed by Chief Louis Francis and Councillor Martin Sapier (10 Oct 1965).
 - 1966 federal OIC (2 Sep 1966), including all conditions and schedules; 1966 Joseph B. MacDonald letter.
 - 1970 Health Canada and Fisheries reports; Rust Associates review and appendices; Dr. MacDonald, Henry Ferguson, New Glasgow Lions Club, Dr. Hirtle and later community correspondence.
@@ -539,11 +539,11 @@ PLFN's March 21, 2014 submission (BH-143) indexes 35 tabbed records. The source 
 
 ## 22. The 2014 AIP obligations must be separated by clause
 
-The signed 16 June 2014 Agreement in Principle (BH-138) required the Province to legislate a closure timeline and for the Province/PLFN to negotiate and execute an agreement respecting closure and remediation. It separately addressed PLFN participation costs (clause 2(b)), Indian Cross Point burial-site identification/protection (clause 2(c)), and a $1 million ex gratia clause if closure timelines were not finalized through good-faith negotiations.
+The signed 16 June 2014 Agreement in Principle (BH-182) required the Province to legislate a closure timeline and for the Province/PLFN to negotiate and execute an agreement respecting closure and remediation. It separately addressed PLFN participation costs (clause 2(b)), Indian Cross Point burial-site identification/protection (clause 2(c)), and a $1 million ex gratia clause if closure timelines were not finalized through good-faith negotiations.
 
-The 14 October 2014 MOA (BH-139) expressly satisfies **clause 2(b) only**: it funds PLFN participation costs, including a $100,000 accountable advance. It is not the remediation agreement.
+The 14 October 2014 MOA (BH-183) expressly satisfies **clause 2(b) only**: it funds PLFN participation costs, including a $100,000 accountable advance. It is not the remediation agreement.
 
-The October 2014 Indian Cross Point land-purchase agreement (BH-140) funds acquisition up to $103,500 and says the purchase is meaningful progress under clause 2(c), but the Province expressly acknowledges that it does **not** fulfill all clause 2(c) obligations. The 2015 BHCC TOR says the Baker Estate purchase substantially addressed the burial-land issue but a parcel remained on the Palmer property.
+The October 2014 Indian Cross Point land-purchase agreement (BH-184) funds acquisition up to $103,500 and says the purchase is meaningful progress under clause 2(c), but the Province expressly acknowledges that it does **not** fulfill all clause 2(c) obligations. The 2015 BHCC TOR says the Baker Estate purchase substantially addressed the burial-land issue but a parcel remained on the Palmer property.
 
 The 2015 BHCC TOR also says the closure timeline and participation costs were accomplished but the cleanup/remediation agreement remained outstanding. The 2024 Proponent response points to the MOA and burial-land purchase as evidence of continued agreements, but those address clauses 2(b) and 2(c), not necessarily the separate obligation to execute a substantive remediation agreement. No signed comprehensive remediation agreement has been located in the reviewed package.
 
@@ -559,14 +559,14 @@ EIS Appendix I's A'se'k News newsletter (2018) says formal consultation with Chi
 
 ## 23. Earlier relocation studies may materially change the alternative-site history
 
-PLFN's 2014 submission (BH-143) summarizes three pre-2022 alternatives:
+PLFN's 2014 submission (BH-187) summarizes three pre-2022 alternatives:
 - Agra Simons (Feb 2000): mill-site treatment facility with a Lighthouse Beach pipeline, reported at about $60M.
 - AMEC (21 Apr 2010): mill-site facility and Lighthouse Beach pipeline, reported at about $94M.
 - ADI Inc. (31 Mar 2011): tertiary treatment reportedly as low as $7.8M and a claimed $12M pipeline-cost saving for a shorter discharge route into Pictou Harbour.
 
 These are not yet verified cost comparisons. Obtain and review the original reports. Extract design flows and loads, treatment technology, residuals/sludge handling, receiving-water and outfall assumptions, pipeline route/length, permitting, capital estimate class, contingencies, operating/lifecycle costs and price year. Determine why each option was rejected, deferred or not advanced, and compare the assumptions with the later 2022 Mount William assessment and 2023 Hive screen. Do not compare headline dollars until costs are normalized to a common scope, price year and design basis.
 
-Also preserve two date discrepancies in BH-143: cover page “March 21, 2013” versus internal letter dated March 21, 2014; and body “October 22, 1995” for the B.G. Clench memo versus index “October 22, 1965.” Both need original-record confirmation.
+Also preserve two date discrepancies in BH-187: cover page “March 21, 2013” versus internal letter dated March 21, 2014; and body “October 22, 1995” for the B.G. Clench memo versus index “October 22, 1965.” Both need original-record confirmation.
 
 
 
