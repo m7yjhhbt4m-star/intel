@@ -436,3 +436,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Official source identity / locator | Status | Required next action |
 |---|---|---|---|---|
 | 35 | `137873E` | IAAC EIS Appendix C, *Public Meeting Minutes*, official registry attachment https://iaac-aeic.gc.ca/050/documents/p80164/137873E.pdf (401 KB) | **A0 + E + C** — source identity and attachment confirmed through official EIS registry; direct PDF and registry-link retrieval both timed out. No Appendix C minutes were read. EIS Volume I identifies the appendix but is not a substitute for its contents | Obtain an alternate official copy or request from IAAC/Build Nova Scotia; then inventory meeting dates, participants, motions/decisions, unresolved concerns, action items and whether the minutes are draft or approved |
+
+
+## 39. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 34 | `137875E` | IAAC EIS Appendix E, GHD/Nova Scotia Lands, *Public Open House No. 1 Documentation* (1 August 2019); https://iaac-aeic.gc.ca/050/documents/p80164/137875E.pdf | **B — Full 53-page browser-rendered PDF text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-134 in Document 05. Proponent's 2019 display panels say no contaminated sediment had been found beyond the estuary or in the Northumberland Strait; treat as a survey-bounded proponent statement, not proof of absence. Later 2025 DFO/IAAC concerns about model extent and missing sensitive-habitat data require reconciliation. The public comment summary lists 17 written comments (six positive), not a representative measure of community opinion. |
