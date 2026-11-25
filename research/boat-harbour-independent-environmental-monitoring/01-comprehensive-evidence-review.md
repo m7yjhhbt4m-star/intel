@@ -1275,3 +1275,35 @@ The October issue says Boreas Heritage completed a September 2019 GPR survey and
 ### 28.5 2019 Well-being Baseline Study — explicit data-use restriction
 
 The December 2019 PLFN Well-being Baseline Study (IAAC Appendix S, 137890E; BH-146) has been opened for metadata, methodology and governance review only. Its disclaimer says it was prepared for the sole use of PLFN and Nova Scotia Lands in preparing the EIS and that use of its data beyond that purpose is not permitted. No findings, quotations or individual-level data have been extracted for this research package. Documentary use requires written direction/permission from PLFN and the appropriate data-governance authority. Do not conflate this 2019 study with the 2014 Environmental Health Survey reported in Lewis et al. (2021; BH-129).
+
+
+
+## 37. 2018–2020 judicial decisions — provincial funding itself triggered a duty to consult
+
+The full 2018 NSSC 306 reasons (BH-160), the official SCC record confirming the 2019 NSCA 75 appeal outcome (BH-161), and the Supreme Court of Canada's 2020 refusal of leave (BH-162) have been reviewed.
+
+### 2018 NSSC 306 — the actual holding
+
+Justice Gabriel rejected PLFN's procedural-fairness complaint about the information disclosed in the Minister's decision process. However, he separately held that the Province did have a duty to consult PLFN about whether it would fund the replacement effluent treatment facility.
+
+The Court found:
+- the existing Boat Harbour facility was integral to the mill's operation and had to close no later than 31 January 2020;
+- a replacement ETF was integral to continued mill operation beyond that date;
+- each additional funding source made the replacement project incrementally more likely to proceed; and
+- provincial funding would make it incrementally more likely that the mill remained open and continued operations beyond 2020.
+
+The Court treated the funding decision as a strategic/high-level Crown decision with a potential adverse effect on PLFN's asserted rights. It ordered consultation to include whether the Province should fund the design and construction of the new ETF and, if so, the form of that financing.
+
+**Limits:** the Court did not order the Province to fund the project, did not give PLFN a veto, and did not decide the full merits of historical environmental claims, Aboriginal title, or the environmental acceptability of the replacement project. It found no procedural unfairness in the specific record-disclosure complaint, even though it found a duty to consult on funding.
+
+### 2019 NSCA 75 — appeal dismissed
+
+The Nova Scotia Court of Appeal dismissed the Province's appeal and upheld the duty-to-consult finding. The official Supreme Court of Canada file confirms that appellate outcome. The full NSCA reasons still need to be separately retrieved and reviewed before quoting detailed holdings or paragraph numbers.
+
+### 2020 Supreme Court of Canada — leave refused
+
+The Supreme Court of Canada dismissed the Province's application for leave to appeal, with costs, on 26 March 2020. This is a procedural refusal of leave, not a Supreme Court merits judgment or endorsement of every reason below. The binding appellate ruling remains 2019 NSCA 75.
+
+### Research relevance
+
+These decisions establish a legal milestone in the funding/consultation chronology: provincial funding of a replacement ETF was itself a decision requiring consultation because it could increase the likelihood of continued mill operation beyond the statutory closure date. This is distinct from the later environmental assessment decision, the 2014 AIP remediation agreement, and the 2025 Condition 9 alternative-site process. Keep each legal issue and decision-maker separate.
