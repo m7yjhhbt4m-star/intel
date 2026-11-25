@@ -724,3 +724,34 @@ The 2018 GHD estimate of a 315,020-tonne net reduction over 25 years has a diffe
 ### 24.2 Other internal volume discrepancy
 
 The main 2022 assessment says approximately 180,000 m³ is in the existing cell (70,000 m³ in 1996 plus 110,000 m³ subsequently); Annex 4 says approximately 116,000 m³ of sludge already placed. Reconcile the material definition, survey date and volume basis before using either number.
+
+
+
+## 24. Hive Engineering's 2023 alternative-site screen — source-level review
+
+The original 23-page Hive Engineering report (4 August 2023; BH-137) has now been reviewed. It was commissioned by McKiggan Hebert Lawyers on behalf of PLFN to provide technical analysis of the IR82 alternative-containment-cell issue. It compares four locations: the existing Boat Harbour cell, Northern Pulp's active and closed landfill areas, Mount William and Granton. It also screens Crown and private parcels within 50 km.
+
+The report is important because it directly challenges the narrow scope of the 2022 Mount William assessment. Hive says PLFN did not intend Mount William to be the only alternative and that its own work identified other parcels and a potential existing industrial landfill.
+
+**Crown-land screening:** Hive began with 1,376 mapped locations within 50 km. It excluded 448 locations smaller than 12 acres, leaving 928 candidate areas; further GIS exclusion of mapped streams, rivers, lakes, wetlands, old growth, protected areas, significant species/habitat and potable wells reduced this to 109 parcels, ranging from 12.5 to 237 acres. Three were within 10 km; 11 between 10–20 km; 23 between 20–30 km; 37 between 30–40 km; and 34 between 40–50 km.
+
+**Private-land screening:** the report identifies 97 candidate parcels using Service Nova Scotia Property Online visual screening and GIS layers. Hive explicitly says the list is not comprehensive because Property Online did not permit downloading the spatial data needed for a complete GIS screen; it says GeoNova files would be needed for a proper complete screening. It also says groundwater depth suitability could only be assumed and detailed field investigation was required. The 97 are therefore preliminary candidate parcels, not confirmed sites.
+
+**Criteria:** Hive applied the criteria in the March 29, 2022 NSECC memo: Nova Scotia Municipal Solid Waste Landfill Guidelines (2004), federal National Guidelines for Hazardous Waste Landfills (PN 1365, 2006), and British Columbia's 2022 Hazardous Waste Regulation. These include 1 m separation to groundwater below the liner/leak-detection system; 100 m from permanent surface water/wetlands; 100 m from other properties; 1,000 m from buildings; surface-water and groundwater isolation; population isolation; and BC-specific requirements including 300 m from permanent waterbodies, unsaturated soil depth/permeability and geological separation from fractured/permeable bedrock.
+
+Hive concludes that the existing Boat Harbour cell has nine criteria exceedances; Mount William has several exceedances, including water/wetland and building setbacks and population-isolation criteria; and the Northern Pulp active landfill has no exceedances against the criteria Hive applied. Hive describes Northern Pulp as the preferred site under that comparative screen. It also identifies Granton as constrained by narrow site geometry and buffers.
+
+### What this report establishes — and what it does not
+
+It establishes that an alternative-site desktop screen was undertaken by a consultant retained for PLFN, and that a wider candidate inventory and a comparative assessment exist. It provides a defensible reason to obtain the underlying GIS layers, parcel tables, field data and owner/permit records.
+
+It does **not** establish that 109 Crown parcels or 97 private parcels are ready-to-build landfill sites. It does not provide the field hydrogeology, geotechnical, ecological, engineering, land-title, permitting, capacity or community-consent evidence needed for a final selection. The report's “no exceedances” for Northern Pulp means no exceedances under the selected screening criteria; it does not prove regulatory approval, present capacity, long-term containment performance or owner commitment. Hive's report is commissioned evidence and its conclusions must be attributed accordingly.
+
+### Priority follow-up
+
+1. Obtain the complete Appendix A and B parcel tables and Appendix C four-site criteria matrix, then digitize parcel identifiers and coordinates into a GIS audit layer.
+2. Obtain the underlying GeoNova parcel data and rerun the private-land screen; Hive itself says its 97-parcel list is not comprehensive.
+3. Verify the Northern Pulp landfill's title, permit, active/closed cell boundaries, permitted waste types, remaining capacity, liner/leachate system, groundwater monitoring, past Boat Harbour waste acceptance and written willingness to receive the material.
+4. Reconcile the exact four Mount William PIDs in Hive's report (00865485, 00865469, 65170508, 65170516) with the two parcels actually assessed in the 2022 NSECC/GHD report (00865469 and 00865485).
+5. Have an independent technical reviewer apply one transparent, consistently defined criteria set to all candidate sites, including existing Boat Harbour, rather than comparing different levels of screening.
+6. Obtain the Province's original GIS/mapped wetland, watercourse, well and receptor datasets and test for omissions, age and positional accuracy.
