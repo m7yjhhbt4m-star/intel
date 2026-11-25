@@ -345,3 +345,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 22 | `137887E` | IAAC EIS Appendix P, Stantec, *Independent Ambient Air Monitoring Program Presentation*, Boat Harbour Remediation Project; https://iaac-aeic.gc.ca/050/documents/p80164/137887E.pdf | **B — Full 29-slide browser-rendered PDF text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-123 in Document 05. Presentation reports 957 samples for 188 contaminants (Aug 2018–Aug 2019), including 22 BaP exceedances among 100 BaP samples; Stantec says no correlation with pilot activities. Real-time PM/H2S exceedances were sub-minute fence-line action-level spot checks, not long-term ambient exceedances. Underlying monthly/daily reports, raw data, lab certificates and QA/QC are not included in this presentation and remain necessary for independent verification. The user’s local phone copy was not accessed. |
+
+
+## 28. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 23 | `137885E` | IAAC EIS Appendix O, Nova Scotia Lands/GHD, *Boat Harbour Remedial Action Plan Presentation*, 12 March 2019; https://iaac-aeic.gc.ca/050/documents/p80164/137885E.pdf | **B — Full 24-page browser-rendered presentation reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-124 in Document 05. Presentation says pilot testing and RAP were 80% complete and quantities still required verification. The displayed in-place sediment volume total is arithmetically inconsistent: row values sum to 1,224,000 m³, while displayed total says 1,244,000 m³. Separate waste table uses 1,224,000 m³. Treat all volumes as preliminary until verified against original calculation workbooks and later sludge-thickness mapping. |
