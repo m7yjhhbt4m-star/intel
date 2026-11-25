@@ -320,3 +320,13 @@ Castleden et al. is the principal published oral-history source for the “befor
 - **Repository record:** BH-128 added to source register.
 
 The paper uses 2013 Canadian Cancer Registry microdata and geographic coding to identify 55 cancer diagnoses among PLFN on-reserve residents at diagnosis during 1992–2013. It reports higher proportions in several broad cancer categories compared with other populations. The published table is a distribution of diagnoses, not an age-standardized population incidence analysis; it has no person-time denominators, confidence intervals or adjusted risk estimates. It excludes off-reserve members at diagnosis and does not link individual environmental exposure. It is not proof of causal attribution to Boat Harbour or mill emissions. The paper is important community-led evidence and calls for more in-depth studies and updated data.
+
+
+
+## 17. Lewis et al. (2021) 2014 Environmental Health Survey paper — full-text review — 25 November 2026
+
+- **Source:** Lewis, Francis, Francis-Strickland, Castleden & Apostle, *If Only They Had Accessed the Data: Governmental Failure to Monitor Pulp Mill Impacts on Human Health in Pictou Landing First Nation*, Social Science & Medicine 288, 113184, DOI 10.1016/j.socscimed.2020.113184.
+- **Direct source status:** Original 9-page PDF opened and fully text-reviewed from University of Victoria repository.
+- **Repository record:** BH-129 added to source register.
+
+The paper reports the 2014 PLFN Native Women's Group-led Environmental Health Survey: 279 respondents (59% response rate), 13 community research assistants, 297 questions and more than 400 variables. It presents selected physical, mental, emotional and spiritual health indicators and a community-defined air/land/water environmental-dispossession indicator. It is a cross-sectional self-reported survey with bivariate analysis, not a clinical or causal environmental exposure study. The 2014 survey is not a pre-exposure baseline; the comparisons use different survey instruments/populations. Full questionnaire/supplementary data and any later survey remain to be retrieved with PLFN/NWG authorization; raw individual data are not public.
