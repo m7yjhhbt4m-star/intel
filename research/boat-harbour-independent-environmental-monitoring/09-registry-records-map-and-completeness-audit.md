@@ -542,3 +542,31 @@ This is a short presentation, not the full technical report or raw dataset. It d
 ### Interpretation limits
 
 This is a Proponent self-report, not an independent audit. “No substantive planning work” is the Proponent's characterization; Condition 9 work did proceed. The absence of plans/monitors must be assessed against the Decision Statement's timing triggers, many of which require development prior to site preparation or implementation during remediation; it is not automatically a breach. It does establish that no federal follow-up program implementation or independent/Indigenous monitoring under those conditions occurred during the 2025 reporting period. The separate Condition 9 report and committee records were not found as public documents in this pass; their absence from the annual report is an evidence/transparency gap, not proof they do not exist.
+
+
+
+## 23. DFO comments on IR IAAC-14 — original 10-page attachment review — 25 November 2026
+
+- **Located:** Yes — IAAC contribution reference 48, attachment 2.
+- **Source:** Fisheries and Oceans Canada, *DFO Comments and Request for Information in relation to IR IAAC-14*, 30 August 2022; submitted to IAAC 8 May 2024.
+- **Opened and reviewed:** Yes — original 10-page PDF opened and fully text-reviewed.
+- **Repository record:** Source register entry BH-124 added to `05-source-register-and-evidence-quality.md`.
+
+### DFO's principal technical objections
+
+1. The Proponent had not provided adequate local baseline conditions for the estuary and Northumberland Strait shorelines immediately outside the Boat Harbour mouth. DFO says broader Strait information and photographs 20 km/90 km away do not establish local conditions.
+2. DFO says the project duration (>120 days) requires the CCME long-term clear-flow TSS guideline of 5 mg/L above background, not the 25 mg/L short-term criterion. It cites June 2020 local flood/ebb TSS measurements of 1–5 and 3–6 mg/L and challenges use of a historical 91 mg/L storm maximum as the chronic baseline.
+3. DFO says supplemental modelling showed 20–36 mg/L TSS after 120 days and exceedances of 25 mg/L after 230 days; the Proponent's claim of falling below 25 mg/L after 140 days does not resolve the stricter long-term guideline.
+4. The model predicted 4–10 cm deposition across most of the modelled embayment. DFO says there was no evidence this would be insignificant to eelgrass or other biota.
+5. The model domain was too small and approximately 70,000 m³ of sediment had an unknown endpoint.
+6. DFO says benthic habitat in the estuary and immediately outside the mouth was not adequately described; sensitive habitat such as eelgrass should be assumed in the absence of field data.
+7. DFO questions the site-specific basis for the Delft3D erosion/settling parameters and requests sensitivity modelling or field measurements.
+8. DFO's attached literature guidance describes eelgrass mortality/recovery risks from burial; these are general literature values, not site-specific observations.
+
+### Relevance to the final Decision Statement
+
+The 2025 Decision Statement conditions 3.4–3.7 require sediment-transport modelling and monitoring of TSS, sediment deposition and benthic habitat. DFO's attachment documents the technical rationale and unresolved evidence gaps behind those requirements. Do not represent DFO's predicted impacts as measured impacts; preserve the distinction between modelled predictions, DFO critique and actual post-project monitoring (which the 2025 Annual Report says had not been implemented in 2025).
+
+### Remaining attachment
+
+IAAC contribution reference 48 also includes attachment 3, *DFO's Technical Review of Round 1 Information Requirement Responses* (355 KB), and attachment 1, *Annex 1–3 Consolidated IRs 1 to 81*. Attachment 2 is the only one directly opened in this pass; the other two remain not reviewed due retrieval errors.
