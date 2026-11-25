@@ -373,3 +373,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Official source identity / locator | Status | Required next action |
 |---|---|---|---|---|
 | 26 | `137882E` | IAAC EIS Appendix L, *Minutes from BHCC Meetings During EIA and Meeting with PLFN to Review Draft EIS*, official PDF https://iaac-aeic.gc.ca/050/documents/p80164/137882E.pdf (3 MB) | **A0 + E + C** — source located; direct PDF fetch timed out; only cross-references and summary material in EIS Volume III were available in this pass. Appendix L itself has not been read | Obtain a browser-accessible copy or alternate official download; review complete agendas/minutes, attendance, decisions, action items, dissent, record of PLFN review of draft EIS, and any attachments. Do not substitute the EIS Volume III summary for the actual minutes |
+
+
+## 32. User's 71-file inventory — partial text review
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 27 | `137881E` | IAAC EIS Appendix K, *Correspondence with the Assembly of Nova Scotia Mi’kmaq Chiefs, PLFN, and the Native Council of Nova Scotia*; https://iaac-aeic.gc.ca/050/documents/p80164/137881E.pdf | **C — Partial browser-text review only.** Extracted letter/email/meeting-summary text examined; pages 6–14 were not text-extracted and screenshot retrieval failed | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-127 in Document 05. The 2 July 2019 Assembly letter records authorization for PLFN to lead consultation on behalf of the Assembly. The March 2020 NCNS meeting summary is proponent-prepared and not a verbatim record or blanket endorsement. Missing pages include the 31 January 2020 letter and Project Description executive summary; obtain them before marking this item fully reviewed. |
