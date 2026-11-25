@@ -1754,3 +1754,37 @@ This is not proof that all archaeological or cultural resources were identified 
 ### 48.7 Required verification
 
 Obtain final spill-basin design and geotechnical calculations, extreme-rainfall/climate scenarios, freeboard and overflow routing, level alarms/automatic diversion, liner QA/QC/leak detection, emergency response plans and drills, pipeline/diffuser as-builts, inspection/ROV reports, no-anchoring-zone approvals, incident records and actual performance monitoring. Compare all of these with the final EA conditions and the EXP 2019 recommendations (BH-166/BH-167).
+
+
+
+## 49. January 2019 EARD Section 12 — cumulative effects assessment
+
+The full EARD Section 12 (BH-190) has now been reviewed. The regional assessment area includes Pictou County and adjacent Northumberland Strait waters extending toward PEI. The section inventories industrial development, roads/linear infrastructure, commercial fisheries and aquaculture, shipping, tourism/recreation and other activities. It identifies three named future projects: Fifteen Mile Stream Gold, Highway 104 twinning and MacLellans Mountain Quarry. It concludes that the replacement ETF project will not create significant cumulative effects for the VECs carried through the assessment.
+
+### 49.1 Indigenous land/resource use excluded from cumulative-effects analysis
+
+The EARD identifies “Indigenous Peoples' use of land and resources” as a VEC, but does not carry it forward into the cumulative-effects assessment. Its stated reasoning is that the mill/road area has been industrial for decades and that marine construction would be temporary and timed to reduce disruption.
+
+This is a material methodological choice. The fact that a site has been industrial for decades does not establish that PLFN use has ceased or that cumulative effects on rights, harvesting, cultural practice, access, food systems and relationships with A'se'k are negligible. The 2014 Elder oral histories, PLFN submissions and community environmental-health research demonstrate that impacts are not limited to temporary construction.
+
+### 49.2 Historical mill contamination treated as baseline
+
+The section treats existing environmental conditions and historical development largely as baseline context. It does not separately quantify the cumulative historical contribution of decades of mill effluent, Boat Harbour sediment/sludge contamination, wetland changes and previous remediation/disposal activity. This can make legacy industrial effects appear as the “existing environment” rather than an accumulated pressure requiring explicit assessment.
+
+The replacement project may replace an existing outfall, but the historical contaminant inventory, sediment disturbance from the new marine trench, changed effluent chemistry, fishing activity, aquaculture, shipping and climate-driven changes should be evaluated together. The cumulative-effects conclusion depends on which activities and stressors were included and which were screened out.
+
+### 49.3 Future-project inventory and regional interactions
+
+The three named future projects are a narrow inventory and may be reasonable as of the EARD's preparation date, but the assessment must be checked against the full registry and reasonably foreseeable developments. It should also account for existing aquaculture leases, fishing effort, shipping routes, other outfalls, coastal erosion, sea-level rise, storm intensity, ice conditions and sediment transport. EXP's 2019 review separately noted missing sea-level-rise and sediment-transport modelling in the receiving-water study.
+
+### 49.4 Independent review questions
+
+- Why was Indigenous land/resource use identified as a VEC but excluded from cumulative-effects assessment?
+- Was PLFN asked to define cumulative effects and harvesting indicators, and did PLFN agree with the screening rationale?
+- Were historical Boat Harbour sediment/sludge contamination and previous remediation activities treated as baseline or assessed cumulatively?
+- Did the assessment include all existing aquaculture sites, commercial fishing grounds and seasonal effort, including local knowledge?
+- Was climate change included in the project life and regional cumulative assessment?
+- Were other effluent discharges, shipping, dredging, coastal development and stormwater considered?
+- Have the final EA decision and later monitoring conditions addressed these omissions?
+
+Do not describe Section 12 as a comprehensive regional cumulative-effects assessment without qualification. It is the Proponent's 2019 assessment, and its decision not to carry Indigenous land/resource use forward is a significant issue for independent review.
