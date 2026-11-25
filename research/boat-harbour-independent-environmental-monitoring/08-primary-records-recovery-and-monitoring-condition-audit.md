@@ -344,3 +344,16 @@ The assessment covers only two Mount William parcels. NSECC's Annex 2 explicitly
 **Critical correction:** the main report attributes 183,164 tonnes CO₂e to the Mount William site and pairs it with 5,042 homes. Annex 7 shows 183,164 tonnes/42,896 homes is the 1,250 km third-party hazardous facility scenario; the nearby new-landfill scenario is 21,530 tonnes/5,042 homes. The main text combines figures from different scenarios; the 2024 Proponent response repeats this. See BH-130 for details and citations.
 
 **Additional discrepancy:** main text reports 180,000 m³ in the existing cell; Annex 4 says 116,000 m³ of sludge. The distance is also described as 20 km round trip in the main text, while the Annex 3 map says 18.5 km one-way and Annex 7 uses 40 km round trip.
+
+
+
+## 18. Hive Engineering IR82 Analysis — original PDF review — 25 November 2026
+
+- **Source:** Hive Engineering, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, 4 August 2023, 23 pages; IAAC PDF 155835E; BH-137.
+- **Status:** Original PDF opened and text reviewed.
+
+Hive's report was commissioned by McKiggan Hebert Lawyers on behalf of PLFN. It screens Crown and private parcels and compares four locations (existing Boat Harbour, Northern Pulp, Mount William and Granton) using criteria drawn from NSECC municipal landfill guidelines, federal hazardous-waste landfill guidance and BC hazardous-waste regulations. It reports 109 Crown and 97 private candidate parcels within 50 km; identifies nine siting-criteria exceedances at Boat Harbour; and reports no exceedances for Northern Pulp under the criteria applied.
+
+The report itself says the private parcel inventory is not comprehensive because Property Online could only be visually screened; GeoNova data are needed for a complete GIS screen. Groundwater depth is assumed and requires field investigation. Accordingly, this is a desktop screen, not a final engineering suitability determination or regulatory approval.
+
+Required source recovery: Appendix A Crown parcel table, Appendix B private parcel table, Appendix C four-site matrix and source GIS layers; plus Northern Pulp's permit, accepted waste classes, capacity, containment/leachate design, groundwater monitoring and written owner position.
