@@ -612,3 +612,14 @@ The affidavit describes 2016–2018 engineering/funding, Pictou Roads diffuser p
 The EARD describes the HHE as qualitative, not a completed quantitative HHRA. It defers final COPC screening until future treated-effluent chemistry is available, expects future effluent to be better than current effluent, and anticipates that screening may identify no COPCs requiring a full HHRA. The 2018 untreated Point A sample did not test mercury or 2,3,7,8-TCDD/TCDF. The report refers to 89 PLFN participants in FNFNES but says community-specific consumption rates were unavailable. It proposes later fish/shellfish tissue chemistry, pre-discharge baseline and post-commissioning monitoring.
 
 **Outstanding:** final HHRA/COPC screening, raw lab certificates and QA/QC, post-commissioning chemistry, pre-discharge baseline, fish/shellfish tissue results, PLFN-specific food-consumption rates and proof of monitoring implementation. This HHE is not proof of no human-health risk.
+
+
+
+## 39. January 2019 EARD Section 10 — full text reviewed
+
+- **Source:** Northern Pulp EARD Section 10, *Accidents, Malfunctions and Unplanned Events*, January 2019, combined Sections 9–15 PDF; BH-189.
+- **Status:** Full Section 10 text reviewed.
+
+The EARD assesses hazardous-material spill, erosion/sediment-control failure, land pipeline/ETF release, marine outfall damage/fouling, off-specification effluent, spill-basin berm failure, vehicle accident and heritage discovery. It describes a 35,000 m³ HDPE-lined spill basin (10–13 hours at full production), average annual precipitation/freeboard, nearly-empty operating practice, buried/armoured marine pipeline, no-anchoring zone, diver/ROV inspections and a qualitative “not significant” residual-risk conclusion.
+
+**Outstanding:** final 1-in-100-year/24-hour design storm and climate allowance; basin overflow/overfill and power-failure controls; liner QA/QC/leak detection; final pipeline/diffuser as-builts and inspection records; incident/off-spec records with thresholds beyond PPER; route-wide potable-well baseline; and PLFN-authorized archaeological/cultural-resource verification.
