@@ -357,3 +357,17 @@ Hive's report was commissioned by McKiggan Hebert Lawyers on behalf of PLFN. It 
 The report itself says the private parcel inventory is not comprehensive because Property Online could only be visually screened; GeoNova data are needed for a complete GIS screen. Groundwater depth is assumed and requires field investigation. Accordingly, this is a desktop screen, not a final engineering suitability determination or regulatory approval.
 
 Required source recovery: Appendix A Crown parcel table, Appendix B private parcel table, Appendix C four-site matrix and source GIS layers; plus Northern Pulp's permit, accepted waste classes, capacity, containment/leachate design, groundwater monitoring and written owner position.
+
+
+
+## 19. 2024 Proponent response and embedded 2015–2019 records — review status — 25 November 2026
+
+| Record | Direct source status | What the review establishes / limits |
+|---|---|---|
+| Proponent response to PLFN IR82 feedback, IAAC 155833E (BH-131) | **Original PDF text opened; substantive review** | Proponent's chronology, legal/technical response and Annex 3 records reviewed. It characterizes 2019–2020 as “general project support” and says “adamant opposition” emerged March 2021; it also records 30 May 2018 PLFN correspondence and 23 August 2018 provincial response. This is the Proponent's position, not neutral adjudication. |
+| Membertou Geomatics 2019 Land Use Plan (BH-132) | **Substantive partial review** | Future land-use vision; pending BCR/acceptance; assumes pending transfers safe; identifies community concerns including water, traditional plants, access and PLFN sewer outfall. Not consent to landfill. |
+| Group ATN 2019 Indigenous Economic Opportunities report (BH-133) | **Substantive partial review** | Employment, procurement, training and economic-opportunity study; no environmental risk assessment or consent. Cover letter calls enclosed copy draft final while report is labelled final. |
+| Boat Harbour Cleanup Committee minutes, 22 Feb 2019 (BH-134) | **Full six-page text reviewed** | Records both engagement and concerns about off-gassing, transport accidents, procurement, work experience and community representation. Long-term monitoring/maintenance entity is an action item, not a completed agreement. |
+| Boat Harbour Cleanup Committee Terms of Reference, July 2015 (BH-135) | **Full text reviewed** | Advisory only; no decision-making authority; no binding agreement absent approval; explicitly not consultation and does not discharge duty to consult; cleanup agreement still outstanding. |
+| Proponent Mi'kmaq-language project overview (BH-136) | **Full extracted text reviewed** | States no facility-related contaminated sediment was found in the Northumberland Strait, conflicting with the Supplemental Phase II near-mouth PHC exceedances; public communication, not technical report. |
+
