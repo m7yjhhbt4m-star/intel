@@ -1038,3 +1038,21 @@ The pleading describes the 2001 MOU, proposed C–D bypass pipeline, 2002 lease 
 The report evaluates tertiary treatment after a new activated-sludge secondary plant and two outfall options. It estimates wetlands $7.804M, clarification $8.237M, ozonation $17.416M; annual O&M $0.5M/$2.063M/$2.363M. Outfall costs are $7.129M to Pictou Harbour and $23.756M to MacKenzie Head. The lowest-cost Pictou Harbour combination is about $14.933M before secondary treatment and omitted costs. The report is marked DRAFT and recommends process-change monitoring and pilot testing.
 
 **Outstanding:** final signed report, pilot-test data, 2011 mill process changes and post-change monitoring, AMEC 2010 report, and source basis for the $12M pipeline savings later stated in PLFN's 2014 submission.
+
+
+
+## 43. EXP Services 2019 technical peer review and follow-up memo — full-text review
+
+### BH-166 — Document Review Revision 3
+
+- **Source:** EXP Services Inc., *Pictou Landing First Nation — Document Review: Northern Pulp Nova Scotia Corporation — Existing and Proposed Effluent Treatment Plant*, HFX-00247484-A0, Revision 3, 5 March 2019.
+- **Located/opened:** Yes — full extracted text reviewed in PLFN's official EA submission PDF bundle: https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/comments/2-Pictou-Landing-First-Nation.pdf
+- **Review:** Technical peer review of 2016 EEM Cycle 7, 2017 KSH treatment selection, 2018/2019 EEM and follow-up plans, Stantec receiving-water modelling, pipeline construction, human-health evaluation and air dispersion modelling.
+
+### BH-167 — Follow-up Studies and Further Assessment Required
+
+- **Source:** EXP Services Inc., *Follow Up Studies and Further Assessment Required*, 8 March 2019, 7 pages.
+- **Located/opened:** Yes — full text reviewed in same official PDF bundle.
+- **Review:** Lists proponent-identified and EXP-recommended follow-up studies, including benthic, geotechnical, HADD, SAR, MEK, archaeology, HHRA, wellhead protection, emergency response, aggregate/ARD, lobster larval/adult toxicity, spill-basin design storm, construction monitoring/bonding, First Nations oversight and expanded air-contaminant/odour assessment.
+
+**Outstanding:** condition-by-condition crosswalk against final EARD, focus-report responses, EA decision conditions, final design, completed studies, construction/as-built records and actual monitoring. The EXP review is a PLFN-commissioned peer review of supplied documents, not an independent field investigation; recommendations must be tracked rather than assumed uncompleted.
