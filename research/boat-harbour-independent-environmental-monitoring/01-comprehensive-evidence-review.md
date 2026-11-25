@@ -1378,3 +1378,52 @@ The 2010 pleading refers to approximately 25 million gallons/day of wastewater d
 ### What this pleading adds
 
 It identifies a precise sequence of alleged commitments and failures that can be tested against executed contracts and engineering records. The central evidence gap is the original 2001 MOU, September 2006 amendment, October 2008 engineering report on pipeline feasibility, 2008 Accommodation Agreement, and licence extension instruments. The pleaded eutrophication concern should be tested against the original tidal/hydraulic modelling and engineering opinion, not repeated as a settled technical fact.
+
+
+
+## 40. ADI's tertiary-treatment and outfall alternatives study — full draft report reviewed
+
+The full 49-page ADI Limited *Draft — Northern Pulp Tertiary Treatment Study* (project L6716-001.1; BH-165) has now been reviewed. It was commissioned following an RFP dated 24 May 2010 and later included in PLFN's 2018 environmental-assessment submission. It evaluates tertiary treatment after a proposed new activated-sludge secondary plant; it does **not** cost the complete replacement treatment facility.
+
+### Tertiary treatment alternatives
+
+| Option | Preliminary capital | Estimated annual O&M |
+|---|---:|---:|
+| Engineered wetlands (6.1 ha) | $7.804M | $0.500M |
+| Chemical precipitation / clarification | $8.237M | $2.063M |
+| Ozonation | $17.416M | $2.363M |
+
+The study also considered enhanced filtration and membrane filtration but identified engineered wetlands, clarification and ozonation as the three most promising options.
+
+### Outfall alternatives
+
+| Outfall | Preliminary capital |
+|---|---:|
+| Pictou Harbour | $7.129M |
+| Northumberland Strait / MacKenzie Head | $23.756M |
+
+The Pictou Harbour option requires tertiary treatment; therefore, the minimum combined capital from the lowest-cost pairing is approximately **$14.933M** ($7.804M wetlands + $7.129M outfall), before the secondary treatment plant and other excluded costs. The MacKenzie Head outfall was considered far enough away to avoid incoming tides pushing effluent back into Pictou Harbour, potentially avoiding tertiary treatment. The report's outfall estimates are order-of-magnitude values and assume a 900 mm HDPE DR-17 pipe sized for 45,000 m³/day; the MacKenzie Head option includes approximately 8.2 km land installation and 0.9 km marine installation.
+
+### Technical scope and limitations
+
+- The study's tertiary process scope is additional reduction of BOD, TSS and colour after secondary treatment.
+- The new activated-sludge secondary plant and its full costs are outside this report and were covered in the AMEC 2010 study.
+- ADI says the capital estimates are preliminary, based on vendor budget quotes, published R&D and in-house experience.
+- Tertiary sludge-handling equipment is excluded on the assumption the secondary treatment plant would be sized to handle it.
+- Additional labour is excluded; minimal operation by existing wastewater-treatment staff is assumed.
+- Land acquisition/easements, some contractor overhead/profit, mobilization/demobilization and project-specific costs are not fully accounted for.
+- The report recommends delaying treatment decisions until planned 2011 mill process changes were implemented, then collecting at least three months of post-change effluent data before selecting a tertiary option.
+
+The report says there were no regulations at the time preventing discharge into Pictou Harbour, but the existing effluent's poor aesthetic quality would require improvement for public acceptability. That statement is not a finding that discharge would be environmentally safe, publicly acceptable, or approved under current law.
+
+### Correction to later summaries
+
+PLFN's 2014 submission summarizes the ADI option as tertiary treatment costing as little as $7.8M and saving $12M in pipeline costs. The full ADI study shows that $7.804M is the tertiary treatment component only; the Pictou Harbour outfall adds $7.129M. The Northumberland Strait/MacKenzie Head outfall is estimated at $23.756M. The reported $12M pipeline saving may refer to a different comparison or scope and must be traced to the original 2011 cost report before being repeated.
+
+### Follow-up
+
+1. Obtain the separate AMEC April 2010 *Boat Harbour: Return to Tidal Re-Evaluation* report and reconcile its secondary-treatment design/flows with ADI's 45,000 m³/day basis.
+2. Obtain the final signed ADI report and any revised cost estimate; the copy reviewed is marked DRAFT.
+3. Verify whether 2011 Green Transformation Program mill process changes were implemented and obtain at least three months of post-change flow/quality data.
+4. Obtain pilot-test plans/results for wetlands, clarification and ozonation; the report says pilot testing is necessary before detailed design.
+5. Normalize the ADI costs against the 2000 Agra Simons and 2010 AMEC estimates by scope, price year, design flow, treatment level, outfall route, operating cost and contingency.
