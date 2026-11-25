@@ -865,3 +865,19 @@ Boreas concludes:
 5. **Burial-ground source trail:** obtain Douglas Brown's full 1998 *Indian Cross Point Burial Ground Research Final Report*, original Crown grant maps, 1995 provincial relocation records, 1997 research records, the full Baker Estate deed/transfer and any Palmer-property discussions. Exact burial locations are sensitive and should not be publicly mapped without PLFN direction.
 
 This report is significant evidence of a known archaeological risk area and of uncertainty that remains unresolved. It is not proof that the burial ground's exact location has been found, nor proof that the pipeline removal disturbed or did not disturb remains.
+
+
+
+## 28. 6 April 1966 Water Act report to Executive Council — original scan reviewed
+
+The one-page *Report for the Executive Council* dated 6 April 1966 (BH-142) has now been opened and reviewed. It is a ministerial recommendation under the Nova Scotia Water Act. It recommends that Governor in Council:
+
+1. authorize the Nova Scotia Water Authority to provide for disposal of effluent from the Scott Maritimes Pulp Limited mill into Boat Harbour;
+2. authorize acquisition of all land required for that effluent disposal; and
+3. authorize the Minister of Finance and Economics to pay properly certified Water Authority expenses, charged to the capital vote “Waste Disposal Facility (Scott Maritimes Pulp Limited).”
+
+This is a significant primary record. It documents the government's formal administrative framing of Boat Harbour as a dedicated industrial waste-disposal facility for Scott Maritimes, and connects that project to land acquisition and a designated capital expenditure.
+
+**Important limit:** this is the Minister's recommendation, not the final Executive Council decision or the separate federal instrument affecting riparian rights. It contains no environmental baseline, alternatives assessment, public/PLFN consultation record, impact analysis or mitigation conditions. The corresponding final provincial OIC/Executive Council minute, departmental supporting file, land acquisition records and financial accounts are still required.
+
+The 1965 provincial OIC, the 6 April 1966 Water Act report and the 2 September 1966 federal OIC are distinct documents serving different legal/administrative functions. They must be analyzed separately and in sequence.
