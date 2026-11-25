@@ -801,3 +801,15 @@ The MOA expressly satisfies AIP clause 2(b), the participation-cost provision, w
 The agreement funds the Band's acquisition of identified burial-ground lands. The Province expressly acknowledges that the agreement does not fulfill all obligations under AIP clause 2(c). Schedule A legal description, transfer/deed and title registration require separate review.
 
 **Cross-document note:** PLFN's 2023 response paragraph 93 contains a typographical date “June 30, 1995”; the signed AIP says 30 June 2015. Use the original AIP text.
+
+
+
+## 30. Boreas Heritage Indian Cross Point GPR report — full-text review — 25 November 2026
+
+- **Source:** Boreas Heritage Consulting Inc., *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey*, September 2019, permit A2019NS064, 63 pages.
+- **Located/opened:** Yes — full report text reproduced as Annex 3.11 in the February 2024 Build Nova Scotia IR82 response, IAAC PDF 155833E.
+- **Repository record:** BH-141 added to `05-source-register-and-evidence-quality.md`.
+
+Boreas reports no burial evidence in four selected GPR grids within the pipeline ROW. A separate adjacent-area GPR grid revealed regular anomalies at approximately 70 cm depth and deeper; Boreas says these may be burials but cannot be identified without ground-truthing. The report identifies the western ROW end as high potential for unmarked burials and recommends archaeological monitoring if the pipeline is removed there.
+
+**Reconciliation gap:** IAAC's 2025 EA Report says the Indian Cross Point-to-Highway 348 pipeline section was already removed by Northern Pulp and no archaeological effects were identified. Obtain precise removal limits/as-builts, archaeological monitor logs, photographs, permits, ground-truthing records and confirmation whether the high-potential area and anomaly grid were disturbed or avoided. Resolve Boreas's internal PA-3/PA-4 location discrepancy using original field maps/data. Exact burial locations are sensitive and should not be publicly mapped without PLFN direction.
