@@ -349,7 +349,7 @@ The assessment covers only two Mount William parcels. NSECC's Annex 2 explicitly
 
 ## 18. Hive Engineering IR82 Analysis — original PDF review — 25 November 2026
 
-- **Source:** Hive Engineering, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, 4 August 2023, 23 pages; IAAC PDF 155835E; BH-137.
+- **Source:** Hive Engineering, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, 4 August 2023, 23 pages; IAAC PDF 155835E; BH-188.
 - **Status:** Original PDF opened and text reviewed.
 
 Hive's report was commissioned by McKiggan Hebert Lawyers on behalf of PLFN. It screens Crown and private parcels and compares four locations (existing Boat Harbour, Northern Pulp, Mount William and Granton) using criteria drawn from NSECC municipal landfill guidelines, federal hazardous-waste landfill guidance and BC hazardous-waste regulations. It reports 109 Crown and 97 private candidate parcels within 50 km; identifies nine siting-criteria exceedances at Boat Harbour; and reports no exceedances for Northern Pulp under the criteria applied.
@@ -376,9 +376,9 @@ Required source recovery: Appendix A Crown parcel table, Appendix B private parc
 
 ## 19. 2014 AIP and implementing agreements — primary-record audit — 25 November 2026
 
-- **BH-138:** Original signed June 16, 2014 Agreement in Principle opened and fully reviewed. It commits the Province to introduce closure legislation by June 30, 2015 and the Province/Band to negotiate and execute a separate agreement respecting closure and remediation. It includes participation-cost and Indian Cross Point burial-ground provisions.
-- **BH-139:** October 14, 2014 funding MOA reviewed in full in GHD EIS Appendix I (IAAC PDF 137879E). It implements AIP clause 2(b) only and provides a $100,000 accountable advance, subject to eligible-cost and accounting provisions.
-- **BH-140:** October 14, 2014 Indian Cross Point burial-ground purchase agreement reviewed in EIS Appendix I. It implements part of clause 2(c); the Province expressly acknowledges it does not fulfill all obligations under that clause.
+- **BH-182:** Original signed June 16, 2014 Agreement in Principle opened and fully reviewed. It commits the Province to introduce closure legislation by June 30, 2015 and the Province/Band to negotiate and execute a separate agreement respecting closure and remediation. It includes participation-cost and Indian Cross Point burial-ground provisions.
+- **BH-183:** October 14, 2014 funding MOA reviewed in full in GHD EIS Appendix I (IAAC PDF 137879E). It implements AIP clause 2(b) only and provides a $100,000 accountable advance, subject to eligible-cost and accounting provisions.
+- **BH-184:** October 14, 2014 Indian Cross Point burial-ground purchase agreement reviewed in EIS Appendix I. It implements part of clause 2(c); the Province expressly acknowledges it does not fulfill all obligations under that clause.
 
 **Records still required:** complete negotiations and drafts for the broader closure/remediation agreement; all Steering Committee agendas/minutes/action logs; any executed remediation agreement or formal record that no agreement was reached; complete Schedule A, deed/transfer and land-title records for the burial-ground purchase; proof of actual funding disbursements and eligible-cost accounting. The signed AIP's June 30, 2015 date corrects the “1995” typo in PLFN's 2023 response paragraph 93.
 
@@ -386,7 +386,7 @@ Required source recovery: Appendix A Crown parcel table, Appendix B private parc
 
 ## 20. Boreas Heritage 2019 Indian Cross Point GPR report — full-text review — 25 November 2026
 
-- **Source:** Boreas Heritage Consulting Inc., *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey*, September 2019, permit A2019NS064, 63 pages; reproduced as Annex 3.11 in IAAC PDF 155833E (BH-141).
+- **Source:** Boreas Heritage Consulting Inc., *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey*, September 2019, permit A2019NS064, 63 pages; reproduced as Annex 3.11 in IAAC PDF 155833E (BH-185).
 - **Status:** Full extracted report text, conclusions and recommendations reviewed.
 
 The report used desktop historical/archaeological research, field reconnaissance and a 500 MHz Noggin 500 GPR instrument. Four selected ROW grids detected pipeline-related disturbance and the pipeline in two grids, but no burial evidence. A separate adjacent-area GPR grid detected regular subsurface anomalies at approximately 70 cm and deeper; Boreas says these may be burials but cannot be identified without ground-truthing. The report identifies the western ROW end as high potential for unmarked burials and recommends an archaeological monitor if that pipeline section is removed.
@@ -397,7 +397,7 @@ The report used desktop historical/archaeological research, field reconnaissance
 
 ## 21. 6 April 1966 Water Act report to Executive Council — original scan review
 
-- **Source:** Minister under the Nova Scotia Water Act, *Report for the Executive Council*, 6 April 1966, one page; BH-142.
+- **Source:** Minister under the Nova Scotia Water Act, *Report for the Executive Council*, 6 April 1966, one page; BH-186.
 - **Status:** Original scan opened and reviewed.
 
 The Minister recommends that Governor in Council authorize the Nova Scotia Water Authority to dispose of Scott Maritimes Pulp Limited mill effluent into Boat Harbour, acquire all land required, and authorize payment of certified expenses under the dedicated “Waste Disposal Facility (Scott Maritimes Pulp Limited)” capital vote.
@@ -408,7 +408,7 @@ The Minister recommends that Governor in Council authorize the Nova Scotia Water
 
 ## 22. PLFN 2014 industrial-approval submission and 35-tab archive index
 
-- **Source:** Pictou Landing First Nation, *Submissions of Pictou Landing First Nation* concerning Northern Pulp's 2013 Industrial Approval renewal, dated 21 March 2014, Volume I; Nova Scotia Legislature public PDF; BH-143.
+- **Source:** Pictou Landing First Nation, *Submissions of Pictou Landing First Nation* concerning Northern Pulp's 2013 Industrial Approval renewal, dated 21 March 2014, Volume I; Nova Scotia Legislature public PDF; BH-187.
 - **Status:** Main submission text reviewed. The appended scanned/tabbed material is included but several handwritten and low-quality pages are not reliably transcribed by OCR.
 
 The submission's 35-tab index identifies original records from 1965 through 2011, including the 1965 meeting memoranda and handwritten agreement; 1966 federal OIC; 1970 correspondence and government reports; 1991 closure letter; 1993 settlement; 1995/1996 agreements and OIC; 1997 legal correspondence; Agra Simons 2000; 2001 MOU; 2002 lease extension; sediment engineering report; 2006 extension; 2008 closure correspondence; and AMEC 2010 / ADI 2011 relocation studies.
@@ -421,9 +421,9 @@ The submission's 35-tab index identifies original records from 1965 through 2011
 
 - **Source:** GHD EIS Appendix I, *Documentation of Informal PLFN Consultation*, IAAC document 137879E.
 - **Direct source status:** Original 5,874-line PDF opened; substantive partial review of AIP, Steering Committee TOR, MOA, Indian Cross Point land agreement, introduced Boat Harbour Act, Community Liaison Coordinator workplan and A'se'k News.
-- **Repository records:** BH-137–BH-143 added to source register.
+- **Repository records:** BH-182–BH-188 added to source register.
 
-The 2014 AIP (BH-138), MOA (BH-139) and Indian Cross Point agreement (BH-140) were directly reviewed. The MOA satisfies clause 2(b) costs only; the Indian Cross Point agreement makes progress under clause 2(c) but expressly does not fulfill all burial-site obligations. The 2015 BHCC TOR says the remediation agreement remained outstanding. No signed comprehensive remediation agreement has been located in the reviewed records.
+The 2014 AIP (BH-182), MOA (BH-183) and Indian Cross Point agreement (BH-184) were directly reviewed. The MOA satisfies clause 2(b) costs only; the Indian Cross Point agreement makes progress under clause 2(c) but expressly does not fulfill all burial-site obligations. The 2015 BHCC TOR says the remediation agreement remained outstanding. No signed comprehensive remediation agreement has been located in the reviewed records.
 
 The 2018 A'se'k News newsletter says formal consultation with Chief and Council began 19 April 2018 and lists 18 May 2018 as the response deadline. It reports Phase I ESA complete, Phase II nearly complete and baseline studies underway. Retrieve the meeting record, 18 May response, 30 May PLFN letter and 23 August provincial response.
 
