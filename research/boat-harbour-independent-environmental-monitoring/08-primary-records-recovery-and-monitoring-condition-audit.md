@@ -283,3 +283,16 @@ The full nine-page Chaudhary et al. (2020) article has been reviewed through an 
 - **Limitations:** near-field baseline only, not whole-Strait or Boat Harbour-basin sampling; no water-column/suspended-sediment chemistry; selected tissue samples for MeHg; no raw sample-level dataset/lab certificates recovered.
 
 Repository source BH-030 was upgraded from abstract-level to full-text review. The earlier statement in this audit that only the abstract was accessible is superseded by this status update.
+
+
+
+## 14. Build Nova Scotia 2025 Annual Report — direct status and missing Condition 9 records — 25 November 2026
+
+- **Located/opened:** Yes — full text of the 25-page Build Nova Scotia 2025 Annual Report reviewed through the official project resource page/accessible full-text mirror. IAAC document reference 74; reporting period 24 January–31 December 2025; submitted 31 March 2026. Binary PDF not separately downloaded in this pass.
+- **Repository record:** Source register entry BH-123 added to `05-source-register-and-evidence-quality.md`.
+
+The Proponent reports no site preparation/remediation and no implementation of the Decision Statement follow-up programs during 2025; no Indigenous monitors or third-party independent environmental monitor had been retained. It states that detailed follow-up plans and schedules were not prepared/shared because the Project remained in pre-construction during PLFN's judicial review. These statements are a Proponent status report and must be read against the timing triggers in each condition.
+
+**Condition 9 records:** The annual report says the Alternative Site Advisory Committee was established with PLFN; its Terms of Reference were executed; it met 20 November and 18 December 2025; a candidate alternative site was selected for feasibility assessment; and the design engineer/general services consultant were engaged. A separate report was submitted to IAAC on 22 January 2026 under separate cover, saying no technically and economically feasible alternative had yet been identified although a potential location remained under analysis.
+
+The annual report does not reproduce the candidate-site identity, executed ToR, meeting minutes, feasibility analysis or separate 22 January report. Publicly indexed searches in this pass did not locate those separate records. Do not infer that the records do not exist; record them as located by reference but not publicly recovered.
