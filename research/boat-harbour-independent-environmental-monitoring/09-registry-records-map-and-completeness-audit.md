@@ -929,3 +929,22 @@ The debates describe the $35M settlement, referendum result, compensation and re
 The agreement amends the 31 December 1995 lease to a 35-year term beginning 31 December 1995 (to 31 December 2030) and provides for a C–D effluent pipeline easement, with final route to be determined after detailed engineering design and registered later.
 
 The first line appears to state 7 August 2002, while the PLFN index says 22 October 2002. Confirm execution and registration dates, registered plan/easement, and whether the pipeline was ever built. The lease extension is not proof of pipeline construction or staged remediation.
+
+
+
+## 30. IAAC 2025 Environmental Assessment Report (document 161580) — full-text review — 25 November 2026
+
+- **Source:** Impact Assessment Agency of Canada, *Boat Harbour Remediation Project — Environmental Assessment Report*, IAAC document 161580.
+- **Located/opened:** Yes — full 2,245-line report text reviewed on the official IAAC project page.
+- **Repository record:** BH-144 added to `05-source-register-and-evidence-quality.md`.
+
+Key findings:
+- “Not likely significant” is conditional on the implementation of mitigation, follow-up and monitoring conditions; it is not a finding of no adverse effects.
+- IAAC identifies high-magnitude, long-term mental-health and cultural/traditional-use effects while the containment cell remains. It says PLFN is unlikely to resume hunting, trapping, gathering or cultural use in the site study area until the waste is removed and the cell decommissioned.
+- The cell is to be designed for future removal and an Alternative Site Advisory Committee is required, but relocation depends on a suitable site and later permits, approvals and appropriations.
+- The report's marine LSA is within 500 m of the Pictou Road shoreline and underwater pipeline; its marine RSA is the Strait segment from the east side of the Confederation Bridge to the eastern coast of PEI. This is not a basin-wide Strait monitoring program.
+- IAAC assumes PLFN continues to lead on behalf of the Mi'kmaq of Nova Scotia for some follow-up arrangements, but notes Membertou, Millbrook and Sipekne'katik consult independently of KMKNO.
+- The report states pipeline removal activities were completed without identified adverse environmental or archaeological effects and no further pipeline-corridor ground disturbance was proposed; it also notes 2019 GPR anomalies that could be burials, with exact locations unidentified.
+- Appendix D lists potential species at risk in the area, including rainbow smelt, Inner Bay of Fundy Atlantic salmon, winter skate, striped bass, white hake, American eel, smooth/thorny skate, white shark, blue whale and North Atlantic right whale.
+
+The full report is a federal assessment, not independent field monitoring or a legal determination of Aboriginal title/treaty rights.
