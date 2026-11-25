@@ -562,3 +562,12 @@ The report assesses tertiary treatment after a new secondary activated-sludge pl
 Key findings recorded in the comprehensive review include: EEM Cycles 1–7 showed measurable but partly unexplained effects/differences; new EEM baseline should precede discharge; 70–75k m³/day existing flow versus 85k design basis lacked clear average/peak rationale; single treatment train created bypass risk; CH-B receiving-water modelling omitted sea-level rise, sediment transport and submarine groundwater discharge; marine trench could disturb ~156,000 m² before over-excavation; spill-basin overfill/design storm controls were unclear; HHE was scoping only; 2018 raw effluent sample detections lacked guideline comparisons; and AERMOD model files/emission calculations were not supplied, with VOC/TRS/chlorinated and co-combustion emissions omitted.
 
 **Outstanding:** track every EXP recommendation against final EARD/focus-report responses, EA decision conditions, completed follow-up reports, final design, construction/as-built and actual monitoring. EXP's review is expert peer review based on documents provided to PLFN; it is not an independent field survey or proof that gaps remained unresolved after 2019.
+
+
+
+## 34. 2002 MOU Open Letter and 2008 Accommodation Agreement — located but not reviewed
+
+- **BH-168:** 2002 MOU Open Letter, 11-page Signal archival PDF. Located, but page retrieval failed in this pass; not substantively reviewed.
+- **BH-169:** 31 December 2008 Accommodation Agreement, 2-page Signal archival PDF. Located, but page retrieval failed in this pass; not substantively reviewed.
+
+**Material conflict:** the 2010 PLFN Statement of Claim and 2020 Montgomerie affidavit say the 2008 Accommodation Agreement was entered into and PLFN agreed not to oppose a temporary extension to 31 January 2009. Signal's archive describes the document as proposed but not accepted, and says an advance was returned by PLFN's lawyer. Obtain readable originals, drafts, signature pages, correspondence, payment/return records and any Band Council resolution before resolving the agreement's status.
