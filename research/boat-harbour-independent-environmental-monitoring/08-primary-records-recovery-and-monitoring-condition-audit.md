@@ -461,3 +461,14 @@ OIC 96-621 authorizes transfer of facility operating responsibility to Kimberly-
 The 1997 Evans letter describes proposed bulk land transfer subject to boundaries, easements/leases, continued cooperation and OIC approval. It says the operating licence then expired 31 December 2005 without an extension provision, and the Province intended to clean up the facility and make a tidal-estuary or controlled-lagoon outcome possible.
 
 **Outstanding:** complete 1995 PLFN–Province agreement; 1995 Province–mill MOU/lease/licence/indemnity; Schedule A to OIC 96-621; 1 October 1997 Ross letter; registered land-transfer instruments; 2001 MOU; 2002 lease extension; and 2006 extension. Verify actual transfer/performance, and distinguish water-supply from wastewater-operation agreements.
+
+
+
+## 26. 2002 Province–Kimberly-Clark Lease Extension — primary text reviewed
+
+- **Source:** Province of Nova Scotia and Kimberly-Clark Inc., Lease Extension Agreement, 2002; Tab 29 of PLFN's 2014 submission; BH-149.
+- **Status:** Full OCR text reviewed from scanned agreement.
+
+The agreement extends the 31 December 1995 lease to a 35-year term ending 31 December 2030 and provides for a pipeline easement to carry effluent from Point C to near Point D, with the final location to be determined by detailed engineering design and registered afterward.
+
+**Outstanding:** original registered instrument, Pictou Registry document number/date, final plan and easement; engineering design and permits; as-built evidence of whether the pipeline was built; 2006 extension; and engineering/decision records explaining why the C–D pipeline did not proceed. The agreement's opening date appears to be 7 August 2002, while the PLFN index says 22 October 2002; verify execution versus registration date.
