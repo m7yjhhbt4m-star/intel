@@ -484,3 +484,22 @@ The Proponent's Mi'kmaq-language project overview (BH-136) says no facility-rela
 **Blindspot:** determine the precise coordinates, boundary definitions, analytes and criteria used by the overview and Supplemental ESA. The broad public statement should not be repeated without resolving the discrepancy.
 
 The 2019 Land Use Plan records a community concern to improve the existing PLFN sewer outfall. This is a separate discharge/source to map and characterize for Strait monitoring. Obtain its location, permit, effluent quality, monitoring records and receiving-water assessment; do not attribute any effect to it without evidence.
+
+
+
+## 20. Indian Cross Point: GPR anomalies and later pipeline removal must be reconciled
+
+Boreas Heritage's full 2019 report (BH-141) identifies a historic Mi'kmaw burial ground likely along the East River shoreline on/near the Palmer property, with possible extension south toward the pipeline ROW terminus. Four GPR grids in the ROW detected no burials, but a separate grid on an adjacent potential area found regular subsurface anomalies at approximately 70 cm to 1.05 m depth. Boreas says these could be burials but cannot be identified without ground-truthing. It classifies the western end of the ROW as high potential and recommends archaeological monitoring if the pipeline is removed there.
+
+IAAC's January 2025 EA Report says the Indian Cross Point-to-Highway 348 pipeline segment was removed by Northern Pulp before the project, with no archaeological effects identified and no further ground disturbance proposed. This creates a documentary reconciliation requirement, not proof of a mishap:
+- What exact pipeline length and ROW segment were removed, and on what date?
+- Did the work include the western high-potential area identified by Boreas?
+- Was an archaeologist present? Obtain daily monitoring logs, field notes, photographs, permits, as-built drawings and any stop-work/incident reports.
+- Was the Grid 5 anomaly area (PA-3 or PA-4; the report contradicts itself) disturbed or avoided?
+- Was the anomaly ground-truthed, and if so, under whose direction and with what results?
+- Did PLFN and the Mi'kmaq of Nova Scotia receive the results and participate in decisions?
+- Was the pipeline ROW backfilled with clean soil after removal, and are the as-built limits mapped?
+
+**Internal Boreas discrepancy:** the executive summary says PA-4 was GPR-surveyed; the detailed body says Potential Area 3/Grid 5 was selected. The PA-4 narrative and Grid 5 location descriptions also differ in their distance/direction from the access road. Obtain original field maps/data and author clarification before locating the anomalies on a public map.
+
+Do not claim the anomalies are human remains, and do not claim no burials exist because none were detected in four limited ROW grids. Exact burial-site information is sensitive; consult PLFN before mapping or disclosing it.
