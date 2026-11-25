@@ -302,3 +302,30 @@ The PDF includes a 2017 GHD memorandum and an attached KMKNO ancestral-remains p
 - **Repository record:** Expanded review note added to existing source BH-029 in `05-source-register-and-evidence-quality.md`.
 - **Important findings from IAAC's synthesis:** Health Canada and Nova Scotia Environment and Climate Change challenged the Proponent's screening-out of potable groundwater; IAAC agreed the potable groundwater pathway should not have been deemed inoperable under the provincial contaminated-sites framework. Health Canada raised concerns about screened-out country-food pathways, including shellfish, and possible bioaccumulation/biomagnification; it recommended extending monitoring beyond the estuary in light of suspended sediment and potential Northumberland Strait transport. Health Canada also questioned exposure-point-concentration-based delineation because hot spots could remain and sediment removal to statistical targets is imprecise. IAAC said the proposed SSTLs could reduce but might not eliminate risks, and uncertainty remained whether they were fully protective.
 - **Attribution caution:** These are IAAC's descriptions of the Proponent's HHERA and of comments from Health Canada, Nova Scotia Environment and Climate Change and PLFN. They are not a substitute for reading the original HHERA or its underlying data. Do not claim the original HHERA calculations have been independently reproduced.
+
+
+
+## 14. IAAC EIS Volume III — document 137221E substantive review update — 25 November 2026
+
+- **Located:** Yes — official IAAC registry PDF, *Environmental Impact Statement, Volume III of V*, dated 17 November 2020.
+- **Opened:** Yes — complete extracted text accessible (3,467 lines).
+- **Review status:** Substantive partial review of Sections 4–6 (public/agency participation, Mi'kmaq engagement and concerns, and potential/established Aboriginal or Treaty rights). Not every page or appendix in Volume III has been reviewed.
+- **Repository record:** Source register entry BH-116 added to `05-source-register-and-evidence-quality.md`.
+
+### Key findings and limits
+
+1. **BHEAC:** The EIS says the committee met about 10 times per year from January 2016; the revised TOR expanded membership, GHD (the Proponent's principal consultant) participated, a Mi'kmaq Conservation Group representative joined at PLFN's request in 2019, and IAAC attended as an observer from September 2019. The committee is advisory. Full meeting action items are in Appendix M and the revised TOR/current representative list in Appendix I; the 2016 draft TOR (Appendix D, document 137874E) is not the later revised TOR.
+2. **Independent air monitoring:** The EIS describes Stantec monitoring in 2018–2019 during pilot work, including real-time monitoring and 24-hour sampling every six days (every three days during active pilot testing) near the PLFN cemetery. PLFN community members participated in the air-monitoring work. This does not establish independent water, sediment, ecological or Strait-wide monitoring.
+3. **PLFN engagement:** The EIS says formal consultation was initiated on 18 April 2018 under the 2010 Mi'kmaq–Nova Scotia–Canada Consultation TOR. It also records separate PLFN open houses and the Proponent's use of a MEKS. The EIS expressly acknowledges that preparing/accepting the MEKS is not itself consultation and does not fulfill the Crown's duty to consult.
+4. **Concerns:** The EIS records PLFN opposition to leaving/expanding the on-site containment cell, concerns about contamination and the future of A'se'k, and a preference for complete removal of the pipeline from Indian Cross Point to Highway 348. It says the pipeline-removal preference was incorporated. The Proponent's response that the existing cell was the safest/effective option is a recorded Proponent position, not evidence of PLFN agreement.
+5. **Documentary distinction:** The EIS says comments were addressed in the draft EIA. That is not the same as concerns being resolved, accepted, or consented to. Do not characterize attendance at committees/open houses as consensus or consent.
+6. **Sensitive knowledge:** The EIS describes the MEKS and Well-Being Study. Their appendices and underlying knowledge are rights-holder/community sources; do not extract sensitive place/use details or reproduce Appendix S/T material without PLFN direction.
+
+### Remaining linked evidence
+
+- Appendix I — revised BHEAC Terms of Reference and related project materials.
+- Appendix M — complete BHEAC action-item list referenced by the EIS.
+- Actual BHEAC meeting minutes/agendas and records of advice/decisions.
+- The 2018–2019 Stantec independent air-monitoring reports and underlying data.
+- PLFN-governed MEKS and Well-Being Study source material, subject to PLFN research governance.
+
