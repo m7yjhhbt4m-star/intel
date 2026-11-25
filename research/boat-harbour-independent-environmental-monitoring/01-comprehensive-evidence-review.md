@@ -1543,3 +1543,41 @@ This is not a minor wording difference. It affects whether PLFN's non-opposition
 - **2009 forbearance agreement:** referenced in the 2010 claim but not yet recovered.
 
 Do not conflate the parties, obligations or legal effects of these documents.
+
+
+
+## 44. 2015 Bill 89 submissions — competing positions and practical monitoring demands
+
+The 2015 Law Amendments Committee PDF contains three distinct submissions reviewed separately: Northern Pulp (BH-170), its consultant KSH Solutions (BH-171), and PLFN (BH-172).
+
+### 44.1 Northern Pulp's position
+
+Northern Pulp describes the existing facility as operating efficiently and meeting federal regulations, arguing that the issue is location and legacy rather than treatment performance. It says the Province leased the facility to the mill from 1995 to 2030, the mill bore operating costs exceeding $3M/year, and Bill 89 would repudiate contractual rights and immunize the Province from suit. It lists the 1995 MOU, Lease, Licence, Indemnity, Water Supply Agreement, 2002 Lease Extension and 2008 Acknowledgement Agreement as governing contracts.
+
+These are the operator's advocacy claims. They must be checked against the actual agreements, regulatory records and court decisions. The fact that effluent met federal PPER limits does not establish that every contaminant, receiving-water effect or community-defined health concern was adequately monitored.
+
+### 44.2 KSH's 2015 schedule opinion
+
+KSH separates treatment-plant approval from marine-outfall approval. It says receiving-water studies and new discharge limits depended on outfall location; federal approval would involve Environment Canada, DFO, Transport Canada and Aboriginal Affairs; and the outfall approval process would take at least 18 months and likely 30 months. It estimates activated-sludge startup at 4–6 months and says winter startup was not viable, concluding there was a 50/50 chance of meeting the statutory deadline under its assumptions.
+
+This is a schedule opinion prepared for Northern Pulp in the political/legal debate over Bill 89, not an independent regulatory schedule determination. It predates the final EARD and EA decisions. Its assumptions should be compared with actual later approval and construction timelines.
+
+### 44.3 PLFN's 2015 monitoring and accommodation requests
+
+PLFN asks the Minister to deny the renewal or require relocation within 24 months. If an approval were renewed, it asks for:
+- accommodation payments;
+- $50,000/year for accessible environmental communications and analysis by an environmental professional;
+- $10,000 upfront participation funding;
+- air monitoring capable of distinguishing mill-stack emissions from emissions from the Boat Harbour treatment facility;
+- periodic odour jury testing on and around the Reserve; and
+- a community health assessment and baseline health monitoring.
+
+These are explicit rights-holder priorities and should be cross-checked against the final Industrial Approval, EARD, consultation records, BHEAC minutes and actual monitoring programs.
+
+### 44.4 Payment discrepancy
+
+PLFN's submission says payments under the 2001 MOU were not made after the 31 December 2008 expiry, but the same discussion also refers to payments made under subsequent agreements. The precise payment history is unclear from the submission. Obtain the 2001 payment schedule, ledger, 2008 Accommodation Agreement, subsequent agreements, bank records and audited accounts. Do not state “no payments since 2001” without reconciling the wording and accounting record.
+
+### 44.5 Why the three submissions must remain separate
+
+Northern Pulp's position, KSH's engineering schedule opinion and PLFN's legal/rights-holder submission answer different questions. None is a neutral adjudication. The strongest evidence comes from comparing their assertions with the original contracts, actual operating/monitoring data, regulatory decisions, and the later 2018–2025 environmental assessment record.
