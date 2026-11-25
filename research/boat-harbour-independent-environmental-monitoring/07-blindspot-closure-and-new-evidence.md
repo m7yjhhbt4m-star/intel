@@ -534,3 +534,23 @@ PLFN's March 21, 2014 submission (BH-143) indexes 35 tabbed records. The source 
 **Internal date discrepancy:** the 2014 submission's body says B.G. Clench's Band Council Resolution was around 22 October 1995, while its own index identifies Tab 2 as a B.G. Clench memorandum dated 22 October 1965. Verify the original memo and do not repeat the 1995 date as fact.
 
 **Priority:** recover and compare the 1965 handwritten agreement and all preceding/following memoranda before reaching conclusions about consent. Then recover the 1966 OIC and contemporaneous 1970 technical reports. The legal characterization of the 1966 OIC in the PLFN submission remains an argument until checked against the original instrument, Indian Act requirements at the time and court decisions.
+
+
+
+## 22. The 2014 AIP obligations must be separated by clause
+
+The signed 16 June 2014 Agreement in Principle (BH-138) required the Province to legislate a closure timeline and for the Province/PLFN to negotiate and execute an agreement respecting closure and remediation. It separately addressed PLFN participation costs (clause 2(b)), Indian Cross Point burial-site identification/protection (clause 2(c)), and a $1 million ex gratia clause if closure timelines were not finalized through good-faith negotiations.
+
+The 14 October 2014 MOA (BH-139) expressly satisfies **clause 2(b) only**: it funds PLFN participation costs, including a $100,000 accountable advance. It is not the remediation agreement.
+
+The October 2014 Indian Cross Point land-purchase agreement (BH-140) funds acquisition up to $103,500 and says the purchase is meaningful progress under clause 2(c), but the Province expressly acknowledges that it does **not** fulfill all clause 2(c) obligations. The 2015 BHCC TOR says the Baker Estate purchase substantially addressed the burial-land issue but a parcel remained on the Palmer property.
+
+The 2015 BHCC TOR also says the closure timeline and participation costs were accomplished but the cleanup/remediation agreement remained outstanding. The 2024 Proponent response points to the MOA and burial-land purchase as evidence of continued agreements, but those address clauses 2(b) and 2(c), not necessarily the separate obligation to execute a substantive remediation agreement. No signed comprehensive remediation agreement has been located in the reviewed package.
+
+**Blindspot:** obtain any subsequent draft or executed remediation agreement, negotiation records, legal advice, and Council/Province approvals. Do not collapse the AIP's separate obligations into one general claim that it was either fully fulfilled or wholly ignored.
+
+## 23. 2018 community newsletters document the formal-consultation start and baseline program
+
+EIS Appendix I's A'se'k News newsletter (2018) says formal consultation with Chief and Council on cleanup options began 19 April 2018 and lists 18 May 2018 as the response deadline. It says Phase I ESA was complete and Phase II was nearly complete, and lists baseline work on air, noise, birds/wildlife, plants/fish, fisheries outside Boat Harbour, groundwater/surface water and geology.
+
+**Blindspot:** retrieve the 19 April meeting record, the 18 May response, the 30 May PLFN letter and 23 August provincial response, plus subsequent minutes. These records are necessary to reconcile PLFN's statement that only one formal consultation meeting occurred before Cabinet approval with the Proponent's broader engagement chronology.
