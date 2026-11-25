@@ -551,3 +551,14 @@ The pleading describes PLFN's allegations concerning the 2001 MOU, 2002 lease ex
 The report assesses tertiary treatment after a new secondary activated-sludge plant, not a complete replacement facility. It estimates engineered wetlands at $7.804M capital / $0.5M annual O&M; clarification at $8.237M / $2.063M annual O&M; ozonation at $17.416M / $2.363M annual O&M. Outfall estimates are $7.129M to Pictou Harbour and $23.756M to Northumberland Strait/MacKenzie Head. The minimum combined Pictou Harbour option is about $14.933M before the secondary plant and excluded costs.
 
 **Outstanding:** final signed report, pilot tests, post-2011 process-change monitoring, actual Green Transformation Program changes, full AMEC 2010 secondary-plant report, and source basis for the later $12M pipeline-savings claim. Cost estimates are preliminary and omit material scope items.
+
+
+
+## 33. EXP Services 2019 EARD peer review and follow-up memo — full text reviewed
+
+- **BH-166:** EXP, *Pictou Landing First Nation — Document Review: Northern Pulp Existing and Proposed Effluent Treatment Plant*, Revision 3, 5 March 2019; full extracted text reviewed.
+- **BH-167:** EXP, *Follow Up Studies and Further Assessment Required*, 8 March 2019, 7 pages; full text reviewed.
+
+Key findings recorded in the comprehensive review include: EEM Cycles 1–7 showed measurable but partly unexplained effects/differences; new EEM baseline should precede discharge; 70–75k m³/day existing flow versus 85k design basis lacked clear average/peak rationale; single treatment train created bypass risk; CH-B receiving-water modelling omitted sea-level rise, sediment transport and submarine groundwater discharge; marine trench could disturb ~156,000 m² before over-excavation; spill-basin overfill/design storm controls were unclear; HHE was scoping only; 2018 raw effluent sample detections lacked guideline comparisons; and AERMOD model files/emission calculations were not supplied, with VOC/TRS/chlorinated and co-combustion emissions omitted.
+
+**Outstanding:** track every EXP recommendation against final EARD/focus-report responses, EA decision conditions, completed follow-up reports, final design, construction/as-built and actual monitoring. EXP's review is expert peer review based on documents provided to PLFN; it is not an independent field survey or proof that gaps remained unresolved after 2019.
