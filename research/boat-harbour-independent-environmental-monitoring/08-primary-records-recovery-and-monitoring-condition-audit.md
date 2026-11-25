@@ -414,3 +414,15 @@ The Minister recommends that Governor in Council authorize the Nova Scotia Water
 The submission's 35-tab index identifies original records from 1965 through 2011, including the 1965 meeting memoranda and handwritten agreement; 1966 federal OIC; 1970 correspondence and government reports; 1991 closure letter; 1993 settlement; 1995/1996 agreements and OIC; 1997 legal correspondence; Agra Simons 2000; 2001 MOU; 2002 lease extension; sediment engineering report; 2006 extension; 2008 closure correspondence; and AMEC 2010 / ADI 2011 relocation studies.
 
 **Outstanding recovery:** inspect the individual attached originals and obtain better-quality copies of the 1965 handwritten agreement, 1965 memoranda, 1966 OIC and 1970 technical reports. The body contains a likely date typo (“22 October 1995”) where the index identifies B.G. Clench's memo as 22 October 1965. The legal argument that the 1966 OIC was ineffective is PLFN's submission and requires independent legal verification.
+
+
+
+## 20. EIS Appendix I — 2014 AIP, funding MOA, Indian Cross Point agreement and newsletters — direct review — 25 November 2026
+
+- **Source:** GHD EIS Appendix I, *Documentation of Informal PLFN Consultation*, IAAC document 137879E.
+- **Direct source status:** Original 5,874-line PDF opened; substantive partial review of AIP, Steering Committee TOR, MOA, Indian Cross Point land agreement, introduced Boat Harbour Act, Community Liaison Coordinator workplan and A'se'k News.
+- **Repository records:** BH-137–BH-143 added to source register.
+
+The 2014 AIP (BH-138), MOA (BH-139) and Indian Cross Point agreement (BH-140) were directly reviewed. The MOA satisfies clause 2(b) costs only; the Indian Cross Point agreement makes progress under clause 2(c) but expressly does not fulfill all burial-site obligations. The 2015 BHCC TOR says the remediation agreement remained outstanding. No signed comprehensive remediation agreement has been located in the reviewed records.
+
+The 2018 A'se'k News newsletter says formal consultation with Chief and Council began 19 April 2018 and lists 18 May 2018 as the response deadline. It reports Phase I ESA complete, Phase II nearly complete and baseline studies underway. Retrieve the meeting record, 18 May response, 30 May PLFN letter and 23 August provincial response.
