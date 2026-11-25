@@ -497,3 +497,25 @@ RODD is a Proponent/consultant options document, not final approval. It expressl
 ### Documentary implications
 
 The 2018 Supplemental ESA directly establishes localized PHC exceedances in marine sediment at the estuary mouth, while its small background sample set does not establish conditions across the entire Strait. The report itself leaves delineation outstanding. The 2020 EIS statement that the broader Strait was not considered impacted must be compared against these actual data and the basis for the geographic boundary. The promised post-shutdown pipeline assessment also needs to be located and reviewed. The missing Appendix D lab certificates and Appendix C qualifiers must be addressed before independently validating the analytical results.
+
+
+
+## 21. Sludge Thickness Determination — public SCG/WSP presentation review — 25 November 2026
+
+- **Located:** Yes — public PDF hosted by ESA Maritimes: https://esamaritimes.ca/wp-content/uploads/2021/03/BHSTD_SCG-WSP_1.pdf
+- **Source:** Ben Sweet (SCG Industries) and Tim Bachiu (WSP), *Boat Harbour — Sludge Thickness Determination: Innovation in an Era of Challenging Sites*, 2021 conference presentation.
+- **Opened and reviewed:** Yes — all extracted text (274 lines) reviewed.
+- **Repository record:** Source register entry BH-122 added to `05-source-register-and-evidence-quality.md`.
+
+### Findings
+
+1. The project used sonar bathymetry (single-beam and multibeam, tied to RTK elevations) plus in-situ LIF/electrical-conductivity profiling to map sludge thickness and the transition zone.
+2. The SOW called for 500+ investigation locations; the presentation reports 410 initial points plus 90 adaptively added points across 200 m × 200 m grids.
+3. QA/QC included calibration checks, real-time profile monitoring, duplicate profiles, repeat cores, short-interval extrusion, and bathymetric calibration/systematic-error checks.
+4. Reported volumes: 271,000 m³ “competent sludge”; 400,500 m³ “competent sludge plus transition zone” (combined total). The implied transition-zone component is about 129,500 m³.
+5. The presentation says LIF fluorescence is associated with PAHs/free-phase petroleum hydrocarbons and that complex signals from mixing, inter-bedding and variable materials require data processing. It recommends coupling LIF/EC with chemical analyses for semi-quantitative interpretation.
+6. It proposes LIF/EC for post-dredging QA/QC, residual sludge/hotspot identification and suspended-sediment settling assessment. These are proposed applications, not evidence that the technology was deployed for full-scale remediation verification.
+
+### Limits and follow-up
+
+This is a short presentation, not the full technical report or raw dataset. It does not provide point-by-point results, volume uncertainty, calibration chemistry, detection limits, false-positive/false-negative rates or independent lab validation. The 271,000/400,500 m³ results require reconciliation with the 2020 EIS estimate of 634,000 m³ for Boat Harbour sludge/sediment; definitions, transition-zone scope, survey date and volume basis must be compared before calling them inconsistent. The official project Resources page still identifies the full Sludge Thickness Determination report as a large download; obtain and review that full report and its underlying point data.
