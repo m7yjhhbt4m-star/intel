@@ -244,3 +244,18 @@ The complete September 2019 Boreas Heritage GPR report is now reviewed as BH-199
 The consolidated *Boat Harbour Act* (BH-200) defines the “Facility” as the effluent treatment system (two settling basins, ASB, former stabilization lagoon and appurtenances) plus the mill-to-settling-basins pipeline. The containment cell is not listed in that statutory definition. Appendix L's February 2020 NS Lands email (BH-179) similarly interprets OIC 96-621 as excluding the containment cell from the “Facility” for purposes of the land-transfer authorization. However, the Act's definition and the OIC's definition are separate legal instruments. The Act's definition cannot simply be imported into OIC 96-621 without legal analysis of the OIC's exact text, Schedule A, underlying agreements, dates and property descriptions.
 
 **Open task:** obtain a certified copy of OIC 96-621 and its Schedule A; compare the definition of “Facility” and the lands eligible for transfer with the 1995 agreements, 1996 equipment lease/licence, 2002 lease extension, containment-cell construction/approval records and land-title records. Determine whether the cell was included in the lands transferred/leased, who owns the cell parcel, and what the OIC required when the facility was no longer required for operation or cleanup. Do not state that the cell is legally excluded from all transfer obligations based solely on the 2015 Act or the 2020 email.
+
+
+### 2025 Annual Report — immediate 2026 follow-up records
+
+The full 2025 Annual Report (BH-011) is now reviewed. It reports that the proponent had not implemented the follow-up programs, Indigenous-monitor arrangements or Independent Environmental Monitor in 2025 because the project remained pre-construction pending judicial review. It also says the specified public plans/reports under Decision Statement Condition 2.14 had not yet been prepared/shared in 2025.
+
+The report identifies a separate **22 January 2026 Condition 9 submission** stating no technically/economically feasible alternative had yet been identified, while also saying a potential site had been selected for feasibility assessment. Obtain immediately:
+1. the complete 22 January 2026 Condition 9 report and all appendices;
+2. the executed Alternative Site Advisory Committee Terms of Reference and any alternate-dispute-resolution provisions;
+3. meeting minutes and action logs for 20 November and 18 December 2025 and all 2026 meetings;
+4. the candidate-site list, GIS screening criteria, exclusion log and PLFN-proposed locations;
+5. the selected site's technical/economic feasibility study, geotechnical/hydrogeological data, wetland and watercourse mapping, land ownership/access, transportation routes, waste acceptance/permit analysis and cost model;
+6. any Condition 9.2 notice or project-change submission, and the current judicial-review docket/order.
+
+Do not describe the potential site as feasible or approved; the annual report says it was selected for feasibility assessment, while no technically/economically feasible alternative had been identified by the Condition 9 reporting deadline.
