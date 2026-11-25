@@ -521,7 +521,14 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | 71 | `55774-Ministerial...S-January-2020` | Nova Scotia Environment and Climate Change, Ministerial Order MO-55774 to Northern Pulp, 29 January 2020; https://novascotia.ca/nse/issues/docs/55774-Ministerial-Order-NPNS-January-2020.pdf | **B — Full browser-rendered order text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source BH-162. Requires pulp production cessation before 31 Jan 2020, wastewater cessation by 30 Apr 2020, pipeline inspection/decommissioning plans, effluent monitoring and ambient TRS/TSP/PM2.5 monitoring at Pictou Landing and Greenhill. Revoked 5 July 2021. The revocation PDF title says “May 14 2020” but its body correctly identifies the 29 Jan 2020 MO-55774; preserve this metadata conflict. |
 
 ### Inventory status reconciliation
-The 71 inventory entries are now represented in this log. “B” means browser-rendered text was reviewed; “C” means only an index/archive description or excerpt was available; “E” means direct retrieval failed. None of these entries has A1/A2 status in this workflow. Several entries remain partial or unread and are explicitly marked above; therefore the inventory is **not** a claim that all 71 original PDFs have been fully read or preserved.
+The 71 inventory entries are represented exactly once in this log (71 rows; no missing or duplicate inventory numbers). Current mutually exclusive status counts:
+
+- **B — substantial browser-text review:** 36 files.
+- **C — partial/excerpt/archive-description review only:** 24 files.
+- **E — source identified but retrieval failed, with no usable content review:** 4 files.
+- **C + E — original retrieval failed, but related excerpts/secondary/regulatory material were reviewed:** 7 files.
+
+These counts describe review status, not acquisition. **No original PDF in the 71-file inventory has A1/A2 status in this workflow:** none has been downloaded as the original binary, SHA-256 hashed and preserved in evidence storage. Therefore this log is a complete status register, not a claim that all 71 original PDFs have been fully read or preserved.
 
 
 ## 44. User's 71-file inventory — additional reviewed item
