@@ -894,3 +894,15 @@ Critical gaps:
 - Indigenous use follow-up is mainly a pre-construction MEKS, while other monitoring only “may assist”.
 
 The replacement ETF was never constructed after the 2020 mill closure. Determine what studies were completed before closure, what approval conditions were imposed, and which records are now relevant only as unfulfilled commitments. Do not confuse them with the 2025 remediation monitoring program.
+
+
+
+## 44. Final 2020 ToR and December 2019 Minister decision define the outstanding evidence standard
+
+The final ToR (BH-193) and Minister's 17 December 2019 decision (BH-194) establish that the EARD and Focus Report were insufficient. The Minister identified concrete deficiencies: only two comprehensive Point A samples one year apart; missing Point A flow data; inadequate comparison of influent parameters with treatment specifications; air modelling predicted exceedances without mitigation and did not use maximum authorized production; no selected secondary containment or adequate leak detection for the Pictou water-supply area; incomplete spill-basin design; and insufficient marine fish, sediment, contaminant-dispersion and human-health assessment.
+
+The final ToR then required a completed HHRA, four-season marine baseline, fish/shellfish tissue chemistry for commercial/recreational/Mi'kmaq fisheries, sediment transport and bioaccumulation modelling, complete air inventory and replicable dispersion model, land/marine pipeline leak probability and detection, climate/worst-case scenarios, and fully specified monitoring with mapped locations, frequency, parameters, standards and reporting.
+
+**Critical status:** Northern Pulp withdrew the replacement ETF project on 5 May 2021. The required EA Report was never accepted and no final provincial approval was issued. Do not treat the Focus Report appendices as satisfying the final ToR or as evidence that the proposed project was approved/built.
+
+**Additional discrepancy:** the ToR/project page describes about 15 km total pipeline (8.7 km land, 1.5 km Pictou Harbour crossing, 4 km offshore, plus a short mill section), while EARD Section 14 states 11.4 km total/4.1 km marine. Obtain final route chainages and drawings; do not select one length without reconciliation.
