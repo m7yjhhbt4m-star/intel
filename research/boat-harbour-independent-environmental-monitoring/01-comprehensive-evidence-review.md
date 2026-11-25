@@ -698,3 +698,29 @@ The paper reports 64% of respondents rated physical health good/excellent, 32% p
 The article also compares some health outcomes by income, education, employment and experiences of racism. It argues that Indigenous environmental-health assessment must account for relationships to land, air, water, culture, family and community, not only conventional clinical measures. It calls for Indigenous-led oversight and culturally relevant human-health risk assessment.
 
 **Critical limitations:** this is a cross-sectional self-reported survey, not a clinical diagnosis registry, chemical exposure study or causal epidemiological analysis. The authors state the analyses are bivariate; they do not establish that Boat Harbour or mill emissions caused the reported outcomes. The environmental-fear measure is a community-defined indicator of perceived harm, not a chemical concentration. The 2014 EHS is not a pre-1967/pre-exposure baseline; it is a community-generated health snapshot after decades of effluent exposure. Comparisons use different surveys and populations (CCHS excludes on-reserve First Nations; RHS comparator data are from 2008/10). The environmental-fear cross-tab uses a smaller complete-case sample (n=126). The paper presents only selected variables from a 297-question/400-variable survey; the supplementary data and questionnaire should be retrieved. Raw individual-level data remain subject to PLFN/NWG governance.
+
+
+
+## 24. 2022 Mount William alternative-site assessment — full substantive review and GHG correction — 25 November 2026
+
+The original 2022 Nova Scotia Lands/GHD *Technical and Economic Feasibility Assessment of Alternative Containment Cell Location Site* (IAAC 155834E) has now been opened and substantively reviewed, including Annexes 2–7 (BH-130).
+
+The assessment examines only two Mount William parcels (PIDs 00865469 and 00865485; approximately 59.5 ha). It does not assess the wider 109 Crown/97 private parcel inventory later identified by Hive Engineering, nor the Northern Pulp landfill. It reports 63,000 truckloads, a Class D cost estimate of $107.979M (range $86.38M–$161.97M), a 1.265-million-m³ landfill capacity requirement and a 5.5–6.5-year high-level schedule.
+
+NSECC's 29 March 2022 memo says Nova Scotia had no specific hazardous-waste landfill siting guidelines; it used federal guidance, Nova Scotia municipal solid-waste landfill guidelines as minimum guidance, and Ontario/BC guidance. It identifies mapped wetlands/watercourses on 56% of the site, more than 13 ha of wetland, about 20 ha of watercourses, 16 residences and three commercial buildings within 1 km, and the Middle River about 550 m away in the watershed serving Michelin. NSECC concludes the site is unsuitable.
+
+**Important limitation:** NSECC explicitly says no site-specific ecological, hydrological or hydrogeological assessment had been completed; it relied on mapped wetlands, topographic maps, photos and satellite imagery. GHD's cost/timing memo says property owners had not been contacted and no work had been done to determine actual site suitability. The cost estimate itself budgets future hydrogeology, hydrology, natural-resource, Mi'kmaq Ecological Knowledge, archaeological, human-health risk and well-being studies. This is a desktop/regulatory screen, not a completed field investigation.
+
+### 24.1 Material GHG misattribution in the main report and 2024 response
+
+The main 2022 assessment says the Mount William/PLFN proposed site would generate 183,164 tonnes CO₂e and pairs that with 5,042 homes. Annex 7 shows:
+- Scenario 1: disposal at an existing third-party hazardous-waste facility about 1,250 km away (Quebec/Stablex) = 183,164 tonnes CO₂e and 42,896 homes.
+- Scenario 2: a new landfill about 20 km from Boat Harbour = 21,530 tonnes CO₂e and 5,042 homes.
+
+The main text has combined the emissions value from the long-distance Quebec scenario with the home-equivalency from the nearby new-landfill scenario. The 2024 Proponent response repeats the same error. The Mount William scenario's Annex 7 estimate is 21,530 tonnes CO₂e, not 183,164 tonnes. Annex 7 uses a 40 km round trip; Annex 3's map gives 18.5 km driving distance one-way; the main text calls 20 km a round trip, which is inconsistent.
+
+The 2018 GHD estimate of a 315,020-tonne net reduction over 25 years has a different baseline and scope and cannot be directly compared with the one-time off-site emissions without a common accounting basis.
+
+### 24.2 Other internal volume discrepancy
+
+The main 2022 assessment says approximately 180,000 m³ is in the existing cell (70,000 m³ in 1996 plus 110,000 m³ subsequently); Annex 4 says approximately 116,000 m³ of sludge already placed. Reconcile the material definition, survey date and volume basis before using either number.
