@@ -571,3 +571,15 @@ Key findings recorded in the comprehensive review include: EEM Cycles 1–7 show
 - **BH-169:** 31 December 2008 Accommodation Agreement, 2-page Signal archival PDF. Located, but page retrieval failed in this pass; not substantively reviewed.
 
 **Material conflict:** the 2010 PLFN Statement of Claim and 2020 Montgomerie affidavit say the 2008 Accommodation Agreement was entered into and PLFN agreed not to oppose a temporary extension to 31 January 2009. Signal's archive describes the document as proposed but not accepted, and says an advance was returned by PLFN's lawyer. Obtain readable originals, drafts, signature pages, correspondence, payment/return records and any Band Council resolution before resolving the agreement's status.
+
+
+
+## 35. 2015 Bill 89 legislative submissions — full text reviewed
+
+- **BH-170:** Northern Pulp submission to the Law Amendments Committee, 27 April 2015 — full six-page submission reviewed.
+- **BH-171:** KSH Solutions letter, 23 April 2015 — full three-page schedule opinion reviewed.
+- **BH-172:** PLFN submission on Bill 89 — full extracted text reviewed (approximately pages 8–17 of the combined PDF).
+
+Northern Pulp argues the existing system meets federal regulations and Bill 89 breaches contracts; KSH estimates 18–30 months for outfall approval and 4–6 months for activated-sludge startup; PLFN requests source-separated air monitoring, odour jury testing, community health baseline, accessible environmental communications and participation funding.
+
+**Outstanding:** underlying PPER/EEM data, complete KSH project schedule assumptions, PLFN payment ledger/subsequent agreements, and proof of whether the specific PLFN monitoring requests were implemented in the 2015 Industrial Approval, final EARD, decision conditions and actual monitoring.
