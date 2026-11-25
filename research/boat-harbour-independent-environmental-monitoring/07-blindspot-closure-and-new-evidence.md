@@ -464,3 +464,23 @@ New critical gaps:
 - Confirm whether the Crown parcels can legally be made available, whether land access is possible and whether any candidate overlaps Indigenous rights, protected areas, sensitive habitat or community water sources.
 
 The report was commissioned by PLFN and should be fairly represented as technical evidence in PLFN's position. It is neither a regulatory decision nor a substitute for independent field verification.
+
+
+
+## 20. 2019 participation records do not equal formal consultation or consent
+
+The 2015 BHCC Terms of Reference (BH-135) explicitly state that the Boat Harbour Cleanup Committee is advisory, has no decision-making authority, no agreement is binding unless approved by both parties, and BHCC work/meetings are not consultation or a release of the Province's duty to consult and accommodate. The TOR says the cleanup agreement contemplated by the 2014 AIP remained outstanding.
+
+The 22 February 2019 minutes (BH-134) record both participation and unresolved concerns: off-gassing, transportation accidents, dredging too much clean bottom, procurement, lack of work experience, and whether PLFN representatives were reflecting community views. The Chief questioned whether the community was behind the representatives and requested PLFN-only discussions. A long-term cell monitoring/maintenance entity was an action item, not a completed agreement.
+
+The 2019 Land Use Plan (BH-132) was a future land-use vision, developed in about five months (versus the cited 18-month NALMA model), assumed pending land/water transfers would be safe, and required later Band Council Resolution/other acceptance. The copy does not show formal adoption. The Group ATN report (BH-133) focused on economic opportunity, employment and procurement, not environmental safety or consent to permanent storage.
+
+**Blindspot:** the Proponent's 2024 label “general project support” must be evaluated against the full record. Participation, economic planning and statements supporting a clean Boat Harbour do not automatically establish consent to long-term waste storage or fulfilment of Section 35 consultation. The May 2018 PLFN letter and August 2018 provincial response need to be obtained and compared with the Proponent's March 2021 “adamant opposition” chronology.
+
+## 21. Mi'kmaq project overview conflicts with Supplemental Phase II near-mouth sediment findings
+
+The Proponent's Mi'kmaq-language project overview (BH-136) says no facility-related contaminated sediment was found beyond the estuary or in the Northumberland Strait. The 2018 Supplemental Phase II ESA (BH-121) reports PHC exceedances in five samples NS-SED-3 to -7 at the estuary mouth/northern shoreline, classified as Northumberland Strait samples, and recommends further delineation. The overview also says the cell was working well as planned, which must be compared with actual monitoring records and BGC's 2021 design review.
+
+**Blindspot:** determine the precise coordinates, boundary definitions, analytes and criteria used by the overview and Supplemental ESA. The broad public statement should not be repeated without resolving the discrepancy.
+
+The 2019 Land Use Plan records a community concern to improve the existing PLFN sewer outfall. This is a separate discharge/source to map and characterize for Strait monitoring. Obtain its location, permit, effluent quality, monitoring records and receiving-water assessment; do not attribute any effect to it without evidence.
