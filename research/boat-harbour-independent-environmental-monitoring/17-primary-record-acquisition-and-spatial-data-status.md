@@ -783,8 +783,8 @@ This is a live list of inventory items whose original content is not yet fully r
 
 | Item | User filename | Current status | What remains unread / why |
 |---:|---|---|---|
-| 2 | `Sludge_Thicknes...ping_Final_Rpt (1)` | A0 + E + C | Original WSP *Sludge Thickness Determination* report is on Google Drive; direct retrieval blocked. WSP/SCG conference summaries reviewed, but not the original survey database, volume surfaces or uncertainty calculations |
-| 3 | `Pilot Scale Testing Report` | A0 + E + C | Original ~580-page GHD report is on Google Drive; retrieval blocked. BGC review, 2022 information requests and 2025 EA report provide context, not the complete test report/data |
+| 2 | `Sludge_Thicknes...ping_Final_Rpt (1)` | A0 + E + C | Original WSP *Sludge Thickness Determination* report is on Google Drive; direct retrieval blocked. WSP/SCG summaries and Dalhousie 151-core research reviewed, but not the original survey database, LIF/EC files, volume surfaces or uncertainty calculations |
+| 3 | `Pilot Scale Testing Report` | A0 + E + C | Original ~580-page GHD report is on Google Drive; retrieval blocked. BGC review, 2022 information requests and thesis provide context, not the complete test report/data. BGC specifically requested it as extra-scope material and did not receive it |
 | 4 | `Phase 2 ESA` | A0 + E + C | Original GHD Report No. 6 (6 June 2018) on Google Drive; retrieval blocked. Supplemental Phase 2 ESA and EIS summaries do not replace it |
 | 5 | `Phase I ESA` | A0 + E | Original GHD Phase I ESA on Google Drive; retrieval blocked; no text review |
 | 11 | `137898E` | E | Appendix AA riparian/wetland/terrestrial assessment; official identity confirmed, direct retrieval timed out |
@@ -793,20 +793,23 @@ This is a live list of inventory items whose original content is not yet fully r
 | 28 | `137880E` | C | Appendix J formal consultation record: browser text extraction available, but scan-only/appendix content and complete underlying correspondence have not been independently reviewed |
 | 29 | `137879E` | C | Appendix I informal consultation bundle: only text-readable sections reviewed. Several subdocuments were recovered separately (BH-195 to BH-201), but Commercial Regional Results, Community Session 2 posters, By-law No. 1, Project Charter, training materials and other subdocuments remain unread |
 | 30 | `137878E` | C | Appendix H project-overview correspondence: text extraction is incomplete/garbled; original pages and attachments require review |
-| 35 | `137873E` | E | Appendix C Public Meeting Minutes; official identity/size confirmed, but both current and legacy registry PDF retrievals timed out |
+| 35 | `137873E` | E | Appendix C Public Meeting Minutes; official identity/size confirmed, but current and legacy registry PDF retrievals timed out |
 | 37 | `137871E` | A0 + E + C | Appendix A, 154 MB HHERA; original assessment, calculations, appendices and model files not obtained. 2025 EA review and Health Canada comments are context only |
 | 42 | `137219E` | C | EIS Volume I: table of contents and Table of Concordance reviewed, but substantive narrative, marine baseline and cumulative-effects sections remain unread |
-| 44 | `23.2009BandNewsletter` | C | Original 3-page newsletter scan unread; Signal article quotes part of it and related letters are available separately, but full newsletter content is not verified |
-| 45 | `22.2008AccomodationAgreement` | C | Original proposed 2008 Accommodation Agreement scan unread; related 19 Nov Chief letter, 4 Dec Minister letter, returned-cheque reporting and 2020 affidavit do not replace the instrument |
-| 46 | `21.MOUopenletter2002` | C | Original 2002 open-letter/information package unread; 2001 MOU terms are summarized in later PLFN/provincial records, but the community document and referendum package remain missing |
+| 44 | `23.2009BandNewsletter` | C | Original 3-page newsletter scan unread; Signal article quotes part of it and the 4 December 2008 Minister Scott letter is separately indexed as Tab 33/Tab 130, but the full newsletter content is not verified |
+| 45 | `22.2008AccomodationAgreement` | C | Original 2-page file unread. Signal archive/2009 reporting may describe a rejected draft; 2020 sworn affidavit describes an agreement entered 31 December 2008; 2024 PLFN brief identifies later 2009/2010 agreements but not this instrument. Determine whether one or two 2008 instruments existed |
+| 46 | `21.MOUopenletter2002` | C | Original 2002 open-letter/information package unread; 2001 MOU terms, referendum and later amendments are summarized in PLFN/corporate records, but the community document and referendum package remain missing |
 | 47 | `20.1996lease_license_agreement` | C | Original 1996 equipment lease/licence agreement unread; OIC 96-621 and other 1995/2002 agreements provide context but are not this instrument |
-| 51 | `13.1989-statementofdefence` | C | Original 1989 defence scan unread; only secondary historical summary and PLFN litigation chronology available |
-| 52 | `12.1986defencesmaller` | C | Original 1986 defence scan unread; PLFN 2024 Document Brief indexes the litigation but does not reproduce the defence |
-| 53 | `10.1970_letter_from_rowe` | C | Original 3-page Rowe response letter unread; Signal archive metadata only. The 1970 MacDonald/Hamm letter quotes a separate 1969 Rowe report, not this response |
-| 54 | `09.1970smithfromchurch` | C | Original one-page Rev. D. Glass letter unread; cited in secondary history, but no full transcription verified |
-| 56 | `08.1970fergusonrustletter` | C | Original handwritten Ferguson letter unread; secondary quotation only, no verified full transcription |
+| 51 | `13.1989-statementofdefence` | C | Original 1989 amended defence scan unread; 2009 article quotes Canada's assertion that provincial action cured the septic condition and no pollution remained. Original pleading and exact context still required |
+| 52 | `12.1986defencesmaller` | C | Original 1986 defence scan unread; distinguish it from the separate 1986 PLFN Statement of Claim and the 1989 amended defence |
+| 53 | `10.1970_letter_from_rowe` | C | Original 3-page Rowe response letter unread; Signal archive metadata only. It is described as a response to Rev. D. Glass's letter (item 54) |
+| 54 | `09.1970smithfromchurch` | C | Original one-page Rev. D. Glass letter unread; Signal archive says it was sent to Premier G.I. Smith in August 1970 and prompted the Rowe response |
+| 55 | `08.chipmanletter` | C | Original 3-page New Glasgow Lions Club/Chipman letter unread; likely corresponds to 2015 PLFN submission Tab 11, but compare original to confirm identity |
+| 56 | `08.1970fergusonrustletter` | C | Original handwritten Henry Ferguson letter unread; 2015 PLFN submission Tab 10 and secondary quotation provide date/context, not full transcription |
+| 57 | `07.1970macDonaldLetterComplete` | C | Original 8-page Dr. MacDonald letter unread; 2015 PLFN submission Tab 9 and 2009 article provide excerpts, not full transcription |
 | 58 | `05.1966orderincouncil` | C | Original two-page OIC unread. Schedule of conditions is reproduced in BH-209/BH-215, but not the complete signed OIC and execution/transfer record |
-| 59 | `04.1966ProposedTreatment` | C | Original Conlon Engineering treatment estimate scan unread; archive description only |
-| 62 | `01.1965executive...ncil_province_mill` | C | Original three-page 1965 file unread; separate 1965 meeting minutes, handwritten agreement and BCR are available in BH-213/BH-214 but have not been confirmed as the same document |
+| 59 | `04.1966ProposedTreatment` | C | Original Conlon Engineering treatment estimate scan unread; archive description only (~$100,000 estimate) |
+| 60 | `03.1966Macdonaldhammletter` | C | Original two-page Dr. MacDonald letter unread; archive description and 2015 PLFN submission Tab 5 identify a 19 March 1966 letter, but recipient/addressee needs verification |
+| 62 | `01.1965executive...ncil_province_mill` | C | Original three-page 1965 file unread; archive describes an OIC authorizing a Middle River branch dam/reservoir. Separate 1965 meeting minutes, handwritten agreement and BCR are available in BH-213/BH-214 but are not confirmed as this instrument |
 
 **Interpretation:** items marked C may have partial text, an alternate reproduction or a secondary summary; they are not “fully read.” Items marked E have a documented retrieval failure. The remaining items in the 71-file inventory have browser-readable content reviewed to the depth stated in their individual rows. Original binary acquisition and SHA-256 preservation remain separate from online text review.
