@@ -1341,3 +1341,40 @@ These are different parties, purposes and legal effects. Do not conflate them or
 - The October 2008 engineering report concluding no alternative pipeline route was feasible, and the underlying engineering studies.
 
 The letter should be compared with the earlier 1991 five-year closure/restoration commitment and later 2014 AIP. It is evidence of the Province's stated 2008 commitment, not proof that the promised relocation or remediation was performed.
+
+
+
+## 39. PLFN's 2010 Statement of Claim — the 2001–2008 pipeline/extension chronology
+
+The full text of PLFN's 2010 Statement of Claim in Hfx No. 335 has now been reviewed from a public copy (BH-164). It is a legal pleading, not a judicial finding, but it provides a detailed account of the 2001 MOU, 2002 lease extension, 2005 pipeline failure, 2006 extension, 2008 licence extension and 2008 Accommodation Agreement.
+
+### PLFN's pleaded account of the 2001 MOU
+
+PLFN alleges that it entered the 27 September 2001 MOU with Kimberly-Clark after the Province and mill represented that a pipeline from Point C to Point D was technically feasible. The pleaded arrangement was a two-stage decommissioning:
+- Kimberly-Clark would build the pipeline by 31 December 2005, bypassing the main stabilization lagoon and allowing it to be cleaned and returned to tidal conditions.
+- PLFN would not protest continued use of the settling ponds and ASB until 31 December 2030.
+- The mill would make annual payments beginning at $200,000 and increasing to $280,000 by 2030.
+- Certain forest lands would transfer to PLFN once the pipeline was built.
+- The remaining facility would be decommissioned after 2030.
+
+These are the plaintiff's pleaded terms. The original executed 2001 MOU and schedules are still required to verify the exact obligations, payment schedule, land parcels, conditions, termination rights and consequences of non-performance.
+
+### The pleaded failure and extensions
+
+PLFN alleges that the Province extended the lease to 2030 in 2002 without consultation and without a clause terminating the lease if the pipeline was not built. It says the pipeline was later found technically infeasible because incoming tides would push effluent back toward Boat Harbour and cause eutrophication. It says the Province and Neenah asked PLFN for more time; PLFN agreed in September 2006 to extend the 2001 pipeline/remediation deadline from 31 December 2005 to 31 December 2008.
+
+The 2014 PLFN submission states that the 2006 amendment was dated 2 January 2006; the 2010 claim describes the agreement as made in September 2006. The exact executed date and terms must be checked against the original amendment.
+
+### The 2008 licence and accommodation sequence
+
+PLFN alleges that the Province extended the licence month-to-month on 13 May 2008 without notice or consultation; that PLFN later agreed on 11 June 2008 not to oppose a temporary extension to 31 December 2008 after the Province promised no further extension without consultation; and that the December 4 Minister Scott letter confirmed the Province's commitment to relocate the facility and restore Boat Harbour. It says PLFN and Northern Pulp then entered a December 31, 2008 Accommodation Agreement under which PLFN would not oppose a temporary extension to 31 January 2009 while negotiations continued.
+
+The 2020 Montgomerie affidavit independently summarizes the December 31 Accommodation Agreement but does not reproduce it. The original agreement, the May 13 licence extension, June 11 correspondence, 2006 amendment, and any April 2009 forbearance agreement remain to be obtained.
+
+### Important measurement caution
+
+The 2010 pleading refers to approximately 25 million gallons/day of wastewater discharge. The separate 1995 Water Supply Agreement provides up to 25 million Imperial gallons/day of fresh water to the mill. These are different flows and must not be conflated. Verify actual effluent flow from metered operating data, not the pleading or water-supply contract.
+
+### What this pleading adds
+
+It identifies a precise sequence of alleged commitments and failures that can be tested against executed contracts and engineering records. The central evidence gap is the original 2001 MOU, September 2006 amendment, October 2008 engineering report on pipeline feasibility, 2008 Accommodation Agreement, and licence extension instruments. The pleaded eutrophication concern should be tested against the original tidal/hydraulic modelling and engineering opinion, not repeated as a settled technical fact.
