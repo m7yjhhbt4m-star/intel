@@ -403,3 +403,14 @@ The report used desktop historical/archaeological research, field reconnaissance
 The Minister recommends that Governor in Council authorize the Nova Scotia Water Authority to dispose of Scott Maritimes Pulp Limited mill effluent into Boat Harbour, acquire all land required, and authorize payment of certified expenses under the dedicated “Waste Disposal Facility (Scott Maritimes Pulp Limited)” capital vote.
 
 **Primary records still required:** final provincial OIC/Executive Council minute; Water Authority technical and financial supporting file; 1965 provincial water-supply OIC; September 2, 1966 federal riparian-rights OIC and schedules; contemporaneous PLFN/Indian Affairs meeting and consent records; land acquisition/expropriation documents. Do not treat the Minister's recommendation as the final authorization.
+
+
+
+## 22. PLFN 2014 industrial-approval submission and 35-tab archive index
+
+- **Source:** Pictou Landing First Nation, *Submissions of Pictou Landing First Nation* concerning Northern Pulp's 2013 Industrial Approval renewal, dated 21 March 2014, Volume I; Nova Scotia Legislature public PDF; BH-143.
+- **Status:** Main submission text reviewed. The appended scanned/tabbed material is included but several handwritten and low-quality pages are not reliably transcribed by OCR.
+
+The submission's 35-tab index identifies original records from 1965 through 2011, including the 1965 meeting memoranda and handwritten agreement; 1966 federal OIC; 1970 correspondence and government reports; 1991 closure letter; 1993 settlement; 1995/1996 agreements and OIC; 1997 legal correspondence; Agra Simons 2000; 2001 MOU; 2002 lease extension; sediment engineering report; 2006 extension; 2008 closure correspondence; and AMEC 2010 / ADI 2011 relocation studies.
+
+**Outstanding recovery:** inspect the individual attached originals and obtain better-quality copies of the 1965 handwritten agreement, 1965 memoranda, 1966 OIC and 1970 technical reports. The body contains a likely date typo (“22 October 1995”) where the index identifies B.G. Clench's memo as 22 October 1965. The legal argument that the 1966 OIC was ineffective is PLFN's submission and requires independent legal verification.
