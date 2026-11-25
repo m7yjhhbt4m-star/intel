@@ -1159,3 +1159,24 @@ The section assesses eight accident scenarios and concludes residual effects are
 The section assesses Pictou County and adjacent Northumberland Strait, identifies three future projects and concludes no significant cumulative effects for the VECs carried through. It identifies Indigenous land/resource use as a VEC but excludes it from the cumulative assessment; historical mill/Boat Harbour contamination is treated largely as baseline.
 
 **Outstanding:** PLFN response to the VEC exclusion, broader regional project/fisheries inventory, cumulative historical contamination, climate/sea-level/ice/sediment interactions and implementation evidence.
+
+
+
+## 51. EARD Section 13 Follow-up and Monitoring Summary — full-text review
+
+- **Source:** Northern Pulp EARD Section 13, January 2019, combined Sections 9–15 PDF.
+- **Official PDF:** https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/Registration-Document-Section-9-15.pdf
+- **Located/opened:** Yes — full Section 13 text reviewed.
+- **Repository record:** BH-191 added to source register.
+
+The section calls its monitoring plan conceptual/high-level and defers locations, methods, frequency and parameters to permitting/conditions. It proposes existing air programs, optional noise spot checks, surface/groundwater monitoring, 2019 field surveys, marine EEM, DFO fishery data, expanded MEKS and archaeological follow-up.
+
+**Outstanding:** final conditions/protocols, actual field studies, baseline and marine EEM data, fish/shellfish tissue chemistry, complete air monitoring and evidence of PLFN co-governance.
+
+## 52. EARD Section 14 Assessment Summary and Conclusion — full-text review
+
+- **Source:** Northern Pulp EARD Section 14, January 2019, same combined PDF.
+- **Located/opened:** Yes — full Section 14 text reviewed.
+- **Repository record:** BH-192 added to source register.
+
+The Proponent describes an 11.4 km pipeline (4.1 km marine) and concludes all 18 VECs have not-significant residual effects after mitigation. The replacement ETF/pipeline was not built after the mill closed in 2020; the EARD predictions are not observed outcomes.
