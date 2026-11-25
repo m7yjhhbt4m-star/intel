@@ -359,3 +359,10 @@ This is a documentary discrepancy, not yet proof that the affidavit is wrong: th
 
 
 **Sediment gap in the 2014 spill response:** The MCG emergency report contains water/effluent samples only; it collected no sediment or soil samples. It therefore cannot establish the contaminant concentrations or deposition footprint in shoreline, wetland, beach or estuary sediment after the 2014 rupture. Locate any separate post-spill sediment/soil sampling by ECCC, Nova Scotia Environment, Northern Pulp or consultants, including coordinates, depths, grain size/TOC, lab certificates and chain-of-custody.
+
+
+### 2001 MOU and 2006 extension — original instruments still missing
+
+PLFN's 2013 submission (BH-176) and 2024 Document Brief (BH-208) identify a 27 September 2001 MOU between PLFN and Kimberly-Clark (BH-225) and a subsequent extension agreement with Neenah Paper (BH-226). PLFN's submission summarizes the MOU as allowing the settling basins, emergency spill basin and ASB to continue until 31 December 2030 in exchange for a new Point C–Point D pipeline by 31 December 2005, cleaning/restoration of the stabilization lagoon, annual payments and land transfer. The 2006 agreement reportedly extended the pipeline deadline to 31 December 2008. The 2013 tab index calls the extension “September 2006,” while the narrative gives 2 January 2006.
+
+**Priority acquisition:** complete signed 2001 MOU, referendum question and results, all schedules/maps, 2002 provincial lease extension, complete 2006 extension agreement, payment/land-transfer records, and all notices of default/waiver/extension. Determine the exact conditions precedent, whether the pipeline was ever built, whether PLFN's forbearance was conditional, and what closure/remediation obligations survived when the pipeline option was abandoned. The 2002 open letter in the user's inventory is a separate community communication and does not substitute for the MOU.
