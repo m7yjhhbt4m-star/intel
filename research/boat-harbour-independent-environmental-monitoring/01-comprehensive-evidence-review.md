@@ -1636,3 +1636,21 @@ This is the operator's account in an injunction proceeding. It does not establis
 ### Implications for independent monitoring
 
 The route change moved the proposed outfall into Caribou Channel and reduced marine pipeline length, but did not remove the need to assess fisheries interactions, ice scour, benthic habitat, sediment disturbance, plume behaviour and cumulative effects in the Strait. The 2018 route-selection rationale must be checked against the final route/as-builts and actual monitoring locations. “Avoids known lobster grounds” is a project proponent claim, not a verified absence of fishing activity.
+
+
+
+### 46.1 People named in the 2018 survey-access injunction affidavit
+
+The 30 November 2018 Fraser affidavit is captioned *Northern Pulp Nova Scotia Corporation v. Edwin Donald Shaw, Allan Francis MacCarthy, Chad MacCarthy, Darryl Wayne Bowen, Ben Anderson, Paul Scott Musick, Bradley Elmer MacDonald, Jane Doe and John Doe*. These are the defendants named in the affidavit. The document does not establish that each person was a member of the Fishers Working Group, owned a particular vessel, obstructed survey work, or committed wrongdoing; those roles require the pleadings, affidavits from all parties, and court outcome.
+
+Other named participants:
+- **Terri Fraser** — Northern Pulp Technical Manager and project lead for the replacement ETF; deponent.
+- **Colin Toole** — CSR GeoSurveys Limited, contractor whose information Fraser cites about survey work.
+- **Marlie Knowlton** — Commissioner of the Supreme Court of Nova Scotia who swore the affidavit.
+- **KSH Solutions, Ekono, Callan Brooks Inc.** — engineering/technical consultants identified in the project development record.
+- **Stantec** — receiving-water study consultant.
+- **CSR GeoSurveys Limited** — marine survey contractor.
+- **Veolia Water Technologies** — equipment vendor.
+- **Dillon Consulting Ltd.** — environmental assessment consultant.
+
+The Hfx court file number is illegible in the reproduced scan. The affidavit alleges that fishing-boat operators prevented the October 23, 2018 survey; that allegation is not a court finding. The final injunction order/reasons, other party affidavits, hearing transcript, and any settlement/withdrawal record have not yet been located. The defendants' identities should be included in the historical people register only with this procedural context and without attributing the allegation as fact.
