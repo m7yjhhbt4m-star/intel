@@ -631,3 +631,24 @@ As at 31 December 2025, the annual report does not report new project-wide basel
 - Obtain the January 22, 2026 Condition 9 submission, committee TOR/minutes, candidate-site details, feasibility study and PLFN's own position.
 - Obtain all follow-up plans, monitoring protocols, HHRA reevaluation, pre-site baseline data, independent monitor procurement/terms and Indigenous monitor framework once produced.
 - Check for post-31 December 2025 records separately; this report's reporting period cannot answer whether work commenced in 2026.
+
+
+
+## 22. Sludge Thickness Determination — technical presentation cross-check — 25 November 2026
+
+- **Located/opened:** Yes — conference presentation by Ben Sweet (SCG) and Tim Bachiu (WSP), hosted by the Environmental Services Association of Nova Scotia.
+- **Source:** *Boat Harbour – Sludge Thickness Determination: Innovation in an Era of Challenging Sites* (2021 presentation PDF).
+- **Review status:** All extracted slide text reviewed.
+- **Repository record:** Source register entry BH-123 added to `05-source-register-and-evidence-quality.md`.
+
+### Method and results described
+
+- Combined sonar bathymetry (single-/multi-beam tied to RTK elevations) with in-situ LIF/EC profiling and core comparisons.
+- Describes a 200 m × 200 m grid system, 410 initially placed points and 90 adaptive additional points.
+- Reports volume estimates of 271,000 m³ “competent sludge” and 400,500 m³ “competent sludge plus transition zone.”
+- QA/QC described includes calibration checks, real-time profile monitoring, duplicate profiles, repeat cores, modified core extrusion equipment and sonar/systematic-error checks.
+- Suggests LIF/EC may be useful for post-dredge verification and identifying mixed sludge/sediment and hotspots; the presentation does not establish that it was subsequently used for those purposes.
+
+### Limits and next records
+
+This is a conference presentation, not the full Sludge Thickness Determination report. It does not include the raw LIF/EC data, core-by-core chemical validation, laboratory correlation, GIS surfaces, uncertainty analysis or reproducible volume calculations. LIF is a proxy for optical signatures associated with some organic material/PAHs, not a universal contaminant assay and not a substitute for laboratory analysis of metals, dioxins/furans or PFAS. The full report linked from the official project Resources page remains inaccessible through the public Google Drive preview. Obtain the full report, raw profiles, core logs, lab data, QA/QC package, GIS/bathymetry and volume workbook before treating the two reported volume estimates as independently reproducible.
