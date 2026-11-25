@@ -1180,3 +1180,32 @@ The section calls its monitoring plan conceptual/high-level and defers locations
 - **Repository record:** BH-192 added to source register.
 
 The Proponent describes an 11.4 km pipeline (4.1 km marine) and concludes all 18 VECs have not-significant residual effects after mitigation. The replacement ETF/pipeline was not built after the mill closed in 2020; the EARD predictions are not observed outcomes.
+
+
+
+## 53. Final Terms of Reference — 28 April 2020
+
+- **Source:** Nova Scotia Environment, *Terms of Reference for the Preparation of an Environmental Assessment Report — Replacement Effluent Treatment Facility Project*, final, 28 April 2020, 29 pages.
+- **Official PDF:** https://novascotia.ca/nse/ea/replacement_effluent_treatment_facility_project/Final_TOR_April_28_2020.pdf
+- **Located/opened:** Yes — all 29 pages reviewed.
+- **Repository record:** BH-193 added to source register.
+
+The ToR says the 2019 EARD and October 2019 Focus Report were insufficient, requiring a stand-alone EA Report with accredited-lab QA/QC, full model inputs/validation, raw wastewater characterization, pipeline leak-risk/secondary containment, marine sediment and tissue baseline, full HHRA, complete air inventory and replicable modelling, climate/worst-case accident analysis, Indigenous harvesting/rights, and detailed monitoring.
+
+## 54. Minister's decision — 17 December 2019
+
+- **Source:** Gordon Wilson, Minister of Environment, 4-page decision.
+- **Official PDF:** https://novascotia.ca/nse/ea/replacement_effluent_treatment_facility_project/Northern-Pulp-Minister-Decision-December-17-2019.pdf
+- **Located/opened:** Yes — full text reviewed.
+- **Repository record:** BH-194 added to source register.
+
+The Minister found the Focus Report insufficient on marine fish/fisheries, air exceedances, pipeline leak protection for Pictou's water supply, raw effluent chemistry/flow and spill-basin design.
+
+## 55. Replacement ETF project withdrawal — 5 May 2021
+
+- **Source:** Nova Scotia official EA project page.
+- **URL:** https://novascotia.ca/nse/ea/replacement_effluent_treatment_facility_project/
+- **Status:** Official page says “Withdrawn by Proponent”; Northern Pulp withdrew the project on 5 May 2021.
+- **Repository record:** BH-196 added to source register.
+
+The required EA Report was never submitted/accepted and no final provincial EA approval was issued for the replacement ETF. The Focus Report and appendices are not the missing final EA Report.
