@@ -234,3 +234,23 @@ The most important newly exposed work is not buying another sensor. It is system
 Appendix B (registry PDF https://iaac-aeic.gc.ca/050/documents/p80164/137872E.pdf) was opened. Its front matter identifies an Environmental Management Plan, Revision 1.0 dated 30 September 2020, and explicitly labels it **DRAFT** with a warning that the final version may differ and that the draft should not be relied upon. The table of contents includes proposed groundwater, surface-water, marine, dewatering-effluent, leachate, containment-cell and long-term monitoring sections. It is a historical proposed plan, not evidence of the final approved monitoring programme or monitoring actually performed.
 
 Attempts to extract Appendix A, Y and Z exceeded the Firecrawl 50 MiB file-size limit; Appendix AA (610 pages) and BB timed out. These records remain located but not substantively reviewed in this pass. The correct recovery route is alternate-format request to IAAC or direct download and local PDF processing in smaller page ranges. Do not describe the PDFs as absent or their contents as reviewed.
+
+
+
+## 11. PDF-by-PDF review status update — 25 November 2026
+
+### IAAC EIS Appendix D — document 137874E
+
+- **Located:** Yes — official IAAC PDF, Appendix D, *Boat Harbour Environmental Advisory Committee Terms of Reference*, 187 KB.
+- **Opened and reviewed:** Yes — full browser-rendered text reviewed.
+- **Repository record:** Source register entry BH-114 added to `05-source-register-and-evidence-quality.md`.
+- **Review classification:** Full text review of the 2016 draft terms; not a review of the later revised terms.
+- **Key version warning:** The 2020 EIS Volume III (document 137221E, Sections 4.2.2, 4.3.6 and 5.1.7) says the BHEAC terms were revised after January 2016 to expand membership and that the revised terms/current representatives are in Appendix I. The Appendix D PDF must therefore not be treated as the definitive later TOR.
+
+### IAAC EIS Appendix C — document 137873E
+
+- **Located:** Yes — official IAAC EIS index identifies Appendix C as *Public Meeting Minutes*, 401 KB; the Appendix C link resolves to `https://iaac-aeic.gc.ca/050/documents/p80164/137873E.pdf`.
+- **Opened and reviewed:** No.
+- **Retrieval status:** Blocked in this pass. The official PDF endpoint timed out on repeated retrieval attempts; alternate direct retrieval also failed. Firecrawl retrieval was unavailable because the connected account had exhausted its credits. These are access/tool failures, not evidence that the document is absent.
+- **Do not infer contents:** The EIS Volume III describes three earlier public meetings (October 2016, April 2018 and May 2018) as focused on project concepts and pilot-scale testing, and says Appendix C contains comments and responses from those meetings (Section 4.1, PDF pages 4-3 onward). This is contextual description from Volume III, not a substitute for reading Appendix C itself. No meeting-specific statements, participant names, commitments or responses from Appendix C are represented as reviewed.
+- **Next retrieval requirement:** Obtain the original 401 KB Appendix C PDF through a working official download or alternate format, then review its complete contents and reconcile each recorded comment/response against the EIS narrative and subsequent project records.
