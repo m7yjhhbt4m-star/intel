@@ -518,3 +518,14 @@ The agreement defines the Effluent Treatment System to include Boat Harbour and 
 The 2018 NSSC decision rejected PLFN's specific procedural-fairness complaint about the information record but held that the Province had a duty to consult about potential funding of the replacement ETF, because funding could increase the likelihood of continued mill operations beyond the Boat Harbour Act deadline. The Court of Appeal dismissed the Province's appeal. The Supreme Court of Canada refused leave; this was not a merits decision.
 
 **Outstanding:** retrieve and fully review the complete 2019 NSCA 75 reasons, including the precise appellate analysis and paragraph references. Do not conflate 2019 NSCA 12 (leave to intervene) with 2019 NSCA 75 (appeal on the merits).
+
+
+
+## 30. December 4, 2008 Minister Scott letter — full-text review
+
+- **Source:** Murray Scott, Minister of Transportation and Infrastructure Renewal, letter to Chief Anne Francis-Muise, 4 December 2008; Tab 33 of PLFN's 2014 submission; BH-163.
+- **Status:** Original two-page letter text reviewed.
+
+The Minister confirms the Province's intention to find another mill-effluent discharge location that does not involve Boat Harbour, clean the harbour and return it to a tidal state. He proposes a Chief/Minister committee to oversee the work, a staff-drafted MOU covering objectives and timing, and a community contribution recognizing delay beyond the intended 31 December 2008 completion date.
+
+**Outstanding:** promised Province–PLFN MOU, committee TOR/minutes, negotiator mandate, contribution proposal/payment records, original December 31 2008 PLFN–Northern Pulp Accommodation Agreement, April 2009 forbearance agreement, September 2006 PLFN–Neenah amendment, and October 2008 engineering alternatives report.
