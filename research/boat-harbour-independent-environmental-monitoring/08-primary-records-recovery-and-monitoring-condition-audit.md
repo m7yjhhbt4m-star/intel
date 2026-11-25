@@ -529,3 +529,14 @@ The 2018 NSSC decision rejected PLFN's specific procedural-fairness complaint ab
 The Minister confirms the Province's intention to find another mill-effluent discharge location that does not involve Boat Harbour, clean the harbour and return it to a tidal state. He proposes a Chief/Minister committee to oversee the work, a staff-drafted MOU covering objectives and timing, and a community contribution recognizing delay beyond the intended 31 December 2008 completion date.
 
 **Outstanding:** promised Province–PLFN MOU, committee TOR/minutes, negotiator mandate, contribution proposal/payment records, original December 31 2008 PLFN–Northern Pulp Accommodation Agreement, April 2009 forbearance agreement, September 2006 PLFN–Neenah amendment, and October 2008 engineering alternatives report.
+
+
+
+## 31. PLFN 2010 Statement of Claim — full pleading reviewed
+
+- **Source:** Pictou Landing First Nation, *Statement of Claim*, Supreme Court of Nova Scotia, Hfx No. 335 / 2010; public copy https://canadianaboriginallaw.com/wordpress1/wp-content/uploads/2012/06/Boat-Harbour-Lawsuit-Statement-of-Claim1.pdf; BH-164.
+- **Status:** Full pleading text reviewed; filed-stamped court original and complete exhibits not obtained.
+
+The pleading describes PLFN's allegations concerning the 2001 MOU, 2002 lease extension, 2005 pipeline infeasibility, 2006 deadline extension, 2008 month-to-month licence extension, June 2008 non-opposition agreement, December 4 2008 Minister letter and December 31 2008 Accommodation Agreement. It alleges annual MOU payments of $200,000–$280,000 and transfer of forest lands after pipeline construction.
+
+**Outstanding:** original 2001 MOU and schedules; 2006 amendment (date conflict: 2 January in 2014 submission vs September 2006 in 2010 claim); October 2008 engineering report; May 13 2008 licence extension; June 11 2008 correspondence; December 31 2008 Accommodation Agreement; April 2009 forbearance agreement; and actual effluent flow-meter data. Pleading allegations are not court findings.
