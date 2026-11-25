@@ -1514,3 +1514,32 @@ The memo is a list of recommendations, not proof the work was not done. The next
 ### Correction to BH-165 provenance and pagination
 
 The ADI report's own cover and quality-system page show that it was prepared for **Pictou Landing First Nation**, not Northern Pulp, and that the report is dated **31 March 2011** (Draft, Revision 0). The RFP date was 24 May 2010. The report is approximately 50 pages, not 49. The source register has been corrected; all references should describe it as PLFN-commissioned.
+
+
+
+## 43. The 2001 PLFN–Kimberly-Clark MOU and the 2008 Accommodation Agreement — critical originals still to verify
+
+### 43.1 2001 MOU and the community open letter
+
+The 2002 *MOU Open Letter* circulated to PLFN members has been located as an 11-page PDF in the Signal archival collection (BH-168), but its pages could not be retrieved for review in this pass. It is described by the archive as a community-facing explanation of the 27 September 2001 PLFN–Kimberly-Clark MOU, including proposed payments and land transfers.
+
+PLFN's 2010 Statement of Claim and 2014 Industrial Approval submission describe the MOU as a two-stage decommissioning arrangement: a Point C–Point D pipeline was to be installed by 31 December 2005, allowing the main stabilization lagoon to be cleaned and returned to tidal conditions, while settling ponds and the ASB could continue to operate until 2030; annual payments were to start at $200,000 and rise to $280,000 by 2030; and certain forest lands were to transfer to PLFN after pipeline construction. The 2020 Montgomerie affidavit confirms the MOU was signed 27 September 2001 and approved by PLFN referendum in July 2002.
+
+These descriptions are not a substitute for the executed MOU, its schedules, the 2002 open letter and the original referendum record. The exact conditions, payment schedule, land descriptions, default/termination clauses, and what members were told about the two-stage plan remain to be verified.
+
+### 43.2 2008 Accommodation Agreement — a material source conflict
+
+The two-page *Accommodation Agreement* dated 31 December 2008 has been located (BH-169), but its scan could not be opened/read in this pass. The available sources conflict on its status:
+- The 2010 PLFN Statement of Claim and the 2020 sworn Montgomerie affidavit say PLFN and Northern Pulp entered into the agreement. They describe PLFN as agreeing not to oppose a temporary licence extension to 31 January 2009 while negotiations continued about relocating the facility and returning Boat Harbour to a tidal estuary.
+- The Signal archival page describes the document as an agreement proposed by Northern Pulp but **not accepted by the Band**, and says money advanced to PLFN was returned by the Band's lawyer to avoid jeopardizing the negotiating position.
+
+This is not a minor wording difference. It affects whether PLFN's non-opposition undertaking became effective, whether the document was signed/conditional, and whether any money or consideration was accepted or returned. The original two-page document, signature pages, drafts, covering letters, lawyer correspondence, proof of payment/return and any Band Council resolution must be examined before stating whether it was executed, conditionally accepted, rejected or superseded.
+
+### 43.3 Related 2008 instruments must remain distinct
+
+- **12 May 2008 Acknowledgement Agreement (BH-158):** Province-to-Northern Pulp instrument confirming the continuing benefit of the 1995 Province–mill agreements.
+- **4 December 2008 Minister Scott letter (BH-163):** Province-to-PLFN written commitment to find another discharge location, clean Boat Harbour, return it to tidal conditions, establish a committee and draft an MOU.
+- **31 December 2008 Accommodation Agreement (BH-169):** purported PLFN–Northern Pulp temporary arrangement concerning non-opposition to a licence extension.
+- **2009 forbearance agreement:** referenced in the 2010 claim but not yet recovered.
+
+Do not conflate the parties, obligations or legal effects of these documents.
