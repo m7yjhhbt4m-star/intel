@@ -1708,3 +1708,49 @@ The central verification questions are:
 6. Did the actual treated effluent meet the EARD's predicted quality, and was that independently verified?
 
 Do not summarize this HHE as “the health risk was assessed and found insignificant.” The report itself describes a qualitative evaluation and defers important work to later data and monitoring.
+
+
+
+## 48. January 2019 EARD Section 10 — accidents, malfunctions and unplanned events
+
+The full January 2019 EARD Section 10 (BH-189) has now been reviewed. It assesses eight scenarios: hazardous-material spill, erosion/sediment-control failure, land pipeline/ETF effluent release, marine outfall damage/fouling, off-specification effluent, spill-basin berm failure, vehicle accident and discovery of heritage resources. The EARD rates all residual effects “not significant,” generally with moderate/high confidence, based on proposed mitigation and contingency plans.
+
+### 48.1 Spill basin design and failure assumptions
+
+The EARD describes a 35,000 m³ HDPE-lined spill basin, providing 10–13 hours of storage at full production. It says the design accounts for average annual precipitation in addition to maximum effluent storage, maintains safe freeboard, and is to be kept nearly empty so the full capacity is available. It proposes regular visual inspection of berm walls, grass cover to stabilize slopes, mowing to prevent root penetration, and a project-specific EPP.
+
+**Critical gap:** the EARD does not state a 1-in-100-year/24-hour design storm in Section 10; it refers to average annual precipitation and freeboard. EXP specifically requested a 1-in-100-year/24-hour design storm and clearer overfill controls. The final design calculations must establish the design storm, freeboard, climate-change allowance, extreme rainfall, snowmelt, loss of power, alarm/automatic diversion, basin capacity at actual maximum flow, liner leak detection and what happens if the basin is full while effluent remains off-spec.
+
+### 48.2 Pipeline and marine outfall failures
+
+The EARD proposes:
+- HDPE land/marine pipeline greater than 50 mm thick, with fusion joints;
+- regular pipe/tank inspection and leak detection;
+- marine burial and possible armour stone against ice scour, waves and anchor drag;
+- a no-anchoring zone established with Transport Canada and DFO;
+- regular diver/ROV inspections and diffuser cleaning; and
+- prompt repair if damage or fouling is found.
+
+The EARD also states that strong Caribou Channel currents would likely provide significant diffusion even if diffuser nozzles were absent. This is a design assumption, not a measured performance result. It requires hydrodynamic modelling of damaged/fouled configurations and actual inspection/monitoring records.
+
+### 48.3 What counts as off-specification effluent
+
+The EARD defines off-specification effluent as effluent that does not meet PPER before release. It relies on influent monitoring, daily key performance indicators, a distributed control system, an EPP and spill response. This definition is narrower than a comprehensive chemical-quality failure: PPER does not regulate every contaminant or every parameter relevant to CCME ambient-water criteria, human exposure or PLFN's concerns. A robust incident protocol must specify triggers for all permit limits, treatment performance objectives, COPCs, toxicological thresholds and unexpected contaminant detections—not only PPER.
+
+### 48.4 Risk conclusions are qualitative
+
+The EARD selects “credible” scenarios based on project description and proponent/KSH experience. It does not provide a quantitative probability-of-failure model for pipeline rupture, diffuser damage, berm breach or basin overflow. It concludes residual effects are not significant after proposed mitigation, but this is a prediction dependent on those controls being designed, installed, maintained and exercised.
+
+### 48.5 Potable wells and route-wide risks
+
+The EARD says there are no potable wells near the ETF site, but this does not answer the risk to wells along the land pipeline route or in Caribou wellhead-protection areas. The route-wide well survey, baseline testing, leak detection, emergency isolation and post-construction groundwater monitoring must be verified separately.
+
+### 48.6 Archaeology and cultural resources
+
+The EARD acknowledges the ETF site has generally high archaeological potential and says the spill-basin location was changed to avoid resources identified during initial field investigations. It proposes a 100 m exclusion zone around chance finds and contact with the Special Places Branch and Office of Aboriginal Affairs; it says Indigenous cultural resources would be handled with those offices.
+
+This is not proof that all archaeological or cultural resources were identified or that PLFN's own governance requirements were met. Compare the final route and spill-basin footprint with the Boreas GPR/archaeological report, MEK, PLFN submissions and any community-controlled cultural-resource directions. Do not publish sensitive site locations without PLFN authorization.
+
+### 48.7 Required verification
+
+Obtain final spill-basin design and geotechnical calculations, extreme-rainfall/climate scenarios, freeboard and overflow routing, level alarms/automatic diversion, liner QA/QC/leak detection, emergency response plans and drills, pipeline/diffuser as-builts, inspection/ROV reports, no-anchoring-zone approvals, incident records and actual performance monitoring. Compare all of these with the final EA conditions and the EXP 2019 recommendations (BH-166/BH-167).
