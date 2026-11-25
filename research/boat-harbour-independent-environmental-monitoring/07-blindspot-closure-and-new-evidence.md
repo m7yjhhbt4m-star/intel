@@ -432,3 +432,17 @@ The full Lewis et al. (2021) paper (BH-129) has now been reviewed. It reports th
 The paper reports associations between environmental fear and self-rated physical/mental health, and between racism and several health dimensions. It is a cross-sectional self-reported survey with bivariate analysis, not a clinical study, exposure assessment or causal epidemiology. It does not establish that Boat Harbour or mill emissions caused the outcomes. The 2014 survey is not a pre-exposure baseline; it is a community health snapshot after decades of effluent exposure. Comparisons use different surveys/populations and the environmental-fear cross-tab has n=126 complete cases.
 
 **Blindspot:** future monitoring cannot rely only on contaminant concentrations and conventional toxicological endpoints. It must be co-designed with PLFN and include community-defined health, access to land/food/medicine, cultural/spiritual well-being and environmental fear, while keeping self-reported indicators distinct from measured exposures and clinical outcomes. The full questionnaire/supplementary data and any later PLFN health survey should be located with PLFN/NWG authorization; individual-level data must remain under community governance.
+
+
+
+## 19. Mount William assessment: desktop-screen limits and material GHG error
+
+The original 2022 Nova Scotia Lands/GHD assessment (BH-130) evaluates only two Mount William parcels, not the wider parcel inventory later identified by Hive Engineering or the Northern Pulp landfill. NSECC's own March 2022 memo says no site-specific ecological, hydrological or hydrogeological assessment had been completed; it relied on mapped wetlands, topographic maps, photos and satellite imagery. GHD's cost/timing memo says the property owners had not been contacted and no work had been done to determine actual site suitability. The cost estimate budgets future baseline studies (hydrogeology, hydrology, natural resources, MEKS, archaeology, human-health risk and well-being). This is a desktop/regulatory screen, not a field-verified feasibility study.
+
+**Material GHG misattribution:** the main assessment and the 2024 Proponent response say the Mount William option would generate 183,164 tonnes CO₂e and compare it to 5,042 homes. Annex 7 shows 183,164 tonnes/42,896 homes belongs to disposal at an existing third-party hazardous-waste facility about 1,250 km away (Quebec/Stablex). The nearby new-landfill scenario (about 20 km) is 21,530 tonnes/5,042 homes. The main text combines the emissions figure from the Quebec scenario with the home-equivalency from the nearby scenario. The correct Annex 7 estimate for the new landfill scenario is 21,530 tonnes CO₂e. This is a material error in the environmental comparison and is repeated in the 2024 response.
+
+The distance basis is also inconsistent: Annex 3 map says 18.5 km driving distance one-way; Annex 7 uses 40 km round trip; the main text calls 20 km a round trip. The 2018 315,020-tonne net decrease estimate is a different baseline/scope and cannot be directly compared without common accounting.
+
+**Additional discrepancy:** the 2022 assessment main text reports 180,000 m³ in the existing cell (70,000 + 110,000), while Annex 4 says 116,000 m³ of sludge. Reconcile definitions, dates and volume basis.
+
+These issues do not prove the Mount William site is suitable. They mean the Proponent's published comparison must be corrected and the site's field feasibility must be distinguished from its desktop screening.
