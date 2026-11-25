@@ -704,3 +704,18 @@ The October 2019 issue says the Boreas Heritage GPR report identified a possible
 ## 26. 2019 PLFN Well-being Baseline Study has an explicit use restriction
 
 The 2019 PLFN Well-being Baseline Study (BH-146) states it was prepared for the sole use of PLFN and Nova Scotia Lands in preparing the EIS and that its data may not be used beyond that purpose. It is a community-led, OCAP-governed study. This research package records only its existence, metadata, method and restriction; it does not extract its findings or participant quotations. Documentary reuse requires written direction/permission from PLFN and the appropriate data-governance authority. Do not conflate it with the 2014 EHS in Lewis et al. (2021).
+
+
+
+## 31. Retrieve full 2019 NSCA 75 reasons and complete funding record
+
+The full 2018 NSSC 306 reasons establish a duty to consult on potential provincial funding of the replacement ETF. The official SCC docket confirms the Province's appeal was dismissed in 2019 NSCA 75 and leave was refused in 2020. The full appellate reasons have not yet been opened in this research pass.
+
+Recover:
+- complete 2019 NSCA 75 reasons and appeal record;
+- 2016 and 2017 contribution agreements between Province and Northern Pulp;
+- all engineering-study funding invoices and reimbursement records;
+- the 2018 PLFN funding judicial-review record and consultation documents;
+- any consultation records concerning design, financing conditions, penalties/rewards, effluent targets and the relationship between funding and mill life.
+
+The 2018 NSSC decision specifically found no procedural unfairness in PLFN's particular complaint about the information record while separately finding a duty to consult on funding. Preserve both parts of the holding; do not summarize the case as a blanket finding that all consultation was inadequate.
