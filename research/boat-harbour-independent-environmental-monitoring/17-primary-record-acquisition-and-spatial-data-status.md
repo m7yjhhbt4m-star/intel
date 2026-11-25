@@ -238,3 +238,12 @@ The RODD itself is particularly important because its executive summary explicit
 The Design Requirements Document is a 2017 conceptual requirements source. It defines functional/performance/safety/operational requirements and includes a site layout/study-boundary figure. It says the conceptual design scope included remediation of groundwater as well as soil, sediment and surface water; that scope statement must not be confused with the later federal Decision Statement's specific condition 5.5 media list.
 
 **Preservation status:** all three successfully opened PDFs have been read in browser-rendered form, but no original PDF binary has yet been downloaded into the controlled evidence vault or SHA-256 hashed. They are therefore content-reviewed, not source-file-preserved.
+
+
+## 14. Additional browser-text review record — Project MUSE oral-history article
+
+| User inventory item | Source identity | Review status | Preservation status | Notes |
+|---|---|---|---|---|
+| 63 — `pdf` | Castleden et al. (2017), “Put It Near the Indians”: Indigenous Perspectives on Pulp Mill Contaminants in Their Traditional Territories, Project MUSE article 661289, DOI 10.1353/cpr.2017.0004; https://muse.jhu.edu/article/661289/pdf | **B — Full browser-rendered article text reviewed** | **Not A1/A2.** Original PDF bytes have not been downloaded, hashed or preserved in the evidence vault | This is the original research article, pp. 25–33. The companion Community Policy Brief is a separate item, DOI 10.1353/cpr.2017.0003. The article is recorded as BH-113 in Document 05. The user’s local phone copy was not accessed. |
+
+This row records online text review only. It does not assert that the local file was inspected or that the source binary was acquired.
