@@ -675,3 +675,15 @@ The ToR requires full raw-effluent characterization and bench testing; 85,000 m�
 
 - **BH-196:** Nova Scotia official EA project page.
 - **Status:** Confirms Northern Pulp withdrew the project on 5 May 2021. The final EA Report required by BH-193 was never submitted/accepted; no final provincial EA approval was issued for the replacement ETF.
+
+
+
+## 46. November 2019 consolidated government submissions — targeted review completed
+
+- **BH-197:** Nova Scotia, *Northern Pulp Comments Received — Government Submissions on the Focus Report*, approximately 164 pages.
+- **Official PDF:** https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/comments-focus-report/Northern-Pulp-Comments-Received-Government-Submissions.pdf
+- **Status:** Targeted substantive review of DFO/ECCC, Health Canada, TIR, Air Quality, Climate Change, Environmental Health, ICE Division, Industrial Management, Hydrology and Wastewater Engineering comments.
+
+The agency comments identify inadequate marine baseline/species inventory, herring spawning-ground overlap, small lobster/crab tissue samples, incomplete HHRA, flawed COPC/background/mixture screening, 2D ocean-model limitations, air exceedances and incomplete monitoring, average-flow rather than peak-flow design, two raw-effluent samples, sCOD/tCOD and COD fractionation issues, dangerous-goods/spill-basin incompatibility, inadequate pipeline leak detection and groundwater/well surveys, causeway stability, ice scour and sediment disposal issues.
+
+**Outstanding:** build a crosswalk of each agency comment to the Focus Report response, 17 December 2019 Minister decision, final ToR requirement, and actual completion evidence. The replacement ETF was withdrawn in 2021 before the required EA Report was completed.
