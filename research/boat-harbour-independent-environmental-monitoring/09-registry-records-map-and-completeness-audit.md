@@ -399,3 +399,27 @@ The concordance shows IAAC's EIS requirements included marine water quality; bot
 ### Governance and handling flags
 
 Appendices S and T contain PLFN well-being and Mi'kmaq ecological knowledge. Their content must remain subject to PLFN research governance. Appendix M (BHEAC action items), Appendix I (informal PLFN consultation documentation) and Appendix J (formal PLFN consultation documentation) are high-priority records for further provenance-aware review.
+
+
+
+## 17. Laboratory Treatability Study — original report review — 25 November 2026
+
+- **Located:** Yes — official Boat Harbour project Resources page, direct PDF hosted on the project's Squarespace static file store.
+- **Source:** GHD, *Laboratory Treatability Study — Boat Harbour Remediation Planning and Design*, report 11148275 (10), 9 April 2018, 58 pages.
+- **Opened and reviewed:** Yes — original 58-page PDF opened; substantive review of sampling/methods, initial characterization tables, wet/dry treatability tests, leaching tests, Geotube calculations, conclusions and recommendations. Photo appendix not independently interpreted.
+- **Repository record:** Source register entry BH-119 added to `05-source-register-and-evidence-quality.md`.
+
+### Findings that must carry forward
+
+1. The study used one sample from each of three areas (ASB, Boat Harbour lagoon, estuary), not a site-wide replicated sampling design.
+2. Initial water samples exceeded the 2013 NSE marine-water criteria for total cyanide (15–21 µg/L vs 1 µg/L), modified TPH (0.202–0.514 mg/L vs 0.1 mg/L), and total/dissolved zinc (total 51.9–97.9 µg/L; dissolved 30.8–60.7 µg/L vs 10 µg/L).
+3. Initial sediment PCDD/PCDF TEQ was 2.73 pg/g in EST, 170 pg/g in BH and 402 pg/g in ASB against a 4 pg/g criterion. Modified TPH was 32.9, 221 and 259 mg/kg respectively against 150 mg/kg.
+4. Wet Geotube tests retained high total PCDD/PCDF concentrations in BH/ASB solids, even where selected leach tests were below the chosen leachate criteria. Total concentration and leachability are not interchangeable.
+5. PAC/lime treatment improved dewater water but BH TPH remained 0.178 mg/L against 0.1 mg/L in the separate 1 L filtration test.
+6. **Critical analytical-sensitivity issue:** several reporting limits were above the comparison criteria (cyanide ND <10 vs criterion 1 µg/L; mercury ND <0.2 vs 0.016 µg/L; lead ND <50 vs 2 µg/L; zinc ND <50 vs 10 µg/L; selenium ND <100 vs 2 µg/L). These non-detects do not demonstrate compliance.
+7. Geotube throughput estimates extrapolate 40 L bench-scale units to a 1,964 m³ tube; this is not measured full-scale performance.
+8. GHD concluded both wet and dry removal were viable at laboratory scale and explicitly recommended pilot testing. The 2019 Pilot Scale Testing Report is the necessary next source to test whether the lab findings held at larger scale.
+
+### Limitations and next evidence
+
+The study's three source samples do not establish spatial variability across the wetlands, ditches, former ponds, pipeline corridor, estuary shoreline or Northumberland Strait. The analyte suite does not include PFAS, methylmercury speciation, biological toxicity or bioaccumulation. The 2019 pilot report and its raw laboratory/field data are still needed to verify actual Geotube, reagent, dewatering, effluent and solids performance.
