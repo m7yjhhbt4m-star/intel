@@ -877,3 +877,25 @@ The 2018 A'se'k News newsletter says formal consultation with Chief and Council 
 The letter says Boat Harbour's waters were raised approximately nine feet, encroaching on three parcels of Indian Reservation land. It confirms November 1990 commitments to discontinue use as a wastewater facility, restore natural tidal fluctuation, restore altered shoreline areas as close as reasonably possible to original condition, and complete work in approximately five years. It identifies Robert Porter as making the commitments on behalf of the Province to Robert Anderson and PLFN lawyer Tony Ross.
 
 The underlying November 1990 record, supporting survey data, and later agreements/letters that changed or reaffirmed the closure timetable remain to be obtained and compared.
+
+
+
+## 34. 1995 Pictou Landing Indian Band Agreement Act and 1994–1995 Hansard — reviewed
+
+### BH-145 — statute
+
+- **Source:** *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4, assented 26 March 1995.
+- **Official source:** https://laws-lois.justice.gc.ca/eng/acts/P-13.6/FullText.html
+- **Status:** Full Act reviewed.
+
+The Act identifies the underlying settlement as the July 20, 1993 agreement between Canada and PLFN. It legislates two provisions: payments are not Indian moneys under the Indian Act; and Band-member claims arising from agreement section 13 may only be made against the continuing compensation account under the procedure in that section.
+
+### BH-146 — parliamentary debates
+
+- **Sources:** House of Commons Debates, 12 December 1994 (Bill C-60 second reading) and 16 February 1995 (third reading).
+- **Official sources:** https://www.ourcommons.ca/DocumentViewer/en/35-1/house/sitting-142/hansard and https://www.ourcommons.ca/DocumentViewer/en/35-1/house/sitting-154/hansard
+- **Status:** Relevant settlement and Bill C-60 debate passages reviewed.
+
+The debates describe the $35M settlement, referendum result, compensation and relocation trust allocations, monitoring programs, Canada's undertaking to explore environmental solutions, and the release/assignment provisions. Hansard is not the signed contract.
+
+**Still not located/reviewed:** the full executed July 20, 1993 settlement agreement and all schedules. The Act and debates cannot establish the precise contractual language. Obtain the original contract, referendum records, trust deed/accounting, monitoring program terms and implementation reports.
