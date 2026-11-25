@@ -437,3 +437,14 @@ The 2018 A'se'k News newsletter says formal consultation with Chief and Council 
 The Minister records that Boat Harbour's waters had been raised approximately nine feet, causing encroachment on three parcels of Indian Reservation land. He confirms November 1990 commitments to discontinue use of Boat Harbour as a wastewater facility, restore the natural tidal regime, restore altered shoreline areas as close as reasonably possible to their original condition, and complete the work in approximately five years. The letter says the commitments were made by Robert Porter to Robert Anderson and PLFN lawyer Tony Ross and that the Province fully intended to honour them.
 
 **Outstanding:** original September–November 1990 survey/correspondence and meeting records; the legal form of the commitments; elevation/parcel survey evidence supporting the nine-foot statement; and complete subsequent 1995, 2001, 2006 and 2008 agreements/letters showing how the timeline was amended or reaffirmed.
+
+
+
+## 24. 1993 settlement statute and parliamentary record — review status
+
+- **BH-145:** *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4, full statute reviewed from Justice Laws.
+- **BH-146:** House of Commons Hansard, 12 December 1994 and 16 February 1995, relevant Bill C-60 debates reviewed.
+
+The Act identifies the underlying agreement as the 20 July 1993 Canada–PLFN agreement. It legislates that settlement payments are not Indian moneys and that member claims arising from agreement section 13 may only be made against the continuing compensation account under the section 13 procedure. Hansard describes the $35M settlement, referendum, compensation/trust allocations, monitoring programs, Canada's undertaking to explore solutions, and release/assignment provisions.
+
+**Primary source outstanding:** the full signed 20 July 1993 settlement agreement and schedules. The statute and Hansard do not substitute for the contract. Obtain the exact release/assignment/subrogation clauses, section 13 claims procedure, monitoring terms, trust deed/accounting, referendum record and implementation reports. Do not infer that the settlement transferred all PLFN claims against Nova Scotia or the mill, or that it consented to continued/permanent Boat Harbour use.
