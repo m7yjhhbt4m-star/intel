@@ -330,3 +330,17 @@ The paper uses 2013 Canadian Cancer Registry microdata and geographic coding to 
 - **Repository record:** BH-129 added to source register.
 
 The paper reports the 2014 PLFN Native Women's Group-led Environmental Health Survey: 279 respondents (59% response rate), 13 community research assistants, 297 questions and more than 400 variables. It presents selected physical, mental, emotional and spiritual health indicators and a community-defined air/land/water environmental-dispossession indicator. It is a cross-sectional self-reported survey with bivariate analysis, not a clinical or causal environmental exposure study. The 2014 survey is not a pre-exposure baseline; the comparisons use different survey instruments/populations. Full questionnaire/supplementary data and any later survey remain to be retrieved with PLFN/NWG authorization; raw individual data are not public.
+
+
+
+## 18. 2022 Mount William alternative-site assessment — full substantive review — 25 November 2026
+
+- **Source:** Nova Scotia Lands/GHD, *Response to IAAC Information Requirement 82 — Technical and Economic Feasibility Assessment of Alternative Containment Cell Location Site*, IAAC document 155834E, with Annexes 1–7.
+- **Direct source status:** Original PDF opened; substantive review of main report and Annexes 2–7 completed.
+- **Repository record:** BH-130 added to source register.
+
+The assessment covers only two Mount William parcels. NSECC's Annex 2 explicitly says no site-specific ecological, hydrological or hydrogeological assessment had been completed; it relied on mapped wetlands, topographic maps, photos and satellite imagery. GHD's Annex 3 says property owners had not been contacted and no work had been done to determine actual site suitability. The cost estimate budgets future baseline studies, including MEKS, archaeology, natural resources, hydrogeology, hydrology, human-health risk and well-being.
+
+**Critical correction:** the main report attributes 183,164 tonnes CO₂e to the Mount William site and pairs it with 5,042 homes. Annex 7 shows 183,164 tonnes/42,896 homes is the 1,250 km third-party hazardous facility scenario; the nearby new-landfill scenario is 21,530 tonnes/5,042 homes. The main text combines figures from different scenarios; the 2024 Proponent response repeats this. See BH-130 for details and citations.
+
+**Additional discrepancy:** main text reports 180,000 m³ in the existing cell; Annex 4 says 116,000 m³ of sludge. The distance is also described as 20 km round trip in the main text, while the Annex 3 map says 18.5 km one-way and Annex 7 uses 40 km round trip.
