@@ -1788,3 +1788,46 @@ The three named future projects are a narrow inventory and may be reasonable as 
 - Have the final EA decision and later monitoring conditions addressed these omissions?
 
 Do not describe Section 12 as a comprehensive regional cumulative-effects assessment without qualification. It is the Proponent's 2019 assessment, and its decision not to carry Indigenous land/resource use forward is a significant issue for independent review.
+
+
+
+## 50. January 2019 EARD Section 13 — follow-up and monitoring plan is conceptual, not final
+
+The full Section 13 (BH-191) has now been reviewed. The EARD defines follow-up as verifying EA predictions and mitigation effectiveness, and distinguishes it from compliance monitoring. Crucially, it says the follow-up/monitoring elements are **conceptual and high-level**; detailed methods, locations, timeframes, frequencies and parameters would be refined during permitting and in response to approval conditions.
+
+### 50.1 What the EARD proposed
+
+- **Air:** continue annual regulated source-emission testing and existing ambient air monitoring; pulp/paper mill sludge is treated as a standard fuel with no additional monitoring outside the source-emission program.
+- **Noise:** periodic spot checks *may* be conducted; community liaison during construction is not formal follow-up.
+- **Surface water:** develop a life-of-project monitoring program; conduct baseline monitoring before project commencement.
+- **Groundwater:** continue the mill's existing monitoring-well network; confirm groundwater table if needed for clarifier construction; monitor runoff along pipeline footprint where infiltration to groundwater is possible.
+- **Freshwater fish:** field verify habitat before construction; baseline/compliance/effects monitoring through surface-water program; follow up any fish-habitat offset.
+- **Wetlands/flora/wildlife/birds:** additional spring/summer 2019 field work, turtle surveys before construction, wetland compensation monitoring, vegetation regrowth/invasive species monitoring, and breeding/migratory bird surveys.
+- **Marine environment:** a project-specific EEM program during operation/maintenance to verify effects and compliance.
+- **Socio-economic/fisheries:** rely on other VEC follow-up, DFO observations/landings and the existing Community Liaison Committee.
+- **Indigenous use:** complete an expanded MEKS before construction; monitoring for other VECs, particularly fish/habitat and human health, “may assist” in further defining effects.
+- **Heritage:** marine archaeological impact assessment before seabed disturbance and archaeological monitoring if avoidance is not feasible; terrestrial shovel testing and monitoring where elevated potential exists.
+
+### 50.2 Monitoring gaps in the summary
+
+The table does not specify marine stations, species, analytes, sampling frequencies, detection limits, QA/QC, trigger/action levels or independent oversight. Human-health follow-up is not listed as a standalone program in the summary table, even though Section 9 discusses fish/shellfish tissue chemistry that could support a future HHRA. Air monitoring relies on existing programs and does not commit to the broader VOC/TRS/chlorinated/co-combustion inventory recommended by EXP. Noise monitoring is discretionary (“may”). The Indigenous-use component is principally an expanded MEKS before construction, with other VEC monitoring only potentially assisting.
+
+### 50.3 Critical status distinction
+
+The EARD's follow-up plan is not evidence that the proposed studies or monitoring were completed. The EARD itself defers detail to permitting and approval conditions. The replacement ETF and its 11.4 km pipeline were not constructed after the mill closed in 2020. Therefore these are proposed follow-up measures for an abandoned project, not observed environmental monitoring results. The actual 2025 Boat Harbour remediation program has a different scope and must be assessed separately.
+
+The next step is to compare every Section 13 proposal with the 2020 EA decision conditions, permits, final designs, any work completed before closure, and the later 2025 remediation monitoring program.
+
+## 51. January 2019 EARD Section 14 — proponent's “not significant” conclusion and project non-construction
+
+The full Section 14 (BH-192) has now been reviewed. It describes the replacement project as necessary for the mill to continue operating after the Boat Harbour Act prohibited use of the provincial BHETF after 31 January 2020. It describes a new MBBR/activated-sludge plant on mill property and an approximately 11.4 km pipeline to Caribou Harbour, including 4.1 km marine pipeline and a three-port diffuser.
+
+The EARD identifies 18 VECs and concludes that residual effects for every VEC—including Indigenous Peoples' use of land/resources, marine fish/habitat, accidents and cumulative effects—would be not significant after planned mitigation.
+
+That conclusion must be read alongside the limitations documented in Sections 9, 10, 12 and 13:
+- Section 9 is a qualitative HHE, not a completed quantitative HHRA.
+- Section 10 uses qualitative accident scenarios and leaves key spill-basin design/overfill details to later design.
+- Section 12 excludes Indigenous land/resource use from cumulative-effects analysis and treats historical conditions largely as baseline.
+- Section 13 says monitoring methods, locations, frequencies and parameters are conceptual and will be refined during permitting.
+
+The proposed replacement ETF and pipeline were not constructed because the mill closed in 2020. The EARD's predictions are not observed outcomes and cannot be used as evidence that the marine outfall operated safely or that predicted effects were absent. The project must not be conflated with the later Boat Harbour remediation project.
