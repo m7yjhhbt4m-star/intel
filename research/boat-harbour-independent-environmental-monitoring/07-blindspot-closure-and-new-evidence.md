@@ -774,3 +774,14 @@ Highest-priority items:
 - **Lobster and fisheries:** verify larval and adult lobster lethal/sublethal testing using proposed treated effluent, fish/finfish impacts, scallop/crab distribution, and whether monitoring covers fishing grounds beyond the immediate mixing zone.
 
 For every item, record the original EXP recommendation, Proponent response, final EA condition, completion evidence, data quality and residual gap. Do not treat a proposed future study or a commitment in a focus report as proof of completion.
+
+
+
+## 36. Resolve original 2001 MOU and 2008 Accommodation Agreement before drawing consent conclusions
+
+Two important documents have been located but not yet read from their original scans:
+
+- **2002 MOU Open Letter (BH-168):** 11-page document circulated to PLFN members describing the 27 September 2001 PLFN–Kimberly-Clark MOU. It may show what members were told about the pipeline, staged closure, annual payments and land transfers. Obtain a readable copy, the executed 2001 MOU/schedules and the July 2002 referendum records.
+- **2008 Accommodation Agreement (BH-169):** two-page document dated 31 December 2008. The 2010 PLFN Statement of Claim and 2020 Montgomerie affidavit say it was entered into and that PLFN agreed not to oppose a temporary licence extension to 31 January 2009. Signal's archival description says it was proposed by Northern Pulp but not accepted by the Band and that an advance was returned by PLFN's lawyer.
+
+The status conflict must be resolved from the signed original, drafts, covering letters, lawyer correspondence, proof of payment/return, and any Band Council resolution. Determine whether the agreement was signed, conditionally accepted, rejected, or superseded. Do not describe the non-opposition undertaking as effective or ineffective until this is established.
