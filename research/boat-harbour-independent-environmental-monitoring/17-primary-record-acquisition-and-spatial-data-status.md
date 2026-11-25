@@ -727,3 +727,12 @@ Key results relevant to the Boat Harbour water/sediment evidence and the user's 
 
 
 **Independent-review gap confirmed:** BGC's January 2021 External Technical Review (BH-012) specifically lists the 23 December 2019, 580-page Pilot Scale Testing Construction Report as an extra-scope document it requested; it was not part of the received review set. Thus the BGC ETR did not independently validate the pilot report's volume-reduction, geotube-performance or construction findings. This strengthens—not closes—the need to obtain and review the original pilot report and raw data.
+
+
+## 57. Google Drive retrieval audit — 25 November 2026
+
+The official Build Nova Scotia Boat Harbour project resources page lists the following large technical reports on Google Drive: Quantitative HHERA (link 7), Phase I ESA (link 9), Phase II ESA (link 10), Pilot Scale Testing Report (link 11), and Sludge Thickness Determination (link 14). Their Drive file IDs have been captured in the inventory rows where available. Opening the public Drive file pages returns only a loading/sign-in shell; direct Google Drive export/download endpoints and drive.usercontent download endpoints were also inaccessible through the available browser retrieval route. No original binary was acquired from these links.
+
+A semantic/title search of the accessible ChatGPT Library surfaced one relevant user Library file among the 71 inventory items: Laboratory Treatability Study (item 6). That copy has now been materialized, reviewed as a 58-page PDF and SHA-256 hashed (A1+B). The search did not surface the other large Google Drive reports. This does **not** establish that they are absent from the user's iPhone Files folder; it only records that they were not present in the accessible ChatGPT Library search results.
+
+**Current consequence:** inventory items 2, 3, 4, 5 and 37 remain A0/E/C. Their source identities and official resource links are known, but their original contents have not been read. Related EIS/IR/peer-reviewed sources have been used to identify issues and review questions, but they must not be represented as substitutes for the original reports. To complete these five full-text reviews, a retrievable binary or accessible text copy is still required.
