@@ -929,3 +929,19 @@ The AIP's closure timeline was implemented through the Boat Harbour Act; the MOA
 ### 26.5 Community records and consultation chronology
 
 EIS Appendix I includes A'se'k News newsletters and a Community Liaison Coordinator workplan. The 2018 newsletter says formal consultation with Chief and Council on cleanup options began on 19 April 2018 and lists 18 May 2018 as the response deadline. It says Phase I ESA was complete and Phase II nearly complete, and lists baseline work on air, noise, birds/wildlife, plants/fish, fisheries outside Boat Harbour, groundwater/surface water and geology. It also documents monthly A'se'k Socials, a closed PLFN community Facebook group, and a video/photo mentorship initiative to help tell the community's story. These are contemporaneous community communications, not a complete consultation record. The exact 30 May 2018 PLFN letter and 23 August 2018 provincial response remain priority documents to obtain.
+
+
+
+### 29.1 Earlier relocation alternatives identified in the 2014 PLFN submission
+
+The submission's summary of earlier engineering work identifies three additional alternatives that must be recovered from their original reports before comparing them with the 2022 Mount William and 2023 Hive screens:
+
+- **Agra Simons (February 2000):** the submission says the mill site itself was considered for a replacement treatment facility, with either a shorter pipeline to Pictou Harbour or a longer pipeline toward Lighthouse Beach; the latter option was estimated at approximately $60 million (Tab 25, p. 49).
+- **AMEC (21 April 2010):** the submission says AMEC updated relocation costs and estimated approximately $94 million for a facility at the mill site with a pipeline discharging near Lighthouse Beach (Tab 34, p. 77).
+- **ADI Inc. (31 March 2011):** the submission says PLFN commissioned a tertiary-treatment option intended to produce cleaner wastewater suitable for discharge under municipal-sewage ocean standards; it reports a treatment cost as low as $7.8 million and an estimated $12 million reduction in pipeline costs, allowing a shorter discharge route into Pictou Harbour (Tab 35, pp. 43–46).
+
+These are PLFN's summaries of the consultants' reports, not verified current-dollar costs or proof of regulatory feasibility. The original Agra Simons, AMEC and ADI reports must be obtained and reviewed for treatment assumptions, flow and load basis, receiving-water assumptions, pipeline route, permitting, residuals/sludge handling, lifecycle costs, contingency, estimate class and whether the options were technically comparable. They are historical alternatives, not directly comparable to a new containment-cell estimate without normalizing scope, price year, capacity, operating costs and regulatory requirements.
+
+### 29.2 Date and source-record corrections
+
+The PDF cover page says “March 21, 2013,” but the signed/dated cover letter inside the document is dated March 21, 2014. Use 21 March 2014 provisionally and retain the cover-page discrepancy in the source metadata. The body also says a B.G. Clench memorandum/Band Council Resolution was dated 22 October 1995, while the index identifies Tab 2 as a B.G. Clench memorandum dated 22 October 1965. Both discrepancies require checking against the original correspondence.
