@@ -1086,3 +1086,43 @@ IAAC assumes PLFN will continue to lead on behalf of the Mi'kmaq of Nova Scotia 
 The report states that pipeline removal activities proposed for the Project had already been completed and no adverse environmental or archaeological effects were identified from those activities; no further ground disturbance in the pipeline corridor was proposed. It also notes the 2019 GPR survey identified anomalies consistent in size/depth with possible burials, but exact locations were not identified. Do not publish sensitive burial-location information; obtain the underlying Boreas report and PLFN direction before further work.
 
 Appendix D lists species at risk that may occur, including rainbow smelt, Inner Bay of Fundy Atlantic salmon, winter skate, striped bass, white hake, American eel, smooth/thorny skate, white shark, blue whale and North Atlantic right whale, as well as migratory bird species. These are potential occurrence listings; distinguish observed species, possible presence and formal status.
+
+
+
+## 34. 2020 Montgomerie affidavit and jointly prepared 1954–2005 chronology
+
+The full July 22, 2020 affidavit of Nova Scotia Deputy Minister Duff MacKay Montgomerie, filed in the Northern Pulp CCAA proceeding, and its Exhibit A chronology have now been reviewed (BH-150/BH-151). This is a particularly useful source because the chronology was prepared jointly by Nova Scotia, PLFN, Canada and Neenah Paper.
+
+### Important chronology and contract confirmations in the affidavit
+
+The affidavit states:
+- the 1965 Scott Maritimes Agreement Act required the Province to provide water and wastewater infrastructure for the mill;
+- the September 30, 1970 Province–Scott agreement provided water and effluent treatment for 25 years, ending December 31, 1995, and required operation in compliance with the Federal Pulp and Paper Regulations;
+- the December 1, 1995 Province–Scott MOU contemplated a reconfigured facility, immediate closure of part of the facility and a definitive termination date for the remainder; it was to be translated into a Water Supply Agreement, Lease, Indemnity Agreement, Equipment Lease and Licence Agreement;
+- the 2001 PLFN MOU was signed September 27, 2001 and approved by PLFN referendum in July 2002;
+- the Province–Kimberly-Clark lease extension was entered October 22, 2002 and extended the lease to December 31, 2030;
+- OIC 2004-457 transferred the agreements to Neenah; a 2006 extension was tied to the extension negotiated with PLFN; OIC 2008-338 transferred the agreements to Northern Pulp; and a May 12, 2008 acknowledgement continued the earlier agreements for Northern Pulp;
+- the December 31, 2008 PLFN–Northern Pulp Accommodation Agreement recorded PLFN's position that a licence extension would interfere with its Aboriginal, treaty and constitutional rights, while PLFN agreed not to oppose a temporary extension to January 31, 2009 as negotiations to restore tidal conditions and relocate the facility continued.
+
+The affidavit also recounts the 2014 spill, 2014 AIP, 2015 Boat Harbour Act and later provincial financial support/cleanup arrangements. Those sections are the Province's sworn account in the CCAA proceeding and should be compared with the underlying records and the positions of PLFN and other parties.
+
+### Joint chronology — technical and operational history
+
+The chronology records major changes to the treatment system:
+- **1972:** conversion to a forcemain; twin primary settling basins; construction of an 18-ha aerated stabilization basin; most of the 142-ha Boat Harbour became the final polishing lagoon before effluent release to the Strait.
+- **1995–1996:** dredging and aeration upgrades to the ASB; construction of a disposal cell; continuous sediment removal and permanent dewatering/filter-press system at the primary settling basins.
+- **1996:** primary settling-basin material began being used as hog fuel rather than placed in the disposal cell.
+- **1997:** nutrient-management facility installed.
+- **1997–1998:** water levels lowered; control structure at Point D modified; Highway 348 culverts and beach berm replaced; shoreline characterization, risk assessment and public consultation conducted.
+- **1998:** IR37 sludge characterization/risk assessment; PLFN agreed to natural wetland succession rather than intrusive removal; chlorine bleaching progressively eliminated, stopping generation of dioxins/furans as pulping by-products.
+- **1998–1999:** additional chemical, physical and toxicity testing of accumulated Boat Harbour sediment.
+- **2003:** Province prepared a sediment-management plan for mechanical sediment removal and residual sediment management by tidal flushing.
+- **2003–2005:** engineering plans developed for a pipeline through Boat Harbour, dam/culvert removal, new highway bridge and tidal restoration; 2004 pilot-scale dredging/dewatering test; CBCL pipeline/diffuser design; new aerators; draft screening EA.
+
+### The joint chronology's important disclaimer
+
+The chronology's preamble says it was prepared by Nova Scotia, PLFN, Canada and Neenah, but expressly states it is without prejudice, summary only, does not purport to include all material facts, and none of the parties warrants completeness or accuracy. It is a valuable joint record for identifying the agreed documentary timeline and missing technical files; it is not a comprehensive agreed adjudication of all facts or legal issues.
+
+### Correction to the 2002 lease date
+
+The 2020 sworn affidavit identifies the lease extension as entered on **22 October 2002**, matching PLFN's 2014 tab index. The apparent “7 August 2002” reading in the low-quality OCR of the scanned agreement is an OCR error. Use 22 October 2002 provisionally, subject to the Registry of Deeds instrument and registration record.
