@@ -357,3 +357,19 @@ The 2016 BHEAC terms are a draft and explicitly advisory/non-regulatory. The 202
 The original 580-page GHD Pilot Scale Testing Construction Report is linked through Google Drive but was not directly accessible; its performance figures remain attributed to BGC's 2021 ETR. Appendix A / HHERA (137871E, 154 MB) and Appendix C / public meeting minutes (137873E, 401 KB) were located but their official PDF endpoints timed out.
 
 **Blindspot:** do not treat BGC's selected pilot quotations as a substitute for the full report and appendices, and do not treat IAAC's 2025 HHERA summary as a substitute for the original HHERA calculations, exposure assumptions and lab data.
+
+
+
+## 13. Full-text 2020 marine baseline review — methylmercury requires a distinct follow-up
+
+The full Chaudhary et al. (2020) paper (BH-030) has now been reviewed. It provides a useful near-field baseline, but it must be read precisely.
+
+- **Footprint:** 16 stations on two transects extending about 8 km northeast and 7 km north from the estuary mouth; 12 surficial sediment samples collected in July 2018/July 2019; 13 adult lobster samples (including field duplicates); 13 composite rock-crab samples; and blue mussels from eight stations.
+- **Sediment:** sampled metal concentrations were below CCME ISQG/PEL values; total mercury was below the 0.05 mg/kg detection limit; sediment dioxin/furan concentrations were below CCME ISQG values.
+- **Biota:** six whole-body lobster/rock-crab samples contained methylmercury at 37.3, 53.4, 41.8, 47.2, 57.5 and 39.5 ng/kg, above the 33.3 ng/kg CCME tissue-residue guideline for protection of wildlife consumers of aquatic biota.
+- **Critical guideline distinction:** the 33.3 ng/kg guideline is for wildlife consumers of aquatic biota. It is not a CFIA human seafood-consumption limit and cannot be used to claim that seafood is unsafe for people. The paper did not establish a human consumption advisory.
+- **Other tissue results:** arsenic exceeded the CFIA tissue guideline in lobster and rock crab at sampled stations; the authors considered regional natural arsenic a likely explanation. Lead exceeded the CFIA value at one rock-crab station (CN3), with cause unresolved. Blue mussels were below tissue-residue guidelines; dioxins/furans in sampled biota were below detection.
+- **Source uncertainty:** the authors state that MeHg had not previously been tested in Boat Harbour biota, water or sediment and could not determine whether the observed tissue MeHg originated from Boat Harbour, natural sources or other regional sources.
+- **Post-remediation issue:** the authors warn that tidal reconnection could allow Strait water to flow into Boat Harbour and potentially remobilize residual mercury; they recommend more detailed MeHg investigation in and around Boat Harbour and periodic sediment/biota monitoring after remediation.
+
+**Remaining limitations:** the paper is a near-field baseline, not a whole-Strait survey or direct assessment of the Boat Harbour basin. It did not sample water-column chemistry, suspended sediment, every fish/shellfish species or all contaminant classes; MeHg was measured in selected tissue samples. Raw sample-level data and lab certificates are still needed. The article discloses a Nova Scotia Lands grant and NSERC funding and declares no known competing interests; preserve that provenance without assuming the funding invalidates the peer-reviewed results.
