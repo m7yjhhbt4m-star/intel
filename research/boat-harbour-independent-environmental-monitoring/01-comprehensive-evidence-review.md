@@ -1126,3 +1126,51 @@ The chronology's preamble says it was prepared by Nova Scotia, PLFN, Canada and 
 ### Correction to the 2002 lease date
 
 The 2020 sworn affidavit identifies the lease extension as entered on **22 October 2002**, matching PLFN's 2014 tab index. The apparent “7 August 2002” reading in the low-quality OCR of the scanned agreement is an OCR error. Use 22 October 2002 provisionally, subject to the Registry of Deeds instrument and registration record.
+
+
+
+## 35. 2008 Neenah–Northern Pulp Asset Purchase Agreement — Boat Harbour liability allocation and missing schedules
+
+The full public text of the 24 June 2008 Asset Purchase Agreement between Neenah Paper Company of Canada (Seller) and Northern Pulp Nova Scotia Corporation (Purchaser) has now been reviewed (BH-152). It is filed as SEC Exhibit 10.4.
+
+### The agreement's definitions and allocation
+
+The agreement defines the Effluent Treatment System broadly to include the under-river pipeline, settling ponds, aerated stabilization basin, Boat Harbour, connected man-made/natural drainage and receiving waters.
+
+Section 2.3(b) provides that Northern Pulp assumes the seller's Environmental Liabilities, expressly including liabilities under:
+- the 27 September 2001 PLFN–Kimberly-Clark MOU (as amended/assigned);
+- the Lease Agreement;
+- the Licence Agreement;
+- the Indemnity Agreement;
+- the Water Supply Agreement connected to the 1 December 1995 Province–Scott MOU; and
+- other material Boat Harbour documents listed in Schedule 2.3(b).
+
+**Important exception:** section 2.4(d) expressly excludes from Northern Pulp's assumed liabilities any obligation of Neenah under the MOU to transfer real property to or for the benefit of PLFN. This is a contractual allocation between seller and purchaser. It does not, by itself, extinguish the Province's separate obligations or determine PLFN's rights against the Province or purchaser.
+
+### What the seller represented and disclosed
+
+Section 3.1(v) represents that the Boat Harbour Documents were in full force and binding; that Seller and, to Seller's knowledge, other parties were not in default; that required payments/actions had been performed; and that the 2001 MOU was the only material contract between Seller and PLFN relating to Boat Harbour or operation of the Effluent Treatment System. Seller also represented that it had provided true, correct and complete copies of all Boat Harbour Documents/amendments and Schedule 3.1(v) materials to Northern Pulp.
+
+Section 2.1(g) transferred books and records including environmental studies/plans relating to the Pictou mill, Effluent Treatment System and Boat Harbour.
+
+### The missing schedules are a major evidence target
+
+The public SEC filing omits schedules, including:
+- **Schedule 2.3(b):** other Boat Harbour documents;
+- **Schedule 3.1(v):** other Boat Harbour and Effluent Treatment System documents;
+- **Schedule 3.1(bb)(i):** environmental compliance exceptions;
+- **Schedule 3.1(bb)(ii):** environmental permits;
+- **Schedule 3.1(bb)(iv):** hazardous substances; and
+- **Schedule 3.1(bb)(v):** written notices of environmental non-compliance.
+
+The SEC filing says the omitted schedules can be furnished to the SEC upon supplemental request. Schedule 3.1(v) is especially valuable because it should identify studies and reports made available to the purchaser by 2008. It may provide a contemporaneous index of what the company knew about Boat Harbour and the treatment system at the time of sale.
+
+### Research implications
+
+1. Seek the omitted schedules from the SEC/issuer and the full 2008 transaction data-room disclosure index.
+2. Recover every Boat Harbour agreement, amendment, study, environmental notice and hazardous-substance disclosure identified in those schedules.
+3. Compare the assumed-liability clauses with the 2008 OIC 2008-338, May 12, 2008 Acknowledgement Agreement, 2008 PLFN–Northern Pulp Accommodation Agreement and the actual registered land-transfer documents.
+4. Distinguish the purchaser's contractual assumption of environmental liabilities from the statutory liabilities of the operator, the Province's own duties, and the separate land-transfer obligations.
+5. Verify whether the 2001 MOU and associated documents were in fact in force, performed and free of default as represented in the 2008 sale agreement, against the 2006 extension and the December 2008 Accommodation Agreement.
+
+This is a major source because it identifies the corporate records and studies that were represented as transferred to Northern Pulp, and it exposes a concrete route to recovering the missing Boat Harbour document inventory.
