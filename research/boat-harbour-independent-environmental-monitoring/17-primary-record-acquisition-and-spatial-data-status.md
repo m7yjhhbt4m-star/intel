@@ -455,7 +455,6 @@ The following files are linked from the official Boat Harbour Remediation Projec
 
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
-| 41 | `137220E` | IAAC EIS, Volume II of V (12 MB); official registry index https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/137959 | **E — retrieval blocked.** Registry title verified; current IAAC fetch timed out and legacy CEAA host was inaccessible | **Not A1/A2.** No binary downloaded or hashed | Source BH-139. Volume II remains unread; do not rely on secondary summaries as a substitute. |
 | 42 | `137219E` | IAAC EIS, Volume I of V (2 MB); official registry index https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/137959 | **E — retrieval blocked.** Registry title verified; current IAAC fetch timed out and legacy CEAA host was inaccessible | **Not A1/A2.** No binary downloaded or hashed | Source BH-140. Volume I remains unread; do not rely on secondary summaries as a substitute. |
 
 
