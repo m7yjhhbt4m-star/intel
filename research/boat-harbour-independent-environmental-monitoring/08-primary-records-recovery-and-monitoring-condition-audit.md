@@ -426,3 +426,14 @@ The submission's 35-tab index identifies original records from 1965 through 2011
 The 2014 AIP (BH-138), MOA (BH-139) and Indian Cross Point agreement (BH-140) were directly reviewed. The MOA satisfies clause 2(b) costs only; the Indian Cross Point agreement makes progress under clause 2(c) but expressly does not fulfill all burial-site obligations. The 2015 BHCC TOR says the remediation agreement remained outstanding. No signed comprehensive remediation agreement has been located in the reviewed records.
 
 The 2018 A'se'k News newsletter says formal consultation with Chief and Council began 19 April 2018 and lists 18 May 2018 as the response deadline. It reports Phase I ESA complete, Phase II nearly complete and baseline studies underway. Retrieve the meeting record, 18 May response, 30 May PLFN letter and 23 August provincial response.
+
+
+
+## 23. February 12, 1991 Leefe letter — full text reviewed
+
+- **Source:** John C. Leefe, Nova Scotia Minister of the Environment, to federal Minister Thomas Siddon, 12 February 1991; Tab 18 of PLFN's 2014 submission (BH-144).
+- **Status:** Full two-page letter text reviewed from the scanned attachment.
+
+The Minister records that Boat Harbour's waters had been raised approximately nine feet, causing encroachment on three parcels of Indian Reservation land. He confirms November 1990 commitments to discontinue use of Boat Harbour as a wastewater facility, restore the natural tidal regime, restore altered shoreline areas as close as reasonably possible to their original condition, and complete the work in approximately five years. The letter says the commitments were made by Robert Porter to Robert Anderson and PLFN lawyer Tony Ross and that the Province fully intended to honour them.
+
+**Outstanding:** original September–November 1990 survey/correspondence and meeting records; the legal form of the commitments; elevation/parcel survey evidence supporting the nine-foot statement; and complete subsequent 1995, 2001, 2006 and 2008 agreements/letters showing how the timeline was amended or reaffirmed.
