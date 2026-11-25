@@ -755,3 +755,22 @@ The full 49-page ADI draft study (BH-165) has been reviewed. It assesses tertiar
 The study excludes or assumes away important costs (secondary treatment, tertiary sludge handling, labour, land/easements and some project-specific costs) and recommends post-2011 process-change monitoring and pilot testing. The copy is marked DRAFT. PLFN's 2014 summary of $7.8M tertiary treatment plus $12M pipeline savings is not fully explained by this report; trace the $12M comparison to the original signed 2011 cost report.
 
 Priority recovery: final signed ADI report, pilot tests, actual 2011 mill process changes and post-change data, full AMEC 2010 secondary-treatment report, and the cost basis used to derive the $12M pipeline saving. Normalize the 2000/2010/2011 options before comparing with 2022/2023 containment-cell estimates.
+
+
+
+## 35. EXP 2019 review items that must be cross-checked against final implementation
+
+EXP's 5 March 2019 Revision 3 peer review (BH-166) and 8 March 2019 follow-up memo (BH-167) expose a broad set of gaps. These should now be treated as a verification checklist, not assumed unresolved facts.
+
+Highest-priority items:
+- **Baseline before discharge:** EXP recommended benthic/fish baseline surveys before new effluent discharge, whereas proposed EEM could defer monitoring up to 24 months after startup. Verify actual pre-discharge baseline and whether a post-startup delay occurred.
+- **Effluent chemistry:** 2018 raw-effluent sample detections (hydrocarbons, toluene, cyanide, metals/metalloids, phenol, o-cresol, phthalate, chloroform/THMs, trace PAHs) lacked guideline comparisons in the reviewed material. Obtain raw lab certificates, full analyte list, concentrations, QA/QC and source sample chain.
+- **Marine trench sediment:** 3 m × 13 m × nearly 4 km trench; estimated 156,000 m² seabed disturbance before over-excavation. Verify sediment chemistry, disposal/reuse decisions, actual trench footprint, side-casting, habitat impacts and as-built records.
+- **Receiving-water model:** verify whether CH-A comparison, water-column cross-sections, ice assumptions, sea-level rise, suspended sediment transport/deposition and submarine groundwater discharge were later addressed.
+- **Spill basin:** verify design storm, storage capacity, overfill controls, level alarms, out-of-spec effluent diversion, liner/leak detection, emergency response and bonding. Its proximity to Boat Harbour makes failure consequences important.
+- **Groundwater and potable wells:** verify field inspection of domestic wells, Pictou/Caribou wellhead protection review, pipeline leak contingency, springs and submarine groundwater discharge.
+- **Human health:** determine whether a full HHRA was completed, which chemicals were screened out and why, whether PLFN's 2014 EHS and community-defined indicators were considered, and whether raw-effluent/settling-pond sediment data informed the COPC list.
+- **Air emissions:** obtain AERMOD input/output files, emissions inventory and calculations; verify shoreline fumigation and 10-minute odour analysis; include VOCs, TRS species, chlorinated compounds and hog-fuel/sludge co-combustion emissions.
+- **Lobster and fisheries:** verify larval and adult lobster lethal/sublethal testing using proposed treated effluent, fish/finfish impacts, scallop/crab distribution, and whether monitoring covers fishing grounds beyond the immediate mixing zone.
+
+For every item, record the original EXP recommendation, Proponent response, final EA condition, completion evidence, data quality and residual gap. Do not treat a proposed future study or a commitment in a focus report as proof of completion.
