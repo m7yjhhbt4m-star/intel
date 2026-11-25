@@ -745,3 +745,13 @@ Obtain:
 - complete licence extension instruments and regulatory approvals.
 
 The 2010 pleading's 25-million-gallons/day wastewater figure must be checked against actual flow-meter data; do not confuse it with the 1995 Water Supply Agreement's 25-million-Imperial-gallons/day fresh-water supply.
+
+
+
+## 34. ADI 2010/2011 tertiary-treatment study: full scope and costs differ from later summary
+
+The full 49-page ADI draft study (BH-165) has been reviewed. It assesses tertiary treatment **after** a new activated-sludge secondary plant; it is not a complete replacement-facility estimate. It gives preliminary capital costs of $7.804M for engineered wetlands, $8.237M for clarification and $17.416M for ozonation; annual O&M is estimated at $0.5M, $2.063M and $2.363M respectively. Outfall costs are $7.129M to Pictou Harbour and $23.756M to Northumberland Strait/MacKenzie Head. Pictou Harbour requires tertiary treatment; the lowest-cost combined pairing is approximately $14.933M before the new secondary plant and excluded costs.
+
+The study excludes or assumes away important costs (secondary treatment, tertiary sludge handling, labour, land/easements and some project-specific costs) and recommends post-2011 process-change monitoring and pilot testing. The copy is marked DRAFT. PLFN's 2014 summary of $7.8M tertiary treatment plus $12M pipeline savings is not fully explained by this report; trace the $12M comparison to the original signed 2011 cost report.
+
+Priority recovery: final signed ADI report, pilot tests, actual 2011 mill process changes and post-change data, full AMEC 2010 secondary-treatment report, and the cost basis used to derive the $12M pipeline saving. Normalize the 2000/2010/2011 options before comparing with 2022/2023 containment-cell estimates.
