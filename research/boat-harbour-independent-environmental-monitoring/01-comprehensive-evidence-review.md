@@ -881,3 +881,25 @@ This is a significant primary record. It documents the government's formal admin
 **Important limit:** this is the Minister's recommendation, not the final Executive Council decision or the separate federal instrument affecting riparian rights. It contains no environmental baseline, alternatives assessment, public/PLFN consultation record, impact analysis or mitigation conditions. The corresponding final provincial OIC/Executive Council minute, departmental supporting file, land acquisition records and financial accounts are still required.
 
 The 1965 provincial OIC, the 6 April 1966 Water Act report and the 2 September 1966 federal OIC are distinct documents serving different legal/administrative functions. They must be analyzed separately and in sequence.
+
+
+
+## 29. PLFN's 2014 historical/legal submission — 35-tab primary-record roadmap
+
+The full text of PLFN's 21 March 2014 submission concerning Northern Pulp's 2013 Industrial Approval renewal has been reviewed (BH-143). It is a primary source for PLFN's legal position and historical account at that time, and its 35-tab index is a particularly valuable retrieval roadmap.
+
+The submission recounts the 25 August 1965 community meeting, the objections raised about loss of fishing, shellfish, waterfowl, boating, swimming and shoreline uses, the Water Authority's representations about a freshwater lake and limited odour, and the October 10, 1965 visit to Renforth followed by a handwritten agreement signed by Chief Louis Francis and Councillor Martin Sapier. PLFN argues that the agreement was obtained through misleading representations and was legally ineffective. These statements must be checked against the original 1965 memoranda, handwritten agreement and other participants' records.
+
+The submission also asserts that the 1966 federal OIC did not validly transfer riparian rights under the Indian Act; that the OIC required a slipway and remedial action if septic conditions developed; and that the Province failed to honour later closure/remediation commitments. Those are PLFN's legal submissions, not findings that can be stated as settled law without the original instruments and judicial decisions.
+
+### A major archival recovery list
+
+The index identifies 35 tabs, including:
+- **1965–1966:** Federal OIC (2 September 1966); B.G. Clench memoranda (22 October 1965 and 14 September 1965); Shubenacadie Indian Agency memorandum (26 August 1965); W.A. MacDonald memorandum (9 September 1965); Joseph B. MacDonald letter (19 March 1966); W.P. McIntyre letter (14 October 1965); handwritten agreement between Chief Francis and Councillor Sapier (10 October 1965).
+- **1970–1980:** Joseph B. MacDonald letter (22 March 1970); Henry Ferguson letter (24 March 1970); New Glasgow Lions Club submission to Rust Associates; Dr. L.R. Hirtle letter (22 December 1970); Walter Goodfellow letter (30 July 1971); Attorney General letters (25 July 1974 and 12 February 1980).
+- **1991–1997:** John Leefe letter (12 February 1991); Canada–PLFN settlement (20 July 1993); B. Anthony Ross letter (27 September 1995); Province/Scott MOU (1 December 1995); OIC 96-621 (14 August 1996); Ross and Greg Evans correspondence (October 1997).
+- **2000–2011:** Agra Simons report (February 2000); 2001 PLFN/Kimberly-Clark MOU; 2002 lease extension; engineering report on Boat Harbour sediments; 2006 extension; 2008 Chief's letter and Minister's December 4 response; AMEC (21 April 2010) and ADI (31 March 2011) relocation-cost reports.
+
+This index identifies several high-value technical and legal sources that have not yet been reviewed individually. The 1970 government reports, 2000 Agra Simons alternatives and 2010/2011 relocation studies deserve priority because they may reveal earlier treatment options, costs, feasibility assumptions and reasons those options were not pursued.
+
+**Document-internal date correction:** the submission's body says a Band Council Resolution was passed around October 22, 1995, but its index identifies the relevant B.G. Clench memorandum as dated October 22, 1965. Treat the body date as a likely typographical error pending inspection of the original memo. Also distinguish the 10 October 1965 handwritten agreement from the June 2014 Agreement in Principle (BH-138).
