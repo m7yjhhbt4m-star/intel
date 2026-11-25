@@ -863,3 +863,19 @@ Recover and verify:
 - final archaeological/cultural-resource assessment, PLFN directions and chance-find implementation.
 
 The 2019 EARD's “not significant” conclusions are predictions based on proposed mitigation, not evidence that the controls were built or performed as intended.
+
+
+
+## 42. EARD Section 12 excluded Indigenous land/resource use from cumulative-effects analysis
+
+The full January 2019 EARD Section 12 (BH-190) identifies Indigenous Peoples' use of land and resources as a VEC but does not carry it forward into cumulative-effects analysis. The proponent reasons that the mill/road area has been industrial for decades and marine construction is temporary. The section also treats historical industrial conditions largely as baseline and does not separately quantify decades of mill effluent, Boat Harbour sediment/sludge contamination and prior remediation/disposal as cumulative contributions.
+
+Verify:
+- PLFN's response to the decision to exclude Indigenous land/resource use and any agreement/disagreement with the VEC screening;
+- whether harvesting, access, cultural practices, food systems and rights impacts were included elsewhere in the EA and final conditions;
+- whether historical contamination and ongoing legacy are separately assessed or hidden in baseline;
+- complete inventory of fisheries, aquaculture, shipping, other outfalls and coastal projects;
+- climate change, sea-level rise, storm intensity, ice, erosion and sediment transport over the project life;
+- whether final EA conditions and actual monitoring closed these gaps.
+
+The assessment's conclusion of no significant cumulative effects is limited to the VECs and activities it carried through its screening. Do not treat it as proof that cumulative effects on Mi'kmaq use, harvesting or cultural relationships are absent.
