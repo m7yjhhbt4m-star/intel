@@ -392,3 +392,14 @@ Required source recovery: Appendix A Crown parcel table, Appendix B private parc
 The report used desktop historical/archaeological research, field reconnaissance and a 500 MHz Noggin 500 GPR instrument. Four selected ROW grids detected pipeline-related disturbance and the pipeline in two grids, but no burial evidence. A separate adjacent-area GPR grid detected regular subsurface anomalies at approximately 70 cm and deeper; Boreas says these may be burials but cannot be identified without ground-truthing. The report identifies the western ROW end as high potential for unmarked burials and recommends an archaeological monitor if that pipeline section is removed.
 
 **Outstanding primary records:** original field data and map resolving the report's PA-3/PA-4 inconsistency; ground-truthing records, if any; precise pipeline removal/as-built drawings; archaeological monitor daily logs, photographs, permits and incident/stop-work records; confirmation that the high-potential western segment and Grid 5 anomaly area were avoided or monitored. IAAC's 2025 EA Report says the Indian Cross Point-to-Highway 348 segment had already been removed by Northern Pulp with no archaeological effects identified. Reconcile that statement with Boreas's recommendation before concluding that the archaeological risk was fully addressed.
+
+
+
+## 21. 6 April 1966 Water Act report to Executive Council — original scan review
+
+- **Source:** Minister under the Nova Scotia Water Act, *Report for the Executive Council*, 6 April 1966, one page; BH-142.
+- **Status:** Original scan opened and reviewed.
+
+The Minister recommends that Governor in Council authorize the Nova Scotia Water Authority to dispose of Scott Maritimes Pulp Limited mill effluent into Boat Harbour, acquire all land required, and authorize payment of certified expenses under the dedicated “Waste Disposal Facility (Scott Maritimes Pulp Limited)” capital vote.
+
+**Primary records still required:** final provincial OIC/Executive Council minute; Water Authority technical and financial supporting file; 1965 provincial water-supply OIC; September 2, 1966 federal riparian-rights OIC and schedules; contemporaneous PLFN/Indian Affairs meeting and consent records; land acquisition/expropriation documents. Do not treat the Minister's recommendation as the final authorization.
