@@ -798,3 +798,35 @@ Priority verification:
 - PLFN's request for source-separated air monitoring, odour juries, community health baseline and accessible environmental communications: trace each through the 2015 IA, consultation record, final EARD, 2020 decision conditions and actual monitoring implementation.
 - PLFN's ambiguous statement about no 2001 MOU payments after 2008 versus payments under subsequent agreements: obtain ledgers, subsequent agreements and bank records.
 - Bill 89 section 4 and contractual-rights arguments: compare Northern Pulp's advocacy with the final Boat Harbour Act, 2018/2019 consultation judgments, and any contractual litigation outcomes.
+
+
+
+## 38. Verify the final 2015 Industrial Approval conditions after the 2016 appeal decision
+
+The February 8, 2016 Minister's appeal decision (BH-176) removed/revised several conditions and required a Department reassessment of water-use reduction targets. Northern Pulp withdrew its appeal on March 15, 2016 (BH-177). The final consolidated approval and the Department's reassessment have not yet been reviewed.
+
+Recover:
+- final consolidated Industrial Approval 2011-076657-A01 with all amendments;
+- Department's reassessment of water-use targets and resulting effluent-flow limits;
+- COD baseline data and actual 2017/2018/2020 reductions;
+- TRS method feasibility, baseline and results;
+- corrected surface-water monitoring stations and data;
+- rationale for removing phenanthrene testing and condition 22(b);
+- all compliance reports, non-compliance notices, inspections and enforcement correspondence.
+
+Do not use the pre-appeal 2015 Approval as if every condition remained operative. The 2016 Minister decision changed the requirements.
+
+## 39. Verify the 2018 diffuser route change and fishing-ground claims
+
+Terri Fraser's 30 November 2018 affidavit (BH-177) says ice scour at 11 m in Pictou Roads prompted a move to a 20 m Caribou Channel site, reducing marine pipeline length from 14–15 km to about 4 km. It says the Caribou route avoided known lobster fishing grounds and that survey work was blocked by fishers.
+
+These are the operator's sworn assertions in an injunction proceeding. Verify:
+- raw bathymetry, side-scan, sub-bottom, ice-scour and geotechnical data at both Pictou Roads and Caribou sites;
+- original Stantec hydrodynamic model, calibration, boundary conditions and comparison of both routes;
+- final route and diffuser coordinates against actual as-builts;
+- DFO habitat review, fish habitat impact/offset decisions and permits;
+- lobster fishing effort, seasonality, gear locations and local fisher/PLFN knowledge, not only mapped “known” grounds;
+- contractor field logs, GPS/AIS tracks, video survey and incident reports from October 2018;
+- court affidavits, hearing transcript and injunction decision.
+
+A shorter marine pipeline and deeper diffuser may reduce some construction/ice risks, but do not establish no effect on lobster, crab, scallop or other fisheries. The phrase “avoids known lobster fishing grounds” must not be presented as proof of no fishing activity or no impact.
