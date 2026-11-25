@@ -775,3 +775,38 @@ The 2015 PLFN submission within the Bill 89 legislative record (BH-198) contains
 - Tabs 13, 19, 21, 22, 28, 29, 31 and 33 identify the 1970 Province–Scott wastewater agreement, 1993 Canada–PLFN settlement, 1995 Province–Scott MOU, OIC 96-621, 2001 PLFN–Kimberly-Clark MOU, 2002 lease extension, 2006 MOU extension and 4 December 2008 Minister Scott letter.
 
 This index improves provenance and provides precise document-request targets; it does not mean the Signal-hosted originals or the underlying tabs were read. Inventory items 55–58 and 60 remain C until the original text/images are obtained and checked.
+
+
+## 49. Consolidated remaining access gaps — 71-file inventory
+
+This is a live list of inventory items whose original content is not yet fully reviewed, either because retrieval failed, the PDF is scan-only, or only an excerpt/alternate reproduction is available. It does **not** mean no related evidence exists; related sources are cross-referenced in Document 05.
+
+| Item | User filename | Current status | What remains unread / why |
+|---:|---|---|---|
+| 2 | `Sludge_Thicknes...ping_Final_Rpt (1)` | A0 + E + C | Original WSP *Sludge Thickness Determination* report is on Google Drive; direct retrieval blocked. WSP/SCG conference summaries reviewed, but not the original survey database, volume surfaces or uncertainty calculations |
+| 3 | `Pilot Scale Testing Report` | A0 + E + C | Original ~580-page GHD report is on Google Drive; retrieval blocked. BGC review, 2022 information requests and 2025 EA report provide context, not the complete test report/data |
+| 4 | `Phase 2 ESA` | A0 + E + C | Original GHD Report No. 6 (6 June 2018) on Google Drive; retrieval blocked. Supplemental Phase 2 ESA and EIS summaries do not replace it |
+| 5 | `Phase I ESA` | A0 + E | Original GHD Phase I ESA on Google Drive; retrieval blocked; no text review |
+| 11 | `137898E` | E | Appendix AA riparian/wetland/terrestrial assessment; official identity confirmed, direct retrieval timed out |
+| 12 | `137897E` | A0 + E + C | Appendix Z groundwater/surface-water assessment, ~230 MB; direct PDF and registry-link retrieval timed out |
+| 13 | `137896E` | A0 + E + C | Appendix Y geology/geochemistry assessment, ~91 MB; direct retrieval timed out |
+| 28 | `137880E` | C | Appendix J formal consultation record: browser text extraction available, but scan-only/appendix content and complete underlying correspondence have not been independently reviewed |
+| 29 | `137879E` | C | Appendix I informal consultation bundle: only text-readable sections reviewed. Several subdocuments were recovered separately (BH-195 to BH-201), but Commercial Regional Results, Community Session 2 posters, By-law No. 1, Project Charter, training materials and other subdocuments remain unread |
+| 30 | `137878E` | C | Appendix H project-overview correspondence: text extraction is incomplete/garbled; original pages and attachments require review |
+| 35 | `137873E` | E | Appendix C Public Meeting Minutes; official identity/size confirmed, but both current and legacy registry PDF retrievals timed out |
+| 37 | `137871E` | A0 + E + C | Appendix A, 154 MB HHERA; original assessment, calculations, appendices and model files not obtained. 2025 EA review and Health Canada comments are context only |
+| 42 | `137219E` | C | EIS Volume I: table of contents and Table of Concordance reviewed, but substantive narrative, marine baseline and cumulative-effects sections remain unread |
+| 44 | `23.2009BandNewsletter` | C | Original 3-page newsletter scan unread; Signal article quotes part of it and related letters are available separately, but full newsletter content is not verified |
+| 45 | `22.2008AccomodationAgreement` | C | Original proposed 2008 Accommodation Agreement scan unread; related 19 Nov Chief letter, 4 Dec Minister letter, returned-cheque reporting and 2020 affidavit do not replace the instrument |
+| 46 | `21.MOUopenletter2002` | C | Original 2002 open-letter/information package unread; 2001 MOU terms are summarized in later PLFN/provincial records, but the community document and referendum package remain missing |
+| 47 | `20.1996lease_license_agreement` | C | Original 1996 equipment lease/licence agreement unread; OIC 96-621 and other 1995/2002 agreements provide context but are not this instrument |
+| 51 | `13.1989-statementofdefence` | C | Original 1989 defence scan unread; only secondary historical summary and PLFN litigation chronology available |
+| 52 | `12.1986defencesmaller` | C | Original 1986 defence scan unread; PLFN 2024 Document Brief indexes the litigation but does not reproduce the defence |
+| 53 | `10.1970_letter_from_rowe` | C | Original 3-page Rowe response letter unread; Signal archive metadata only. The 1970 MacDonald/Hamm letter quotes a separate 1969 Rowe report, not this response |
+| 54 | `09.1970smithfromchurch` | C | Original one-page Rev. D. Glass letter unread; cited in secondary history, but no full transcription verified |
+| 56 | `08.1970fergusonrustletter` | C | Original handwritten Ferguson letter unread; secondary quotation only, no verified full transcription |
+| 58 | `05.1966orderincouncil` | C | Original two-page OIC unread. Schedule of conditions is reproduced in BH-209/BH-215, but not the complete signed OIC and execution/transfer record |
+| 59 | `04.1966ProposedTreatment` | C | Original Conlon Engineering treatment estimate scan unread; archive description only |
+| 62 | `01.1965executive...ncil_province_mill` | C | Original three-page 1965 file unread; separate 1965 meeting minutes, handwritten agreement and BCR are available in BH-213/BH-214 but have not been confirmed as the same document |
+
+**Interpretation:** items marked C may have partial text, an alternate reproduction or a secondary summary; they are not “fully read.” Items marked E have a documented retrieval failure. The remaining items in the 71-file inventory have browser-readable content reviewed to the depth stated in their individual rows. Original binary acquisition and SHA-256 preservation remain separate from online text review.
