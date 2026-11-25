@@ -423,3 +423,26 @@ Appendices S and T contain PLFN well-being and Mi'kmaq ecological knowledge. The
 ### Limitations and next evidence
 
 The study's three source samples do not establish spatial variability across the wetlands, ditches, former ponds, pipeline corridor, estuary shoreline or Northumberland Strait. The analyte suite does not include PFAS, methylmercury speciation, biological toxicity or bioaccumulation. The 2019 pilot report and its raw laboratory/field data are still needed to verify actual Geotube, reagent, dewatering, effluent and solids performance.
+
+
+
+## 18. 2019 Pilot Scale Testing Construction Report — direct retrieval status and BGC ETR cross-check — 25 November 2026
+
+### GHD Pilot Scale Testing Construction Report (23 December 2019)
+
+- **Located:** Yes — the official Boat Harbour project Resources page links to a Google Drive file titled *Pilot Scale Testing Report.pdf*. The BGC ETR identifies the underlying GHD report as *Pilot Scale Testing Construction Report – Boat Harbour Remediation Planning and Design*, dated 23 December 2019, 580 pages.
+- **Directly opened/reviewed:** No. The public Google Drive preview returned a loading/sign-in page; direct download endpoints were inaccessible through the available retrieval route. This is an access limitation, not evidence that the report is absent.
+- **Do not mark the original report reviewed:** The following findings are secondary reporting from BGC's 29 January 2021 External Technical Review (document 141419E), which says it reviewed the 580-page pilot report as an extra-scope document.
+
+### BGC ETR cross-check
+
+- **BGC ETR located/opened:** Yes — official IAAC PDF, 29 January 2021, document 141419E. Substantive review of its scope, findings table and conclusions completed.
+- **Repository update:** Expanded review note added to existing source BH-012 in `05-source-register-and-evidence-quality.md`.
+
+BGC reports that the pilot study measured slurry solids averaging 5.2% in Phase 1 and 2.4% in Phase 2 (as low as 1–1.5%) against a 5% target; the first Geotube layer went from 35% bulking to 28% volume reduction after four months; Geotube G6 was filled to capacity four times before its storage capacity was maximized; and mechanical dredging had difficulty distinguishing sludge from underlying BHSL sediment, creating an over-dredging risk. BGC also reports that the pilot TLTF results were promising, including use of organo-clay media to reduce long-chain organics, but sample numbers were limited relative to the approximately 1 million m³ scale and site-specific discharge criteria were still in development.
+
+BGC's conclusions included material uncertainty in Geotube volume reduction/consolidation, possible insufficient containment-cell capacity even with the 143,000 m³ contingency, unverified slope/berm and cover-system stability, possible effects of consolidation on the geomembrane, the single MH-1 underdrain sample used in post-closure leachate modelling, lack of a detailed water monitoring/QAQC plan and unclear program responsibilities, and missing 2020 Point C data. BGC recommended that a secondary on-site cell and/or off-site disposal remain under consideration as contingency.
+
+### Attribution and limitations
+
+BGC was retained by IAAC for two defined charge questions concerning alternatives and containment-cell design. It states that it did not conduct a site visit, detailed data-quality review or detailed analytical studies; the original HHERA was not reviewed; and extra-scope documents, including the Pilot Scale Testing Construction Report, were reviewed only to the extent necessary to understand claims in the primary scope documents. These findings are BGC's independent technical review of the documents it received, not a direct review by this project of the original 580-page pilot report and not evidence of actual full-scale performance.
