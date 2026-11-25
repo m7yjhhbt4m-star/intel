@@ -688,3 +688,8 @@ Key clauses:
 - The schedules that would list the specific Boat Harbour Documents and other related documents are omitted from the SEC-filed exhibit. The agreement also says the seller provided the purchaser true, correct and complete copies of the Boat Harbour Documents and material amendments.
 
 **Effect on inventory items 45–50:** this is a high-value cross-source for item 46 (the 2001 PLFN MOU) and items 48–50 (1995 contracts), but it does not reproduce those instruments and does not upgrade their source-copy status. It predates the 31 December 2008 Accommodation Agreement and cannot substitute for item 45. The seller's statements are contractual representations in a corporate sale, not independent proof of actual performance or legal validity. Obtain the omitted schedules, closing documents, assignments, OIC 2008-338 and the underlying signed instruments to verify the liability transfer and any exceptions.
+
+
+## 48. 71-file inventory duplicate check
+
+The 71 filenames supplied by the user contain at least one confirmed duplicate publication: inventory item 43 (`En106-278-2025-eng`) and item 65 (`160559E`) are two copies/registry identifiers of the same January 2025 IAAC *Environmental Assessment Report* (catalogue number En106-278/2025E-PDF, ISBN 978-0-660-74686-9; canonical source BH-009). They are retained as two inventory entries because the user supplied two files, but they must not be counted as two independent studies or evidence sources. The current count is therefore 71 supplied filenames and 70 unique publications, subject to a final binary-level duplicate/hash check once the original files are acquired.
