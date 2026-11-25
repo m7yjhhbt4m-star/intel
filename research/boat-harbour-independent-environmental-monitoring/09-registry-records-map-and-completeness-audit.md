@@ -595,3 +595,39 @@ IAAC contribution reference 48 also includes attachment 3, *DFO's Technical Revi
 ### Design-evolution checks created
 
 Compare these early assumptions against the Sludge Thickness Determination, Phase I/II and Supplemental Phase II ESAs, 2018 RODD, 2018 treatability study, 2019 pilot, 2020 EIS, final provincial approvals, as-built design and post-closure monitoring. Specifically track: sludge thickness/volume; groundwater pathways and well protection; wetland 2:1 replacement vs actual compensation; the change in cell capacity; who owns and carries liability; and which contract ultimately assumed long-term ecological restoration/maintenance.
+
+
+
+## 21. Build Nova Scotia 2025 Annual Report — first compliance-status review — 25 November 2026
+
+- **Located/opened:** Yes — official Build Nova Scotia PDF, 25 pages, published March 2026.
+- **Source:** *Boat Harbour Remediation Project 2025 Annual Report to the Impact Assessment Agency of Canada*.
+- **Review status:** Full extracted text reviewed.
+- **Repository record:** Source register entry BH-122 added to `05-source-register-and-evidence-quality.md`.
+
+### What the Proponent says was (and was not) done
+
+The report covers 24 January–31 December 2025. Build Nova Scotia says the project remained pre-construction after PLFN filed for judicial review on 24 February 2025; it says no substantive planning work to move the project forward was initiated in the reporting period. It reports no specific action in 2025 on Decision Statement Sections 3–8, 10 or 11: this includes Strait/estuary sediment transport modelling and follow-up, fish/benthic/surface-water monitoring, country-food and environmental-media monitoring, HHRA reevaluation, cultural-resource planning, Indigenous monitors, an independent environmental monitor, accident/malfunction plans and schedules.
+
+The report also states that the detailed follow-up programs were not yet revised/consulted on; the EA-stage draft monitoring plans were preliminary and were to be revised if the decision was upheld or amended. Under conditions 2.14–2.15, the report says the specified plans, reports and schedules other than the annual report itself had not yet been prepared and therefore were not shared with IAAC, Indigenous groups or other parties in 2025. It says minimal implementation records had been created and were held at Build Nova Scotia's Halifax office.
+
+### Alternative-site work: careful reading
+
+- The Alternative Site Advisory Committee TOR was agreed and executed by Build Nova Scotia and PLFN.
+- The committee met on 20 November and 18 December 2025.
+- The Proponent says its 22 January 2026 submission to IAAC found no technically/economically feasible alternative location within the first-year deadline.
+- The same annual report says a potential alternative location had been identified and the design engineer/general services consultant were engaged to assess feasibility.
+- These statements can coexist: a candidate site was identified for evaluation, but feasibility had not yet been established.
+- The committee's executed TOR, minutes, site identity, feasibility analysis, January 22 submission, and PLFN comments are separate records and remain to be obtained.
+- The cell is required to be designed/constructed so the waste can be removed and the cell decommissioned if a feasible alternative is identified.
+
+### Implications for independent monitoring
+
+As at 31 December 2025, the annual report does not report new project-wide baseline monitoring results under the Decision Statement follow-up conditions. The required pre-site-preparation HHRA reevaluation, country-food monitoring, sediment/soil/drinking-water/ambient-air monitoring, Indigenous monitor arrangements and independent environmental monitor arrangements were not yet in place. This is a time-bounded statement from the Proponent's report, not a claim about what may have happened after 31 December 2025.
+
+### Important discrepancies and next records
+
+- Annual report describes cell capacity as up to 1,074,000 m³, while the 2020 EIS says 1,073,000 m³. Preserve both source figures until the approved design resolves the 1,000 m³ difference.
+- Obtain the January 22, 2026 Condition 9 submission, committee TOR/minutes, candidate-site details, feasibility study and PLFN's own position.
+- Obtain all follow-up plans, monitoring protocols, HHRA reevaluation, pre-site baseline data, independent monitor procurement/terms and Indigenous monitor framework once produced.
+- Check for post-31 December 2025 records separately; this report's reporting period cannot answer whether work commenced in 2026.
