@@ -540,3 +540,14 @@ The Minister confirms the Province's intention to find another mill-effluent dis
 The pleading describes PLFN's allegations concerning the 2001 MOU, 2002 lease extension, 2005 pipeline infeasibility, 2006 deadline extension, 2008 month-to-month licence extension, June 2008 non-opposition agreement, December 4 2008 Minister letter and December 31 2008 Accommodation Agreement. It alleges annual MOU payments of $200,000–$280,000 and transfer of forest lands after pipeline construction.
 
 **Outstanding:** original 2001 MOU and schedules; 2006 amendment (date conflict: 2 January in 2014 submission vs September 2006 in 2010 claim); October 2008 engineering report; May 13 2008 licence extension; June 11 2008 correspondence; December 31 2008 Accommodation Agreement; April 2009 forbearance agreement; and actual effluent flow-meter data. Pleading allegations are not court findings.
+
+
+
+## 32. ADI draft tertiary-treatment study — full text reviewed
+
+- **Source:** ADI Limited, *Draft — Northern Pulp Tertiary Treatment Study*, L6716-001.1, included in PLFN's 2018 EA submission (BH-165).
+- **Status:** Full 49-page report text reviewed.
+
+The report assesses tertiary treatment after a new secondary activated-sludge plant, not a complete replacement facility. It estimates engineered wetlands at $7.804M capital / $0.5M annual O&M; clarification at $8.237M / $2.063M annual O&M; ozonation at $17.416M / $2.363M annual O&M. Outfall estimates are $7.129M to Pictou Harbour and $23.756M to Northumberland Strait/MacKenzie Head. The minimum combined Pictou Harbour option is about $14.933M before the secondary plant and excluded costs.
+
+**Outstanding:** final signed report, pilot tests, post-2011 process-change monitoring, actual Green Transformation Program changes, full AMEC 2010 secondary-plant report, and source basis for the later $12M pipeline-savings claim. Cost estimates are preliminary and omit material scope items.
