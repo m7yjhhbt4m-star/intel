@@ -1209,3 +1209,16 @@ The Minister found the Focus Report insufficient on marine fish/fisheries, air e
 - **Repository record:** BH-196 added to source register.
 
 The required EA Report was never submitted/accepted and no final provincial EA approval was issued for the replacement ETF. The Focus Report and appendices are not the missing final EA Report.
+
+
+
+## 56. November 2019 Government Submissions on the Focus Report — targeted review
+
+- **Source:** Nova Scotia, *Northern Pulp Comments Received — Government Submissions*, approximately 164 pages.
+- **Official PDF:** https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/comments-focus-report/Northern-Pulp-Comments-Received-Government-Submissions.pdf
+- **Located/opened:** Yes — targeted substantive review of DFO/ECCC, Health Canada and major provincial technical submissions.
+- **Repository record:** BH-197 added to source register.
+
+The submissions identify specific deficiencies in marine baseline, herring spawning grounds, lobster/crab tissue sample size, receiving-water modelling, HHRA, air dispersion/monitoring, flow/COD design, dangerous-goods/spill-basin containment, pipeline leak detection, groundwater/well protection, causeway stability and climate adaptation.
+
+**Outstanding:** complete the agency-comment-to-response-to-Minister-decision-to-ToR-to-completion crosswalk. The project was withdrawn before the required EA Report was completed.
