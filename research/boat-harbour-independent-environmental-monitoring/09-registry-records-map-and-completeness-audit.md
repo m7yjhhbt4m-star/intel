@@ -1222,3 +1222,14 @@ The required EA Report was never submitted/accepted and no final provincial EA a
 The submissions identify specific deficiencies in marine baseline, herring spawning grounds, lobster/crab tissue sample size, receiving-water modelling, HHRA, air dispersion/monitoring, flow/COD design, dangerous-goods/spill-basin containment, pipeline leak detection, groundwater/well protection, causeway stability and climate adaptation.
 
 **Outstanding:** complete the agency-comment-to-response-to-Minister-decision-to-ToR-to-completion crosswalk. The project was withdrawn before the required EA Report was completed.
+
+
+
+## 57. October 2019 Focus Report and appendices — located, direct review pending
+
+- **Source:** Northern Pulp, *Replacement Effluent Treatment Facility Project — Focus Report*, submitted 2 October 2019, main PDF 18.1 MB plus 40+ appendices.
+- **Official project page:** https://novascotia.ca/nse/ea/replacement_effluent_treatment_facility_project/
+- **Status:** Official index and file names/sizes located. Main PDF and several individual appendices could not be fetched in this pass (cache misses); not directly reviewed.
+- **Repository record:** BH-198 added to source register.
+
+Priority appendices include 2.3/2.4 effluent characterization, 3.2 flow, 3.4 spill basin, 3.5 leak detection, 3.6 dangerous goods, 4.1 marine baseline, 4.2 receiving-water study, 4.3 sediment transport, 6.2/6.3 air modelling/monitoring, 7.3 marine fish impact, 7.4 EEM, 9.2 HHRA, 10.1 archaeology and 11.1 MEKS. The government-submissions PDF (BH-197) has been reviewed in key agency sections, but is not a substitute for the Focus Report itself.
