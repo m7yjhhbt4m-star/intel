@@ -334,3 +334,10 @@ These records may refer to different instruments or phases of negotiation; do no
 PLFN's 2024 Document Brief (BH-208) identifies a 30 September 1970 Wastewater Agreement between the Province and Scott Maritimes (BH-221). It reportedly required the Province to supply freshwater to the mill and accept mill wastewater at Boat Harbour for an initial term ending 31 December 1995, renewable for a further 25 years at either party's option. The agreement is not in the current 71-file inventory and has not been obtained.
 
 **Priority acquisition:** complete signed 1970 agreement, schedules, renewal notices, amendments, side letters, operating/effluent obligations, fee and cost schedules, monitoring requirements, liability/indemnity clauses, and termination provisions. This agreement is needed to understand the legal/contractual basis for mill discharge from 1970 to the 1995 agreements and how it interacted with the 1966 OIC and later leases/licences.
+
+
+### Historical effluent travel time to the Strait — 1970 claim to verify
+
+The 22 March 1970 MacDonald/Hamm letter to Rust Associates (reproduced in BH-209; user's item 57) claims that effluent was not retained for the projected 41 days and that some effluent entering Boat Harbour could reach the Northumberland Strait in as little as eight days. It estimates about 22 million gallons/day reached the Strait, less flow diverted through a trans-river pipeline into Pictou Harbour. These are contemporaneous claims, not verified current hydrodynamic measurements.
+
+**Records and analysis required:** original Rust Associates 1970 report; original tracer/retention tests; daily mill and treatment-plant flow records; pipeline bypass/overflow logs; tidal exchange and water-level records; 1970s sampling station coordinates and analytical results; and modern hydrodynamic model files. Compare historical retention estimates with current dam/estuary configuration, tidal exchange, sediment transport and plume modelling. The 2025 EA report's sediment-transport model-domain concerns make this a relevant historical comparison, but do not assume that a 1970 water-travel-time estimate applies to current conditions.
