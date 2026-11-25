@@ -804,9 +804,9 @@ This is a live list of inventory items whose original content is not yet fully r
 | 52 | `12.1986defencesmaller` | C | Original 1986 defence scan unread; distinguish it from the separate 1986 PLFN Statement of Claim and the 1989 amended defence |
 | 53 | `10.1970_letter_from_rowe` | C | Original 3-page Rowe response letter unread; Signal archive metadata only. It is described as a response to Rev. D. Glass's letter (item 54) |
 | 54 | `09.1970smithfromchurch` | C | Original one-page Rev. D. Glass letter unread; Signal archive says it was sent to Premier G.I. Smith in August 1970 and prompted the Rowe response |
-| 55 | `08.chipmanletter` | C | Original 3-page New Glasgow Lions Club/Chipman letter unread; likely corresponds to 2015 PLFN submission Tab 11, but compare original to confirm identity |
+| 55 | `08.chipmanletter` | C | Original 3-page New Glasgow Lions Club/Chipman letter unread; likely corresponds to 2015 PLFN submission Tab 11. BH-209 also reproduces a D.J. Chipman letter, which may be the same record; compare originals before confirming identity |
 | 56 | `08.1970fergusonrustletter` | C | Original handwritten Henry Ferguson letter unread; 2015 PLFN submission Tab 10 and secondary quotation provide date/context, not full transcription |
-| 57 | `07.1970macDonaldLetterComplete` | C | Original 8-page Dr. MacDonald letter unread; 2015 PLFN submission Tab 9 and 2009 article provide excerpts, not full transcription |
+| 57 | `07.1970macDonaldLetterComplete` | C | Original 8-page Dr. MacDonald letter unread; 2015 PLFN submission Tab 9 and 2009 article provide excerpts; BH-209 reproduces a 22 March 1970 MacDonald/Hamm letter to Rust Associates, but may not include all eight Signal pages |
 | 58 | `05.1966orderincouncil` | C | Original two-page OIC unread. Schedule of conditions is reproduced in BH-209/BH-215, but not the complete signed OIC and execution/transfer record |
 | 59 | `04.1966ProposedTreatment` | C | Original Conlon Engineering treatment estimate scan unread; archive description only (~$100,000 estimate) |
 | 60 | `03.1966Macdonaldhammletter` | C | Original two-page Dr. MacDonald letter unread; archive description and 2015 PLFN submission Tab 5 identify a 19 March 1966 letter, but recipient/addressee needs verification |
