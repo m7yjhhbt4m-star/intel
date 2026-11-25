@@ -773,3 +773,31 @@ The Annex 3 records include the 2019 Membertou Geomatics Land Use Plan, Group AT
 - The full Boreas Heritage Indian Cross Point archaeological reconnaissance/GPR report and any associated maps.
 - The exact 2019 Land Use Plan Band Council Resolution/acceptance record, if any.
 - The full project correspondence and meeting records underlying the Proponent's characterization of 2019–2020 “general project support.”
+
+
+
+## 29. Original 2014 AIP and implementing agreements — original-text review — 25 November 2026
+
+### BH-138 — Agreement in Principle
+
+- **Source:** Province of Nova Scotia and Pictou Landing First Nation, *Agreement in Principle*, signed 16 June 2014, 2 pages.
+- **Official PDF:** https://novascotia.ca/nse/dept/docs/Boat-Harbour-Agreement-in-Principle-2014-06.pdf
+- **Status:** Original signed PDF opened and fully reviewed.
+
+The AIP commits the Province to introduce closure legislation by 30 June 2015 and separately commits the Province and Band to negotiate in good faith and execute an agreement respecting closure and remediation. It includes closure timelines, Band participation costs, identification/protection of Indian Cross Point burial sites and a conditional $1 million payment if closure timelines are not finalized through good-faith negotiations (subject to the Band's good-faith participation). It does not itself prescribe the final remedial design or approve permanent use of the existing cell.
+
+### BH-139 — October 2014 funding MOA
+
+- **Source:** Province and PLFN, MOA for funding Band costs incurred in negotiating a closure/remediation agreement, signed 14 October 2014; reproduced in GHD EIS Appendix I, IAAC PDF 137879E.
+- **Status:** Full text reviewed.
+
+The MOA expressly satisfies AIP clause 2(b), the participation-cost provision, with a $100,000 accountable advance and eligible legal/technical, meeting, travel and communication costs. Its clause 1.2 is limited to the funding-cost requirement; it does not say the broader closure/remediation agreement under AIP clause 2 was completed.
+
+### BH-140 — Indian Cross Point purchase agreement
+
+- **Source:** Province and Pictou Landing Band, *Agreement re: Purchase of Burial Grounds at Indian Cross Point*, 14 October 2014; reproduced in GHD EIS Appendix I, IAAC PDF 137879E.
+- **Status:** Agreement text reviewed.
+
+The agreement funds the Band's acquisition of identified burial-ground lands. The Province expressly acknowledges that the agreement does not fulfill all obligations under AIP clause 2(c). Schedule A legal description, transfer/deed and title registration require separate review.
+
+**Cross-document note:** PLFN's 2023 response paragraph 93 contains a typographical date “June 30, 1995”; the signed AIP says 30 June 2015. Use the original AIP text.
