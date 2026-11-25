@@ -366,3 +366,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 25 | `137883E` | IAAC EIS Appendix M, GHD, *Boat Harbour Environmental Advisory Committee Meeting Action Items during the EIA*; https://iaac-aeic.gc.ca/050/documents/p80164/137883E.pdf | **B — Full browser-rendered 310-line appendix reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-126 in Document 05. Action-item records run March 2019–January 2020. Pilot field testing marked wrapped up by July 2019, but reporting remained in progress through January 2020. Air monitoring and EIS work remained ongoing. GPR survey was complete but pipeline decision was still pending on 15 January 2020. These are status summaries, not full minutes or proof of final completion/acceptance. |
+
+
+## 31. User's 71-file inventory — source located, full-text retrieval blocked
+
+| Inventory item | User-supplied filename | Official source identity / locator | Status | Required next action |
+|---|---|---|---|---|
+| 26 | `137882E` | IAAC EIS Appendix L, *Minutes from BHCC Meetings During EIA and Meeting with PLFN to Review Draft EIS*, official PDF https://iaac-aeic.gc.ca/050/documents/p80164/137882E.pdf (3 MB) | **A0 + E + C** — source located; direct PDF fetch timed out; only cross-references and summary material in EIS Volume III were available in this pass. Appendix L itself has not been read | Obtain a browser-accessible copy or alternate official download; review complete agendas/minutes, attendance, decisions, action items, dissent, record of PLFN review of draft EIS, and any attachments. Do not substitute the EIS Volume III summary for the actual minutes |
