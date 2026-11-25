@@ -745,3 +745,31 @@ The report was retained by McKiggan Hebert Lawyers on behalf of PLFN. It screens
 **Limitations expressly acknowledged by Hive:** the private parcel list is not comprehensive because Property Online could only be visually screened; GeoNova data would be needed for complete GIS screening. Groundwater depth is assumed and requires detailed field investigation. The report is a desktop screen, not a site investigation or permit decision. The 109/97 parcels are candidate areas, not approved or confirmed landfill sites.
 
 The full parcel tables (Appendices A/B), four-site matrix (Appendix C), underlying GIS layers, Northern Pulp permit/capacity/engineering data, owner correspondence and field investigations remain necessary for independent verification.
+
+
+
+## 28. IAAC document 155833E — Proponent response and embedded 2015–2019 records — 25 November 2026
+
+- **Source:** Build Nova Scotia/Nova Scotia Lands, *Response to PLFN's Feedback on the NS Technical and Economic Feasibility Assessment of Alternative Containment Cell Location Site*, February 2024, IAAC document 155833E.
+- **Opened/reviewed:** Original PDF text opened; substantive review of the Proponent response, chronology and Annex 3 embedded records.
+- **Repository:** BH-131 through BH-136 added to the source register.
+
+The Proponent's response characterizes 2019–2020 as “general project support” and says “adamant opposition” to the existing cell emerged in March 2021. It also records PLFN correspondence dated 30 May 2018 and a provincial response dated 23 August 2018. The chronology must be checked against the actual letters and meeting records. The response repeats the Mount William GHG misattribution identified in BH-130.
+
+The Annex 3 records include the 2019 Membertou Geomatics Land Use Plan, Group ATN economic-opportunities report, 22 February 2019 BHCC minutes, July 2015 BHCC Terms of Reference, a Mi'kmaq-language project overview, correspondence/consultation records, 2014 AIP/MOA, Baker Estate agreement and Boreas Heritage GPR report.
+
+### Findings from the embedded 2015–2019 records
+
+1. The July 2015 BHCC TOR says the Committee is advisory, has no decision-making authority, no agreement is binding without approval, and its work/meetings are not consultation or a release of the Province's duty to consult; the cleanup agreement remained outstanding.
+2. The 22 February 2019 minutes record both participation and concerns about cell off-gassing, transport accidents, dredging, procurement, work experience and whether PLFN representatives were reflecting the community voice. The Chief requested PLFN-only community discussions. A long-term cell monitoring/maintenance entity was an action item, not a completed agreement.
+3. The 2019 Land Use Plan is a future land-use vision; its acceptance section contemplates later Band Council Resolution/other acceptance. It assumes pending transfers will be safe and identifies the PLFN sewer outfall as a community concern.
+4. The Group ATN report is an economic-opportunity study, not environmental consent or a technical safety assessment.
+5. The Proponent's Mi'kmaq-language overview states no facility-related contaminated sediment was found in the Northumberland Strait. That broad statement must be reconciled with the 2018 Supplemental Phase II ESA's PHC exceedances in five near-mouth samples classified as Northumberland Strait samples.
+
+### Still to recover from this bundle
+
+- The original 30 May 2018 PLFN letter and 23 August 2018 provincial response.
+- The 2014 Agreement in Principle, 14 October 2014 MOA and Baker Estate agreement in their full signed form.
+- The full Boreas Heritage Indian Cross Point archaeological reconnaissance/GPR report and any associated maps.
+- The exact 2019 Land Use Plan Band Council Resolution/acceptance record, if any.
+- The full project correspondence and meeting records underlying the Proponent's characterization of 2019–2020 “general project support.”
