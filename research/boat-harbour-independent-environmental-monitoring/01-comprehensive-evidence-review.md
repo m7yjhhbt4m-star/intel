@@ -564,3 +564,52 @@ See [08 — Primary Records Recovery and Monitoring-Condition Audit](08-primary-
 The IAAC registry lists five EIS volumes and Appendices A–EE, as well as 82 Round 1 Information Requirements, Round 2 material, a 2025 Annual Report and public comments. This evidence review has not yet systematically extracted every volume, appendix, response or public submission. The current findings are therefore a substantial but incomplete desk review.
 
 The full inventory, direct registry links, review-status labels and prioritized outstanding work are recorded in [09 — Registry Records Map and Completeness Audit](09-registry-records-map-and-completeness-audit.md). In particular, Appendix A (HHERA), B (environmental management/control), Y (geology/geochemistry), Z (groundwater/surface water), AA (wetlands/terrestrial) and BB (aquatic environments) require systematic review. Do not infer that an appendix has been fully reviewed merely because it is linked or cited elsewhere.
+
+
+
+## 17. New primary-record review pass — 25 November 2026
+
+The following original project records were opened and incorporated into the source register and registry audit: the 2016 BHEAC draft terms (BH-114); the 2020 draft EMP/PEPP package (BH-115); EIS Volume III consultation/rights sections (BH-116); EIS Volume II alternatives/project description (BH-117); EIS Volume I front matter and guideline concordance (BH-118); the 2018 Laboratory Treatability Study (BH-119); the 2018 Remedial Option Decision Document (BH-120); the 2018 Supplemental Phase II ESA (BH-121); and the SCG/WSP Sludge Thickness Determination presentation (BH-122). BGC's 2021 External Technical Review (BH-012) was also expanded using its direct PDF text. These are not all full line-by-line reviews; exact status and limitations are recorded in documents 05 and 09.
+
+### 17.1 Northumberland Strait: localized sediment exceedances and major coverage gap
+
+The 2018 Supplemental Phase II ESA reports PHC exceedances in all five sediment samples NS-SED-3 to NS-SED-7 collected at the estuary mouth/northern shoreline. Five separate background sediment samples about 2.5 km east of the estuary had no exceedances. GHD says the near-mouth PHC impact was potentially associated with mill/BHETF operations and explicitly recommends further horizontal delineation of NS-SED-1 to NS-SED-7. This is evidence of a localized near-field sediment impact and an unresolved delineation requirement; it is not proof of source attribution or a Strait-wide contamination footprint.
+
+The same Supplemental ESA collected no new marine water-column or biota/tissue samples. Its six surface-water samples were one stream sample east of the containment-cell overflow pond and five Chance Harbour Lake background samples. Table 4.10 compiles earlier Phase II and Supplemental Phase II results and lists Northumberland Strait surface-water metals (boron/cadmium), cyanide and chloride; those entries must not be misattributed to the new Supplemental Phase II water samples. Five background sediment samples clustered 2.5 km east cannot establish conditions across the full Strait.
+
+### 17.2 Laboratory treatability: non-detects did not always demonstrate compliance
+
+The original 2018 GHD Laboratory Treatability Study used one source sample each from the ASB, Boat Harbour and estuary. Initial water exceeded the cited 2013 marine-water criteria for cyanide (15–21 µg/L vs 1), TPH (0.202–0.514 mg/L vs 0.1) and total/dissolved zinc (total 51.9–97.9 µg/L; dissolved 30.8–60.7 µg/L vs 10). Initial sediment PCDD/PCDF TEQ was 170 pg/g in Boat Harbour and 402 pg/g in the ASB against a 4 pg/g criterion. The report's treatment tests showed reductions, but some reporting limits exceeded the criteria: cyanide ND <10 µg/L vs 1 µg/L, mercury ND <0.2 vs 0.016, lead ND <50 vs 2, zinc ND <50 vs 10 and selenium ND <100 vs 2. These non-detects cannot establish below-criterion concentrations. Total PCDD/PCDF in BH/ASB Geotube solids remained above sediment criteria even where selected leach tests were below a chosen leachate threshold. Total solids concentration and leachability are distinct measurements.
+
+### 17.3 Design evolution: 2018 RODD versus 2020 EIS
+
+The 2018 RODD selected vertical expansion of the existing containment cell, full ex-situ removal of about 263,000 m³ of wetland sludge/root mass from approximately 38 ha, wet dredging with Geotube dewatering at an estimated 2,000 m³/day, low-technology on-site treatment of bulk water and dewatering effluent, off-site leachate disposal, and clean/inspect/abandon-in-place for the pipeline. The 2020 EIS changed several important elements: risk-based natural attenuation in wetlands below risk criteria with active removal of hotspots; an estimated 4,000 m³/day wet dredging rate; natural attenuation for bulk water rather than the RODD's selected low-tech treatment; temporary on-site leachate treatment during active remediation with off-site handling after closure; and full pipeline removal after PLFN's preference was incorporated. These changes require a documented decision trail, especially the wetland boundaries/volumes, bulk-water chemistry and pipeline scope.
+
+The 2018 off-site disposal evaluation assumed a licensed provincial landfill about 55 km away, no daily load limits and a $25–$115/tonne tip fee. The 2020 EIS later said no Nova Scotia landfill within 175 km was approved to receive the anticipated dioxin/furan-impacted sludge. The RODD's community-acceptance score explicitly excluded the community near a potential receiving site, and the on-site option's social benefit included potential PLFN monitoring/O&M employment. Those were evaluation assumptions, not proof of PLFN agreement or an actual employment commitment.
+
+### 17.4 Containment-cell and scale-up uncertainty
+
+The 2020 EIS proposed expanding the existing 6.7 ha cell from 220,000 m³ to 1,073,000 m³ (930,000 m³ base plus 143,000 m³ contingency), with a 100-year leachate collection system and 150-year geomembrane design basis. BGC's 2021 independent review identified uncertainty in Geotube volume reduction and consolidation, potential insufficiency of even the contingency capacity, unverified slope/berm and cover-system stability, and a post-closure leachate model based on one underdrain sample from MH-1. BGC also noted that the underlying 2020 Point C water-quality trend data were not provided in the review package. These are documented design uncertainties, not proof of containment-cell failure.
+
+BGC's summary of the 580-page GHD 2019 pilot report reports slurry solids averaging 5.2% in Phase 1 and 2.4% in Phase 2 (as low as 1–1.5%), Geotube bulking/settlement and mechanical-dredging difficulty distinguishing sludge from underlying sediment. The original GHD pilot report remains not directly opened; these pilot details are attributed to BGC's review, not a direct examination of the 580-page source.
+
+### 17.5 Sludge mapping technology: useful physical mapping, not compound-specific chemistry
+
+The 2021 SCG/WSP presentation describes 410 initial LIF/EC points plus 90 adaptively added points, bathymetry tied to RTK elevations, and 271,000 m³ of “competent sludge” versus 400,500 m³ of “competent sludge plus transition zone.” The 400,500 m³ is a combined total, implying about 129,500 m³ of transition zone. These figures require reconciliation against the 2020 EIS estimate of 634,000 m³ for Boat Harbour sludge/sediment; the boundaries and volume definitions may differ. LIF fluorescence is associated with PAHs/free-phase petroleum hydrocarbons and requires chemical ground truth for semi-quantitative interpretation. It cannot be treated as a universal chemical detector or proof of concentrations for metals, cyanide, dioxins/furans or other compounds.
+
+### 17.6 Governance, consultation and evidence handling
+
+The 2016 BHEAC Appendix D terms are explicitly a draft and define an advisory, non-regulatory committee. The 2020 EIS says the terms were later revised, membership expanded, IAAC attended as an observer from September 2019 and the committee met about ten times per year. GHD is described as both the Proponent's principal consultant and a BHEAC participant; this is a governance fact to examine when evaluating peer-review independence, not evidence of misconduct. The EIS says the revised TOR/current representative list is Appendix I and the complete BHEAC action list is Appendix M.
+
+The 2020 EIS records PLFN opposition to leaving/expanding the on-site containment cell and a preference for full pipeline removal. The Proponent's written response is not evidence of PLFN agreement. The EIS expressly says the MEKS was not itself consultation and did not fulfill the Crown's duty to consult. Appendices S and T remain rights-holder/community knowledge sources subject to PLFN research governance; sensitive locations and knowledge must not be reproduced without direction.
+
+### 17.7 Remaining original-document blockers
+
+- IAAC Appendix A / HHERA, document 137871E (154 MB): located, but official PDF retrieval timed out; original not reviewed. IAAC's 2025 report summarizes Health Canada concerns about screened-out groundwater and food pathways, but this is not a substitute for the HHERA calculations and appendices.
+- IAAC Appendix C / Public Meeting Minutes, document 137873E (401 KB): located, but official PDF retrieval timed out; original not reviewed.
+- GHD 2019 Pilot Scale Testing Construction Report (580 pages): official Google Drive link located; preview/download was inaccessible. BGC ETR provides secondary quotations only.
+- GHD Phase I ESA (2017) and Phase II ESA (2018): official resource links located but direct Google Drive retrieval not available in this pass. Supplemental Phase II and RODD provide partial summaries; original reports remain unreviewed.
+- Full Sludge Thickness Determination technical report and raw LIF/EC point data: official resource page lists the report as a large download; only the public SCG/WSP presentation was reviewed.
+- Supplemental Phase II Appendix D laboratory certificates: the accessible PDF marks them “to be provided with final” and does not contain them.
+
+The project remains a substantial but incomplete desk review. “Located,” “opened,” “substantively reviewed,” “partially reviewed,” and “not reviewed” remain separate statuses.
