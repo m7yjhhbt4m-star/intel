@@ -582,3 +582,13 @@ Critical gaps:
 - Verify the nine-foot water-level rise and encroachment with original survey datums and parcel boundaries, rather than relying solely on the letter's statement.
 
 The central question is not merely whether the Province promised closure in 1991; the primary record shows it confirmed such a commitment. The unresolved work is the legal/administrative chain of later changes and the actual performance record.
+
+
+
+## 25. The signed 1993 Canada–PLFN settlement agreement remains a primary-record gap
+
+The 1995 *Pictou Landing Indian Band Agreement Act* (BH-145) and 1994/1995 House of Commons debates (BH-146) have been reviewed. They establish that a signed agreement dated 20 July 1993 existed between Canada and PLFN and that Parliament legislated two specific provisions: settlement payments are not Indian moneys, and member claims arising from agreement section 13 may only be made against the continuing compensation account under its procedure.
+
+Hansard describes a $35M settlement, a 141–25 referendum, $20M compensation, $15M community development/relocation trust, environmental/health monitoring provisions and Canada's undertaking to explore solutions. It also describes release of Canada and assignment of certain claims against Nova Scotia/Scott Maritimes. These parliamentary explanations are not the contract itself.
+
+**Critical missing source:** obtain the complete signed 20 July 1993 agreement, all schedules/annexes, referendum record, trust deed/accounting, monitoring program terms, and implementation reports. Extract exact release, assignment, subrogation, section 13 and environmental-monitoring language. Determine precisely what claims were released to Canada, which were assigned, which remained with PLFN/members, and whether the agreement addressed land/riparian rights or the future use of Boat Harbour. Do not characterize the settlement as consent to permanent effluent discharge or as a surrender of land without the signed text.
