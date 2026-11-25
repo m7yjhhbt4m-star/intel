@@ -831,3 +831,37 @@ The 2015 Boat Harbour Steering Committee TOR reproduced in GHD's EIS Appendix I 
 ### Important source correction
 
 PLFN's 2023 submission contains a date typo in its paragraph 93: it says the Province was to introduce closure legislation by June 30, **1995**. The signed AIP says June 30, **2015**. Use the original AIP date and flag the typo if quoting the PLFN brief.
+
+
+
+## 27. Indian Cross Point burial-ground investigation — Boreas 2019 archaeological/GPR report
+
+The full 63-page Boreas Heritage Consulting report, *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey* (September 2019; permit A2019NS064; BH-141), has now been reviewed. It was commissioned by Nova Scotia Lands to inform pipeline decommissioning and remediation near the historic Mi'kmaw burial ground at Indian Cross Point.
+
+### What was investigated
+
+Boreas combined desktop research (historical maps, archaeological records, local oral traditions, archival sources and environmental context) with pedestrian reconnaissance and GPR. The GPR instrument was a 500 MHz Noggin 500. Four selected grids within the pipeline right-of-way were surveyed using 25 cm transects in two directions. Those grids showed disturbance associated with pipeline installation/maintenance; two also showed the pipeline. No burial evidence was detected in those four limited ROW grids.
+
+Adjacent-property reconnaissance identified four potential areas (PA-1 to PA-4) and one historic-use area (HA-1). A further 15 m × 11 m GPR grid (Grid 5; 106 intervals) detected scattered subsurface anomalies from approximately 70 cm depth. Boreas says several responses appeared fairly consistent in size and depth, but without excavation/ground-truthing their exact nature could not be determined. Their regularity suggested the possibility of burials.
+
+### Historical context and findings
+
+Boreas's archival synthesis places the historic burial ground likely on higher ground near the East River shoreline, including portions of the Palmer property, with possible extension south toward the pipeline ROW terminus. It cites George Patterson's 1877 description of rows of flat stones and human remains eroding from the bank, and Douglas Brown's 1998 research describing reinterment of remains inland after erosion. The report notes attempts to relocate the burial ground in 1995 and 1997, and the possibility that its use extends back hundreds of years or potentially to the pre-contact period. These are historical-source interpretations; exact boundaries remain unknown.
+
+Boreas concludes:
+- no burials were detected in the four GPR grids within the pipeline ROW;
+- the western end of the ROW has high potential for encountering unmarked burials;
+- remaining ROW sections are considered low potential;
+- the shoreline area on the Palmer property and south toward the ROW terminus is the highest-potential area for locating the burial ground;
+- archaeological monitoring should be present if the existing pipeline at the western end of the ROW is removed; and
+- any discovery of archaeological resources or human remains requires work to stop and direction from the provincial heritage authority.
+
+### Critical limitations and discrepancies
+
+1. **GPR is not confirmation:** the anomalies in Grid 5 are not confirmed graves or human remains. Boreas explicitly says ground-truthing would be needed to determine their nature. No excavation/ground-truthing is reported in this assessment.
+2. **Limited negative result:** “no burials detected” applies only to the four selected ROW grids, not the entire pipeline corridor, Palmer property, or Indian Cross Point.
+3. **PA-3/PA-4 location inconsistency:** the executive summary says PA-4 was subjected to GPR, but the detailed body says Potential Area 3 was selected for Grid 5. The PA-4 description places it about 180 m south of the access road, while Grid 5 is described about 80 m north of the road. The actual grid location must be confirmed from original field maps/data and Boreas before attaching the anomaly result to a particular PA.
+4. **Later pipeline-removal statement needs reconciliation:** IAAC's January 2025 Environmental Assessment Report says the Indian Cross Point-to-Highway 348 pipeline section was already removed by Northern Pulp, its ends capped and the area backfilled, with no adverse effects or archaeological effects identified and no further ground disturbance proposed in that corridor. This must be reconciled with Boreas's high-potential western ROW recommendation. Obtain the removal date, precise as-built limits, archaeological monitor logs, photographs, permits, stop-work/incident records and confirmation whether the high-potential section and Grid 5 anomaly area were disturbed.
+5. **Burial-ground source trail:** obtain Douglas Brown's full 1998 *Indian Cross Point Burial Ground Research Final Report*, original Crown grant maps, 1995 provincial relocation records, 1997 research records, the full Baker Estate deed/transfer and any Palmer-property discussions. Exact burial locations are sensitive and should not be publicly mapped without PLFN direction.
+
+This report is significant evidence of a known archaeological risk area and of uncertainty that remains unresolved. It is not proof that the burial ground's exact location has been found, nor proof that the pipeline removal disturbed or did not disturb remains.
