@@ -343,3 +343,15 @@ The 22 February 2019 BHCC minutes (BH-134) show PLFN participation in project pl
 The 2019 Membertou Geomatics Land Use Plan (BH-132) documents community aspirations for safe water, restored fish/animal habitat, traditional plants/medicines, access to hunting/fishing/plant gathering, return of lands to a natural state, and improvement of the existing PLFN sewer outfall. It is a future land-use plan, assumes pending land/water transfers will be safe, and contemplates later Band Council Resolution/other acceptance. The reviewed copy does not show formal adoption. It must not be treated as consent to permanent waste storage.
 
 The Group ATN report (BH-133) concerns employment, training, procurement and economic opportunities. It is not an environmental safety assessment or a consent instrument. The Proponent's use of these records as evidence of “general project support” must be evaluated alongside the BHCC TOR's explicit exclusion of consultation and the minutes' recorded concerns.
+
+
+
+## 11. Indian Cross Point / Sukle’katik burial-ground evidence — Boreas 2019 report
+
+The full Boreas Heritage Consulting *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey* (September 2019; permit A2019NS064; BH-141) has been reviewed. The report's historical synthesis describes the Indian Cross Point burial ground as a long-used Mi'kmaw burial place, likely in use until the 1860s/1870s, with historical descriptions of rows of flat stones and remains eroding from the East River bank. It cites earlier research suggesting that remains eroded from the bank may have been reinterred inland and that the burial ground may extend toward the pipeline corridor. These are the report's synthesis of historical sources, including Patterson (1877) and Douglas Brown (1998); the precise location remains unknown.
+
+Boreas found no burial evidence in four selected GPR grids within the pipeline right-of-way. A separate GPR grid on adjacent land showed regular subsurface anomalies, but Boreas states they cannot be identified without ground-truthing; the report says they may represent burials. It classifies the western end of the ROW as high potential for unmarked burials and recommends archaeological monitoring if the pipeline is removed there.
+
+The report contains a PA-3/PA-4 inconsistency about which adjacent potential area was GPR-surveyed. IAAC's 2025 Environmental Assessment Report later says the Indian Cross Point-to-Highway 348 pipeline section had already been removed by Northern Pulp and no archaeological effects were identified. The work records, exact removal limits, monitoring logs and reconciliation with Boreas's high-potential recommendation remain outstanding.
+
+This evidence concerns a sacred/cultural heritage place. Do not publish exact suspected burial locations, GPR anomaly coordinates, or sensitive maps without PLFN direction. GPR anomalies must not be described as confirmed graves, and a negative result in four limited ROW grids must not be generalized to the entire burial-ground area.
