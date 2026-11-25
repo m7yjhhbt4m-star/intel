@@ -1307,3 +1307,37 @@ The Supreme Court of Canada dismissed the Province's application for leave to ap
 ### Research relevance
 
 These decisions establish a legal milestone in the funding/consultation chronology: provincial funding of a replacement ETF was itself a decision requiring consultation because it could increase the likelihood of continued mill operation beyond the statutory closure date. This is distinct from the later environmental assessment decision, the 2014 AIP remediation agreement, and the 2025 Condition 9 alternative-site process. Keep each legal issue and decision-maker separate.
+
+
+
+## 38. December 4, 2008 Minister Scott letter — written commitment to relocate, clean and restore tidal conditions
+
+The original two-page letter from Nova Scotia Minister Murray Scott to Chief Anne Francis-Muise, dated 4 December 2008 (BH-163), has now been reviewed as Tab 33 of PLFN's 2014 submission.
+
+The letter confirms a meeting on 2 December 2008 with Chief Francis-Muise and Ministers Murray Scott, David Morse and Michael Baker. It states that the Province intended to end the negative impacts on PLFN caused by the Boat Harbour facility. It commits to:
+- find another discharge location for mill effluent that does not involve Boat Harbour;
+- clean Boat Harbour and return it to a tidal state;
+- establish a committee consisting of the Chief and a provincial Minister to oversee the work;
+- have staff draft an MOU setting out the objectives and terms, including timing; and
+- make a community contribution recognizing the delay beyond the intended 31 December 2008 completion date.
+
+The letter does not specify the final closure date, the alternative discharge site, the amount or terms of the community contribution, or the detailed remediation work plan. It is nevertheless a direct written ministerial confirmation of the Province's intention to relocate the facility and restore Boat Harbour.
+
+### Important distinction between three separate 2008 instruments
+
+1. **December 4, 2008 Minister Scott letter (BH-163):** Province-to-PLFN written commitment to relocate, clean and restore tidal conditions, with a committee and a future MOU.
+2. **December 31, 2008 Accommodation Agreement:** PLFN–Northern Pulp agreement concerning PLFN's non-opposition to a temporary licence extension to 31 January 2009 while negotiations continued. Its original signed text has not yet been obtained in this pass; the July 2020 Montgomerie affidavit summarizes its terms.
+3. **May 12, 2008 Acknowledgement Agreement (BH-158):** Province-to-Northern Pulp instrument confirming the continuing benefit of the 1995 Province–mill agreements and the 2006 licence extension.
+
+These are different parties, purposes and legal effects. Do not conflate them or treat the PLFN–Northern Pulp Accommodation Agreement as the Province's promised closure/remediation MOU.
+
+### What must be recovered
+
+- The Province–PLFN draft MOU promised in the December 4 letter, including drafts, negotiation records and committee minutes.
+- The committee's actual terms of reference, membership, work plan and reports.
+- The contribution proposal, amount, payment records and any agreement.
+- The original December 31, 2008 PLFN–Northern Pulp Accommodation Agreement and April 2009 forbearance agreement.
+- The September 2006 PLFN–Neenah amending agreement extending the 2001 pipeline/remediation deadline to December 31, 2008.
+- The October 2008 engineering report concluding no alternative pipeline route was feasible, and the underlying engineering studies.
+
+The letter should be compared with the earlier 1991 five-year closure/restoration commitment and later 2014 AIP. It is evidence of the Province's stated 2008 commitment, not proof that the promised relocation or remediation was performed.
