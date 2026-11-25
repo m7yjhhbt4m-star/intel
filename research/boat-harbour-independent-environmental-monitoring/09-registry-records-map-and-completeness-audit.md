@@ -446,3 +446,29 @@ BGC's conclusions included material uncertainty in Geotube volume reduction/cons
 ### Attribution and limitations
 
 BGC was retained by IAAC for two defined charge questions concerning alternatives and containment-cell design. It states that it did not conduct a site visit, detailed data-quality review or detailed analytical studies; the original HHERA was not reviewed; and extra-scope documents, including the Pilot Scale Testing Construction Report, were reviewed only to the extent necessary to understand claims in the primary scope documents. These findings are BGC's independent technical review of the documents it received, not a direct review by this project of the original 580-page pilot report and not evidence of actual full-scale performance.
+
+
+
+## 19. GHD Remedial Option Decision Document — 2018 review — 25 November 2026
+
+- **Located:** Yes — official Boat Harbour project Resources page, direct compressed PDF.
+- **Source:** GHD, *Remedial Option Decision Document — Boat Harbour Remediation Planning and Design*, report 11148275 (5), 1 May 2018, 406 pages.
+- **Opened:** Yes — original PDF text accessible.
+- **Review status:** Substantive partial review of executive summary, site/contamination assumptions, alternatives method/scoring, waste and wetland management, sediment removal, bulk water/dewatering effluent, leachate and pipeline options. Not a line-by-line review of every page or appendix.
+- **Repository record:** Source register entry BH-120 added to `05-source-register-and-evidence-quality.md`.
+
+### Decision history and changes to reconcile
+
+1. **Incomplete assessment at the time:** RODD says Phase II ESA was planned to be finalized in June 2018, supplemental Phase II work was required to further delineate contamination, and groundwater/surface-water connectivity near the PLFN wellfield still required field investigation.
+2. **Waste disposal:** RODD selected vertical expansion of the existing 6.7 ha / 220,000 m³ cell. Its matrix weighted score was 411 for on-site vs 375 for off-site. Off-site disposal scored better environmentally; on-site scored better regulatorily, technically and socially; economic scores tied. The RODD's off-site estimate assumed a licensed provincial landfill about 55 km away, no daily load limits and a $25–$115/tonne tip fee. The 2020 EIS later said no Nova Scotia landfill within 175 km was approved for dioxin/furan-impacted sludge. Reconcile the original receiving-facility assumption against the later position and the BGC ETR's finding that the relevant regulatory discussions/records were not provided.
+3. **Scoring limitation:** RODD's community-acceptance scoring explicitly excluded the community near a potential off-site receiving site. The on-site option's community-benefit score included possible long-term PLFN employment in monitoring/O&M of the closed cell. This is an anticipated benefit, not evidence of PLFN agreement or a committed employment arrangement.
+4. **Wetlands:** RODD selected complete ex-situ removal of approximately 263,000 m³ across about 38 ha of Former Settling Ponds 1–3. The 2020 EIS later moved to risk-based natural attenuation in areas below criteria and active removal of hotspots/areas above criteria. Trace the decision change to the HHERA and subsequent delineation; reconcile the different wetland volumes/areas.
+5. **Bulk water:** RODD selected an on-site low-technology precipitation/coagulation/adsorption treatment system. The 2020 EIS later proposed natural attenuation for bulk water following mill-effluent cessation. BGC ETR noted the 2020 Point C improvement data were not supplied for review.
+6. **Dewatering effluent:** RODD selected on-site low-tech treatment with coagulation/precipitation, clarification, multimedia filtration and GAC, with discharge to the estuary. Later design documents need to be compared to the final approved treatment train and actual monitoring.
+7. **Leachate:** RODD selected off-site disposal at a municipal/industrial wastewater facility and assumed a 25-year contaminating life span. The 2020 EIS later proposed temporary on-site treatment during remediation and off-site handling after closure. The 25-year period was an assumption requiring further waste characterization, not a measured prediction.
+8. **Pipeline:** RODD's selected option was clean, inspect and abandon in place. Volume III of the 2020 EIS records PLFN's preference for full removal and says the Proponent incorporated that preference. This is a documented change in project scope.
+9. **Pilot validation:** RODD scheduled pilot testing for July–December 2018 with final reporting early 2019. The actual GHD pilot report is dated 23 December 2019 and the 2025 IAAC report says the pilot program was completed in July 2019. Compare schedule, scope and the assumptions actually tested.
+
+### Status and evidentiary limits
+
+RODD is a Proponent/consultant options document, not final approval. It expressly states qualified remedial options may change due to executive direction, regulator conditions, new information, pilot testing and EA outcomes. Cost estimates are Class D, 2018 dollars, with stated accuracy of -30%/+50%; do not treat them as final actual costs.
