@@ -1249,3 +1249,29 @@ These contracts establish what the parties agreed on paper. They do not establis
 ### 33.1 Correction: the 2002 Lease Extension execution date is unresolved
 
 A higher-quality scan in the 2018 public-comment PDF shows the lease extension's opening line as **22 August 2002** and a Pictou County Registry of Deeds stamp recording **16 May 2003**, Document 1955, Book 1458, pages 5–6. However, the 2008 Acknowledgement Agreement, PLFN's 2014 index, Northern Pulp's 2015 appeal and the 2020 Montgomerie affidavit all identify the Lease Extension Agreement as dated **22 October 2002**. The 2014 submission's OCR was not sufficient to resolve this. Do not state either date as conclusively established. Obtain certified Registry instrument 1955 / Book 1458 / pages 5–6 and compare the executed registered instrument with the later references; determine whether there were multiple versions or an error in the later acknowledgements/affidavit.
+
+
+
+## 28. A'se'k News (2019): explicit PLFN opposition, air monitoring, fish survey and Indian Cross Point — 25 November 2026
+
+The full text of the June and October 2019 A'se'k News issues (IAAC Appendix N, document 137884E; BH-145) has now been reviewed.
+
+### 28.1 Public opposition to permanent cell use existed by June 2019
+
+The June 2019 issue says the current proposal would leave the enlarged containment cell in place indefinitely and explicitly states that the PLFN community opposed that arrangement and wanted the cell relocated. This is contemporaneous evidence of public opposition by June 2019. It directly contradicts the Proponent's 2024 characterization that “adamant opposition” only emerged in March 2021, at least if that phrase is intended to mean that opposition to permanent cell use did not exist before then. The precise formal decision-making chronology still requires original letters, Council records and meeting minutes.
+
+### 28.2 Independent air monitoring during pilot-scale work
+
+The newsletter says Stantec was retained for independent ambient air monitoring from August 2018 to March 2020. It describes 24-hour fixed-station sampling at Cemetery Road every six days, increased to every three days during pilot-scale work, plus handheld real-time monitoring within Boat Harbour. The newsletter says reports were posted online. It reports no unusual activity/results in its June 2019 update. This is a summary, not a substitute for the underlying Stantec data. The interim reports and final monthly reports are now priority source-retrieval targets.
+
+### 28.3 Fish survey and pre-1967 species knowledge
+
+The October 2019 issue reports a fish survey led by Ken Oakes of Cape Breton University. Preliminary results found mummichogs and stickleback in Boat Harbour and the estuary. It says community information was being gathered on fish species present before 1967. The full fish survey report and the community's pre-1967 species record have not yet been recovered. Do not treat the preliminary observations as a complete fish inventory or evidence of absence of other species.
+
+### 28.4 Indian Cross Point GPR and possible unmarked burials
+
+The October issue says Boreas Heritage completed a September 2019 GPR survey and that the western end of the pipeline corridor near the shoreline could potentially contain unmarked burial sites. The report was not electronically distributed; hard copies were available at the PLFN office. IAAC's 2025 report later says anomalies consistent in size/depth with burials could be present, but exact locations could not be identified. The underlying Boreas report remains unrecovered and must be obtained only through PLFN-authorized channels; do not publish burial coordinates or sensitive maps.
+
+### 28.5 2019 Well-being Baseline Study — explicit data-use restriction
+
+The December 2019 PLFN Well-being Baseline Study (IAAC Appendix S, 137890E; BH-146) has been opened for metadata, methodology and governance review only. Its disclaimer says it was prepared for the sole use of PLFN and Nova Scotia Lands in preparing the EIS and that use of its data beyond that purpose is not permitted. No findings, quotations or individual-level data have been extracted for this research package. Documentary use requires written direction/permission from PLFN and the appropriate data-governance authority. Do not conflate this 2019 study with the 2014 Environmental Health Survey reported in Lewis et al. (2021; BH-129).
