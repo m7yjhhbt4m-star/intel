@@ -700,3 +700,33 @@ The paper provides a source trail for JEHMC, CanTox (1997), the Dillon review (2
 The paper reports the 2014 PLFN Native Women's Group-led Environmental Health Survey: 279 respondents, 59% response rate, 13 community research assistants, 297 questions and more than 400 variables. It includes physical, mental, emotional and spiritual health measures and a community-defined indicator about whether the air, land and water around participants would hurt them. The authors report bivariate associations between environmental fear and self-rated health/depression and between racism and several health dimensions.
 
 The paper is cross-sectional and self-reported, not a clinical or causal environmental exposure study. The 2014 survey is not a pre-exposure baseline. Comparisons use different surveys/populations and the environmental-fear cross-tab has 126 complete cases. The paper presents only selected variables; supplementary data and the full questionnaire should be located with PLFN/NWG authorization. Raw individual data remain under community governance.
+
+
+
+## 27. 2022 Technical and Economic Feasibility Assessment of Mount William alternative site — full substantive review — 25 November 2026
+
+- **Located/opened:** Yes — IAAC document 155834E, original PDF opened.
+- **Source:** Nova Scotia Lands / GHD, *Response to IAAC Information Requirement 82 — Technical and Economic Feasibility Assessment of Alternative Containment Cell Location Site*, including Annexes 1–7.
+- **Review status:** Substantive review of the main assessment, NSECC March 29 2022 memo (Annex 2), GHD cost/timing memo (Annex 3), technical feasibility matrix (Annex 4), economic analysis, Quebec disposal cost memo (Annex 6) and GHG emissions memo (Annex 7).
+- **Repository record:** BH-130 added to `05-source-register-and-evidence-quality.md`.
+
+### Scope and site-screening basis
+
+The assessment evaluates only two Mount William parcels (PIDs 00865469 and 00865485), approximately 59.5 ha. It does not assess the wider parcel inventory later identified by Hive Engineering or the Northern Pulp landfill. It reports 63,000 truckloads, a Class D cost of $107.979M (range $86.38M–$161.97M), a 1.265-million-m³ facility capacity requirement and a 5.5–6.5-year high-level schedule.
+
+NSECC's Annex 2 says Nova Scotia had no siting guidelines specific to hazardous-waste landfills; it used federal guidance, Nova Scotia municipal solid-waste landfill guidelines as minimum guidance, and Ontario/BC requirements. It identifies mapped wetlands/watercourses on 56% of the site, more than 13 ha of mapped wetland and about 20 ha of watercourses, 16 residences and three commercial buildings within 1 km, and the Middle River about 550 m away in the watershed serving Michelin. NSECC concludes the site is unsuitable.
+
+### Critical limits in the site assessment
+
+- NSECC expressly says no site-specific ecological, hydrological or hydrogeological assessment had been completed; its conclusions were based on the provincial landscape/wetland databases, topographic maps, photos and satellite imagery.
+- GHD's Annex 3 says property owners had not been contacted and no work had been done to determine actual site suitability.
+- The cost estimate budgets future baseline studies including hydrogeology, hydrology, natural resources, Mi'kmaq Ecological Knowledge, archaeology, human-health risk and well-being.
+- Therefore the report is a regulatory/desktop screen and high-level feasibility estimate, not a complete field-based site investigation.
+
+### Material internal inconsistencies
+
+1. **GHG scenario misattribution:** Main text attributes 183,164 tonnes CO₂e to the Mount William/PLFN proposed site and pairs it with 5,042 homes. Annex 7 shows 183,164 tonnes CO₂e (42,896 homes) for Scenario 1, a third-party hazardous-waste facility about 1,250 km away; Scenario 2, a new landfill about 20 km away, is 21,530 tonnes CO₂e (5,042 homes). The main text combines the emissions number from the long-distance Quebec scenario with the home-equivalency from the nearby new-landfill scenario. The 2024 Proponent response repeats the same misattribution.
+2. **Distance description:** Annex 3's map gives 18.5 km driving distance from Boat Harbour to the Mount William site (one-way); Annex 7 uses 40 km round trip for the nearby new-landfill scenario; main text calls 20 km a round trip. The 20 km is consistent with a one-way distance, not a round trip.
+3. **Existing-cell volume:** main text says approximately 180,000 m³ in the cell (70,000 m³ deposited in 1996 plus 110,000 m³ subsequently); Annex 4 says approximately 116,000 m³ of sludge already placed. Reconcile definitions, survey date and material basis.
+
+The GHG discrepancy materially changes the comparative narrative. Use the annex-level scenario mapping unless the Proponent supplies a correction; do not quote 183,164 tonnes as the Mount William scenario. The 2018 315,020-tonne net reduction over 25 years is a separate estimate with a different baseline/scope and should not be directly subtracted from the one-time off-site scenario emissions without a common accounting basis.
