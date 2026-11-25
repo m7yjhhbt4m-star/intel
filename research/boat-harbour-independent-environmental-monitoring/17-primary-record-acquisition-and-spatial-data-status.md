@@ -296,3 +296,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 14 | `137895E` | IAAC EIS Appendix X, GHD, *Light Impact Assessment*, Report 27, 15 January 2020; https://iaac-aeic.gc.ca/050/documents/p80164/137895E.pdf | **B — Full 19-page browser-rendered PDF reviewed**, including all seven task tables and receptor comparison tables | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-118 in Document 05. Predicted active-remediation maximum is 0.472 lux against the 1-lux post-curfew criterion, but this is model output, not measured field light. No light monitoring is proposed. An apparent internal inconsistency in the MC225 dredge luminous-flux value (15,600 vs 924,000 lm) is flagged for verification against the original image/workbook. The user’s local phone copy was not accessed. |
+
+
+## 21. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 16 | `137893E` | IAAC EIS Appendix V, GHD *Greenhouse Gas Mitigation Assessment* (Report 13, 22 June 2018) and *Climate Change Resilience Assessment* (Report 14, 22 May 2018); https://iaac-aeic.gc.ca/050/documents/p80164/137893E.pdf | **B — Full browser-rendered Appendix V reviewed**, including both reports and the supporting calculation tables | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-119 in Document 05. The claimed 315,080 tCO2e reduction is a modelled comparison against a 25-year business-as-usual scenario that assumes continued effluent treatment through 2043; it is not measured or realized savings. Climate assessment is qualitative/literature-based and dates from 2018; bridge maintenance under rising sea level/storm surge was still unknown. The user’s local phone copy was not accessed. |
