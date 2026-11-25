@@ -623,3 +623,14 @@ The EARD describes the HHE as qualitative, not a completed quantitative HHRA. It
 The EARD assesses hazardous-material spill, erosion/sediment-control failure, land pipeline/ETF release, marine outfall damage/fouling, off-specification effluent, spill-basin berm failure, vehicle accident and heritage discovery. It describes a 35,000 m³ HDPE-lined spill basin (10–13 hours at full production), average annual precipitation/freeboard, nearly-empty operating practice, buried/armoured marine pipeline, no-anchoring zone, diver/ROV inspections and a qualitative “not significant” residual-risk conclusion.
 
 **Outstanding:** final 1-in-100-year/24-hour design storm and climate allowance; basin overflow/overfill and power-failure controls; liner QA/QC/leak detection; final pipeline/diffuser as-builts and inspection records; incident/off-spec records with thresholds beyond PPER; route-wide potable-well baseline; and PLFN-authorized archaeological/cultural-resource verification.
+
+
+
+## 40. January 2019 EARD Section 12 Cumulative Effects Assessment — full text reviewed
+
+- **Source:** Northern Pulp EARD Section 12, January 2019, combined Sections 9–15 PDF; BH-190.
+- **Status:** Full Section 12 text reviewed.
+
+The regional assessment area includes Pictou County and adjacent Northumberland Strait to PEI. The EARD inventories industrial, transportation, fisheries/aquaculture, shipping and recreation uses and identifies three future projects. It identifies Indigenous Peoples' use of land/resources as a VEC but excludes it from cumulative-effects analysis, citing long-standing industrial land use and temporary marine construction. Historical mill/Boat Harbour contamination is treated largely as existing baseline rather than separately quantified cumulative pressure.
+
+**Outstanding:** PLFN response to VEC exclusion, complete fisheries/aquaculture/shipping/outfall inventory, cumulative historical contaminant assessment, climate/sea-level/storm/ice/sediment scenarios and evidence that final EA conditions/monitoring addressed these omissions.
