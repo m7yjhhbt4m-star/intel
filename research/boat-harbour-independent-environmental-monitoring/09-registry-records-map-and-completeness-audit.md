@@ -1098,3 +1098,25 @@ The report evaluates tertiary treatment after a new activated-sludge secondary p
 - **Review:** PLFN's requests for closure, accommodation, $50,000/year environmental communications, $10,000 participation funding, source-separated air monitoring, odour jury testing and community health baseline.
 
 **Outstanding:** verify the actual implementation of each requested measure in the 2015 Industrial Approval, consultation record, final EARD, EA decision and monitoring data. Reconcile PLFN's ambiguous statement about 2001 MOU payments against actual ledgers and later agreements.
+
+
+
+## 46. 2016 Minister's Industrial Approval appeal decision — full-text review
+
+- **Source:** Randy Delorey, Minister of Environment, decision under s.137 of the Environment Act, 8 February 2016; Tab 17 in the 2018 public-comment PDF.
+- **Located/opened:** Yes — full decision text reviewed.
+- **Repository record:** BH-176 added to source register.
+
+The Minister removed/revised specific 2015 Approval conditions, changed COD reduction milestones, clarified TRS conditions, corrected surface-water stations and required reassessment of water-use reduction targets. Terri Fraser's 2018 affidavit says Northern Pulp withdrew its appeal on 15 March 2016.
+
+**Outstanding:** final consolidated approval and proof of implementation of all revised conditions.
+
+## 47. Terri Fraser 2018 affidavit — full-text review
+
+- **Source:** Terri Fraser, Northern Pulp Technical Manager, affidavit sworn 30 November 2018 in injunction proceeding concerning marine survey access.
+- **Located/opened:** Yes — full text and chart descriptions reviewed in the 2018 public-comment PDF.
+- **Repository record:** BH-177 added to source register.
+
+The affidavit describes the Pictou Roads to Caribou Channel diffuser route change, ice-scour findings at 11 m, preferred 20 m diffuser depth, 4 km marine route, fisheries concerns and alleged obstruction of survey work in October 2018.
+
+**Outstanding:** injunction reasons, raw bathymetric/geophysical data, final route/as-builts, contractor logs, DFO habitat review, fishery-effort data and local fishing knowledge.
