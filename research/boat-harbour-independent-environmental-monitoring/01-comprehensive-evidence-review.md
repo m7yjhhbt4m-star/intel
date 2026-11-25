@@ -755,3 +755,37 @@ It does **not** establish that 109 Crown parcels or 97 private parcels are ready
 4. Reconcile the exact four Mount William PIDs in Hive's report (00865485, 00865469, 65170508, 65170516) with the two parcels actually assessed in the 2022 NSECC/GHD report (00865469 and 00865485).
 5. Have an independent technical reviewer apply one transparent, consistently defined criteria set to all candidate sites, including existing Boat Harbour, rather than comparing different levels of screening.
 6. Obtain the Province's original GIS/mapped wetland, watercourse, well and receptor datasets and test for omissions, age and positional accuracy.
+
+
+
+## 25. 2019 PLFN planning, economic-opportunity and Cleanup Committee records — 25 November 2026
+
+The February 2024 Proponent response to PLFN's IR82 feedback (BH-131) includes several important 2014–2019 records in Annex 3. The 2019 Membertou Geomatics Land Use Plan (BH-132), Group ATN Indigenous Economic Opportunities report (BH-133), 22 February 2019 BHCC minutes (BH-134), July 2015 BHCC Terms of Reference (BH-135) and Mi'kmaq-language project overview (BH-136) have now been reviewed.
+
+### 25.1 The 2015 BHCC Terms of Reference explicitly exclude consultation and decision-making
+
+The July 2015 Boat Harbour Cleanup Committee TOR says the cleanup agreement contemplated in the 2014 Agreement in Principle remained outstanding. It states the BHCC is advisory only, has no decision-making authority, no agreement is binding unless approved by both parties, and BHCC meetings/work are without prejudice and are not consultation or a release of the Province's duty to consult and accommodate. The Committee's purpose was information exchange, allowing PLFN to assess/respond to the Province's work, and negotiating cleanup agreements/economic participation.
+
+This is critical when interpreting the Proponent's 2024 characterization of BHCC participation as “general project support.” BHCC attendance and discussion cannot be treated as formal Section 35 consultation, consent or a binding remediation agreement.
+
+### 25.2 The 22 February 2019 minutes show both engagement and unresolved concerns
+
+The minutes document PLFN concerns about cell off-gassing, transportation accidents, dredging too much clean underlying harbour bottom, procurement transparency, subcontractors not engaging PLFN businesses/workers, work experience and whether the community voice was being represented. The Chief questioned whether the community was behind its representatives and requested PLFN-only discussions. The minutes also record an action item for long-term cell monitoring/maintenance, with NS Lands and PLFN to develop an entity/training/mentoring. This is an action item, not proof that a binding agreement or monitoring entity was established.
+
+The same minutes record an action to develop a Boat Harbour history curriculum for PLFN school and a community focus group on pipeline decommissioning. This is a useful lead for the user's documentary and for the history of community-controlled storytelling.
+
+### 25.3 The 2019 Land Use Plan was a future vision, not a consent instrument
+
+The Membertou Geomatics plan was commissioned at PLFN's invitation and developed with PLFN committees/community and Nova Scotia Lands support. It covers reserve, fee-simple, future prospect and provincial parcels. It was developed over about five months despite the cited NALMA model recommending an 18-month planning phase. It assumes all pending land/water transfers will be deemed safe under applicable standards; this is an assumption, not evidence of safety. Its acceptance section says the draft was presented to Council and would be finalized for acceptance by Band Council Resolution or other directive after comments. The copy does not show formal adoption.
+
+The plan identifies a possible well-protection zone around the PLFN wellfield on the eastern shore near the Strait outlet, but says no Water Source Protection Zone Plan was found. It records community concerns about protecting water, restoring fish/animal habitat, protecting medicinal plants, improving the existing PLFN sewer outfall, returning land to a natural state, ensuring community voice, and protecting hunting/fishing/plant-gathering access. The treatment area includes the existing cell, settling ponds and aeration lagoons; the plan says remediation type was still to be determined.
+
+### 25.4 Group ATN was an economic-opportunity study, not an environmental approval
+
+The 2019 Group ATN report focused on employment, training, procurement, partnerships, earth-moving and environmental-services business opportunities for PLFN. It records that lack of work experience was a barrier to moving trained PLFN members into project employment and recommends a more formal PLFN project-management team and improved procurement/contractor engagement. Its cover letter calls the enclosed copy a “draft Final Report” while the report is labelled final. It does not assess environmental safety or establish consent to the long-term containment cell.
+
+### 25.5 Proponent public overview contains a material Strait statement requiring correction/reconciliation
+
+The Mi'kmaq-language project overview says no facility-related contaminated sediment was found beyond the estuary or in the Northumberland Strait and says the existing cell was working well as planned. The 2018 Supplemental Phase II ESA (BH-121) reports PHC exceedances in five samples NS-SED-3 to -7 at the estuary mouth/northern shoreline, classified in that report as Northumberland Strait samples, and recommends further delineation. The public overview is a Proponent communication, not a technical assessment. The boundary/sample-location definition and analytical criteria must be reconciled before repeating its “no contaminated sediments” statement. The cell-performance claim must be compared with actual monitoring records and BGC's 2021 design review.
+
+The Land Use Plan's “improve existing PLFN sewer outfall” concern is a separate lead for Strait water-quality attribution. Map the outfall and obtain its permit, effluent monitoring and discharge records; do not assume it caused any of the measured results.
