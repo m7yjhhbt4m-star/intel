@@ -234,3 +234,37 @@ The information-request history also requires precise wording: Round 1 comprised
 The registry search returned 152 entries at the time checked (81 documents and 71 comments). The 71 comments and attachments have not all been reviewed. One surfaced proposal (registry comment 68) concerns biological dredging/bioremediation; it is recorded as an unverified proposal, not established performance evidence.
 
 The package must now be described as a substantial but incomplete desk review. Located records, reviewed content and unrecovered raw data are separate statuses.
+
+
+
+## 12. PDF-by-PDF source status reconciliation — 25 November 2026
+
+This section supersedes earlier broad labels such as “partially recovered” where a more precise direct-review status is now available. The status is about what this research workflow has actually opened, not whether the user has a local copy.
+
+| Record | Direct source status | What has been reviewed | What remains |
+|---|---|---|---|
+| GHD Laboratory Treatability Study, 9 Apr 2018, 58 pp | **Opened and substantively reviewed** | Main report, sampling/methods, key analytical tables, treatment/leaching tests, Geotube calculations, conclusions | Photo appendix not interpreted; original supporting lab certificates/raw data not independently audited |
+| GHD Supplemental Phase II ESA, 14 Sep 2018, 37 pp plus appendices | **Opened and substantively reviewed** | Main report, field program, key exceedance tables, Northumberland Strait sediment samples, groundwater, CSM, recommendations, Appendix C QA/QC | Appendix D lab certificates are a placeholder (“to be provided with final”) in accessible copy; raw machine-readable data and complete certificates still required |
+| GHD Phase I ESA, 26 Oct 2017, Report 3 | **Located, not directly opened** | Referenced by RODD and Supplemental Phase II ESA | Original PDF, APEC inventory, historical records, site inspection and recommendations |
+| GHD Phase II ESA, 6 Jun 2018, Report 6 | **Located, not directly opened** | Referenced by Supplemental Phase II ESA, RODD and EIS; combined Phase 2/Supplemental summary in Supplemental ESA Table 4.10 | Original PDF, full sample-level data, sample coordinates/depths, lab certificates and CSM |
+| GHD Pilot Scale Testing Construction Report, 23 Dec 2019, 580 pp | **Located, not directly opened** | Selected pilot results and design concerns quoted/summarized in BGC's 29 Jan 2021 ETR | Original report, all appendices, process logs, lab data, flow/volume logs, QA/QC and complete leachate results |
+| Sludge Thickness Determination | **Associated presentation opened; full report not directly opened** | 2021 SCG/WSP conference presentation: 410 initial + 90 adaptive points; LIF/EC and sonar approach; 271,000 m³ competent sludge and 400,500 m³ including transition zone | Full report, point-level LIF/EC and core data, bathymetric surface, volume uncertainty and chemical calibration/validation |
+| GHD Remedial Option Decision Document, 1 May 2018, 406 pp | **Opened; substantive partial review** | Major alternatives, scoring, wetland/sediment/water/leachate/pipeline options and assumptions | Line-by-line review of remaining appendices, cost backup and full design calculations |
+| EIS Appendix A / HHERA, 137871E, 154 MB | **Located, retrieval blocked; not reviewed** | IAAC 2025 Environmental Assessment Report's summary of HHERA and agency critiques, attributed as secondary | Original HHERA, all exposure calculations, COPCs, receptor assumptions, species/tissue datasets and appendices |
+| EIS Appendix B / EMP and control documents, 137872E, 17 MB | **Opened; substantive partial review** | Draft EMP (30 Sep 2020), draft PEPP (1 Oct 2020), governance, groundwater/surface water, effluent/leachate, turbidity/TSS, marine/fish monitoring and sensitive attachment markings | Full line-by-line review of all tables/attachments; final approved EMP/PEPP and as-built monitoring records |
+| EIS Appendix C / Public Meeting Minutes, 137873E, 401 KB | **Located, retrieval blocked; not reviewed** | EIS Volume III summary of earlier meetings only | Original minutes, attendees, exact comments, responses, commitments and follow-up |
+| EIS Appendix D / BHEAC draft Terms of Reference, 137874E | **Opened and fully text-reviewed** | Seven-page 22 Jan 2016 draft; advisory/non-regulatory role and governance terms | Revised TOR/current representative list referenced in EIS Appendix I |
+| EIS Volume I, 137219E | **Opened; full front-matter/index/concordance review** | 42-page table of contents, appendix index and EIS guideline concordance | Not the substantive baseline/effects chapters |
+| EIS Volume II, 137220E | **Opened; substantive partial review** | Sections 1–3, alternatives, project description, waste volumes, containment-cell design, dredging, bulk water and leachate | Remaining figures/tables and detailed calculations |
+| EIS Volume III, 137221E | **Opened; substantive partial review** | Sections 4–6, public/agency participation, PLFN engagement, BHEAC, air monitoring, rights-impact framing | Remaining pages and appendices I/M/S/T and underlying records |
+| EIS Volumes IV and V, 137222E/137223E | **Previously reviewed in earlier passes** | Prior source summaries and research records retained | Reopen specific sections only where new contradictions or data gaps require it |
+
+### New source-level conclusions
+
+- The Supplemental Phase II ESA documents PHC exceedances in all five near-mouth Northumberland Strait sediment samples NS-SED-3 to -7 and leaves horizontal delineation outstanding; its five background samples 2.5 km east do not establish whole-Strait conditions.
+- The Supplemental ESA did not collect new marine water-column or biota samples; its surface-water field program comprised one stream sample and five Chance Harbour Lake background samples.
+- The 2018 Laboratory Treatability Study contains reporting limits above criteria for several key parameters; ND results at those limits cannot establish compliance.
+- The 2018 RODD's selected wetland, bulk-water, leachate and pipeline options differ materially from the 2020 EIS. The decision trail and underlying evidence must be recovered.
+- The 2019 pilot report remains a direct-source blocker; all pilot performance figures quoted in this repo must remain attributed to BGC's 2021 ETR until the original is obtained.
+- The 2021 SCG/WSP presentation provides a headline volume result but not the full thickness report or raw LIF/EC/bathymetry data.
+
