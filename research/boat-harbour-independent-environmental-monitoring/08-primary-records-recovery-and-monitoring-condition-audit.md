@@ -634,3 +634,23 @@ The EARD assesses hazardous-material spill, erosion/sediment-control failure, la
 The regional assessment area includes Pictou County and adjacent Northumberland Strait to PEI. The EARD inventories industrial, transportation, fisheries/aquaculture, shipping and recreation uses and identifies three future projects. It identifies Indigenous Peoples' use of land/resources as a VEC but excludes it from cumulative-effects analysis, citing long-standing industrial land use and temporary marine construction. Historical mill/Boat Harbour contamination is treated largely as existing baseline rather than separately quantified cumulative pressure.
 
 **Outstanding:** PLFN response to VEC exclusion, complete fisheries/aquaculture/shipping/outfall inventory, cumulative historical contaminant assessment, climate/sea-level/storm/ice/sediment scenarios and evidence that final EA conditions/monitoring addressed these omissions.
+
+
+
+## 41. January 2019 EARD Section 13 Follow-up and Monitoring Summary — full text reviewed
+
+- **Source:** Northern Pulp EARD Section 13, January 2019, combined Sections 9–15 PDF; BH-191.
+- **Status:** Full Section 13 text reviewed.
+
+The EARD explicitly says its monitoring/follow-up elements are conceptual and high-level, with methodologies, locations, frequencies and parameters deferred to permitting and approval conditions. It proposes existing annual source-emissions testing and ambient air monitoring; optional noise spot checks; baseline/life-of-project surface-water monitoring; existing groundwater wells; spring/summer 2019 wetland/flora/turtle/bird surveys; project-specific marine EEM; DFO fishery observations/landings; expanded MEKS before construction; and archaeological assessment/monitoring.
+
+**Outstanding:** final approval conditions and protocols, actual completed field studies, baseline and marine EEM datasets, fish/shellfish tissue chemistry, air inventory beyond regulated source tests, QA/QC, and PLFN co-governance. The proposed replacement ETF was never built after mill closure in 2020.
+
+## 42. January 2019 EARD Section 14 Assessment Summary and Conclusion — full text reviewed
+
+- **Source:** Northern Pulp EARD Section 14, January 2019, combined Sections 9–15 PDF; BH-192.
+- **Status:** Full Section 14 text reviewed.
+
+The EARD describes an 11.4 km replacement pipeline, including 4.1 km marine route and three-port diffuser, and concludes all 18 VECs have not-significant residual effects after mitigation. This is the Proponent's conclusion and depends on conceptual follow-up plans and later design/conditions. The project was not constructed after the mill closed in 2020.
+
+**Outstanding:** track the 2020 EA decision/conditions and any pre-closure completed work; do not treat EARD predictions as observed marine performance or confuse this abandoned project with the 2025 remediation project.
