@@ -567,3 +567,18 @@ PLFN's 2014 submission (BH-143) summarizes three pre-2022 alternatives:
 These are not yet verified cost comparisons. Obtain and review the original reports. Extract design flows and loads, treatment technology, residuals/sludge handling, receiving-water and outfall assumptions, pipeline route/length, permitting, capital estimate class, contingencies, operating/lifecycle costs and price year. Determine why each option was rejected, deferred or not advanced, and compare the assumptions with the later 2022 Mount William assessment and 2023 Hive screen. Do not compare headline dollars until costs are normalized to a common scope, price year and design basis.
 
 Also preserve two date discrepancies in BH-143: cover page “March 21, 2013” versus internal letter dated March 21, 2014; and body “October 22, 1995” for the B.G. Clench memo versus index “October 22, 1965.” Both need original-record confirmation.
+
+
+
+## 24. 1991 closure commitment — underlying November 1990 record and performance history
+
+The February 12, 1991 Leefe letter (BH-144) is direct written ministerial confirmation that the Province had committed in November 1990 to discontinue wastewater use of Boat Harbour, restore natural tidal fluctuation and restore altered shoreline areas, with an approximate five-year timeframe. It also states that the harbour level had been raised approximately nine feet, encroaching on three reserve parcels.
+
+Critical gaps:
+- Recover the original September–November 1990 survey, parcel/elevation data, interdepartmental correspondence, Porter–Anderson–Ross meeting notes and any written November 1990 undertaking.
+- Determine the exact legal status and parties to the commitment; the Leefe letter is addressed to the federal Minister and is not itself a signed PLFN agreement.
+- Reconcile the five-year closure/restoration plan with the 1993 settlement, 1995 Province–PLFN agreement, 1995 Province–mill MOU, 1996 OIC, 2001 MOU, 2002 lease extension, 2006 extension and 2008 closure commitment.
+- Establish which elements of the 1991 commitment were performed, deferred, modified or abandoned, and what records support each claim.
+- Verify the nine-foot water-level rise and encroachment with original survey datums and parcel boundaries, rather than relying solely on the letter's statement.
+
+The central question is not merely whether the Province promised closure in 1991; the primary record shows it confirmed such a commitment. The unresolved work is the legal/administrative chain of later changes and the actual performance record.
