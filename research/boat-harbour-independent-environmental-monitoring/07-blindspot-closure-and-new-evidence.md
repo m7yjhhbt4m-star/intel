@@ -628,3 +628,17 @@ Outstanding:
 - records of any partial work, payments, default, waiver or replacement agreement.
 
 Date discrepancy: the agreement's first line appears to say 7 August 2002, while the PLFN index says 22 October 2002. Confirm execution and registration dates against the Registry of Deeds. Do not call the C–D pipeline an operating pipeline without construction/as-built evidence.
+
+
+
+## 24. Federal EA conclusion is conditional; long-term rights impacts and Strait-wide scope remain
+
+IAAC's 2025 Environmental Assessment Report (BH-144) concludes “not likely significant” only on the condition that mitigation, follow-up and monitoring requirements are implemented. It acknowledges high-magnitude, long-term mental-health and cultural/traditional-use effects while the cell remains. IAAC says PLFN is unlikely to resume hunting, trapping, gathering or cultural use in the site study area until the waste is removed and the cell decommissioned. Relocation is not guaranteed: a suitable site must be found and any move remains subject to later approvals, permits and appropriations.
+
+**Blindspot:** do not present the federal conclusion as “no harm,” “safe,” or proof that monitoring is complete. It is a conditional prediction. The 2025 Annual Report says no follow-up programs were implemented in 2025; the conditions have not yet been tested through the planned remediation monitoring.
+
+The 2025 report's marine local study area is limited to waters within 500 m of the Pictou Road shoreline and underwater pipeline; its regional area is the portion of the Strait from the east side of the Confederation Bridge to the eastern coast of PEI. This does not amount to a basin-wide Northumberland Strait baseline or monitoring program. The user's independent monitoring objective across the entire Strait requires a wider design, reference sites, current/transport pathways, and a source-attribution plan.
+
+IAAC assumes PLFN will continue to lead on behalf of the Mi'kmaq of Nova Scotia for some mitigation/follow-up arrangements, while noting Membertou, Millbrook and Sipekne'katik consult independently of KMKNO. Confirm the actual rights-holder governance and representation arrangements; do not treat the assumption as universal delegation.
+
+The report states pipeline removal activities have already been completed with no adverse environmental or archaeological effects identified, and no further ground disturbance is proposed in the corridor. It also notes 2019 GPR anomalies that could be burials, with exact locations unidentified. Obtain the underlying Boreas report and PLFN direction; do not map or publish sensitive burial locations.
