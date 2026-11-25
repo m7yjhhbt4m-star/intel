@@ -1054,3 +1054,35 @@ This is the legal/contractual mechanism behind the 2001 staged-closure proposal:
 The agreement's opening line appears to say it was made on 7 August 2002, while PLFN's 2014 tab index labels it 22 October 2002. The scan also has Pictou Registry stamp/reference information. Confirm the execution date, registration date/document number and registered easement against the original Registry of Deeds instrument and plan.
 
 The next critical evidence is the 2001 MOU, the full lease/licence/indemnity schedules, the 2006 amendment extending the pipeline deadline, and the engineering record explaining why the proposed C–D pipeline was not advanced.
+
+
+
+## 27. IAAC 2025 Environmental Assessment Report — full-text review — 25 November 2026
+
+The full 2,245-line IAAC *Boat Harbour Remediation Project Environmental Assessment Report* (document 161580) has now been reviewed (BH-144). This is the federal agency's assessment and rationale, not independent post-remediation monitoring.
+
+### 27.1 The “not likely significant” conclusion is conditional
+
+IAAC concludes that the Project is not likely to cause significant adverse environmental effects **provided** the required mitigation, follow-up and monitoring conditions are implemented. The report does not say there are no adverse effects. It recognizes contamination of A'se'k and loss/restriction of PLFN access, and identifies potential effects on fish/fish habitat, marine environment, migratory birds, human health, cultural heritage, traditional use and Section 35 rights. The planned cell capacity would increase from about 220,000 m³ to about 1.074 million m³ (final capacity about 4.9 times the existing capacity).
+
+### 27.2 The cell's continued presence is a major unresolved cultural and rights impact
+
+IAAC characterizes mental-health and cultural/traditional-use effects as high magnitude and long-term while the cell remains. It says PLFN is unlikely to resume hunting, trapping, gathering or cultural use within the site study area until the waste is removed and the cell decommissioned. The cell must be designed for future removal and an Alternative Site Advisory Committee must assess alternatives. However, identifying a suitable site and moving the waste remain subject to further approvals, permits and appropriations; the committee does not guarantee relocation.
+
+IAAC's Appendix E records that the Proponent argued PLFN leadership had made public comments supporting the Project. IAAC responded that PLFN had told the Agency it opposes vertical expansion and permanent use, and that PLFN's April 2024 submission reported 98% opposition to long-term use in both the 2021 and 2023 referenda. IAAC also records PLFN's position that the 2019 Land Use Plan was never ratified by membership or approved by a Band Council Resolution and is not an official PLFN plan.
+
+### 27.3 Environmental and technical gaps carried into the conditions
+
+The report discusses DFO's concerns about 4–10 cm of modelled sediment deposition in the embayment, approximately 70,000 m³ of sediment with an unknown endpoint, and inadequate field-based benthic habitat data. It also recognizes that groundwater should not simply be dismissed as an inoperable human exposure pathway; revised HHERA work, potable-water monitoring and country-food monitoring are required. These conditions are not optional substitutes for evidence; they are the measures on which the federal conclusion depends.
+
+### 27.4 Marine study-area boundaries are narrower than the independent monitoring objective
+
+For the marine environment, the report defines the site study area as the estuary, Northumberland Strait shoreline immediately outside the mouth and part of the East River pipeline; the local study area is waters within 500 m of the Pictou Road shoreline and 500 m of the underwater pipeline; the regional study area is the portion of the Strait from the east side of the Confederation Bridge to the eastern coast of PEI. Other valued-component local study areas are generally 500 m from the site, and some have no regional study area. This is not a basin-wide Northumberland Strait monitoring design. Independent monitoring across the entire Strait requires a broader spatial plan with reference stations, current pathways and cumulative-source attribution.
+
+### 27.5 Indigenous representation assumption and pipeline status
+
+IAAC assumes PLFN will continue to lead on behalf of the Mi'kmaq of Nova Scotia for some mitigation/follow-up arrangements. The report also notes Membertou, Millbrook and Sipekne'katik consult independently of KMKNO. This is a governance assumption that must not be treated as universal delegation without confirmation.
+
+The report states that pipeline removal activities proposed for the Project had already been completed and no adverse environmental or archaeological effects were identified from those activities; no further ground disturbance in the pipeline corridor was proposed. It also notes the 2019 GPR survey identified anomalies consistent in size/depth with possible burials, but exact locations were not identified. Do not publish sensitive burial-location information; obtain the underlying Boreas report and PLFN direction before further work.
+
+Appendix D lists species at risk that may occur, including rainbow smelt, Inner Bay of Fundy Atlantic salmon, winter skate, striped bass, white hake, American eel, smooth/thorny skate, white shark, blue whale and North Atlantic right whale, as well as migratory bird species. These are potential occurrence listings; distinguish observed species, possible presence and formal status.
