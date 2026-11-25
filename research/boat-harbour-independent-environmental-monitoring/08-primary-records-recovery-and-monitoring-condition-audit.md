@@ -448,3 +448,16 @@ The Minister records that Boat Harbour's waters had been raised approximately ni
 The Act identifies the underlying agreement as the 20 July 1993 Canada–PLFN agreement. It legislates that settlement payments are not Indian moneys and that member claims arising from agreement section 13 may only be made against the continuing compensation account under the section 13 procedure. Hansard describes the $35M settlement, referendum, compensation/trust allocations, monitoring programs, Canada's undertaking to explore solutions, and release/assignment provisions.
 
 **Primary source outstanding:** the full signed 20 July 1993 settlement agreement and schedules. The statute and Hansard do not substitute for the contract. Obtain the exact release/assignment/subrogation clauses, section 13 claims procedure, monitoring terms, trust deed/accounting, referendum record and implementation reports. Do not infer that the settlement transferred all PLFN claims against Nova Scotia or the mill, or that it consented to continued/permanent Boat Harbour use.
+
+
+
+## 25. OIC 96-621 and 1997 Evans letter — primary-record review
+
+- **BH-147:** Provincial OIC 96-621, 14 August 1996; text reviewed from Tab 22 in PLFN's 2014 submission.
+- **BH-148:** Greg Evans letter to B. Anthony Ross, 6 October 1997; two-page text reviewed from Tab 24.
+
+OIC 96-621 authorizes transfer of facility operating responsibility to Kimberly-Clark for up to 10 years, renewal for 25 years of the mill water-supply agreement, and conditional transfer of facility lands to PLFN when no longer required for operation or earlier only if continued operation and cleanup are not impaired. Schedule A and underlying agreements are not fully available in the scanned copy.
+
+The 1997 Evans letter describes proposed bulk land transfer subject to boundaries, easements/leases, continued cooperation and OIC approval. It says the operating licence then expired 31 December 2005 without an extension provision, and the Province intended to clean up the facility and make a tidal-estuary or controlled-lagoon outcome possible.
+
+**Outstanding:** complete 1995 PLFN–Province agreement; 1995 Province–mill MOU/lease/licence/indemnity; Schedule A to OIC 96-621; 1 October 1997 Ross letter; registered land-transfer instruments; 2001 MOU; 2002 lease extension; and 2006 extension. Verify actual transfer/performance, and distinguish water-supply from wastewater-operation agreements.
