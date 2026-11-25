@@ -1025,3 +1025,16 @@ The promised Province–PLFN MOU, committee records, contribution records, Decem
 The pleading describes the 2001 MOU, proposed C–D bypass pipeline, 2002 lease extension, 2005 pipeline infeasibility, 2006 extension to December 31 2008, May 2008 month-to-month licence extension, June 2008 non-opposition agreement, December 4 2008 Province letter and December 31 2008 Accommodation Agreement. It alleges annual payments under the 2001 MOU and forest-land transfer after pipeline construction.
 
 **Outstanding:** executed 2001 MOU, September 2006 amendment, 2008 licence extension, June 2008 correspondence, 2008 Accommodation Agreement and April 2009 forbearance agreement. The pleading is PLFN's legal case, not a judicial finding.
+
+
+
+## 42. ADI Draft Northern Pulp Tertiary Treatment Study — full-text review
+
+- **Source:** ADI Limited, *Draft — Northern Pulp Tertiary Treatment Study*, project L6716-001.1, 49 pages, included in PLFN's 2018 EA submission.
+- **Official PDF:** https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/comments/2-Pictou-Landing-First-Nation.pdf
+- **Located/opened:** Yes — full 49-page report text reviewed.
+- **Repository record:** BH-165 added to source register.
+
+The report evaluates tertiary treatment after a new activated-sludge secondary plant and two outfall options. It estimates wetlands $7.804M, clarification $8.237M, ozonation $17.416M; annual O&M $0.5M/$2.063M/$2.363M. Outfall costs are $7.129M to Pictou Harbour and $23.756M to MacKenzie Head. The lowest-cost Pictou Harbour combination is about $14.933M before secondary treatment and omitted costs. The report is marked DRAFT and recommends process-change monitoring and pilot testing.
+
+**Outstanding:** final signed report, pilot-test data, 2011 mill process changes and post-change monitoring, AMEC 2010 report, and source basis for the $12M pipeline savings later stated in PLFN's 2014 submission.
