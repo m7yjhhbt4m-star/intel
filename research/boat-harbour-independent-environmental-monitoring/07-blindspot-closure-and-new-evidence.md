@@ -830,3 +830,19 @@ These are the operator's sworn assertions in an injunction proceeding. Verify:
 - court affidavits, hearing transcript and injunction decision.
 
 A shorter marine pipeline and deeper diffuser may reduce some construction/ice risks, but do not establish no effect on lobster, crab, scallop or other fisheries. The phrase “avoids known lobster fishing grounds” must not be presented as proof of no fishing activity or no impact.
+
+
+
+## 40. EARD Human Health Evaluation was not a completed HHRA
+
+The full January 2019 EARD Section 9 HHE (BH-034) is a qualitative screening evaluation, not a quantitative HHRA. It anticipated future effluent would be better, deferred final COPC screening until the new plant chemistry was known, and relied on historical EEM data, a 2006 Toxikos model and 2018 Point A/C/D samples. The untreated Point A sample did not test mercury or 2,3,7,8-TCDD/TCDF; the EARD says these were not required under PPER. The HHE refers to 89 PLFN participants in FNFNES but lacks community-specific food-consumption rates and does not integrate the PLFN 2014 EHS community-defined measures.
+
+Recover and verify:
+- final HHRA (if any), final COPC screening rationale and Health Canada correspondence;
+- raw 2018 and post-commissioning effluent lab certificates, complete analyte lists, reporting limits and QA/QC;
+- pre-discharge baseline and post-commissioning fish/shellfish tissue chemistry;
+- PLFN-specific food-consumption rates and community-led health indicators, subject to PLFN data governance;
+- actual effluent chemistry versus the EARD prediction that future treated effluent would be better;
+- whether the 35,000 m³ spill basin, emergency controls and 10–13 hour storage assumptions were built and verified.
+
+Do not state that a completed HHRA found no significant risk. The EARD HHE explicitly defers decisive screening and monitoring to future data.
