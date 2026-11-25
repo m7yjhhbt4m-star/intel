@@ -845,7 +845,7 @@ The 1965–1966 original attachments and 1970 technical records remain priority 
 
 - **Source:** GHD, *EIS Appendix I — Documentation of Informal PLFN Consultation*, report 11148275 (20), IAAC document 137879E.
 - **Opened/reviewed:** Original PDF opened; substantive partial review of 2014 AIP, Steering Committee TOR, MOA, Indian Cross Point land-purchase agreement, introduced Boat Harbour Act, Community Liaison Coordinator workplan and A'se'k News newsletters.
-- **Repository:** BH-137–BH-187 added to source register.
+- **Repository:** BH-182–BH-188 added to source register.
 
 ### Direct agreement findings
 
