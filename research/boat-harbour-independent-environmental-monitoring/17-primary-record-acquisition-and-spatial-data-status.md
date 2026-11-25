@@ -352,3 +352,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 23 | `137885E` | IAAC EIS Appendix O, Nova Scotia Lands/GHD, *Boat Harbour Remedial Action Plan Presentation*, 12 March 2019; https://iaac-aeic.gc.ca/050/documents/p80164/137885E.pdf | **B — Full 24-page browser-rendered presentation reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-124 in Document 05. Presentation says pilot testing and RAP were 80% complete and quantities still required verification. The displayed in-place sediment volume total is arithmetically inconsistent: row values sum to 1,224,000 m³, while displayed total says 1,244,000 m³. Separate waste table uses 1,224,000 m³. Treat all volumes as preliminary until verified against original calculation workbooks and later sludge-thickness mapping. |
+
+
+## 29. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 24 | `137884E` | IAAC EIS Appendix N, *A’se’k News — Project Update*, containing June 2019 and October 2019 newsletters; https://iaac-aeic.gc.ca/050/documents/p80164/137884E.pdf | **B — Full browser-rendered appendix text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-125 in Document 05. Contemporaneous updates report pilot dredging changes, a drained-cove dry-dredging test, increased air-monitoring frequency, sludge-thickness mapping, fish survey and well-being survey. October newsletter reports a potential burial-site concern near the pipeline shoreline; the precise location is not reproduced. Newsletter statements are not substitutes for underlying technical reports. |
