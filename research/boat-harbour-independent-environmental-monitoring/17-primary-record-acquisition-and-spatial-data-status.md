@@ -455,7 +455,6 @@ The following files are linked from the official Boat Harbour Remediation Projec
 
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
-| 42 | `137219E` | IAAC EIS, Volume I of V (2 MB); official registry index https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/137959 | **E — retrieval blocked.** Registry title verified; current IAAC fetch timed out and legacy CEAA host was inaccessible | **Not A1/A2.** No binary downloaded or hashed | Source BH-140. Volume I remains unread; do not rely on secondary summaries as a substitute. |
 
 
 ## 42. User's 71-file inventory — source located, original 154 MB appendix unread
@@ -545,7 +544,6 @@ The 71 inventory entries are now represented in this log. “B” means browser-
 
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
-| 38 | `137223E` | IAAC EIS, *Volume V of V*, official registry attachment https://iaac-aeic.gc.ca/050/documents/p80164/137223E.pdf | **B — Full browser-rendered Volume V text reviewed** (approximately 7,403 extracted lines) | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Bibliography and technical references reviewed; it identifies AECOM 2016, Dillon 2003/2011, Dillon 2019/2020 and GHD 2017/2018 groundwater/containment-cell reports. These citations establish source identity, not that the cited underlying reports were obtained or read. |
 | 39 | `137222E` | IAAC EIS, *Volume IV of V*, official registry attachment https://iaac-aeic.gc.ca/050/documents/p80164/137222E.pdf | **B — Full browser-rendered Volume IV text reviewed** (approximately 9,766 extracted lines) | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Includes wellfield/hydrogeology figures and historical monitoring discussion. It reports EIS interpretations of the PLFN wellfield and cites the 2018 GHD Well Field Evaluation; those interpretations must be compared with AECOM 2016, GHD 2018 originals and raw well data. |
 
 
