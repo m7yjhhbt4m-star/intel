@@ -384,3 +384,8 @@ The 2015 Clean the Mill submission (BH-229) cites several technical records that
 - A 2012 air-dispersion model and stack-emission testing context.
 
 **Priority records:** obtain the full AMEC COD report and raw data; the exact Stantec underdrain report, sampling plan, lab certificates and historical trend; Nova Scotia Internal Services water-meter/withdrawal records; full 2012 Stantec air-dispersion model and source-emission testing. These claims are not verified measurements until their underlying records are examined. Do not conflate sludge-cell underdrain data with Boat Harbour/ASB water quality.
+
+
+### Unidentified PLFN Tab 30 — earlier Boat Harbour sediment engineering report
+
+The 2015 PLFN legislative submission index (BH-198) lists a separate “Engineering report regarding sediments in Boat Harbour” as Tab 30 (BH-230), but provides no author, date or report number. It may be related to the user's WSP sludge-thickness report, but that identity is unconfirmed. Obtain the original Tab 30 document and compare its scope, methods, bathymetry, sediment thickness, geotechnical properties, contaminant chemistry and volume estimates with the 2019 WSP LIF/EC survey, 2018 Supplemental Phase 2 ESA and 2020 EIS.
