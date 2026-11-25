@@ -289,3 +289,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 15 | `137894E` | IAAC EIS Appendix W, WSP, *Baseline Noise Monitoring*, 8 March 2018; https://iaac-aeic.gc.ca/050/documents/p80164/137894E.pdf | **B — Full 20-page browser-rendered PDF reviewed**, including results table and site plan | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-117 in Document 05. Important limitation: 19 of 28 monitoring days were invalidated by weather; only three complete valid days (72 hours) were recovered across all five stations, plus six days of partial data. The report’s no-exceedance conclusion should not be described as a 28-day continuous baseline. The user’s local phone copy was not accessed. |
+
+
+## 20. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 14 | `137895E` | IAAC EIS Appendix X, GHD, *Light Impact Assessment*, Report 27, 15 January 2020; https://iaac-aeic.gc.ca/050/documents/p80164/137895E.pdf | **B — Full 19-page browser-rendered PDF reviewed**, including all seven task tables and receptor comparison tables | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-118 in Document 05. Predicted active-remediation maximum is 0.472 lux against the 1-lux post-curfew criterion, but this is model output, not measured field light. No light monitoring is proposed. An apparent internal inconsistency in the MC225 dredge luminous-flux value (15,600 vs 924,000 lm) is flagged for verification against the original image/workbook. The user’s local phone copy was not accessed. |
