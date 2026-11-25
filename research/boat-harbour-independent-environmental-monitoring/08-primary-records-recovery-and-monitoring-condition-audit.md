@@ -601,3 +601,14 @@ Northern Pulp argues the existing system meets federal regulations and Bill 89 b
 The affidavit describes 2016–2018 engineering/funding, Pictou Roads diffuser proposal, 2018 ice-scour findings at 11 m, route change to Caribou Channel (20/25 m), shortened marine pipeline and October 2018 survey-access dispute with fishers.
 
 **Outstanding:** full injunction decision and hearing record; raw geophysical/bathymetric data; final route/as-builts; contractor survey logs; DFO habitat review; and independent verification of fishing-ground claims.
+
+
+
+## 38. January 2019 EARD Section 9 Human Health Evaluation — full text reviewed
+
+- **Source:** Northern Pulp, EARD Section 9, *Human Health Evaluation*, January 2019; combined Sections 9–15 PDF, BH-034.
+- **Status:** Full Section 9 text (approximately 30 PDF pages) reviewed.
+
+The EARD describes the HHE as qualitative, not a completed quantitative HHRA. It defers final COPC screening until future treated-effluent chemistry is available, expects future effluent to be better than current effluent, and anticipates that screening may identify no COPCs requiring a full HHRA. The 2018 untreated Point A sample did not test mercury or 2,3,7,8-TCDD/TCDF. The report refers to 89 PLFN participants in FNFNES but says community-specific consumption rates were unavailable. It proposes later fish/shellfish tissue chemistry, pre-discharge baseline and post-commissioning monitoring.
+
+**Outstanding:** final HHRA/COPC screening, raw lab certificates and QA/QC, post-commissioning chemistry, pre-discharge baseline, fish/shellfish tissue results, PLFN-specific food-consumption rates and proof of monitoring implementation. This HHE is not proof of no human-health risk.
