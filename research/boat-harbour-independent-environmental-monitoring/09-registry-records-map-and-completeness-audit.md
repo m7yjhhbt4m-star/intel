@@ -254,3 +254,32 @@ Attempts to extract Appendix A, Y and Z exceeded the Firecrawl 50 MiB file-size 
 - **Retrieval status:** Blocked in this pass. The official PDF endpoint timed out on repeated retrieval attempts; alternate direct retrieval also failed. Firecrawl retrieval was unavailable because the connected account had exhausted its credits. These are access/tool failures, not evidence that the document is absent.
 - **Do not infer contents:** The EIS Volume III describes three earlier public meetings (October 2016, April 2018 and May 2018) as focused on project concepts and pilot-scale testing, and says Appendix C contains comments and responses from those meetings (Section 4.1, PDF pages 4-3 onward). This is contextual description from Volume III, not a substitute for reading Appendix C itself. No meeting-specific statements, participant names, commitments or responses from Appendix C are represented as reviewed.
 - **Next retrieval requirement:** Obtain the original 401 KB Appendix C PDF through a working official download or alternate format, then review its complete contents and reconcile each recorded comment/response against the EIS narrative and subsequent project records.
+
+
+
+## 12. IAAC Appendix B — document 137872E substantive review update — 25 November 2026
+
+- **Located:** Yes — official IAAC registry PDF, 17 MB.
+- **Opened:** Yes — complete extracted text is accessible (6,526 lines).
+- **Review status:** Substantive partial review. The EMP/PEPP structure, document status, governance and monitoring responsibilities, groundwater, surface water, effluent/leachate, turbidity/TSS, marine/fish monitoring, follow-up and attached ancestral-remains protocol markings were examined. This is not a claim that every page, drawing, table or attachment has been reviewed line by line.
+- **Document composition:** The single registry PDF bundles (1) Nova Scotia Lands Inc./GHD Environmental Management Plan, revision 1.0 dated 30 September 2020, and (2) GHD Project Environmental Protection Plan, revision 1.0 dated 1 October 2020, plus forms and attachments. Both principal plans are expressly DRAFT; the PEPP says it was prepared while the EIS was under review and permits/approvals were still in progress. They are not proof of final approved procedures or implementation.
+- **Repository record:** Source register entry BH-115 added to `05-source-register-and-evidence-quality.md`.
+
+### Monitoring and evidence implications
+
+1. **Groundwater:** The draft describes an existing monitoring-well network and weekly groundwater-quality sampling during remediation; it calls for annual detailed interpretation of long-term results. The PDF does not itself inventory the wells, coordinates, screened intervals, historical measurements or complete final sampling protocol.
+2. **Surface water:** The draft proposes seasonal wet/dry-event sampling at the main streams entering Boat Harbour and the containment-cell pond outfall. Wet events are defined as rainfall above 5 mm; dry events follow 3–4 days without rain. This is not a complete Strait-wide baseline or independent monitoring design.
+3. **Dredging/dewatering effluent:** Daily 24-hour composite samples, CALA-accredited laboratory analysis, up-to-48-hour expedited results and calculated daily mass loads are proposed. The mass-loading tables include zero limits and dash entries without numeric limits; their operational meaning, detection limits and final permit status require verification.
+4. **TSS/turbidity:** The PEPP proposes TSS monitoring multiple times per day and a 25 mg/L-above-background criterion outside active dredging areas, alongside separate NTU-based monitoring/action points. The action point is >4 NTU above background (approximately 100 m downstream of a cofferdam) and requires in-water work to stop; the monitoring-point table separately refers to a daily average >8 NTU above background for 24 hours. These are distinct proposed measures/locations and must not be collapsed into one threshold.
+5. **Marine environment:** The draft says remediation-stage marine monitoring is anticipated to consist primarily of regular observation/documentation. It defers the detailed program and post-remediation parameters to later consultation/HHERA/regulator work; proposed post-remediation parameters include water quality, sediment composition/quality, benthic communities and contaminants in biota. This draft alone does not demonstrate a complete marine/Strait monitoring program.
+6. **Leachate:** The temporary treatment capacity and post-closure flow figures are design expectations, not measured performance. They require comparison with final design, permits, operating records and actual annual monitoring.
+7. **Monitoring accountability:** The draft allocates contractor construction monitoring, CMOC compliance/follow-up monitoring and Proponent/designee long-term monitoring. Its Independent Monitor is described as providing an audit function/advice to NSLI and CMOC. This is distinct from the later binding 2025 Decision Statement condition requiring a third-party independent environmental monitor to report to the Proponent, Mi’kmaq of Nova Scotia and IAAC, and the separate Indigenous-monitor requirement.
+
+### Later controlling document cross-check
+
+The 24 January 2025 IAAC Decision Statement (document reference 73) is the controlling source for the final federal conditions. Conditions 3.4–3.7 require sediment-transport modelling before dam removal and follow-up monitoring of benthic habitat, surface-water quality/TSS and sediment deposition in the estuary and Northumberland Strait embayment through post-closure. Conditions 5.3–5.5 require human-health and country-food follow-up; condition 7.1 requires Indigenous monitors; conditions 8.1–8.2 require the third-party independent environmental monitor and reporting to the Mi’kmaq of Nova Scotia and IAAC. These final requirements supersede the draft's preliminary and deferred monitoring language where they differ.
+
+### Sensitive attachment handling
+
+The PDF includes a 2017 GHD memorandum and an attached KMKNO ancestral-remains protocol marked “Privileged and Confidential” and carrying a confidentiality notice. Its presence is recorded, but the protected protocol content and contact details are not reproduced in the repository summary. Any further treatment must respect Mi’kmaq research governance and confidentiality.
+
