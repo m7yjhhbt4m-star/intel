@@ -1056,3 +1056,21 @@ The report evaluates tertiary treatment after a new activated-sludge secondary p
 - **Review:** Lists proponent-identified and EXP-recommended follow-up studies, including benthic, geotechnical, HADD, SAR, MEK, archaeology, HHRA, wellhead protection, emergency response, aggregate/ARD, lobster larval/adult toxicity, spill-basin design storm, construction monitoring/bonding, First Nations oversight and expanded air-contaminant/odour assessment.
 
 **Outstanding:** condition-by-condition crosswalk against final EARD, focus-report responses, EA decision conditions, final design, completed studies, construction/as-built records and actual monitoring. The EXP review is a PLFN-commissioned peer review of supplied documents, not an independent field investigation; recommendations must be tracked rather than assumed uncompleted.
+
+
+
+## 44. 2002 MOU Open Letter and 2008 Accommodation Agreement — located, not reviewed
+
+### BH-168 — 2002 MOU Open Letter
+
+- **Source:** 11-page PDF circulated to PLFN members in 2002 describing the 27 September 2001 PLFN–Kimberly-Clark MOU.
+- **Link:** https://signalhfx.ca/wp-content/uploads/2019/02/21.MOUopenletter2002.pdf
+- **Status:** Located; pages could not be retrieved for substantive review in this pass.
+
+### BH-169 — 2008 Accommodation Agreement
+
+- **Source:** 31 December 2008, 2-page PDF.
+- **Link:** https://signalhfx.ca/wp-content/uploads/2019/02/22.2008AccomodationAgreement.pdf
+- **Status:** Located; pages could not be retrieved for substantive review in this pass.
+
+**Status conflict requiring original review:** the 2010 Statement of Claim and 2020 Montgomerie affidavit say PLFN entered the agreement and agreed not to oppose a temporary extension to 31 January 2009; Signal's archive says it was proposed but not accepted and that an advance was returned. The original scans, drafts, signature pages, lawyer correspondence and payment records are needed.
