@@ -572,7 +572,7 @@ Also preserve two date discrepancies in BH-143: cover page “March 21, 2013” 
 
 ## 24. 1991 closure commitment — underlying November 1990 record and performance history
 
-The February 12, 1991 Leefe letter (BH-144) is direct written ministerial confirmation that the Province had committed in November 1990 to discontinue wastewater use of Boat Harbour, restore natural tidal fluctuation and restore altered shoreline areas, with an approximate five-year timeframe. It also states that the harbour level had been raised approximately nine feet, encroaching on three reserve parcels.
+The February 12, 1991 Leefe letter (BH-178) is direct written ministerial confirmation that the Province had committed in November 1990 to discontinue wastewater use of Boat Harbour, restore natural tidal fluctuation and restore altered shoreline areas, with an approximate five-year timeframe. It also states that the harbour level had been raised approximately nine feet, encroaching on three reserve parcels.
 
 Critical gaps:
 - Recover the original September–November 1990 survey, parcel/elevation data, interdepartmental correspondence, Porter–Anderson–Ross meeting notes and any written November 1990 undertaking.
@@ -597,7 +597,7 @@ Hansard describes a $35M settlement, a 141–25 referendum, $20M compensation, $
 
 ## 26. 1996–1997 operational and land-transfer instruments require full contract recovery
 
-The 1996 OIC 96-621 (BH-147) authorizes transfer of facility operating responsibility to Kimberly-Clark for up to 10 years, a 25-year renewal of the mill water-supply agreement, and conditional land transfer to PLFN when lands are no longer required for operation or earlier only if operation/cleanup is not impaired. The 1997 Evans letter (BH-148) says the then-existing operating licence expired 31 December 2005 without an extension clause, describes the Province's intention to clean up Boat Harbour and allow a tidal-estuary or controlled-lagoon outcome, and lists conditions for bulk land transfer.
+The 1996 OIC 96-621 (BH-181) authorizes transfer of facility operating responsibility to Kimberly-Clark for up to 10 years, a 25-year renewal of the mill water-supply agreement, and conditional land transfer to PLFN when lands are no longer required for operation or earlier only if operation/cleanup is not impaired. The 1997 Evans letter (BH-148) says the then-existing operating licence expired 31 December 2005 without an extension clause, describes the Province's intention to clean up Boat Harbour and allow a tidal-estuary or controlled-lagoon outcome, and lists conditions for bulk land transfer.
 
 **Critical recovery items:**
 - 1995 Province–PLFN agreement (including schedules, land descriptions and closure/remediation obligations);
