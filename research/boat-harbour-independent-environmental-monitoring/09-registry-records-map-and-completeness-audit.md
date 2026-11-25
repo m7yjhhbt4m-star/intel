@@ -1012,3 +1012,16 @@ The agreement defines the Effluent Treatment System to include Boat Harbour and 
 The letter confirms the Province's intention to find another discharge location that did not involve Boat Harbour, clean the harbour and return it to a tidal state. It proposes a Chief/Minister committee, staff-drafted MOU covering objectives and timing, and a community contribution recognizing delay beyond the intended 31 December 2008 completion date.
 
 The promised Province–PLFN MOU, committee records, contribution records, December 31 2008 PLFN–Northern Pulp Accommodation Agreement, April 2009 forbearance agreement, September 2006 amendment and October 2008 engineering report remain outstanding.
+
+
+
+## 41. PLFN 2010 Statement of Claim — full pleading review
+
+- **Source:** Pictou Landing First Nation, *Statement of Claim*, Supreme Court of Nova Scotia, Hfx No. 335 / 2010.
+- **Public copy:** https://canadianaboriginallaw.com/wordpress1/wp-content/uploads/2012/06/Boat-Harbour-Lawsuit-Statement-of-Claim1.pdf
+- **Located/opened:** Yes — full pleading text reviewed; court-file original/exhibits not obtained.
+- **Repository record:** BH-164 added to source register.
+
+The pleading describes the 2001 MOU, proposed C–D bypass pipeline, 2002 lease extension, 2005 pipeline infeasibility, 2006 extension to December 31 2008, May 2008 month-to-month licence extension, June 2008 non-opposition agreement, December 4 2008 Province letter and December 31 2008 Accommodation Agreement. It alleges annual payments under the 2001 MOU and forest-land transfer after pipeline construction.
+
+**Outstanding:** executed 2001 MOU, September 2006 amendment, 2008 licence extension, June 2008 correspondence, 2008 Accommodation Agreement and April 2009 forbearance agreement. The pleading is PLFN's legal case, not a judicial finding.
