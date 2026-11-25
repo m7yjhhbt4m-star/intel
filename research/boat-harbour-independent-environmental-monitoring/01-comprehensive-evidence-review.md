@@ -1427,3 +1427,84 @@ PLFN's 2014 submission summarizes the ADI option as tertiary treatment costing a
 3. Verify whether 2011 Green Transformation Program mill process changes were implemented and obtain at least three months of post-change flow/quality data.
 4. Obtain pilot-test plans/results for wetlands, clarification and ozonation; the report says pilot testing is necessary before detailed design.
 5. Normalize the ADI costs against the 2000 Agra Simons and 2010 AMEC estimates by scope, price year, design flow, treatment level, outfall route, operating cost and contingency.
+
+
+
+## 41. EXP's 2019 technical peer review of the EARD — full Revision 3 review
+
+The full extracted text of EXP Services Inc.'s 5 March 2019 Revision 3 *Document Review: Northern Pulp Existing and Proposed Effluent Treatment Plant* (BH-166) has now been reviewed. EXP was retained by PLFN through its counsel to peer-review technical documents associated with the proposed replacement ETF. This is expert review of supplied documents, not a new field investigation or a regulator's finding.
+
+### 41.1 Existing EEM findings and their limits
+
+EXP summarizes the 2016 EcoMetrix EEM Cycle 7 report and earlier cycles (1996 onward). The existing EEM showed:
+- measurable sublethal effects on sea urchins and algae, but the cause was not clear;
+- benthic invertebrate variation that was not readily explained, with habitat differences offered as a possible explanation;
+- fish in Boat Harbour appearing older than reference-area fish and having larger livers/higher lipid content, with causes not resolved;
+- a measurable mill-water chemistry signal; and
+- decreases in sediment sulphide and higher C:N ratios described as positive trends.
+
+EXP's summary says the exposed/reference differences were not always clear or dramatic and that more monitoring was needed. This is not evidence that there were no effects; it is a summary of an EEM program designed around regulatory requirements and the limits of its study design. The new outfall would have a different location and likely different effluent chemistry, so existing EEM results cannot simply be transferred to the new receiving environment.
+
+### 41.2 Replacement-plant design deficiencies
+
+EXP's review of KSH's July 2017 technology-selection summary identifies:
+- existing mill effluent flow of approximately 70,000–75,000 m³/day versus a proposed 85,000 m³/day design flow, without defining average, peak daily or instantaneous capacity or showing the design calculation;
+- no clear summary table of influent concentrations/loadings in mg/L and no stated treatment objectives/discharge limits;
+- a single process train, creating a risk that a component outage would require shutdown or bypass and could lead to untreated discharges;
+- insufficient explanation for rejecting alternative technologies and no cost estimates to justify selection; and
+- insufficient information to determine whether tertiary treatment was required.
+
+The moving-bed bioreactor followed by activated sludge was considered a potentially reasonable concept, but the review could not independently validate the design basis.
+
+### 41.3 Proposed EEM and receiving-water study
+
+EXP notes that the proposed new EEM program could delay some monitoring until up to 24 months after discharge begins. It recommends baseline benthic and fish studies before discharge to provide a pre-operational comparison. The program would require plume delineation, sublethal toxicity testing, benthic community work, fish population/health indicators and potentially dioxins/furans in fish. EXP also notes that a 1% dilution boundary and 100 m mixing zone were used in the proposed monitoring framework; empirical plume delineation was still needed to verify the model.
+
+The 2018 Stantec Addendum Receiving Water Study proposed CH-B off Caribou Point at approximately 20 m depth, after ice scour concerns at the earlier Alt-D site. EXP accepts the general modelling approach and conservative assumptions, but identifies important omissions:
+- no CH-A comparison on the same far-field figures and no water-column cross-sections;
+- unclear treatment of ice extent, thickness and type;
+- no sea-level-rise scenario over the facility life;
+- no sediment transport/deposition modelling for contaminants that may sorb to suspended particles after storms; and
+- no assessment of submarine groundwater discharge and potentially sensitive seabed communities.
+
+### 41.4 Marine pipeline construction footprint
+
+The conceptual design reviewed by EXP described a trench about 3 m deep, 13 m wide and almost 4 km long. EXP estimates approximately 13,500 m³ of material per kilometre and about 156,000 m² of seabed disturbance before over-excavation; side-casting could affect twice the area. The review asks whether sediment along the route would be chemically tested before disturbance, how contaminated material would be handled, and how trench backfill would be controlled. These are questions raised by EXP; actual final construction methods and disturbance areas must be checked against later design/as-built records.
+
+### 41.5 Spill basin, groundwater and construction risks
+
+EXP notes the proposed spill effluent basin would be about 80–100 m from Boat Harbour with only 5–6 m elevation difference, and could provide 10–13 hours of storage. The EARD did not clearly specify the design storm, overfill controls or what happens if effluent remains out of specification before the basin fills. Other flagged gaps include:
+- pipeline leaks affecting Pictou/Caribou well fields and domestic wells;
+- field inspections of potable wells and Town of Pictou wellhead-protection review;
+- water crossings and road-bridge accident spills;
+- submarine groundwater discharge/springs;
+- wetland Species at Risk surveys conducted in December, requiring seasonal follow-up;
+- aggregate source permitting and acid-rock-drainage potential;
+- sediment/erosion control, construction monitoring and archaeological/MEK work on the revised route; and
+- emergency response plans and bonding.
+
+### 41.6 Human health evaluation and contaminants
+
+EXP describes the EARD's Human Health Evaluation as a scoping exercise, not a completed Human Health Risk Assessment. The EARD proposed to narrow chemicals of potential concern partly by reference to existing PPER requirements and previous studies. EXP cautions against screening out too many parameters when the new treatment design does not yet define the effluent chemistry. It notes the 2018 raw-effluent sample reportedly detected hydrocarbons, toluene, cyanide, metals/metalloids, phenol, o-cresol, a phthalate ester, chloroform/total trihalomethanes and trace PAHs, but no guideline comparison was provided in the reviewed material. EXP recommends using the existing settling-pond sediment data to inform the chemical-of-concern list.
+
+### 41.7 Air emissions review
+
+EXP says Stantec's AERMOD model could not be verified because model input/output files and supporting emission calculations were not supplied. It flags the absence of 10-minute averaging and unclear use of shoreline fumigation modelling despite the ETF being about 0.2 km from the coast. Only priority regulated contaminants were assessed; the review identifies potential omissions including VOCs, TRS species (methyl mercaptan, dimethyl sulphide/disulphide), chlorinated compounds and emissions from co-combustion of hog fuel and sludge. EXP notes future-operation H₂S emissions were more than three times existing, while total TRS species were not modelled. It recommends a complete source inventory, emission-factor quality assessment, sample calculations and 10-minute odour assessment.
+
+### 41.8 Important interpretation
+
+These are EXP's peer-review findings based on the documents provided to it in 2019. They identify concrete evidence and design gaps, but do not establish that the same gaps remained unresolved in the final EARD or after the January 2019 revisions. Each item must now be tracked against:
+- final EARD and focus-report responses;
+- the 2020 federal/provincial EA decision and conditions;
+- final engineering design and permits;
+- construction records/as-builts;
+- baseline and post-commissioning monitoring; and
+- any later revisions to the EEM, receiving-water and air-monitoring programs.
+
+## 42. EXP's 8 March 2019 follow-up studies memo — priority work list
+
+The separate 7-page EXP memo (BH-167) divides additional work into proponent-identified follow-ups and EXP recommendations. It calls for marine benthic surveys at multiple sites along the pipeline and around the outfall, geotechnical/underwater sediment chemistry, HADD/fish habitat assessment, seasonal SAR surveys, final MEK and archaeology on the revised route, human-health assessment, wellhead-protection and potable-well checks, detailed accident response, aggregate/ARD assessment, construction EMP/EPP and monitoring.
+
+EXP adds a specific lobster gap: test both larval and adult lobster for lethal and sublethal effects of the proposed treated effluent. It also calls for a sediment/erosion-control plan, construction monitoring, 1-in-100-year/24-hour spill-basin design storm, project bonding, and First Nations involvement in oversight of field implementation and monitoring. For air, it recommends an all-contaminant source inventory, broader AP-42 emission factors, assessment of co-combustion emissions and 10-minute odour averaging.
+
+The memo is a list of recommendations, not proof the work was not done. The next task is to build a condition-by-condition crosswalk against final EA decisions, later study reports and actual implementation evidence.
