@@ -254,3 +254,56 @@ Add these to the next retrieval batch:
 - Retrieve the original PLFN Final Position and its document brief; verify the referendum and alternative-site statements directly.
 
 **Source:** [IAAC Environmental Assessment Report, January 2025](https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/161580), particularly the sections on consultation, health and well-being, current use of lands/resources, the final comments table and conclusions.
+
+
+
+## 8. PLFN's 2023–2024 submissions and the original Elders oral-history study — 25 November 2026
+
+### 8.1 Rights-holder submissions are primary evidence of PLFN's position, not neutral adjudications
+
+The following PLFN submissions have now been reviewed and registered:
+
+- BH-125: *PLFN Response to NS Technical and Economic Feasibility Assessment of Alternative Containment Cell Location Site — Document Brief* (1 August 2023), 48 pages, IAAC contribution reference 52, attachment 1.
+- BH-126: *Final Position of Pictou Landing First Nation on Proposed Boat Harbour Remediation Project* (23 April 2024), 54 pages, IAAC contribution reference 52, attachment 2.
+
+These are important primary sources for PLFN's stated position, historical account, legal arguments, consultation concerns and alternative-site proposals. They are not court findings, independent engineering determinations or proof that all cited historical claims have been adjudicated. Attribute statements to PLFN and verify them against the original tabs, government records, agreements, orders-in-council, court files and independent technical reports.
+
+PLFN's 2024 submission states that it does not consent to long-term use/expansion of the existing containment cell; asserts Aboriginal title and Section 35 infringement; says the Province did not negotiate the remediation agreement contemplated by the 2014 Agreement in Principle; challenges consultation/accommodation; and reports 98% opposition in 2021 and 2023 community referenda. The 2023 document brief identifies alternative-site screening work by Hive Engineering, including a desktop inventory of Crown/private parcels and the Northern Pulp landfill. The 2024 submission says Hive found nine siting-criteria exceedances at the existing Boat Harbour cell and that the Northern Pulp landfill met the criteria applied. These are PLFN's positions based on its cited technical work; the full Hive report, original criteria and receiving-site records are required before treating them as independently verified.
+
+### 8.2 Historical source roadmap from the 2023 Document Brief
+
+The 48-page brief gives a chronology and tabbed-source roadmap spanning:
+- 1965 meeting, community opposition and handwritten agreement;
+- 1966 Order in Council 1966-1669 and riparian-rights transfer/conditions;
+- 1970 wastewater agreement and Health Canada/Fisheries technical investigations;
+- 1990 fish kill and 1991 provincial closure/remediation commitments;
+- 1993 Circle Two Phase II report and PLFN response;
+- 1995 MOU and 7 July 1995 Evans/Ross correspondence concerning remediation of settling ponds/landfill and removal of the sludge press;
+- 1996 OIC 96-621;
+- 2001 MOU and 2002 referendum;
+- 2008 accommodation/commitment agreements;
+- 2010 litigation against the Province;
+- 2014 Agreement in Principle;
+- 2015 Boat Harbour Act;
+- 2020 closure;
+- 2021 transfer of ASB sludge responsibility; and
+- 2023 alternative-site assessment.
+
+The brief identifies people associated with the 1965 meeting, including A.F. Wigglesworth (Nova Scotia Water Authority), Chief Louis Francis and Councillor Martin Sapier, and identifies provincial lawyer Greg Evans and PLFN lawyer Tony Ross in the 1995 correspondence. These names are attributed to the PLFN submission and require verification against the original minutes/correspondence. The brief's quoted “small band of Indians” wording must be checked against the original 1965 record, including its complete context, before documentary use.
+
+### 8.3 Original community-based oral history: Castleden et al. (2017)
+
+The full text of BH-127, Castleden et al. (2017), *“Put It Near the Indians”: Indigenous Perspectives on Pulp Mill Contaminants in Their Traditional Territories*, has now been reviewed. The paper was co-produced with the Pictou Landing Native Women's Group and reports conversational oral-history interviews with 10 PLFN Elders (eight women). It organizes the stories into four layers: A'se'k as an all-season, all-purpose place; A'se'k as a refuge; changes after the mill; and what was lost, gone or changed.
+
+The Elders describe food harvesting, fish, shellfish, hunting, trapping, berries, medicines, swimming, skating, family gatherings, sharing and intergenerational teaching before the mill. They also describe fish kills, loss of wildlife/harvesting, odours, changes to homes and diet, fear about health and loss of trust after industrial contamination. These are participants' lived experiences and observations; they are not a contaminant measurement or epidemiological proof of a specific disease cause.
+
+The paper states that participants reviewed transcripts and that preliminary findings were vetted with participants and the PLFN Native Women's Group. The group requested a digital archive under OCAP® principles; recorded interviews remain in the hands of the PLFN Native Women's Group. The authors describe the work as one contribution to an ongoing dialogue, not a complete account of every Elder's relationship with A'se'k.
+
+### 8.4 Documentary and research-governance requirements
+
+- Use the published paper as a public source for the themes and methods; do not treat it as permission to access or republish the underlying audio/video archive.
+- The paper's use of real names reflects participant choice in that research project; it does not automatically authorize reuse of names, images, quotations or recordings in a new documentary.
+- Seek direction and permission from PLFN and the Native Women's Group before requesting or using raw interviews, unpublished transcripts, maps of harvesting places or other community knowledge.
+- Keep participant testimony distinct from measured environmental results and from legal claims in the 2023–2024 PLFN submissions.
+- Do not infer that all PLFN members share the same experience or position from a 10-Elder oral-history study or from a legal submission.
+- Trace the legal brief's oral-history excerpts back to Castleden et al. (2017) and, where appropriate, to the community-controlled original archive with PLFN direction.
