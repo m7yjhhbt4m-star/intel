@@ -1831,3 +1831,94 @@ That conclusion must be read alongside the limitations documented in Sections 9,
 - Section 13 says monitoring methods, locations, frequencies and parameters are conceptual and will be refined during permitting.
 
 The proposed replacement ETF and pipeline were not constructed because the mill closed in 2020. The EARD's predictions are not observed outcomes and cannot be used as evidence that the marine outfall operated safely or that predicted effects were absent. The project must not be conflated with the later Boat Harbour remediation project.
+
+
+
+## 52. April 28, 2020 Final Terms of Reference — official regulator's list of unresolved evidence gaps
+
+The full 29-page final ToR for the replacement ETF EA Report (BH-193) has now been reviewed. This is one of the most important regulatory documents in the project record because it explains what the Province required after finding the EARD and Focus Report inadequate.
+
+### 52.1 The Province's formal assessment history
+
+The ToR states:
+- Northern Pulp registered the project on 7 February 2019.
+- On 29 March 2019, the Minister found the registration document insufficient and required a Focus Report.
+- Northern Pulp submitted the Focus Report on 2 October 2019.
+- The review found the Focus Report still insufficient, citing incorrect/incomplete baseline information, assumptions and methodology, and absence of mitigation measures.
+- On 17 December 2019, the Minister required a full EA Report under section 18(b) of the Environmental Assessment Regulations.
+
+The ToR states that the EA Report must be stand-alone, evidence-based, quantitative and qualitative, with accredited laboratory work, QA/QC, complete model inputs/assumptions and calibration/validation. It says the ToR clarifies where the Proponent had not undertaken sufficient analysis to assess adverse or significant effects.
+
+### 52.2 Raw wastewater and treatment design
+
+The ToR requires a complete physical and chemical characterization of raw wastewater, using historical mill data supplemented by comparable mills/literature if necessary. It must represent seasonal conditions, a range of flows, fibre sources, production, start-up and shutdown. It requires bench-scale treatment testing, influent/effluent COPC concentration ranges, COD fractionation, comparison to current/draft PPER limits and a supported 85,000 m³/day peak-capacity basis.
+
+This directly addresses the Minister's concern that the Focus Report relied on only two Point A samples one year apart, did not provide Point A flow data, and did not compare enough parameters with the treatment technology specifications.
+
+### 52.3 Land and marine pipeline leak risk
+
+The ToR requires:
+- probability-of-leak/spill assessment based on comparable installations;
+- identification of high-risk pipeline locations;
+- double-walled/secondary containment at least within the Town of Pictou water-supply protection area;
+- internal and external leak detection over the entire land route, with sensitivity, staff training, maintenance, inspection and response protocols;
+- marine leak-risk analysis considering ice scour, grounding and other activities;
+- secondary containment/protective engineering and leak detection along the entire marine route, including under ice; and
+- geotechnical data, causeway stability, burial depth and ice-scour assessment.
+
+The Minister's 17 December 2019 decision specifically found the Focus Report had not selected a secondary containment option, had not justified reliance on thicker pipe, and had not adequately assessed groundwater flow and municipal water-supply risk.
+
+### 52.4 Marine environment, fisheries and sediment
+
+The ToR requires a receiving-water study for all COPCs, seasonal conditions and extreme weather, with model inputs, calibration/validation statistics and confidence analysis. It requires sediment transport modelling, near-/far-field sediment fate, bioaccumulation/biomagnification, marine sediment chemistry and the potential for shoreline accumulation. It also requires baseline fish and shellfish tissue chemistry for key commercial, recreational and Mi'kmaq food/social/ceremonial species, with clearly mapped sample locations.
+
+It explicitly requires assessment of all commercial, recreational and Aboriginal fisheries, harvesting locations, amounts caught and methods, including traditional fishing areas and navigation restrictions. It calls for acute and chronic toxicity tests on undiluted treated effluent using representative marine species, invertebrates and lower-trophic organisms.
+
+### 52.5 Human health and air
+
+The ToR requires a completed HHRA to Health Canada's satisfaction. This is a materially stronger requirement than the qualitative HHE in the 2019 EARD.
+
+For air, it requires a full inventory of CO, H₂S, NOx, ozone, SO₂, particulates, TRS, speciated VOCs, semivolatile VOCs, PAHs and metals, including routine, malfunction and accident conditions and seasonal/annual emissions. Revised air dispersion modelling must include coastal fumigation, water-body interactions, maximum ground-level concentration scenarios, measured/estimated emission rates, ambient criteria, upper-risk thresholds, isopleths and discrete receptors. All model inputs must be supplied so results can be replicated and verified.
+
+### 52.6 Climate, accidents, wetlands and heritage
+
+The ToR requires effects of weather/climate on all project components, worst-case accident scenarios, full hazard identification, fate/distribution of COPCs, emergency-response procedures, and assessment of geotechnical, groundwater, surface-water, marine, wetland and species-at-risk impacts. It calls for seasonal bird, raptor, herptile and species-at-risk surveys, wetland hydrology/function, archaeological work including Mi'kmaq sites/burials, and direct engagement with PLFN and the Mi'kmaq.
+
+### 52.7 Monitoring and consultation requirements
+
+The ToR requires a complete compliance/effects monitoring framework with frequency, duration, methods, parameters, standards, reporting format, receiving agencies and mapped baseline/monitoring locations. It specifically calls for:
+- groundwater level/quality monitoring along the entire route;
+- marine plume delineation;
+- wetland post-construction monitoring and adaptive management;
+- marine EEM with water, sediment and tissue sampling;
+- ambient air monitoring and GHG/noise monitoring; and
+- human-health monitoring and exceedance reporting.
+
+It requires the EA Report to document all engagement with Mi'kmaq, impacts on established/asserted Aboriginal and treaty rights, steps to accommodate, outstanding concerns, materials distributed and dates/methods. NSE is identified as provincial Crown consultation coordinator.
+
+### 52.8 Route-length discrepancy
+
+The 2020 ToR describes approximately 15 km of pipeline: 8.7 km overland, an additional less-than-1 km on mill property, a 1.5 km marine crossing of Pictou Harbour near the causeway, and approximately 4 km offshore to the Northumberland Strait. The EARD Section 14 describes an approximately 11.4 km pipeline with 4.1 km marine pipeline. The official project page describes approximately 15 km. These may reflect different definitions or route versions, but they do not reconcile on their face. Obtain the final route drawings, chainages and a component-by-component length table before quoting a single total.
+
+### 52.9 The required EA Report was never completed
+
+The official project page records that Northern Pulp withdrew the replacement ETF project from the EA process on 5 May 2021 (BH-196). The final ToR was therefore not followed by an accepted EA Report or a final provincial approval decision for the replacement ETF. The Focus Report and its appendices are not the missing EA Report; they were the submission that the Minister found inadequate.
+
+This is essential to the documentary record: the 2019 EARD's “not significant” conclusions were not the Province's final accepted findings. The replacement ETF project was withdrawn, and its proposed outfall was never built.
+
+## 53. December 17, 2019 Minister's decision — explicit deficiencies in the Focus Report
+
+The full four-page decision by Minister Gordon Wilson (BH-194) has now been reviewed. The Minister states that the Focus Report did not provide enough information to assess effects on fish, air, water resources and human health. The decision is unusually specific:
+
+- **Marine:** insufficient information on fish/fish habitat, water resources, human health, fisheries risk, and distribution/dispersion of sediment and effluent contaminants.
+- **Air:** the model predicted several contaminants could exceed recognized standards; the Focus Report proposed no mitigation or alternatives; modelling did not use maximum authorized production; risk to human health and monitoring/reporting needed further assessment.
+- **Land pipeline:** no selected secondary-containment option; inadequate support for relying on thicker pipe; inadequate leak detection and groundwater-flow assessment; Town of Pictou water-supply risk needed further work.
+- **Raw wastewater/design:** only two comprehensive Point A samples, one year apart; inadequate comparison of parameters to treatment technology specifications; no Point A flow data; design-capacity calculations relied on poorly explained assumptions about evaporation and in-mill losses; cooling towers would concentrate contaminants and COD compliance needed explanation.
+- **Spill basin:** unresolved size/design, handling of compatible/incompatible dangerous goods and sequential spills, liner and secondary-containment details, clean-out, liquid/solid removal and disposal procedures.
+- **Marine pipeline:** insufficient route/construction detail and no justification for excluding leak detection from underwater buried sections, particularly shallow nearshore areas.
+
+The Minister explicitly says many Focus Report Terms of Reference requirements were not sufficiently fulfilled. This is a regulator's formal assessment of the submission, not an inference by our research team.
+
+## 54. May 5, 2021 — replacement ETF project withdrawn
+
+The official Nova Scotia EA project page (BH-196) records the status as “Withdrawn by Proponent” and states that Northern Pulp withdrew the replacement ETF project on 5 May 2021. No final provincial EA approval decision was issued under this process. The proposed replacement plant and pipeline must therefore be treated as an abandoned project, not an operating facility and not the same project as the 2025 Boat Harbour remediation.
