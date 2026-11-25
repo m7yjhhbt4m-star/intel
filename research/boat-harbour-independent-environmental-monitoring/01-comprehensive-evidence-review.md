@@ -803,3 +803,31 @@ The Proponent's legal position is that the existing cell's permanent use and ass
 The Proponent repeats the 183,164 tonnes CO₂e / 5,042 homes comparison for Mount William. BH-130's Annex 7 shows that 183,164 tonnes CO₂e belongs to the long-distance Quebec/Stablex scenario, while 5,042 homes corresponds to the 21,530-tonne nearby new-landfill scenario. The mismatch is therefore present in the Proponent's 2024 IR82 executive summary as well as the 2022 assessment. It is a material figure attribution error, not a minor rounding issue.
 
 The response says the Province was prepared to continue dialogue about a future alternative if a technically/economically feasible option emerged. That statement should be compared with the 2025 Decision Statement's mandatory Condition 9 process and the 2025–2026 Alternative Site Advisory Committee records; do not treat the 2024 offer of dialogue as equivalent to the later formal condition.
+
+
+
+## 26. The 2014 Agreement in Principle and its implementing agreements — primary-text comparison
+
+The original signed 2-page June 16, 2014 Agreement in Principle (BH-138) has now been reviewed against the October 14, 2014 funding MOA (BH-139), the Indian Cross Point burial-ground purchase agreement (BH-140), the Province's February 2024 IR82 response and PLFN's August 2023 response.
+
+### What the AIP actually says
+
+The AIP requires the Province to introduce legislation by June 30, 2015 establishing timelines for cessation of effluent reception/treatment. It separately requires the Province and Band to negotiate in good faith and execute an agreement respecting closure and remediation. The listed terms include reasonable closure timelines; reasonable costs for Band participation in negotiations; identifying and protecting Mi'kmaq burial sites/grounds at Indian Cross Point; and a conditional $1 million ex gratia payment if the Province fails to finalize the closure timeline through good-faith negotiations (unless the Band fails to negotiate in good faith). The Band agreed to dismantle/disband its blockade.
+
+The AIP does not specify a final cleanup design, the ultimate destination of dredged waste, expansion of the existing cell, or consent to permanent storage there. Those questions should not be retroactively read into the 2014 text.
+
+### What the two October 2014 agreements implement
+
+**Funding MOA (BH-139):** this agreement expressly says it satisfies AIP clause 2(b), the reasonable-costs/funding provision, and no further agreement/action is required in respect of that funding requirement. It provides an accountable $100,000 advance and eligible costs for legal/technical advice, meetings, community participation, travel and communications. It is not the closure/remediation agreement described in AIP clause 2.
+
+**Indian Cross Point purchase agreement (BH-140):** this implements part of the burial-site protection work under clause 2(c). The Province funds the Band's purchase of identified lands. The Band acknowledges meaningful and significant progress toward clause 2(c), while the Province expressly acknowledges that the purchase agreement does **not** fulfill all of its obligations under clause 2(c). It is not the overall remediation agreement.
+
+### Why this matters to the 2024 dispute
+
+PLFN's 2023 response says the Province did not negotiate the promised remediation agreement and that the existing-cell decision was made unilaterally. The Province's February 2024 response points to the 2014 funding MOA and burial-ground purchase agreement as evidence of continued negotiations and implementation. The actual texts show that these agreements address specific AIP components: participation costs and a defined land purchase/protection step. They do not on their face constitute the broader agreement respecting closure and remediation required by AIP clause 2.
+
+The 2015 Boat Harbour Steering Committee TOR reproduced in GHD's EIS Appendix I describes the committee as intended to negotiate an agreement respecting closure and remediation, and lists that agreement as a deliverable. The later 2015 BHCC TOR says the cleanup agreement remained outstanding. These records support a precise finding that the specific 2014 implementing agreements did not themselves complete the broader remediation agreement; they do not, without the complete negotiation record and legal analysis, establish every legal consequence asserted by either party.
+
+### Important source correction
+
+PLFN's 2023 submission contains a date typo in its paragraph 93: it says the Province was to introduce closure legislation by June 30, **1995**. The signed AIP says June 30, **2015**. Use the original AIP date and flag the typo if quoting the PLFN brief.
