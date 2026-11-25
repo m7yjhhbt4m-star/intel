@@ -865,3 +865,15 @@ The 2018 A'se'k News newsletter says formal consultation with Chief and Council 
 - Any subsequent draft or executed remediation agreement and negotiation records.
 - Complete final Boat Harbour Act.
 - Remaining Appendix I embedded documents, including the BHEAC terms, compendium of university research projects, independent air-monitoring plain-language materials and pilot handouts.
+
+
+
+## 33. February 12, 1991 Leefe letter — full-text review
+
+- **Source:** John C. Leefe, Nova Scotia Minister of the Environment, to Hon. Thomas Siddon, Minister of Indian Affairs and Northern Development, 12 February 1991; Tab 18 of PLFN's 2014 submission (BH-144).
+- **Located/opened:** Yes — original two-page scanned letter reviewed in the Nova Scotia Legislature PDF.
+- **Repository record:** BH-144 added to source register.
+
+The letter says Boat Harbour's waters were raised approximately nine feet, encroaching on three parcels of Indian Reservation land. It confirms November 1990 commitments to discontinue use as a wastewater facility, restore natural tidal fluctuation, restore altered shoreline areas as close as reasonably possible to original condition, and complete work in approximately five years. It identifies Robert Porter as making the commitments on behalf of the Province to Robert Anderson and PLFN lawyer Tony Ross.
+
+The underlying November 1990 record, supporting survey data, and later agreements/letters that changed or reaffirmed the closure timetable remain to be obtained and compared.
