@@ -307,3 +307,15 @@ The paper states that participants reviewed transcripts and that preliminary fin
 - Keep participant testimony distinct from measured environmental results and from legal claims in the 2023–2024 PLFN submissions.
 - Do not infer that all PLFN members share the same experience or position from a 10-Elder oral-history study or from a legal submission.
 - Trace the legal brief's oral-history excerpts back to Castleden et al. (2017) and, where appropriate, to the community-controlled original archive with PLFN direction.
+
+
+
+## 9. Community-led cancer-registry research and the JEHMC — Lewis et al. (2020)
+
+The full text of Lewis et al. (2020), *Governmental Fiduciary Failure in Indigenous Environmental Health Justice: The Case of Pictou Landing First Nation* (BH-128), has been reviewed. The paper is co-authored by PLFN community researchers and describes a community-driven effort to access 2013 Canadian Cancer Registry microdata through the Atlantic Research Data Centre. The authors identified 55 cancer diagnoses among people residing on PLFN reserve subdivisions at diagnosis during 1992–2013 and compared the distribution of broad cancer categories with other populations.
+
+The paper reports higher proportions of digestive, respiratory, male genital and urinary cancer diagnoses and a lower proportion of breast/female genital diagnoses. The published table reports proportions of diagnoses, not population-based age-standardized incidence rates; it does not provide person-time denominators, confidence intervals or adjusted risk estimates. It excludes members living off-reserve at diagnosis and does not link individual environmental exposures to cases. The study is therefore an important community-led disparity signal and a critique of the failure to answer health concerns, not proof that Boat Harbour or mill emissions caused cancer. The authors call for more in-depth and updated studies.
+
+The paper describes the Joint Environmental Health Monitoring Committee (JEHMC), its 1990s mandate, the 1997 CanTox assessment, the 2008 Dillon review of 106 studies and the 2015 JEHMC report. **JEHMC is distinct from BHEAC**; they were established in different periods for different purposes and must not be conflated. The paper's statement about the 1995 settlement Act and Canadian liability should be checked against the actual Act and settlement agreement before legal conclusions are drawn.
+
+Any future health research must be community-led, respect PLFN governance and privacy, and use appropriate Indigenous data sovereignty protocols. Do not seek or publish identifiable health records outside authorized, privacy-protected processes.
