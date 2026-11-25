@@ -519,3 +519,26 @@ The 2018 Supplemental ESA directly establishes localized PHC exceedances in mari
 ### Limits and follow-up
 
 This is a short presentation, not the full technical report or raw dataset. It does not provide point-by-point results, volume uncertainty, calibration chemistry, detection limits, false-positive/false-negative rates or independent lab validation. The 271,000/400,500 m³ results require reconciliation with the 2020 EIS estimate of 634,000 m³ for Boat Harbour sludge/sediment; definitions, transition-zone scope, survey date and volume basis must be compared before calling them inconsistent. The official project Resources page still identifies the full Sludge Thickness Determination report as a large download; obtain and review that full report and its underlying point data.
+
+
+
+## 22. Build Nova Scotia 2025 Annual Report — full-text review — 25 November 2026
+
+- **Located:** Yes — official Boat Harbour project Resources page; IAAC registry document reference 74, PDF 166307E, 25 pages.
+- **Source:** Build Nova Scotia, *Boat Harbour Remediation Project 2025 Annual Report*, reporting period 24 January–31 December 2025, submitted 31 March 2026.
+- **Opened and reviewed:** Yes — full 25-page report text reviewed through the official project resource page/accessible full-text mirror. The binary PDF was not separately downloaded in this pass.
+- **Repository record:** Source register entry BH-123 added to `05-source-register-and-evidence-quality.md`.
+
+### Reported status
+
+1. The Proponent states that the Project remained in pre-construction throughout 2025; no site preparation, remediation or substantive planning work to move the Project forward occurred because PLFN filed for judicial review on 24 February 2025.
+2. The Proponent reports that no follow-up programs were developed or implemented in 2025 and no environmental sampling/monitoring was conducted under the Decision Statement follow-up programs.
+3. No detailed plans for sediment transport/benthic/water monitoring, fish/fish habitat, country-food/health, migratory birds, Indigenous monitors, independent environmental monitoring, accident/malfunction response or project schedules were prepared/shared in 2025. The report says these items were awaiting the pre-construction/site-preparation phase and the outcome of the judicial review.
+4. No Indigenous monitors had been retained and no third-party independent environmental monitor had been retained.
+5. **Condition 9:** the Alternative Site Advisory Committee was established in consultation with PLFN; the Terms of Reference were executed by both parties; meetings were held on 20 November and 18 December 2025; a first potential alternative site was selected for feasibility analysis; and the project design engineer/general services consultant was engaged.
+6. A separate Condition 9 report was submitted to IAAC on 22 January 2026 under separate cover. The annual report says it indicated that no technically and economically feasible alternative location had yet been identified, although a potential site remained under analysis. The Committee is to continue under condition 9.1.5 if no feasible alternative is found within one year of the Decision Statement.
+7. The annual report does not reproduce the candidate site's identity, the executed Committee Terms of Reference, meeting minutes, feasibility analysis or the separate 22 January 2026 report.
+
+### Interpretation limits
+
+This is a Proponent self-report, not an independent audit. “No substantive planning work” is the Proponent's characterization; Condition 9 work did proceed. The absence of plans/monitors must be assessed against the Decision Statement's timing triggers, many of which require development prior to site preparation or implementation during remediation; it is not automatically a breach. It does establish that no federal follow-up program implementation or independent/Indigenous monitoring under those conditions occurred during the 2025 reporting period. The separate Condition 9 report and committee records were not found as public documents in this pass; their absence from the annual report is an evidence/transparency gap, not proof they do not exist.
