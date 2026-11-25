@@ -446,3 +446,21 @@ The distance basis is also inconsistent: Annex 3 map says 18.5 km driving distan
 **Additional discrepancy:** the 2022 assessment main text reports 180,000 m³ in the existing cell (70,000 + 110,000), while Annex 4 says 116,000 m³ of sludge. Reconcile definitions, dates and volume basis.
 
 These issues do not prove the Mount William site is suitable. They mean the Proponent's published comparison must be corrected and the site's field feasibility must be distinguished from its desktop screening.
+
+
+
+## 19. Hive Engineering 2023 alternative-site screen — what remains unproven
+
+The original Hive Engineering report (BH-137) identifies a wider search space than the 2022 Mount William assessment: 109 Crown parcels and 97 private parcels within 50 km, and a four-site comparison that includes Northern Pulp's active landfill. It concludes that Northern Pulp has no exceedances against the criteria applied and is the preferred site under that screen.
+
+**Do not convert this desktop screen into a finding that a landfill is ready or approved.** Hive's own report says its private-parcel list is not comprehensive because it relied on visual screening of Property Online; GeoNova data would be required for a proper GIS screen. Groundwater depth was assumed and requires detailed investigation. The Crown inventory excludes mapped sensitivities but is not field-verified. The “no exceedances” result for Northern Pulp is only against the criteria Hive applied.
+
+New critical gaps:
+- Full parcel tables (Appendices A/B) and the four-site criteria matrix (Appendix C) need structured extraction and GIS verification.
+- Reconcile four PIDs in Hive's Mount William description with the two PIDs assessed by NSECC/GHD in 2022.
+- Verify Northern Pulp ownership, active/closed landfill footprints, current permit, accepted waste classes, remaining capacity, design/liner, leachate management, groundwater monitoring and actual willingness/authority to receive the waste.
+- Obtain original GeoNova parcel data and repeat the private land screen; the report expressly says its 97 parcels are not a complete list.
+- Re-run all sites against one common criteria matrix with source dates, mapped-layer accuracy, site visits and field hydrogeology/geotechnical/ecological work.
+- Confirm whether the Crown parcels can legally be made available, whether land access is possible and whether any candidate overlaps Indigenous rights, protected areas, sensitive habitat or community water sources.
+
+The report was commissioned by PLFN and should be fairly represented as technical evidence in PLFN's position. It is neither a regulatory decision nor a substitute for independent field verification.
