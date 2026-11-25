@@ -719,3 +719,13 @@ Recover:
 - any consultation records concerning design, financing conditions, penalties/rewards, effluent targets and the relationship between funding and mill life.
 
 The 2018 NSSC decision specifically found no procedural unfairness in PLFN's particular complaint about the information record while separately finding a duty to consult on funding. Preserve both parts of the holding; do not summarize the case as a blanket finding that all consultation was inadequate.
+
+
+
+## 32. 2008 written commitment: recover the promised Province–PLFN MOU and implementation record
+
+Minister Murray Scott's December 4, 2008 letter (BH-163) confirms the Province's intention to find another discharge location, clean Boat Harbour, return it to a tidal state, establish a Chief/Minister committee and draft an MOU covering objectives and timing. The letter also promises a community contribution recognizing delay beyond the intended December 31, 2008 completion date.
+
+The promised Province–PLFN MOU, committee terms/minutes, negotiator mandate, detailed work plan, contribution proposal/payment records and subsequent implementation records have not yet been recovered. The original December 31, 2008 PLFN–Northern Pulp Accommodation Agreement is also still missing; only a 2020 affidavit summary is currently available. Obtain the separate April 2009 forbearance agreement and the September 2006 PLFN–Neenah amendment.
+
+Do not conflate the December 4 Minister letter, the December 31 PLFN–Northern Pulp Accommodation Agreement and the May 12 Province–Northern Pulp Acknowledgement Agreement. They have different parties and purposes. The first is a provincial written commitment to relocate/clean/restore; the second is a temporary non-opposition agreement; the third confirms continuing mill contract benefits.
