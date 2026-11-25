@@ -1922,3 +1922,100 @@ The Minister explicitly says many Focus Report Terms of Reference requirements w
 ## 54. May 5, 2021 — replacement ETF project withdrawn
 
 The official Nova Scotia EA project page (BH-196) records the status as “Withdrawn by Proponent” and states that Northern Pulp withdrew the replacement ETF project on 5 May 2021. No final provincial EA approval decision was issued under this process. The proposed replacement plant and pipeline must therefore be treated as an abandoned project, not an operating facility and not the same project as the 2025 Boat Harbour remediation.
+
+
+
+## 55. November 2019 government submissions on the Focus Report — agency-by-agency review
+
+The official 164-page consolidated government-submissions PDF (BH-197) has been reviewed in its major technical sections. It contains comments from DFO, ECCC, Health Canada and multiple Nova Scotia departments. These comments provide the technical basis for understanding why the Minister later found the Focus Report insufficient.
+
+### 55.1 DFO/ECCC: marine baseline and ecological effects
+
+DFO/ECCC say the May 2019 video survey and desktop literature review were inadequate to describe a year-round marine community for a continuous discharge. They identify an incomplete species inventory, including no meaningful information on marine mammals, leatherback sea turtles and sharks; incorrect species/status details; and the proposed discharge area overlapping Atlantic herring spawning grounds.
+
+They say the EARD/Focus Report insufficiently assesses:
+- effects on eggs and larvae of herring, scallop, phytoplankton, zooplankton, shellfish and crustaceans;
+- the temperature, salinity, nutrients, particulates and chemical composition of effluent;
+- the assumption that the marine ecosystem would consume/degrade approximately 4 tonnes/day of organic material;
+- nutrient loading and potential food-web changes;
+- bioaccumulation in benthic/sessile, long-lived and higher-trophic-level species;
+- how long effects would take to reverse after discharge stopped; and
+- why continuous effects over a decades-long project life were characterized as “medium term”.
+
+DFO/ECCC explicitly state that meeting regulatory effluent limits does not, by itself, establish that significant residual effects are absent. They recommend controlled pre-project toxicity tests rather than waiting to test the new effluent in situ after construction. They say the receiving-water model can have isolated plume pockets exceeding 1% beyond 250 m, and baseline fish/benthic studies are needed to validate the model and support EEM.
+
+They also identify a serious baseline sample-size problem: lobster and rock-crab chemical analyses used five or fewer individuals of unknown size/sex. That is inadequate to characterize variability or provide a baseline against which future changes can be assessed.
+
+### 55.2 Health Canada: the HHRA could not establish acceptable risk
+
+Health Canada's 8 November 2019 comments are unusually explicit: the HHRA had not been completed, and Health Canada could not determine whether the project posed acceptable or unacceptable risks or whether mitigation could reduce risk to acceptable levels.
+
+Health Canada identifies these methodological problems:
+- the HHRA did not include all relevant exposure pathways or all species harvested and consumed, including herring roe, quahogs, soft-shell clams, bar clams and marine mammals;
+- the commercial-fishery figure did not represent the full scale of commercial, food, social and ceremonial fisheries;
+- the 2D oceanographic model was not appropriate for far-field Northumberland Strait modelling because it did not capture vertical/layer dynamics, 3D circulation, wind/tide/topography interactions and freshwater buoyancy;
+- COPCs were screened against a proposed diffuser “background” location that could itself have anthropogenic contamination, potentially screening out contaminants that should remain in the risk assessment;
+- cumulative/interactive effects of similarly acting PAHs, dioxins/furans and PCBs were not addressed with additive hazard quotients and cancer-risk calculations;
+- seafood screening values drawn from US EPA guidance were not adjusted to Canadian Health Canada/CCME protection endpoints;
+- cadmium was screened out using a BCF approach where BAF/trophic-level/site-specific factors were needed; this could exclude risk to lobster, crab, clams, quahogs and other invertebrates;
+- seaweed harvesting and ingestion was omitted despite local licences;
+- incidental sediment ingestion and dermal contact were removed as “negligible” without adequate justification;
+- dioxins/furans were not retained for recreational sediment exposure;
+- bacteriological risks to bathers from elevated effluent temperature/nutrient loading were not evaluated; and
+- vulnerable receptors such as infants, seniors, pregnant/nursing people and high consumers of local country foods were not adequately identified.
+
+Health Canada also points out that the Focus Report's air modelling draft/final versions changed H₂S emission rates and COPC status without adequate justification. It identifies predicted health-based exceedances for hexavalent chromium, ammonia, chloroform and 24-hour TRS without mitigation, and notes the model used 280,000–300,000 ADMT/year rather than the mill's authorized 330,000 ADMT/year. It says the risk assessment could not determine whether these exposures could be mitigated.
+
+### 55.3 Nova Scotia Air Quality Unit: predicted exceedances and incomplete monitoring
+
+The Air Quality Unit reports that the Focus Report's expanded air model predicted exceedances for ammonia, chloroform, TRS and hexavalent chromium, but the proponent assumed these were model overpredictions and proposed no mitigation before construction. It reports:
+- 10-minute TRS odour criteria exceedance up to 19.24% of the time at discrete receptors, compared with the cited Ontario allowance of 0.5%;
+- 24-hour TRS predicted at 92% of the upper risk threshold;
+- benzo(a)pyrene 24-hour concentration above its upper risk threshold;
+- incomplete ambient-air monitoring plan with no specific VOC, metal or PAH list, no monitoring locations or sampling duration, and conflicting statements between the Focus Report and Appendix 6.3;
+- H₂S emission-rate reductions between draft and final modelling without explanation;
+- missing upper risk thresholds for n-butanol, ethylbenzene, xylenes and dioxins/furans; and
+- no isopleth map for 10-minute TRS.
+
+The unit also says the model should use the mill's maximum authorized 330,000 ADMT/year, not the 280,000–300,000 ADMT/year average. It requires a detailed sludge co-combustion pilot plan, characterization of sludge, test contaminants/methods, maximum-emission operating scenarios, an alternative sludge disposal plan if co-combustion fails, and an upset-response plan for the power boiler.
+
+### 55.4 Climate Change Unit and Environmental Health
+
+The Climate Change Unit says the Focus Report did not require the proponent to address operational climate-change effects, but recommends assessing the combined effects of warmer temperatures and project activity on Northumberland Strait/Caribou Harbour water quality and including an adaptation plan in follow-up monitoring.
+
+Environmental Health questions the use of soluble COD (sCOD) instead of total COD (tCOD) as the key indicator, requiring evidence that sCOD would not underestimate total COD entering the receiving environment. It also questions the leak-detection strategy (automated detection only on the overland section), the use of drinking-water guidelines to infer negligible recreational sediment exposure, and an apparent inconsistency in o-cresol sample results. It states that the HHRA was only formulated/scoped and that human-health risks remained unknown.
+
+### 55.5 ICE Division / Industrial Management: flows, dangerous goods and spill basin
+
+The provincial technical reviewers say the Focus Report uses average flows where daily maximums should drive design. They identify potential wastewater flows above 85,000 m³/day, require COD fractionation and total-COD treatment efficiency, and say only two samples were used to characterize raw effluent. They question the proposed 90,000 m³/day short-term capability because duration and whole-plant performance were not demonstrated.
+
+They identify major dangerous-goods/spill-basin issues:
+- secondary containment for dangerous goods must be separate from an equalization basin;
+- a spill basin used to hold off-spec mill effluent cannot be assumed empty and available for dangerous-goods spills;
+- the basin must meet the 110% largest-tank containment requirement under the Dangerous Goods Management Regulations;
+- reactive/incompatible materials could react if combined in a common basin;
+- the new biological ETF was not designed to treat concentrated dangerous goods;
+- the Focus Report did not specify disposal of incompatible spill contents or how the basin would be cleaned/maintained without compromising its liner; and
+- the proponent had not provided a worst-case scenario for incompatible chemicals or a complete disposal route.
+
+The hydrologist questions the 85,000 m³/day design flow because the 10% difference between raw water and Point C effluent was attributed solely to mill evaporative losses, without accounting for infiltration/evaporation between the mill and Point C. If the loss occurs in the old system and not the new ETF, the design inflow could be larger than 85,000 m³/day. The reviewer also says the spill-basin overflow plan and climate/flood evidence were not adequate.
+
+### 55.6 Pipeline, groundwater and causeway concerns
+
+Provincial reviewers say:
+- the thicker SDR 13.5 pipe selected for Pictou's water-supply area protects against some overpressure/surge failures but not joint separation, vandalism or physical damage;
+- no preferred automated leak-detection technology was committed to, and no automated detection was proposed for marine/non-land portions;
+- the 60 L leak-detection claim lacked a supporting basis;
+- a domestic-well survey within 500 m of the pipeline, including water quality and water levels, should be completed before construction;
+- groundwater monitoring should be evaluated before and after construction, particularly in source-water protection areas, near private wells and where the pipe is below the water table;
+- pipeline installation could change groundwater flow regimes;
+- no pipeline inspection frequency/methodology was provided;
+- no detailed construction testing/monitoring plan was provided;
+- the 1.5 km marine crossing near the Pictou Causeway requires detailed review of causeway embankment stability; and
+- marine trenching/dredging could affect critical herring habitat, and baseline sediment quality may constrain disposal/reuse of dredge spoil.
+
+### 55.7 Why this document matters
+
+These are not merely research-team observations. They are contemporaneous technical comments from the departments responsible for fisheries, environmental protection, human health, air quality, water supply, industrial safety and engineering. They identify specific deficiencies in the October 2019 Focus Report that align with the Minister's 17 December 2019 decision and the final April 2020 ToR.
+
+The replacement ETF project was withdrawn in 2021 before a complete EA Report was submitted. Therefore these comments are evidence of unresolved questions at the time, not proof that the same project was later built or that the proposed mitigation worked.
