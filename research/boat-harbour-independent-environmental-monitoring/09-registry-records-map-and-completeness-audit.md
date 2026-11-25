@@ -329,3 +329,33 @@ The PDF includes a 2017 GHD memorandum and an attached KMKNO ancestral-remains p
 - The 2018–2019 Stantec independent air-monitoring reports and underlying data.
 - PLFN-governed MEKS and Well-Being Study source material, subject to PLFN research governance.
 
+
+
+
+## 15. IAAC EIS Volume II — document 137220E substantive review update — 25 November 2026
+
+- **Located:** Yes — official IAAC registry PDF, *Environmental Impact Statement, Volume II of V*, dated 17 November 2020.
+- **Opened:** Yes — complete extracted text accessible (9,311 lines).
+- **Review status:** Substantive partial review of Sections 1–3 and selected alternatives/design tables; not every page, figure, table, or appendix reviewed.
+- **Repository record:** Source register entry BH-117 added to `05-source-register-and-evidence-quality.md`.
+
+### High-value findings for the independent monitoring investigation
+
+1. **Geographic boundary:** The EIS states the study area is about 546 ha and includes an adjacent marine environment in the Northumberland Strait. The estuary itself is described as 7.6 ha, with about 4 ha impacted and 27,000 m³ of sludge/sediment. The EIS scope is not the entire Northumberland Strait.
+2. **Waste-volume reconciliation:** The EIS reports about 1.39 million m³ of unconsolidated contaminated sludge/sediment and 770,000–922,400 m³ after consolidation/dewatering. It separately gives 311,000 m³ for wetland unconsolidated material in one summary and 352,000 m³ of wetland sludge/sediment/root mass in the project description. These figures use different bases and need reconciliation against the underlying survey and volume calculations.
+3. **Containment cell:** The 2020 EIS proposes expanding the existing 6.7 ha cell from its 220,000 m³ approved capacity to a total of 1,073,000 m³, including a 143,000 m³ contingency above the 930,000 m³ base design. The proposed design basis includes a 100-year leachate collection system and 150-year geomembrane, using Ontario Regulation 232/98 as a design reference because the cited Nova Scotia guideline lacked service-life requirements and CCME standards were not applied to the existing cell. These are design claims, not demonstrated service life.
+4. **Dioxins/furans and leachate:** The EIS treats dioxins/furans as unlikely to mobilize into the liquid phase because of hydrophobicity/low solubility; lead and zinc were carried forward as service-life contaminants of concern. The forecast leachate values and chemical assumptions require validation against measured leachate and groundwater data.
+5. **Dredging:** The selected EIS method was wet hydraulic dredging with Geotube dewatering, at an estimated 4,000 m³/day. The report recognizes reduced visual confirmation during wet dredging and proposes confirmatory sampling and clean-up passes. GPS-based tracking is described as necessary to meet target cuts and avoid excessive removal.
+6. **Wetlands:** The EIS proposes natural attenuation for areas below risk criteria and ex-situ removal for hotspots/areas above criteria. It reports 258,000 m³ impacted sludge and 71,000 m³ sediment needing additional risk management. Natural attenuation is ranked preferred overall in the comparison, while ex-situ remediation is ranked preferred on social/community-acceptance criteria. The selected approach is therefore mixed and should not be described as removal of all impacted wetland material.
+7. **Bulk water:** The EIS relies on natural attenuation and large groundwater/surface-water inflows to the BHSL (7,200 m³/day low, 64,000 m³/day peak, 28,000 m³/day average). It reports improvement at Point C in summer 2020 compared with 2018–2019 samples but says additional contributing-stream sampling was still planned. This limited comparison does not establish whole-harbour, estuary or Strait-wide recovery.
+8. **Dewatering effluent:** The EIS estimates 5.2 million m³ of Geotube effluent during dredging. The proposed sequence is chemical dosing/Geotube filtration, return to the BHSL or an unremediated area, and management through natural attenuation. The 5.2 million m³ effluent figure and the separate 5.7 million m³ bulk/dewatering-water estimate require water-balance reconciliation; do not add them or treat them as the same stream.
+9. **Leachate:** The 2020 EIS describes temporary on-site treatment after dredging (average <200 m³/day, peak 1,000 m³/day) with compliant treated effluent returned to the estuary discharge point and off-spec water recirculated; long-term leachate would be trucked off-site. Post-closure generation is estimated below 2,500 m³/year, decreasing over time, with a 40 m³ tank and 10–40 m³ tankers. These are forecasts, not measured performance.
+10. **Alternative-screening transparency:** Thermal destruction/separation was excluded after vendor bench testing reviewed by GHD under an NDA; the EIS says the technology was unproven and performance risk could not be reasonably mitigated. The underlying vendor results are not presented transparently in this EIS. A new cell was screened out partly on stakeholder acceptability/location grounds; off-site disposal was disadvantaged by the absence of an approved receiving landfill and the projected 18,200 truckloads.
+
+### Follow-up requirements
+
+- Reconcile all volume bases and water balances against the original surveys, Phase II/HHERA data, Pilot Scale Testing Report and final design.
+- Obtain raw Point C and contributing-stream water-quality data for 2018–2020 and compare them with post-closure data.
+- Review the final approved containment-cell design, as-built liner/leachate collection records, service-life calculations and actual leachate chemistry.
+- Review the original dredging productivity, GPS control, confirmatory sampling and Geotube performance records.
+- Compare the EIS's geographic claims and monitoring assumptions with the 2025 Decision Statement's binding sediment-transport, Strait/estuary, benthic, country-food and independent-monitor conditions.
