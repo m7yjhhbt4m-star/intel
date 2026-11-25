@@ -917,3 +917,15 @@ The debates describe the $35M settlement, referendum result, compensation and re
 - **Review:** Province's stated position on bulk land transfer, boundaries/easements, licence expiry on 31 December 2005, and cleanup to allow a tidal estuary or controlled lagoon.
 
 **Outstanding:** 1995 PLFN–Province agreement, Province–mill MOU/lease/licence/indemnity and schedules; OIC Schedule A; 1 October 1997 Ross letter; land-title records; 2001 MOU; 2002 lease extension; 2006 extension. The 1997 position must be compared with later amendments and actual land conveyances.
+
+
+
+## 36. 2002 Province–Kimberly-Clark Lease Extension — full text reviewed
+
+- **Source:** Province of Nova Scotia and Kimberly-Clark Inc., Lease Extension Agreement, 2002; Tab 29 in PLFN's 2014 submission (BH-143).
+- **Located/opened:** Yes — full OCR text of the scanned agreement reviewed.
+- **Repository record:** BH-149 added to source register.
+
+The agreement amends the 31 December 1995 lease to a 35-year term beginning 31 December 1995 (to 31 December 2030) and provides for a C–D effluent pipeline easement, with final route to be determined after detailed engineering design and registered later.
+
+The first line appears to state 7 August 2002, while the PLFN index says 22 October 2002. Confirm execution and registration dates, registered plan/easement, and whether the pipeline was ever built. The lease extension is not proof of pipeline construction or staged remediation.
