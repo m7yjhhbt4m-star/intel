@@ -281,7 +281,6 @@ The following files are linked from the official Boat Harbour Remediation Projec
 
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
-| 7 | `137902E` | IAAC EIS Appendix EE, *Archaeological and Cultural Heritage Resources Assessment Documentation*; https://iaac-aeic.gc.ca/050/documents/p80164/137902E.pdf | **B — Browser-rendered Appendix EE text reviewed; key sections of the 2017 archaeological screening/reconnaissance/shovel-testing report and the separate 2019 Indian Cross Point GPR report examined** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-116 in Document 05. **Restricted/sensitive:** source itself prohibits publication or public release without written consent from Nova Scotia Special Places. Repository note intentionally excludes exact archaeological locations, coordinates and maps. Obtain written permission and PLFN cultural-data guidance before detailed quotation, reproduction or documentary publication. GPR anomalies are not confirmed burials; no ground-truthing was performed. The user’s local phone copy was not accessed. |
 
 
 ## 19. User's 71-file inventory — additional reviewed item
