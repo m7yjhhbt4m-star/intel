@@ -359,3 +359,43 @@ The PDF includes a 2017 GHD memorandum and an attached KMKNO ancestral-remains p
 - Review the final approved containment-cell design, as-built liner/leachate collection records, service-life calculations and actual leachate chemistry.
 - Review the original dredging productivity, GPS control, confirmatory sampling and Geotube performance records.
 - Compare the EIS's geographic claims and monitoring assumptions with the 2025 Decision Statement's binding sediment-transport, Strait/estuary, benthic, country-food and independent-monitor conditions.
+
+
+
+## 16. IAAC EIS Volume I — document 137219E front-matter review update — 25 November 2026
+
+- **Located:** Yes — official IAAC registry PDF, *Environmental Impact Statement, Volume I of V*, dated 17 November 2020.
+- **Opened:** Yes — complete extracted text accessible (3,565 lines).
+- **Review status:** Full review of the 42-page front-matter/table-of-contents/appendix-index/guideline-concordance file. This file does not contain the substantive baseline chapters listed in the table of contents.
+- **Repository record:** Source register entry BH-118 added to `05-source-register-and-evidence-quality.md`.
+
+### Appendix index confirmed
+
+- A: Human Health and Ecological Risk Assessment
+- B: Environmental Management and Control Documents
+- C: Public Meeting Minutes
+- D: BHEAC Terms of Reference
+- E–H: Public open-house, agency meeting and public correspondence records
+- I–J: Informal and formal PLFN consultation records
+- K: Correspondence with the Assembly of Nova Scotia Mi'kmaq Chiefs and Native Council of Nova Scotia
+- L: BHCC meeting minutes and PLFN meeting to review the draft EIS
+- M: BHEAC meeting action items during the EIA
+- N–R: A'se'k News, Remedial Action Plan presentation, independent ambient air monitoring presentation, PLFN open-house summaries
+- S: PLFN Well-Being Baseline Study
+- T: Mi'kmaq Ecological Knowledge Study
+- U–X: Air, greenhouse gas/climate, noise and light assessment documents
+- Y: Geology and Geochemistry
+- Z: Groundwater and Surface Water
+- AA: Riparian, Wetland and Terrestrial Environments
+- BB: Aquatic Environments
+- CC: Avian
+- DD: Socio-Economic
+- EE: Archaeological and Cultural Heritage Resources
+
+### Guideline-completeness implications
+
+The concordance shows IAAC's EIS requirements included marine water quality; bottom sediment quality, thickness, grain size and mobility; marine plants/fauna and habitat; groundwater/surface-water quantity and quality; water and sediment sampling at receiving environments; dredging QA/QC and contaminant endpoint criteria; and follow-up/monitoring programs with reporting and Mi'kmaq participation. This is a map of required content and where the Proponent says it is addressed—not independent proof that the data or plans are complete.
+
+### Governance and handling flags
+
+Appendices S and T contain PLFN well-being and Mi'kmaq ecological knowledge. Their content must remain subject to PLFN research governance. Appendix M (BHEAC action items), Appendix I (informal PLFN consultation documentation) and Appendix J (formal PLFN consultation documentation) are high-priority records for further provenance-aware review.
