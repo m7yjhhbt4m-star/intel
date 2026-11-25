@@ -431,7 +431,7 @@ The 2018 A'se'k News newsletter says formal consultation with Chief and Council 
 
 ## 23. February 12, 1991 Leefe letter — full text reviewed
 
-- **Source:** John C. Leefe, Nova Scotia Minister of the Environment, to federal Minister Thomas Siddon, 12 February 1991; Tab 18 of PLFN's 2014 submission (BH-144).
+- **Source:** John C. Leefe, Nova Scotia Minister of the Environment, to federal Minister Thomas Siddon, 12 February 1991; Tab 18 of PLFN's 2014 submission (BH-178).
 - **Status:** Full two-page letter text reviewed from the scanned attachment.
 
 The Minister records that Boat Harbour's waters had been raised approximately nine feet, causing encroachment on three parcels of Indian Reservation land. He confirms November 1990 commitments to discontinue use of Boat Harbour as a wastewater facility, restore the natural tidal regime, restore altered shoreline areas as close as reasonably possible to their original condition, and complete the work in approximately five years. The letter says the commitments were made by Robert Porter to Robert Anderson and PLFN lawyer Tony Ross and that the Province fully intended to honour them.
@@ -442,8 +442,8 @@ The Minister records that Boat Harbour's waters had been raised approximately ni
 
 ## 24. 1993 settlement statute and parliamentary record — review status
 
-- **BH-145:** *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4, full statute reviewed from Justice Laws.
-- **BH-146:** House of Commons Hansard, 12 December 1994 and 16 February 1995, relevant Bill C-60 debates reviewed.
+- **BH-179:** *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4, full statute reviewed from Justice Laws.
+- **BH-180:** House of Commons Hansard, 12 December 1994 and 16 February 1995, relevant Bill C-60 debates reviewed.
 
 The Act identifies the underlying agreement as the 20 July 1993 Canada–PLFN agreement. It legislates that settlement payments are not Indian moneys and that member claims arising from agreement section 13 may only be made against the continuing compensation account under the section 13 procedure. Hansard describes the $35M settlement, referendum, compensation/trust allocations, monitoring programs, Canada's undertaking to explore solutions, and release/assignment provisions.
 
@@ -453,7 +453,7 @@ The Act identifies the underlying agreement as the 20 July 1993 Canada–PLFN ag
 
 ## 25. OIC 96-621 and 1997 Evans letter — primary-record review
 
-- **BH-147:** Provincial OIC 96-621, 14 August 1996; text reviewed from Tab 22 in PLFN's 2014 submission.
+- **BH-181:** Provincial OIC 96-621, 14 August 1996; text reviewed from Tab 22 in PLFN's 2014 submission.
 - **BH-148:** Greg Evans letter to B. Anthony Ross, 6 October 1997; two-page text reviewed from Tab 24.
 
 OIC 96-621 authorizes transfer of facility operating responsibility to Kimberly-Clark for up to 10 years, renewal for 25 years of the mill water-supply agreement, and conditional transfer of facility lands to PLFN when no longer required for operation or earlier only if continued operation and cleanup are not impaired. Schedule A and underlying agreements are not fully available in the scanned copy.
@@ -479,7 +479,7 @@ The agreement extends the 31 December 1995 lease to a 35-year term ending 31 Dec
 
 - **Source:** IAAC, *Boat Harbour Remediation Project — Environmental Assessment Report*, document 161580.
 - **Direct source status:** Full 2,245-line report text reviewed from the official IAAC project page.
-- **Repository record:** BH-144 added to source register.
+- **Repository record:** BH-178 added to source register.
 
 The report's “not likely significant” conclusion is conditional on implementation of mitigation, follow-up and monitoring conditions. It acknowledges high-magnitude, long-term mental-health and cultural/traditional-use effects while the containment cell remains, and says PLFN is unlikely to resume hunting, trapping, gathering or cultural use in the site study area until the waste is removed and the cell decommissioned. Relocation is subject to finding a suitable site and later approvals, permits and appropriations.
 
