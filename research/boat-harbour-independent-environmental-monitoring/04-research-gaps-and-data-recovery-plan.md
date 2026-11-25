@@ -356,3 +356,6 @@ This is a documentary discrepancy, not yet proof that the affidavit is wrong: th
 
 
 **Spill-volume reconciliation:** The MCG report's 4–5 million litre figure was an early October 2014 estimate. ECCC's official 13 May 2016 enforcement notice (BH-224) states the pipeline break spilled **over 47 million litres** of untreated pulp-and-paper effluent. Use the 47-million-litre figure when describing the final enforcement record, while retaining the MCG report's 4–5 million litre figure only as the contemporaneous preliminary estimate. Obtain the agreed statement of facts, sentencing reasons, spill investigation report, flowmeter/pressure logs and leak-duration calculations to establish how the 47-million-litre volume was derived and how much reached the wetland, beach, East River and Pictou Harbour.
+
+
+**Sediment gap in the 2014 spill response:** The MCG emergency report contains water/effluent samples only; it collected no sediment or soil samples. It therefore cannot establish the contaminant concentrations or deposition footprint in shoreline, wetland, beach or estuary sediment after the 2014 rupture. Locate any separate post-spill sediment/soil sampling by ECCC, Nova Scotia Environment, Northern Pulp or consultants, including coordinates, depths, grain size/TOC, lab certificates and chain-of-custody.
