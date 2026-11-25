@@ -371,3 +371,13 @@ Required source recovery: Appendix A Crown parcel table, Appendix B private parc
 | Boat Harbour Cleanup Committee Terms of Reference, July 2015 (BH-135) | **Full text reviewed** | Advisory only; no decision-making authority; no binding agreement absent approval; explicitly not consultation and does not discharge duty to consult; cleanup agreement still outstanding. |
 | Proponent Mi'kmaq-language project overview (BH-136) | **Full extracted text reviewed** | States no facility-related contaminated sediment was found in the Northumberland Strait, conflicting with the Supplemental Phase II near-mouth PHC exceedances; public communication, not technical report. |
 
+
+
+
+## 19. 2014 AIP and implementing agreements — primary-record audit — 25 November 2026
+
+- **BH-138:** Original signed June 16, 2014 Agreement in Principle opened and fully reviewed. It commits the Province to introduce closure legislation by June 30, 2015 and the Province/Band to negotiate and execute a separate agreement respecting closure and remediation. It includes participation-cost and Indian Cross Point burial-ground provisions.
+- **BH-139:** October 14, 2014 funding MOA reviewed in full in GHD EIS Appendix I (IAAC PDF 137879E). It implements AIP clause 2(b) only and provides a $100,000 accountable advance, subject to eligible-cost and accounting provisions.
+- **BH-140:** October 14, 2014 Indian Cross Point burial-ground purchase agreement reviewed in EIS Appendix I. It implements part of clause 2(c); the Province expressly acknowledges it does not fulfill all obligations under that clause.
+
+**Records still required:** complete negotiations and drafts for the broader closure/remediation agreement; all Steering Committee agendas/minutes/action logs; any executed remediation agreement or formal record that no agreement was reached; complete Schedule A, deed/transfer and land-title records for the burial-ground purchase; proof of actual funding disbursements and eligible-cost accounting. The signed AIP's June 30, 2015 date corrects the “1995” typo in PLFN's 2023 response paragraph 93.
