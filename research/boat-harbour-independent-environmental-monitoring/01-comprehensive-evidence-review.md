@@ -1174,3 +1174,72 @@ The SEC filing says the omitted schedules can be furnished to the SEC upon suppl
 5. Verify whether the 2001 MOU and associated documents were in fact in force, performed and free of default as represented in the 2008 sale agreement, against the 2006 extension and the December 2008 Accommodation Agreement.
 
 This is a major source because it identifies the corporate records and studies that were represented as transferred to Northern Pulp, and it exposes a concrete route to recovering the missing Boat Harbour document inventory.
+
+
+
+## 36. The 1995 Province–mill agreements and 2008 Acknowledgement Agreement — original contract review
+
+A public Nova Scotia environmental-assessment comment PDF contains the full extracted text of the December 1995 Province–Scott MOU, Water Supply Agreement, Indemnity Agreement, Lease, Licence Agreement and the May 12, 2008 Acknowledgement Agreement with Schedule A. These original contract texts have now been reviewed individually and registered as BH-153 to BH-158.
+
+### 36.1 The 1995 Province–Scott MOU: the operational/remediation split
+
+The 1995 MOU is between the Province and Scott Maritimes, not PLFN. It defines the “Reconfigured Facility” as the mill pipeline, settling ponds, ASB and associated infrastructure. The main Stabilization Basin (Boat Harbour) is treated separately.
+
+The central allocation in Article 4.01 is:
+- Scott takes responsibility for operating the Reconfigured Facility after 31 December 1995.
+- Nova Scotia assumes all known and unknown liabilities arising from use/operation of the Facility up to 31 December 1995 and agrees to indemnify Scott and the defined Indemnified Parties.
+- Scott has no general remediation responsibility, apart from the specific cleanup program at lease termination.
+- Nova Scotia must undertake pre-lease cleanup under Schedule 3.
+- Scott must remove sludge from the settling ponds and ASB at lease termination and restore the Reconfigured Facility to its commencement condition, but has no obligation to restore the main Stabilization Basin.
+- Nova Scotia remains in possession of and responsible for the Stabilization Basin and its remediation; it agrees not to make it a tidal estuary or waters frequented by fish until it has been remediated in accordance with environmental laws.
+- Nova Scotia agrees to reduce the Stabilization Basin water level as soon as practical to eliminate alleged trespass above the former ordinary high-water mark.
+- Nova Scotia must use best efforts to assist Scott in obtaining permits for a replacement effluent treatment facility at lease expiry.
+
+Schedule 3 required the Province to remove settling-pond sludge by 31 December 1995, install proper inlet/outlet devices by that date, remove ASB sludge by 1 September 1996, and complete Cycle I environmental effects monitoring. Scott was responsible for continuing environmental effects monitoring. These requirements create a clear documentary audit: the work plan, sludge quantities, disposal destinations, lab certificates, EEM Cycle I and subsequent monitoring reports must be obtained to determine what was actually done.
+
+### 36.2 Point C / Point D, the lease and the licence
+
+The MOU and Lease define the Reconfigured Facility around the pipeline, settling ponds and ASB, with Point C as the intended lawful outfall after upgrades. The separate 31 December 1995 Licence authorizes Scott to use Province-owned lands to transmit effluent to Point D. The licence can terminate if upgrades permit the outfall to change to Point C and Scott confirms termination in writing, by cessation of operations or written mutual agreement; otherwise it has a 10-year term.
+
+The 1995 Lease grants Scott a 10-year lease over the defined Reconfigured Facility and lands for $1. It states the lease does not supersede or novate the MOU. The plan distinguishes the leased treatment components and sludge-disposal cell from the main Stabilization Basin and nearby reserve lands. The MOU and Lease therefore support a distinction between the mill-operated/leased treatment system and the Province-retained main lagoon; the exact spatial/operational boundary must be confirmed against the original plans and as-built works.
+
+### 36.3 The 1995 Indemnity Agreement
+
+The Province's 31 December 1995 Indemnity Agreement protects Scott, Scott Paper and broad classes of related parties against specified claims and costs arising from contaminated-site designation, pre-transfer operation by the Province, nuisance/injunction, construction/location/trespass, pollutant releases, the Province's breach of environmental laws, and Canada's subrogation claims under the 1993 Canada–PLFN settlement. It includes solicitor-client legal fees and consultant costs, extends to claims by persons or governments, public nuisance, statutory and subrogation claims, and states it applies notwithstanding present or future ministerial orders/directives under environmental laws. It is expressed to remain in force perpetually after operational transfer and to be interpreted broadly in favour of the indemnified parties.
+
+This is exceptionally broad contract language, but it must be read with its defined claim categories and the MOU's allocation of post-transfer operation. The MOU expressly excludes claims arising directly out of Scott's post-transfer operation from the Province's indemnity. The indemnity is not a judicial ruling that regulators cannot issue orders or that PLFN cannot bring claims. Its enforceability and public-law effect require legal analysis and court decisions.
+
+### 36.4 The Water Supply Agreement is a separate contract
+
+The 30 June 1995 Water Supply Agreement commits the Province to own, operate and maintain the Middle River water-supply system and provide up to 25 million Imperial gallons/day (about 113,652 m³/day) of fresh water to the mill. It runs to 31 March 2021 and has separate fees and an environmental improvement credit. This is not wastewater flow and not a permit to discharge effluent. The 10-year annual credit (up to $100,000/year) could be used for in-plant environmental improvements, replacement secondary treatment or emissions research. Recover the credit applications and spending records to establish whether those incentives funded actual projects.
+
+### 36.5 The May 12, 2008 Acknowledgement Agreement
+
+The Province confirms that successors/assigns of Scott, including Kimberly-Clark and Neenah, had and Northern Pulp would continue to have the full benefit of the 1995 agreements/understandings. It says the agreements and amendments are in good standing and continue in full force for Northern Pulp notwithstanding that the anticipated closure of the Effluent Treatment System had not occurred. It specifically confirms that the 1995 Province–Scott MOU and Indemnity Agreement continue to apply to ongoing operation, use of leased lands and use of Boat Harbour under the Licence Agreement and the 30 November 2006 extension. Schedule A repeats the Province's pre-1996 liability assumption, the operation/remediation split, its responsibility for the Stabilization Basin, Point C/aeration costs and cleanup obligations.
+
+### 36.6 Two distinct MOUs — do not conflate them
+
+There are two separate agreements called an MOU:
+- **1 December 1995 Province–Scott MOU** (BH-153): governs Province/mill arrangements, operation, cleanup, remediation, water supply and indemnity.
+- **27 September 2001 PLFN–Kimberly-Clark MOU**: governs a separate arrangement between PLFN and the mill concerning continued operation/closure and land-related obligations; it is identified in the 2008 Asset Purchase Agreement and 2020 affidavit.
+
+The 2008 Asset Purchase Agreement's section 2.4(d) excludes the seller's obligation under the **2001 PLFN MOU** to transfer real property to PLFN from the purchaser's assumed liabilities. It does not refer to the 1995 Province–Scott MOU. Keep the two instruments separate. The complete 2001 MOU remains a priority source to recover and compare.
+
+### 36.7 The 2015 Industrial Approval appeal — operator's legal position
+
+Northern Pulp's 2015 appeal of the Industrial Approval (BH-159) argues that the Province's contracts left the main Stabilization Basin in provincial possession/control and made the Province responsible for remediation, while the mill's responsibilities were limited to the Reconfigured Facility and effluent outfall at Point C. It challenges conditions relating to Boat Harbour, spill containment, Point D monitoring, water-use reductions and limits more stringent than the Pulp and Paper Effluent Regulations.
+
+The appeal also states that the April 2010 AMEC *Boat Harbour Return to Tidal Re-Evaluation Final Report* was the latest report made available to Northern Pulp. This is a useful lead for the 2010 report's status and the company's disclosed technical record, but it does not prove no later studies existed elsewhere. The appeal is Northern Pulp's legal position, not a court ruling. Obtain the appeal decision, the Minister's 8 February 2016 decision, withdrawal record and final amended Industrial Approval.
+
+### 36.8 Contract-performance questions now raised
+
+- Were the 1995 settling-pond and ASB sludge-removal deadlines met? Where did each volume go?
+- Was Cycle I EEM completed and were the results provided to PLFN?
+- Were the Point C upgrades/aeration works completed, and who paid the invoices up to $1.75M?
+- Was the main Stabilization Basin water level reduced as required, and when?
+- Was the Province's stabilization-basin remediation obligation fulfilled, deferred or superseded by later legislation/projects?
+- Were the 1995 environmental improvement credits used, and for what projects?
+- Was the Point D licence extended in 2006 and was the proposed C–D pipeline built?
+- What did the 2001 PLFN–mill MOU add or change, and what land-transfer obligations remained with the seller/Province?
+
+These contracts establish what the parties agreed on paper. They do not establish that the promised works, monitoring, cleanup or land transfers were completed. That requires invoices, as-builts, EEM reports, sludge manifests, laboratory records, land-title instruments and regulatory approvals.
