@@ -373,3 +373,14 @@ PLFN's 2013 submission (BH-176) and 2024 Document Brief (BH-208) identify a 27 S
 The 12 February 1991 letter from Nova Scotia Environment Minister John C. Leefe to federal Minister Thomas Siddon (BH-227) confirms a provincial commitment to discontinue Boat Harbour wastewater use, restore natural tidal fluctuations and return the altered shoreline as close as reasonably possible to original condition. It gives an approximate five-year period to design, assess and build an alternative facility without shutting down the mill. The letter also links the commitment to the reserve-land encroachment issue and says the Province intended to honour commitments made in November 1990.
 
 This is a ministerial commitment, not a comprehensive executed remediation agreement. The 1995/2001 arrangements later altered the timetable and staged decommissioning. Obtain the November 1990 commitment records, 1991 letter's legal/technical supporting files, land-encroachment survey, alternative-facility studies, and the full sequence of amendments/agreements that purported to vary or defer the five-year promise.
+
+
+### 2015 Clean the Mill technical claims — underlying datasets missing
+
+The 2015 Clean the Mill submission (BH-229) cites several technical records that are not fully identified or included:
+- An **AMEC 2010 COD comparison** reporting Northern Pulp at 78.5 kg/admt against a Canadian median of 25.8 kg/admt. The cited report title, mill population, production basis and underlying data are not supplied in the submission.
+- A **Stantec sludge-cell underdrain report** said to show metals above CCME freshwater aquatic-life guidelines, with other parameters not tested. The exact report, sample locations, analytes and lab certificates are not identified.
+- **Nova Scotia Internal Services water-use data** supporting seasonal mill consumption estimates of roughly 60,566 m³/day in cooler months and 79,493 m³/day in warmer months.
+- A 2012 air-dispersion model and stack-emission testing context.
+
+**Priority records:** obtain the full AMEC COD report and raw data; the exact Stantec underdrain report, sampling plan, lab certificates and historical trend; Nova Scotia Internal Services water-meter/withdrawal records; full 2012 Stantec air-dispersion model and source-emission testing. These claims are not verified measurements until their underlying records are examined. Do not conflate sludge-cell underdrain data with Boat Harbour/ASB water quality.
