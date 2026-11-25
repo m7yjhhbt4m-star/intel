@@ -2019,3 +2019,58 @@ Provincial reviewers say:
 These are not merely research-team observations. They are contemporaneous technical comments from the departments responsible for fisheries, environmental protection, human health, air quality, water supply, industrial safety and engineering. They identify specific deficiencies in the October 2019 Focus Report that align with the Minister's 17 December 2019 decision and the final April 2020 ToR.
 
 The replacement ETF project was withdrawn in 2021 before a complete EA Report was submitted. Therefore these comments are evidence of unresolved questions at the time, not proof that the same project was later built or that the proposed mitigation worked.
+
+
+
+## 56. December 2019 federal designation analysis — potential adverse effects acknowledged, but no federal impact assessment designated
+
+The full 535-line HTML text of the Impact Assessment Agency of Canada's December 2019 *Analysis Report on Whether to Designate the Northern Pulp Replacement Effluent Treatment Facility* (BH-199) has now been reviewed. The report is often easy to mischaracterize. The Agency did **not** conclude that the project would have no adverse effects. It expressly recognized potential adverse effects and significant public concern, but recommended that the Minister not designate the project because it considered the provincial EA, federal section 82 determinations and other regulatory processes sufficient.
+
+### 56.1 What the Agency acknowledged
+
+The report records:
+- more than 3,200 letters/emails and requests for federal assessment;
+- submissions from PLFN, Millbrook, Sipekne'katik, the Assembly of Nova Scotia Mi'kmaq Chiefs and the Mi'kmaq Confederacy of PEI;
+- potential adverse effects on fish/fish habitat, marine species at risk, migratory birds, transboundary waters, Indigenous fisheries/current use, health and socio-economic conditions;
+- potential adverse impacts on section 35 rights in both the terrestrial/airshed and marine environments;
+- public concerns about effluent chemistry, fishery impacts, cumulative effects, potable water, navigation, tourism, climate/GHG, and perceived provincial conflict of interest.
+
+It notes that the Northumberland Strait includes an Ecologically and Biologically Significant Area for lady crab and winter skate; local currents can reverse for days or weeks; seasonal gyres occur at both ends of the Strait; and ice is present for about five months, potentially affecting diffuser/pipe integrity, contaminant dispersion and repair access.
+
+The Agency describes the proposed outfall as a 15 km pipeline with a 4 km marine segment, trenched/buried adjacent to the Caribou–Wood Islands ferry navigation channel. It notes that the project would discharge into federal seabed/waters and require federal authorizations, including a seafloor licence, Fisheries Act, Species at Risk Act, Canadian Navigable Waters Act and potentially disposal-at-sea permits. No federal seafloor licence or authorization application had yet been submitted.
+
+### 56.2 The federal decision relied on other processes
+
+The Agency acknowledged that the project could cause adverse effects within federal jurisdiction and direct/incidental effects, but concluded the provincial Class 1 EA, federal section 82 determinations and other regulatory processes would be sufficient to address them. It said federal authorities would have to consider Indigenous rights and Indigenous knowledge in section 82 determinations for federal-land portions, and that Public Services and Procurement Canada could impose conditions or withhold the seabed licence.
+
+This is a decision not to designate the project for a federal impact assessment. It is **not** a finding that effects were absent, that the project was environmentally acceptable, or that federal consultation/authorization was unnecessary.
+
+### 56.3 The federal report itself describes the provincial conflict-of-interest concern
+
+The report discusses the 1995 Province–mill indemnity and the Province's reimbursement/funding agreements for the replacement ETF. It quotes Justice Gabriel's 2018 NSSC 306 reasons about the Crown wearing two hats—funding a project and deciding whether it passes environmental approval—and the Court of Appeal's 2019 NSCA 75 conclusion that funding increased the likelihood of continued mill operation and required consultation. The IAAC report says the Province would reimburse up to $250,000 for EA studies and an additional $8 million for design and engineering.
+
+The report also notes that the 2018 funding litigation was upheld on appeal, and that PLFN had raised concerns about the adequacy of the provincial Class 1 EA and the Province's conflict of interest.
+
+### 56.4 What happened to the processes on which non-designation relied?
+
+The federal analysis relied on the provincial EA and federal section 82 determinations as the mechanisms that would address the potential effects. However:
+- the provincial Minister found the EARD insufficient in March 2019;
+- the Focus Report was also found insufficient in December 2019;
+- a full EA Report was required under the final April 2020 ToR;
+- Northern Pulp withdrew the replacement ETF project on 5 May 2021; and
+- the anticipated section 82 determinations, federal seabed licence and final provincial EA approval were not completed for this project.
+
+This creates an important process gap: the project was not federally designated because the Agency expected other regulatory processes to address the acknowledged potential effects, but the provincial EA was never completed and the anticipated federal authorizations/determinations did not occur before withdrawal. Do not describe the non-designation as equivalent to a completed federal assessment.
+
+### 56.5 Additional source issues
+
+- The report says the Boat Harbour sludge volume was approximately 1,000,000 m³ and contains elevated metals, PAHs and dioxins/furans; compare this with later survey and remediation quantities.
+- It states 70% of pulp/paper mills in EEM had effects on fish/fish habitat and 55% of those indicated higher risk. Trace the cited ECCC source and denominators before using this statistic in a documentary.
+- It records PLFN's statement that a recently upgraded wharf served as a base for 70 fishing boats, with scallop zones and lobster licences; verify against harbour records, licence data and PLFN evidence.
+- It notes the temporary injunction against fishers was granted 18 December 2018, after Terri Fraser's affidavit was sworn on 30 November 2018. The affidavit's allegations and the later court order must be treated as separate evidence.
+
+The exact 16 December 2019 Federal Minister response (BH-200) has been located in the IAAC Registry but its original text was not retrievable in this pass. The Agency's full analysis is reviewed; obtain the Minister's response before quoting the Minister's exact wording.
+
+### 56.6 Pipeline-length discrepancy
+
+The IAAC analysis describes 15 km total and 4 km marine. The 2019 EARD Section 14 describes 11.4 km total and 4.1 km marine. The 2020 final ToR describes about 15 km total, including 8.7 km overland, 1.5 km marine crossing of Pictou Harbour and 4 km offshore. These descriptions may use different definitions or route versions, but they do not reconcile on their face. Obtain final route drawings and chainages; do not select one total without explanation.
