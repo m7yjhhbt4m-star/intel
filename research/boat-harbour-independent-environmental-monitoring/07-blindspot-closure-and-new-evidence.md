@@ -592,3 +592,22 @@ The 1995 *Pictou Landing Indian Band Agreement Act* (BH-145) and 1994/1995 House
 Hansard describes a $35M settlement, a 141–25 referendum, $20M compensation, $15M community development/relocation trust, environmental/health monitoring provisions and Canada's undertaking to explore solutions. It also describes release of Canada and assignment of certain claims against Nova Scotia/Scott Maritimes. These parliamentary explanations are not the contract itself.
 
 **Critical missing source:** obtain the complete signed 20 July 1993 agreement, all schedules/annexes, referendum record, trust deed/accounting, monitoring program terms, and implementation reports. Extract exact release, assignment, subrogation, section 13 and environmental-monitoring language. Determine precisely what claims were released to Canada, which were assigned, which remained with PLFN/members, and whether the agreement addressed land/riparian rights or the future use of Boat Harbour. Do not characterize the settlement as consent to permanent effluent discharge or as a surrender of land without the signed text.
+
+
+
+## 26. 1996–1997 operational and land-transfer instruments require full contract recovery
+
+The 1996 OIC 96-621 (BH-147) authorizes transfer of facility operating responsibility to Kimberly-Clark for up to 10 years, a 25-year renewal of the mill water-supply agreement, and conditional land transfer to PLFN when lands are no longer required for operation or earlier only if operation/cleanup is not impaired. The 1997 Evans letter (BH-148) says the then-existing operating licence expired 31 December 2005 without an extension clause, describes the Province's intention to clean up Boat Harbour and allow a tidal-estuary or controlled-lagoon outcome, and lists conditions for bulk land transfer.
+
+**Critical recovery items:**
+- 1995 Province–PLFN agreement (including schedules, land descriptions and closure/remediation obligations);
+- 1995 Province–mill MOU, lease, licence and indemnity (all schedules, especially indemnity);
+- OIC 96-621 certified copy and Schedule A;
+- Ross letter of 1 October 1997 and any attached drafts;
+- land deeds, easements, registered title changes and parcel plans actually implementing the transfer;
+- 2001 MOU and referendum/approval record;
+- 2002 lease extension and pipeline easement;
+- 2006 extension agreement;
+- accounting/payment records and proof of performance.
+
+Reconcile the 1997 expiry statement with the 2001 MOU and 2002 lease extension to 2030. Do not describe the 1997 position as the final legal arrangement or assume the contemplated land transfer actually occurred. Distinguish the 25-year water-supply agreement from the separate wastewater facility lease/licence and operating responsibility transfer.
