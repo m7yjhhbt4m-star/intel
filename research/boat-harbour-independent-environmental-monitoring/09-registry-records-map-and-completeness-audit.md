@@ -948,3 +948,19 @@ Key findings:
 - Appendix D lists potential species at risk in the area, including rainbow smelt, Inner Bay of Fundy Atlantic salmon, winter skate, striped bass, white hake, American eel, smooth/thorny skate, white shark, blue whale and North Atlantic right whale.
 
 The full report is a federal assessment, not independent field monitoring or a legal determination of Aboriginal title/treaty rights.
+
+
+
+## 37. 2020 Montgomerie affidavit and joint chronology — full-text review
+
+- **Source:** Duff MacKay Montgomerie, Deputy Minister, *Affidavit*, sworn 22 July 2020, Supreme Court of British Columbia CCAA proceeding S206189; official PDF https://documentcentre.ey.com/api/Document/download?docId=622&language=EN
+- **Located/opened:** Yes — full affidavit and Exhibits A–D reviewed.
+- **Repository records:** BH-150 (affidavit) and BH-151 (joint chronology) added to source register.
+
+The affidavit gives the Province's sworn account of the 1965/1970 arrangements, 1995 MOU and associated Water Supply/Lease/Indemnity/Equipment Lease/Licence agreements, 2001 PLFN MOU and July 2002 referendum, 22 October 2002 lease extension, 2004/2008 operator transfers, 2006 extension, 2008 Accommodation Agreement, 2014 AIP, 2015 Boat Harbour Act and 2020 shutdown/cleanup support.
+
+Exhibit A is the *Boat Harbour Chronology of Events 1954–2005*, prepared by Nova Scotia, PLFN, Canada and Neenah. It records technical changes from 1972 onward and identifies 1992 characterization, 1995–99 sediment/IR37 work, 2003 sediment management, 2004 pilot dredging/dewatering, pipeline design and tidal-restoration planning. The chronology's preamble expressly says it is without prejudice, summary only, incomplete by design, and not warranted accurate by the parties.
+
+**Outstanding original documents identified by the chronology:** 1972 engineering drawings; 1992 integrated environmental characterization; 1995–99 sediment/IR37 studies and lab data; 2003 Sediment Management Plan; 2004 pilot-scale dredging/dewatering report; CBCL pipeline/diffuser design; draft screening EA; monitoring data and decision records.
+
+**Date correction:** BH-150 identifies the 2002 lease extension as dated 22 October 2002, corroborating PLFN's index. The apparent 7 August reading in the low-quality OCR of the scanned lease is an OCR error.
