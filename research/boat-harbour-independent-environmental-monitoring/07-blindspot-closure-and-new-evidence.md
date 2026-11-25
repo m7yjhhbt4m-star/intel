@@ -611,3 +611,20 @@ The 1996 OIC 96-621 (BH-147) authorizes transfer of facility operating responsib
 - accounting/payment records and proof of performance.
 
 Reconcile the 1997 expiry statement with the 2001 MOU and 2002 lease extension to 2030. Do not describe the 1997 position as the final legal arrangement or assume the contemplated land transfer actually occurred. Distinguish the 25-year water-supply agreement from the separate wastewater facility lease/licence and operating responsibility transfer.
+
+
+
+## 27. The 2002 C–D pipeline easement is not proof the bypass pipeline was built
+
+The 2002 Province–Kimberly-Clark Lease Extension Agreement (BH-149) extends the facility lease to 31 December 2030 and provides for a C–D effluent pipeline easement, with the final route to be established by detailed engineering design and registered later. This is a contractual authorization/commitment, not evidence of construction.
+
+Outstanding:
+- complete registered lease, plan and easement instrument, with registry document number and final C–D route;
+- engineering design and environmental review for the pipeline;
+- proof whether construction began, was stopped, or never proceeded;
+- 2006 amendment extending the 2005 deadline to 2008;
+- engineering analysis cited by PLFN that incoming tide would push effluent back toward Boat Harbour and cause eutrophication;
+- decision records explaining why the C–D bypass and stabilization-lagoon cleanup were abandoned;
+- records of any partial work, payments, default, waiver or replacement agreement.
+
+Date discrepancy: the agreement's first line appears to say 7 August 2002, while the PLFN index says 22 October 2002. Confirm execution and registration dates against the Registry of Deeds. Do not call the C–D pipeline an operating pipeline without construction/as-built evidence.
