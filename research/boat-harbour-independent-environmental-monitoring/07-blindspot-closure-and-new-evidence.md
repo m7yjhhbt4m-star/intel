@@ -879,3 +879,18 @@ Verify:
 - whether final EA conditions and actual monitoring closed these gaps.
 
 The assessment's conclusion of no significant cumulative effects is limited to the VECs and activities it carried through its screening. Do not treat it as proof that cumulative effects on Mi'kmaq use, harvesting or cultural relationships are absent.
+
+
+
+## 43. EARD Section 13 monitoring commitments must be checked against actual records
+
+Section 13 (BH-191) explicitly calls its follow-up/monitoring plan conceptual and high-level, deferring methods, locations, frequencies, parameters and QA/QC to permitting and approval conditions. It proposes annual regulated air-source testing and existing ambient air monitoring; noise spot checks “may” occur; life-of-project surface-water monitoring; existing groundwater wells; spring/summer 2019 wetland/flora/turtle/bird follow-ups; a project-specific marine EEM; DFO fishery observations/landings; an expanded MEKS before construction; and archaeological work.
+
+Critical gaps:
+- no standalone human-health monitoring program in the Section 13 summary despite Section 9's fish/shellfish tissue chemistry proposal;
+- no specific marine stations, analytes, species, frequencies, detection limits, QA/QC or action thresholds;
+- no explicit independent or PLFN co-governance structure in the summary;
+- air monitoring relies on existing regulated programs, not the broader VOC/TRS/chlorinated/co-combustion inventory EXP recommended;
+- Indigenous use follow-up is mainly a pre-construction MEKS, while other monitoring only “may assist”.
+
+The replacement ETF was never constructed after the 2020 mill closure. Determine what studies were completed before closure, what approval conditions were imposed, and which records are now relevant only as unfulfilled commitments. Do not confuse them with the 2025 remediation monitoring program.
