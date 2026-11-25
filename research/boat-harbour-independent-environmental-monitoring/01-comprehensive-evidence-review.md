@@ -950,7 +950,7 @@ The PDF cover page says “March 21, 2013,” but the signed/dated cover letter 
 
 ## 30. February 12, 1991 Leefe letter — written provincial closure and restoration commitment
 
-The original two-page letter from Nova Scotia Environment Minister John C. Leefe to federal Minister Thomas Siddon, dated 12 February 1991 (BH-144), has now been reviewed in its scanned form as Tab 18 of PLFN's 2014 submission.
+The original two-page letter from Nova Scotia Environment Minister John C. Leefe to federal Minister Thomas Siddon, dated 12 February 1991 (BH-178), has now been reviewed in its scanned form as Tab 18 of PLFN's 2014 submission.
 
 ### What the Minister confirmed
 
@@ -985,7 +985,7 @@ The sequence raises a central documentary question: how the original five-year c
 
 ## 31. The 1993 Canada–PLFN settlement and 1995 implementing statute — what can be verified so far
 
-The full *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4 (BH-145), and the relevant House of Commons debates of 12 December 1994 and 16 February 1995 (BH-146) have now been reviewed. The signed 20 July 1993 settlement agreement itself has **not yet been independently obtained and reviewed**; the following details are therefore separated by source type.
+The full *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4 (BH-179), and the relevant House of Commons debates of 12 December 1994 and 16 February 1995 (BH-180) have now been reviewed. The signed 20 July 1993 settlement agreement itself has **not yet been independently obtained and reviewed**; the following details are therefore separated by source type.
 
 ### What the statute actually enacts
 
@@ -1021,7 +1021,7 @@ The complete signed 1993 agreement and schedules are required to determine:
 
 ## 32. 1996 OIC 96-621 and 1997 Evans letter — operation, water-supply and land-transfer terms
 
-The 14 August 1996 provincial OIC 96-621 (BH-147) and 6 October 1997 letter from Greg Evans to PLFN counsel B. Anthony Ross (BH-148) have now been reviewed from the scanned attachments to PLFN's 2014 submission.
+The 14 August 1996 provincial OIC 96-621 (BH-181) and 6 October 1997 letter from Greg Evans to PLFN counsel B. Anthony Ross (BH-148) have now been reviewed from the scanned attachments to PLFN's 2014 submission.
 
 ### OIC 96-621 — what it authorized
 
