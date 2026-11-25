@@ -838,3 +838,30 @@ The Minister recommended that Governor in Council authorize the Nova Scotia Wate
 The 35-tab index is a valuable roadmap for records dated 1965–2011. It identifies the 1965 meeting and consent memoranda, handwritten agreement, 1966 federal OIC, 1970 community letters and government reports, 1991 closure letter, 1993 settlement, 1995 agreement/MOU, 1996 OIC 96-621, 1997 lawyer correspondence, Agra Simons 2000, 2001 MOU, 2002 lease extension, sediment engineering report, 2006 extension, 2008 closure correspondence, AMEC 2010 and ADI 2011 relocation studies.
 
 The 1965–1966 original attachments and 1970 technical records remain priority individual reviews. The submission's body has a likely typo of 22 October 1995 for the B.G. Clench memo, while the index says 22 October 1965; confirm against the original.
+
+
+
+## 29. EIS Appendix I (137879E) — 2014 agreements and 2016–2018 community records — 25 November 2026
+
+- **Source:** GHD, *EIS Appendix I — Documentation of Informal PLFN Consultation*, report 11148275 (20), IAAC document 137879E.
+- **Opened/reviewed:** Original PDF opened; substantive partial review of 2014 AIP, Steering Committee TOR, MOA, Indian Cross Point land-purchase agreement, introduced Boat Harbour Act, Community Liaison Coordinator workplan and A'se'k News newsletters.
+- **Repository:** BH-137–BH-143 added to source register.
+
+### Direct agreement findings
+
+1. **2014 AIP:** signed 16 June 2014 by Environment Minister Randy Delorey, Chief Andrea Paul and Councillors Wayne Denny, Dominic Denny, Crystal Denny, Anthony Nicholas, Gordie Prosper and Derek Francis. It commits the Province to introduce closure legislation by 30 June 2015 and commits both parties to negotiate and execute an agreement respecting closure and remediation. It also addresses participation costs, burial-site protection at Indian Cross Point and a $1 million ex gratia clause if closure timelines are not finalized through good-faith negotiations.
+2. **2014 MOA:** signed 14 October 2014; expressly satisfies AIP clause 2(b) only (reasonable participation/negotiation costs). It provides a $100,000 accountable advance and eligible technical/legal/community/travel/communication costs.
+3. **Indian Cross Point purchase agreement:** funds purchase of lands up to $103,500; the recitals say this is meaningful progress under clause 2(c), but the Province expressly acknowledges it does not fulfill all clause 2(c) obligations.
+4. **2015 BHCC TOR:** closure timeline and participation costs were accomplished; cleanup/remediation agreement remained outstanding. This is direct contemporaneous support for distinguishing the specific AIP obligations.
+5. **Boat Harbour Act copy:** Appendix I contains Bill 89 as introduced, not a verified final statute. Retrieve the final Royal Assent text before quoting legal effect.
+
+### Community-record findings
+
+The 2018 A'se'k News newsletter says formal consultation with Chief and Council began on 19 April 2018 and lists 18 May 2018 as the response deadline. It says Phase I ESA was complete, Phase II nearly complete and baseline studies were underway. The appendix also contains a Community Liaison Coordinator workplan, A'se'k News editions, BHCC/BHEAC materials, community meetings, training/opportunity documents and communications materials; not every embedded item has been reviewed.
+
+### Outstanding
+
+- Original 19 April 2018 meeting record, 18 May response, 30 May PLFN letter and 23 August provincial response.
+- Any subsequent draft or executed remediation agreement and negotiation records.
+- Complete final Boat Harbour Act.
+- Remaining Appendix I embedded documents, including the BHEAC terms, compendium of university research projects, independent air-monitoring plain-language materials and pilot handouts.
