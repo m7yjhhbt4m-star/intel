@@ -688,3 +688,19 @@ The sale agreement expressly excludes from the purchaser's assumed liabilities t
 The higher-quality scan of the 2002 Lease Extension Agreement in the 2018 public-comment PDF appears to state 22 August 2002 and carries a Pictou County Registry stamp dated 16 May 2003, Document 1955, Book 1458, pages 5–6. Multiple later references (2008 Acknowledgement Agreement, 2014 PLFN index, 2015 Northern Pulp appeal and 2020 Montgomerie affidavit) say 22 October 2002.
 
 This is a genuine documentary discrepancy, not an OCR error that can be safely corrected. Obtain certified Registry instrument 1955 / Book 1458 / pages 5–6, confirm execution and registration dates, and compare all versions. Until then, cite both conflicting dates and do not silently normalize them.
+
+
+
+## 25. June 2019 PLFN newsletter directly records opposition to permanent cell use
+
+The June 2019 A'se'k News (BH-145) says the proposed project would leave the enlarged containment cell in place indefinitely and records that the PLFN community opposed this and wanted the cell relocated. This is public evidence of opposition by June 2019 and contradicts the Proponent's 2024 chronology if its statement that “adamant opposition” only emerged in March 2021 is meant to imply there was no earlier opposition to permanent cell use. Retrieve the original 2018 letters, Council records and 2019 minutes to establish the exact formal decision timeline.
+
+The same newsletter documents Stantec's independent air monitoring (Aug 2018–Mar 2020): 24-hour Cemetery Road samples every six days, increased to every three days during pilot work, plus handheld monitoring at Boat Harbour. It says reports were posted online; obtain the underlying interim/final reports rather than relying on newsletter summaries.
+
+The October 2019 issue reports preliminary fish-survey observations of mummichogs and stickleback and says community information was being gathered about fish species present before 1967. Obtain the full Ken Oakes/Cape Breton University fish survey and community knowledge record. The preliminary observations are not a complete inventory.
+
+The October 2019 issue says the Boreas Heritage GPR report identified a possible unmarked-burial area near the western end of the Indian Cross Point pipeline corridor. The report was only available in hard copy at the PLFN office. The 2025 IAAC report says anomalies could be burials but exact locations were not identified. Obtain only through PLFN-authorized channels; do not publish burial locations.
+
+## 26. 2019 PLFN Well-being Baseline Study has an explicit use restriction
+
+The 2019 PLFN Well-being Baseline Study (BH-146) states it was prepared for the sole use of PLFN and Nova Scotia Lands in preparing the EIS and that its data may not be used beyond that purpose. It is a community-led, OCAP-governed study. This research package records only its existence, metadata, method and restriction; it does not extract its findings or participant quotations. Documentary reuse requires written direction/permission from PLFN and the appropriate data-governance authority. Do not conflate it with the 2014 EHS in Lewis et al. (2021).
