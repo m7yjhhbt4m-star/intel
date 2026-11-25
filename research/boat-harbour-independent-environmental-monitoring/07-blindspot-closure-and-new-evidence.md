@@ -846,3 +846,20 @@ Recover and verify:
 - whether the 35,000 m³ spill basin, emergency controls and 10–13 hour storage assumptions were built and verified.
 
 Do not state that a completed HHRA found no significant risk. The EARD HHE explicitly defers decisive screening and monitoring to future data.
+
+
+
+## 41. EARD Section 10 accident-risk assumptions need final-design verification
+
+The January 2019 EARD Section 10 (BH-189) rates eight accident/malfunction scenarios not significant after mitigation. Its spill-basin design basis refers to average annual precipitation and freeboard, not a stated 1-in-100-year/24-hour storm; EXP explicitly requested the latter. The EARD defines off-specification effluent by PPER, which does not cover every contaminant relevant to human health or CCME ambient-water quality. It assumes strong Caribou Channel currents provide significant diffusion even without diffuser nozzles.
+
+Recover and verify:
+- final spill-basin hydrology, design storm, climate allowance, freeboard, overflow route and maximum-flow capacity;
+- alarms, automatic diversion/shutdown, full-basin contingency, power-failure response and emergency drills;
+- liner QA/QC, leak detection, berm stability and groundwater monitoring;
+- actual land/marine pipeline as-builts, no-anchoring-zone approvals, inspection/ROV reports and diffuser performance;
+- incident and off-spec effluent records, including triggers beyond PPER;
+- route-wide potable-well baseline and leak response;
+- final archaeological/cultural-resource assessment, PLFN directions and chance-find implementation.
+
+The 2019 EARD's “not significant” conclusions are predictions based on proposed mitigation, not evidence that the controls were built or performed as intended.
