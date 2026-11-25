@@ -1243,3 +1243,9 @@ The appeal also states that the April 2010 AMEC *Boat Harbour Return to Tidal Re
 - What did the 2001 PLFN–mill MOU add or change, and what land-transfer obligations remained with the seller/Province?
 
 These contracts establish what the parties agreed on paper. They do not establish that the promised works, monitoring, cleanup or land transfers were completed. That requires invoices, as-builts, EEM reports, sludge manifests, laboratory records, land-title instruments and regulatory approvals.
+
+
+
+### 33.1 Correction: the 2002 Lease Extension execution date is unresolved
+
+A higher-quality scan in the 2018 public-comment PDF shows the lease extension's opening line as **22 August 2002** and a Pictou County Registry of Deeds stamp recording **16 May 2003**, Document 1955, Book 1458, pages 5–6. However, the 2008 Acknowledgement Agreement, PLFN's 2014 index, Northern Pulp's 2015 appeal and the 2020 Montgomerie affidavit all identify the Lease Extension Agreement as dated **22 October 2002**. The 2014 submission's OCR was not sufficient to resolve this. Do not state either date as conclusively established. Obtain certified Registry instrument 1955 / Book 1458 / pages 5–6 and compare the executed registered instrument with the later references; determine whether there were multiple versions or an error in the later acknowledgements/affidavit.
