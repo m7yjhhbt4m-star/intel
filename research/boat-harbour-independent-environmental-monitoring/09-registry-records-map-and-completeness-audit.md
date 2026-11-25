@@ -1000,3 +1000,15 @@ The agreement defines the Effluent Treatment System to include Boat Harbour and 
 - **Status:** Official docket reviewed; leave dismissed with costs. This is not a merits decision.
 
 **Outstanding:** obtain and read full 2019 NSCA 75 reasons before quoting detailed holdings or paragraph numbers. Keep 2019 NSCA 12 (intervention) separate from 2019 NSCA 75 (merits appeal).
+
+
+
+## 40. December 4, 2008 Minister Scott letter — full-text review
+
+- **Source:** Murray Scott, Nova Scotia Minister of Transportation and Infrastructure Renewal, to Chief Anne Francis-Muise, 4 December 2008; Tab 33 of PLFN's 2014 submission (BH-143).
+- **Located/opened:** Yes — original two-page letter text reviewed.
+- **Repository record:** BH-163 added to source register.
+
+The letter confirms the Province's intention to find another discharge location that did not involve Boat Harbour, clean the harbour and return it to a tidal state. It proposes a Chief/Minister committee, staff-drafted MOU covering objectives and timing, and a community contribution recognizing delay beyond the intended 31 December 2008 completion date.
+
+The promised Province–PLFN MOU, committee records, contribution records, December 31 2008 PLFN–Northern Pulp Accommodation Agreement, April 2009 forbearance agreement, September 2006 amendment and October 2008 engineering report remain outstanding.
