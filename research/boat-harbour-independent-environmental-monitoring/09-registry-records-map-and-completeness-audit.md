@@ -1133,3 +1133,16 @@ The affidavit describes the Pictou Roads to Caribou Channel diffuser route chang
 The HHE is qualitative, not a completed quantitative HHRA. It defers final COPC screening to future effluent chemistry, anticipates better future treated effluent, and proposes later baseline and fish/shellfish tissue monitoring. It notes the 2018 untreated Point A sample did not test mercury or 2,3,7,8-TCDD/TCDF and that community-specific food-consumption rates were unavailable.
 
 **Outstanding:** final HHRA/COPC screening, full lab data, pre-discharge baseline, post-commissioning fish/shellfish tissue chemistry, PLFN-specific consumption rates and proof of implementation of proposed monitoring.
+
+
+
+## 49. EARD Section 10 Accidents, Malfunctions and Unplanned Events — full-text review
+
+- **Source:** Northern Pulp EARD Section 10, January 2019, combined Sections 9–15 PDF.
+- **Official PDF:** https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/Registration-Document-Section-9-15.pdf
+- **Located/opened:** Yes — full Section 10 text reviewed.
+- **Repository record:** BH-189 added to source register.
+
+The section assesses eight accident scenarios and concludes residual effects are not significant after proposed mitigation. It specifies a 35,000 m³ spill basin, 10–13 hours storage, average annual precipitation/freeboard, buried/armoured marine pipe, no-anchoring zone, diver/ROV inspections and PPER-based off-spec triggers.
+
+**Outstanding:** final spill-basin design storm/overflow controls, liner/leak detection, pipeline/diffuser as-builts and inspection logs, broader off-spec triggers, incident records, route-wide potable-well monitoring and cultural-resource implementation.
