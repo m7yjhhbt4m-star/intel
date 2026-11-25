@@ -1016,3 +1016,25 @@ The complete signed 1993 agreement and schedules are required to determine:
 - how the referendum and ratification process was documented.
 
 **Do not describe the $35 million settlement as payment for surrender of Boat Harbour or as consent to permanent effluent discharge without the actual agreement and supporting legal record.** Equally, do not state that the settlement preserved every possible PLFN claim without examining its actual release and assignment clauses. The original contract is essential.
+
+
+
+## 32. 1996 OIC 96-621 and 1997 Evans letter — operation, water-supply and land-transfer terms
+
+The 14 August 1996 provincial OIC 96-621 (BH-147) and 6 October 1997 letter from Greg Evans to PLFN counsel B. Anthony Ross (BH-148) have now been reviewed from the scanned attachments to PLFN's 2014 submission.
+
+### OIC 96-621 — what it authorized
+
+The OIC approved arrangements transferring operating responsibility for the Boat Harbour effluent treatment facility from the Province to Kimberly-Clark (successor to Scott Maritimes) for a maximum 10-year period. It also approved a further 25-year renewal of the Province–Kimberly-Clark water-supply agreement for the Abercrombie Point mill. The OIC authorized the Minister to transfer facility lands to PLFN or the federal department for the Band's benefit when no longer required for facility operation, or earlier only if the transfer would not interfere with continued operation for the agreement term and any additional time required for cleanup.
+
+This is an important legal/administrative instrument. It shows that land transfer was conditional on the continuing operational and cleanup requirements, not an unconditional immediate conveyance. The actual registered land transfer instruments and complete Schedule A remain to be recovered.
+
+### Evans letter — the Province's 1997 position
+
+Evans writes that the Province wished to transfer the bulk of the lands to PLFN, subject to agreement on boundaries, the easement/lease required for continued operation and cleanup, continued cooperation and Governor in Council approval. He says the operating licence expired 31 December 2005 with no extension provision, while acknowledging that closure could occur earlier if replacement facilities were available. He describes the Province's intention to clean up the facility so Boat Harbour could become tidal, with control structures potentially allowing a tidal estuary or controlled lagoon, and says the Band could later choose whether to retain or remove those structures.
+
+### Why the later record matters
+
+The 1997 letter is a snapshot of the terms and intentions understood at that time. It must be read alongside the 2001 PLFN/Kimberly-Clark MOU, 2002 lease extension, 2006 extension and 2008 closure commitment. Those later instruments materially changed the timetable and operational arrangements. The 2002 lease extension expressly extends the lease term to 35 years from 31 December 1995 (to 2030), while the 2001 MOU contemplated a staged closure and pipeline. The 1997 statement that the existing licence had no extension provision does not mean the arrangement was never later amended.
+
+**Outstanding:** full 1995 PLFN–Province agreement; 1995 Province–mill MOU, lease, licence and indemnity; OIC 96-621 Schedule A; 1 October 1997 Ross letter; registered land-transfer instruments; 2001 MOU; 2002 lease extension; 2006 extension; and proof of what lands were actually conveyed. The precise scope of the 25-year water-supply agreement must be distinguished from the separate effluent-treatment operating agreement.
