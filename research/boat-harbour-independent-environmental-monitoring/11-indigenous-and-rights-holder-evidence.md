@@ -254,3 +254,76 @@ Add these to the next retrieval batch:
 - Retrieve the original PLFN Final Position and its document brief; verify the referendum and alternative-site statements directly.
 
 **Source:** [IAAC Environmental Assessment Report, January 2025](https://iaac-aeic.gc.ca/050/evaluations/proj/80164/document/161580), particularly the sections on consultation, health and well-being, current use of lands/resources, the final comments table and conclusions.
+
+
+## 12. Full-text review status update — 23 November 2026
+
+This dated addendum supersedes the earlier “full attachment read outstanding” status for the following records. The earlier status accurately described the first research pass; this addendum records work completed afterward.
+
+### 12.1 Original submission text now reviewed
+
+- PLFN Final Position, 54-page PDF, comment 52: full browser PDF text reviewed.
+- PLFN Document Brief, 48-page PDF, comment 52: full browser PDF text reviewed.
+- EXP Services Inc. technical review, 15-page PDF, comment 49: full browser PDF text reviewed. Correct authorship description: EXP-authored, submitted by PLFN.
+- PLFN counsel letter, two-page PDF, comment 62: full browser PDF text reviewed.
+- Sipekne’katik First Nation Consultation Department letter, two-page PDF, comment 60: full browser PDF text reviewed.
+
+### 12.2 Acquisition and preservation limitation
+
+The original PDF binaries were not successfully downloaded into a controlled evidence vault during this work session. No SHA-256 hashes, byte-size manifest, WORM preservation or independent second-review sign-off have been completed. These records are therefore class **B** under Document 12, not A0/A1. The complete text was read through the official registry's PDF text representation; that is not the same as forensic preservation of the original file bytes.
+
+### 12.3 Additional PLFN findings now directly located in the Final Position
+
+The Final Position itself—not only IAAC's later summary—states:
+
+- PLFN does not consent to long-term storage of hazardous waste in the existing Boat Harbour landfill.
+- PLFN advances legal arguments concerning Aboriginal title, section 35 rights, the absence of a remediation agreement, consultation, accommodation/compensation and the continued use of the containment cell.
+- PLFN reports 98% opposition to long-term use of the containment cell in both 2021 and 2023 referenda. The submission does not provide the complete referendum questions, voter counts, turnout or certification records.
+- PLFN reports that Hive Engineering identified 109 Crown parcels and 97 private parcels meeting desktop screening criteria within 50 km, and that Hive considered the former Northern Pulp landfill at Abercrombie Point. These are PLFN-reported findings from a commissioned technical assessment; the Hive report and underlying data remain to be reviewed.
+- PLFN reports nine siting-criteria exceedances for the Boat Harbour cell and no exceedances for the former Northern Pulp landfill under the criteria applied. This comparison is not independently validated until the Hive report, provincial criteria and underlying site data are examined.
+- PLFN's 2024 Final Position, paragraph 165, refers to 128 hectares out of 173 hectares in a land-transfer discussion. The November 2024 counsel letter uses 128 acres. This material unit discrepancy remains unresolved.
+
+### 12.4 November 2024 requests compared with final conditions
+
+PLFN's 14 November 2024 counsel letter requests, among other matters, that Indigenous monitors and the third-party independent environmental monitor be acceptable to and approved by PLFN, and that reasonable participation expenses be reimbursed.
+
+The final Decision Statement's conditions 7.1 and 8.1 use consultation/collaboration language and specify participation, scope and reporting mechanisms; the exact “acceptable to and approved by PLFN” wording requested is not present. Conditions 2.10 and 9.1 provide activity-specific resourcing for follow-up programme participation and the Alternative Site Advisory Committee, and condition 2.11.3 requires annual reporting of resources provided for consultation. The final wording reviewed does not contain the general blanket reimbursement clause requested in the letter.
+
+This is a textual comparison only. It is not a conclusion about the legal effect or adequacy of those conditions. See Document 13 for the full comparison and limitations.
+
+### 12.5 Sipekne’katik record
+
+Sipekne’katik's two-page comment 60 letter dated 12 November 2024 has now been read in full. It is authored by Sipekne’katik's Consultation Department, supports PLFN's Final Position and the Assembly resolution on PLFN's lead consultation role, and separately states Sipekne’katik's concerns. It remains a separate community-authored record and must not be represented as PLFN-authored.
+
+### 12.6 Outstanding underlying evidence
+
+The following remain outstanding and are not established merely by being cited or summarized in the PLFN submissions:
+
+- Hive Engineering report dated 4 August 2023 and underlying parcel-screening GIS/data;
+- complete provincial IR82 response and technical/economic feasibility assessment;
+- original 2003 and 2010 groundwater reports, including figures, appendices and raw well data;
+- 2019 monitoring report and complete dredge-spoils characterization report;
+- Order-in-Council 96-621, land descriptions, surveys and conveyance instruments to resolve 128 acres/hectares;
+- official referendum questions, results, turnout and resolutions;
+- complete 2025 Annual Report (IAAC document 74), Alternative Site Advisory Committee Terms of Reference, meeting records, feasibility reports and Condition 9.1.4 submission.
+
+### 12.7 Public repository restriction
+
+The GitHub repository's visibility was not independently verified in this review. Until the owner confirms the setting, treat it as public. Do not store privileged communications, personal health records, private witness information or restricted Indigenous knowledge here. The repository is a research index, not a controlled evidence vault.
+
+
+## 13. Hive Engineering report review update — 23 November 2026
+
+The original Hive Engineering IR82 analysis dated 4 August 2023 has now been located in the official IAAC document repository and its full PDF text, including Appendices A, B and C, has been reviewed.
+
+**Direct official PDF:** https://iaac-aeic.gc.ca/050/documents/p80164/155835E.pdf
+
+The report states that Hive was retained by McKiggan Hebert Lawyers on behalf of PLFN. It is a PLFN-retained consultant report, not a government report. Hive states that it completed no field visits or field studies and relied on publicly available data and data submitted by others for the EIS. It limits its analysis to long-term containment-cell siting criteria and assumes that construction, operation, monitoring and closure issues would be examined at design/permitting stage.
+
+The report's 109 Crown parcel screen is based on a GIS desktop process. Its 97 private parcel list is explicitly non-comprehensive and based on visual screening of Property Online; Hive says GeoNova data would be needed for a complete GIS screen and groundwater depths require detailed field investigation.
+
+Hive compared the existing Boat Harbour cell, NPNS active waste Cell 3, Mount William and Granton. It reports no siting-criteria exceedances for NPNS active Cell 3 and calls it a viable candidate, but excludes political and financial considerations. This is not proof that the former mill property as a whole, other NPNS cells, or the entire site can accept Boat Harbour waste. The report does not establish available capacity, waste acceptance, current approval conditions, owner agreement or final regulatory approval.
+
+Hive's criteria combine Nova Scotia Municipal Solid Waste Landfill Guidelines, CCME National Guidelines for Hazardous Waste Landfills and British Columbia hazardous-waste regulation criteria. The legal status and applicability of each criterion in Nova Scotia must be verified separately.
+
+See Document 13, Section 11 and source-register entry BH-082. The original PDF binary has not yet been acquired and SHA-256 hashed in the controlled evidence vault; status remains class B, not A0/A1.
