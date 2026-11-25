@@ -381,3 +381,14 @@ Required source recovery: Appendix A Crown parcel table, Appendix B private parc
 - **BH-140:** October 14, 2014 Indian Cross Point burial-ground purchase agreement reviewed in EIS Appendix I. It implements part of clause 2(c); the Province expressly acknowledges it does not fulfill all obligations under that clause.
 
 **Records still required:** complete negotiations and drafts for the broader closure/remediation agreement; all Steering Committee agendas/minutes/action logs; any executed remediation agreement or formal record that no agreement was reached; complete Schedule A, deed/transfer and land-title records for the burial-ground purchase; proof of actual funding disbursements and eligible-cost accounting. The signed AIP's June 30, 2015 date corrects the “1995” typo in PLFN's 2023 response paragraph 93.
+
+
+
+## 20. Boreas Heritage 2019 Indian Cross Point GPR report — full-text review — 25 November 2026
+
+- **Source:** Boreas Heritage Consulting Inc., *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey*, September 2019, permit A2019NS064, 63 pages; reproduced as Annex 3.11 in IAAC PDF 155833E (BH-141).
+- **Status:** Full extracted report text, conclusions and recommendations reviewed.
+
+The report used desktop historical/archaeological research, field reconnaissance and a 500 MHz Noggin 500 GPR instrument. Four selected ROW grids detected pipeline-related disturbance and the pipeline in two grids, but no burial evidence. A separate adjacent-area GPR grid detected regular subsurface anomalies at approximately 70 cm and deeper; Boreas says these may be burials but cannot be identified without ground-truthing. The report identifies the western ROW end as high potential for unmarked burials and recommends an archaeological monitor if that pipeline section is removed.
+
+**Outstanding primary records:** original field data and map resolving the report's PA-3/PA-4 inconsistency; ground-truthing records, if any; precise pipeline removal/as-built drawings; archaeological monitor daily logs, photographs, permits and incident/stop-work records; confirmation that the high-potential western segment and Grid 5 anomaly area were avoided or monitored. IAAC's 2025 EA Report says the Indian Cross Point-to-Highway 348 segment had already been removed by Northern Pulp with no archaeological effects identified. Reconcile that statement with Boreas's recommendation before concluding that the archaeological risk was fully addressed.
