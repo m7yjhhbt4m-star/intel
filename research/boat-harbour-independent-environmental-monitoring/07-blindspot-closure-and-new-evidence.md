@@ -642,3 +642,23 @@ The 2025 report's marine local study area is limited to waters within 500 m of t
 IAAC assumes PLFN will continue to lead on behalf of the Mi'kmaq of Nova Scotia for some mitigation/follow-up arrangements, while noting Membertou, Millbrook and Sipekne'katik consult independently of KMKNO. Confirm the actual rights-holder governance and representation arrangements; do not treat the assumption as universal delegation.
 
 The report states pipeline removal activities have already been completed with no adverse environmental or archaeological effects identified, and no further ground disturbance is proposed in the corridor. It also notes 2019 GPR anomalies that could be burials, with exact locations unidentified. Obtain the underlying Boreas report and PLFN direction; do not map or publish sensitive burial locations.
+
+
+
+## 28. Joint 1954–2005 chronology reveals missing engineering and monitoring records
+
+The July 2020 Montgomerie affidavit and Exhibit A joint chronology (BH-150/BH-151) provide a valuable cross-party timeline, but the chronology expressly says it is without prejudice, summary only, not complete, and not warranted as accurate by any party.
+
+It identifies a number of high-value records not yet reviewed individually:
+- 1972 engineering drawings and specifications for forcemain, twin settling basins, 18-ha ASB and 142-ha polishing lagoon;
+- 1992 integrated environmental characterization of the BHETF;
+- 1995–96 ASB dredging/aeration upgrades, disposal-cell construction, primary settling basin dewatering/filter-press system and hog-fuel handling;
+- 1997 nutrient management facility and 1997–98 water-level lowering, Point D control structure, Highway 348 culverts, beach berm and shoreline risk assessment;
+- 1998 IR37 sludge characterization/risk assessment and monitoring that supported natural wetland succession;
+- 1998–99 sediment chemical/physical/toxicity testing;
+- 2003 Sediment Management Plan and 2003–05 engineering/EA work for pipeline, dam/culvert removal and tidal restoration;
+- 2004 pilot-scale dredging/dewatering report, CBCL pipeline/diffuser design and draft screening EA.
+
+**Blindspot:** the research has focused heavily on the later 2018–2025 record; this chronology shows that substantial treatment-system changes, sediment testing and remediation planning occurred in 1972, 1992, 1995–1999 and 2003–2005. These are essential for understanding the actual historical contaminant inventory, sediment redistribution, legacy disposal cells, shoreline/IR37 conditions, and why earlier tidal-restoration plans did not proceed. Recover original engineering reports, lab data, as-builts, monitoring results and decision records before relying on this summary chronology.
+
+The chronology's statement that the 1998 chlorine-bleaching change stopped generation of dioxins/furans as pulping by-products does not mean legacy dioxins/furans already in sediment or waste disappeared. It is a process-generation statement, not a site-cleanup result.
