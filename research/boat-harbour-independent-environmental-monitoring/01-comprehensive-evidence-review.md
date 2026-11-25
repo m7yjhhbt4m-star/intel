@@ -903,3 +903,29 @@ The index identifies 35 tabs, including:
 This index identifies several high-value technical and legal sources that have not yet been reviewed individually. The 1970 government reports, 2000 Agra Simons alternatives and 2010/2011 relocation studies deserve priority because they may reveal earlier treatment options, costs, feasibility assumptions and reasons those options were not pursued.
 
 **Document-internal date correction:** the submission's body says a Band Council Resolution was passed around October 22, 1995, but its index identifies the relevant B.G. Clench memorandum as dated October 22, 1965. Treat the body date as a likely typographical error pending inspection of the original memo. Also distinguish the 10 October 1965 handwritten agreement from the June 2014 Agreement in Principle (BH-138).
+
+
+
+## 26. 2014 Agreement in Principle, MOA and Indian Cross Point purchase agreement — direct text review — 25 November 2026
+
+The full text of the 2014 Agreement in Principle, 14 October 2014 Memorandum of Agreement and Indian Cross Point burial-lands purchase agreement has now been reviewed in EIS Appendix I (IAAC document 137879E; BH-137–BH-140).
+
+### 26.1 Agreement in Principle — 16 June 2014
+
+The Province and PLFN agreed that the Province would introduce legislation by 30 June 2015 to set a cessation date for mill effluent at Boat Harbour, and that the parties would negotiate in good faith and execute an agreement respecting closure and remediation. The intended agreement was to address closure timelines, reasonable PLFN participation/negotiation costs, identification and protection of Mi'kmaq burial sites at Indian Cross Point, and a $1 million ex gratia payment if the Province failed to finalize cessation timelines through good-faith negotiations (subject to PLFN good-faith participation). PLFN agreed to dismantle the blockade. The agreement is signed by Environment Minister Randy Delorey, Chief Andrea Paul and Councillors Wayne Denny, Dominic Denny, Crystal Denny, Anthony Nicholas, Gordie Prosper and Derek Francis.
+
+### 26.2 The October 2014 MOA satisfied the cost/participation clause only
+
+The MOA expressly states it satisfies clause 2(b) of the AIP and that no further agreement/action is required for that clause. It provides a $100,000 accountable advance and covers eligible technical, legal, travel, meeting, community-participation and communication costs. It is not the substantive remediation agreement required by the AIP.
+
+### 26.3 The Indian Cross Point land-purchase agreement made progress but did not fulfill all burial-site obligations
+
+The October 2014 agreement funded PLFN's purchase of lands at Indian Cross Point up to $103,500. Its recitals state that the purchase would be meaningful and significant progress toward clause 2(c), while the Province expressly acknowledges that the agreement does not fulfill all obligations under clause 2(c). The 2015 BHCC TOR says the Baker Estate purchase (about 25.5 of 27 acres) substantially addressed the issue but notes a remaining parcel on the Palmer property.
+
+### 26.4 What the combined records establish — and do not establish
+
+The AIP's closure timeline was implemented through the Boat Harbour Act; the MOA addressed participation costs; and the Indian Cross Point agreement funded a substantial but incomplete burial-land acquisition. These are distinct obligations. The 2015 BHCC TOR explicitly states that the agreement respecting remediation remained outstanding. The 2024 Proponent response cites the MOA and burial-land agreement as evidence of continued negotiations, but those documents address clauses 2(b) and 2(c), not the full remediation agreement. No signed comprehensive remediation agreement has been located in the reviewed package. This supports the need to distinguish “some AIP obligations were implemented” from “the remediation agreement was completed.”
+
+### 26.5 Community records and consultation chronology
+
+EIS Appendix I includes A'se'k News newsletters and a Community Liaison Coordinator workplan. The 2018 newsletter says formal consultation with Chief and Council on cleanup options began on 19 April 2018 and lists 18 May 2018 as the response deadline. It says Phase I ESA was complete and Phase II nearly complete, and lists baseline work on air, noise, birds/wildlife, plants/fish, fisheries outside Boat Harbour, groundwater/surface water and geology. It also documents monthly A'se'k Socials, a closed PLFN community Facebook group, and a video/photo mentorship initiative to help tell the community's story. These are contemporaneous community communications, not a complete consultation record. The exact 30 May 2018 PLFN letter and 23 August 2018 provincial response remain priority documents to obtain.
