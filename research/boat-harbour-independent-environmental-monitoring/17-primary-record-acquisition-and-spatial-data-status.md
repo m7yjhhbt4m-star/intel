@@ -674,3 +674,17 @@ Inventory item 37 is the 154 MB Appendix A, Human Health and Ecological Risk Ass
 - IAAC required the HHRA to be reevaluated before site preparation, with recalculation of remedial objectives if required, and monitoring plans for sediment, soil, air, surface water, drinking water and country foods. If post-remediation monitoring shows levels above targets, an updated HHRA is required.
 
 **Important distinction:** these are findings about what IAAC, Health Canada, Nova Scotia and PLFN said about the HHERA, not an independent re-performance of the risk assessment. The original report, raw data, exposure assumptions, species/tissue dataset, screening decisions, toxicity reference values, 95% UCLM calculations and SSTL derivations remain necessary for a documentary-grade audit.
+
+
+## 54. 2008 corporate transfer of Boat Harbour contracts and environmental liabilities
+
+**Additional source BH-203:** Neenah Paper Company of Canada / Northern Pulp Nova Scotia Corporation, Asset Purchase Agreement dated 24 June 2008, SEC Exhibit 10.4: https://www.sec.gov/Archives/edgar/data/1296435/000110465908051919/a08-18779_1ex10d4.htm. Full agreement text reviewed.
+
+Key clauses:
+- Section 2.3(b) defines the Boat Harbour Documents to include the 27 September 2001 PLFN–Kimberly-Clark MOU (as amended and assigned), the 1995 Lease, Licence, Indemnity and Water Supply Agreements, and related letters/agreements in Schedule 2.3(b).
+- The purchaser assumes the seller's Environmental Liabilities arising under those documents, including liabilities arising from functioning, use and condition of the Effluent Treatment System before, on or after closing.
+- Section 2.4(d) expressly leaves with the seller any obligation under the MOU to transfer real property to or for the benefit of PLFN. This is a specific carve-out from the broader assumption of environmental liabilities.
+- Section 3.1(v) represents that each Boat Harbour Document is in full force and effect and legally valid/binding; that neither seller nor, to seller's knowledge, any other party is in default; and that required payments/actions had been made/taken. It states the 2001 MOU is the only material contract between the seller and PLFN relating to Boat Harbour.
+- The schedules that would list the specific Boat Harbour Documents and other related documents are omitted from the SEC-filed exhibit. The agreement also says the seller provided the purchaser true, correct and complete copies of the Boat Harbour Documents and material amendments.
+
+**Effect on inventory items 45–50:** this is a high-value cross-source for item 46 (the 2001 PLFN MOU) and items 48–50 (1995 contracts), but it does not reproduce those instruments and does not upgrade their source-copy status. It predates the 31 December 2008 Accommodation Agreement and cannot substitute for item 45. The seller's statements are contractual representations in a corporate sale, not independent proof of actual performance or legal validity. Obtain the omitted schedules, closing documents, assignments, OIC 2008-338 and the underlying signed instruments to verify the liability transfer and any exceptions.
