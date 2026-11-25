@@ -1581,3 +1581,58 @@ PLFN's submission says payments under the 2001 MOU were not made after the 31 De
 ### 44.5 Why the three submissions must remain separate
 
 Northern Pulp's position, KSH's engineering schedule opinion and PLFN's legal/rights-holder submission answer different questions. None is a neutral adjudication. The strongest evidence comes from comparing their assertions with the original contracts, actual operating/monitoring data, regulatory decisions, and the later 2018–2025 environmental assessment record.
+
+
+
+## 45. February 8, 2016 Minister's decision on Northern Pulp's Industrial Approval appeal
+
+The full Minister of Environment Randy Delorey's decision under section 137 of the Environment Act (BH-176) has now been reviewed. The decision did not simply dismiss the appeal or uphold the Industrial Approval unchanged. It removed, revised and remitted specific conditions.
+
+The Minister:
+- removed condition 6(g);
+- removed conditions 5(j), 6(i) and 6(j) because they referred to a future ETF to be regulated under a separate approval;
+- revised condition 6(e) to require COD reductions of 10% by 30 January 2017, 20% by 30 January 2018 and 50% by 30 January 2020, measured from a Department-approved baseline derived under condition 6(d);
+- revised/clarified TRS conditions 8(d) and 8(f);
+- removed phenanthrene testing at SW12-3 because measurements were at or near detection limits;
+- corrected the surface-water monitoring station list;
+- removed condition 22(b) because the communication plan under 22(a) was considered sufficient; and
+- required the Department to reassess water-use reduction targets, considering the conflicting technical opinions and ensuring consistency between water-use and effluent-flow requirements.
+
+Terri Fraser's November 30, 2018 sworn affidavit (BH-177) confirms the Minister's decision was dated 8 February 2016 and that Northern Pulp withdrew its appeal on 15 March 2016. The appeal's withdrawal does not mean every argument was accepted; the operative result is the Minister's specific modifications.
+
+**Critical follow-up:** obtain the final consolidated Industrial Approval, the Department's water-use reassessment, any revised conditions and monitoring records through 2020. Determine whether the COD reductions, TRS requirements, corrected surface-water stations and water-use targets were implemented and achieved.
+
+## 46. Terri Fraser's November 30, 2018 affidavit — project route and fisheries dispute
+
+The full affidavit of Northern Pulp Technical Manager Terri Fraser (BH-177), sworn in the injunction proceeding concerning access for marine survey work, has now been reviewed. It provides the operator's detailed timeline for the replacement ETF and diffuser-route changes.
+
+### Project development and cost certainty
+
+Fraser says:
+- a joint Province/Northern Pulp RFP for engineering studies was issued 30 September 2016;
+- the parties signed a preliminary engineering cost-sharing agreement on 28 December 2016;
+- KSH recommended activated-sludge treatment;
+- treatment-plant cost estimates were considered accurate to ±10%, while pipeline/diffuser estimates were ±20–30%;
+- the Province and Northern Pulp signed a second contribution agreement on 13 December 2017; and
+- Northern Pulp signed a contract with Veolia Water Technologies in March 2018 to enable detailed design.
+
+These are the project lead's sworn statements. Obtain the RFP, contribution agreements, KSH reports, cost estimates, Veolia contract and actual invoices to verify the scope, assumptions, expenditure and ownership of purchased equipment.
+
+### Pictou Roads to Caribou Channel
+
+The affidavit says the 2017 Stantec receiving-water study initially proposed Pictou Roads. Marine surveys in spring 2018 found ice-scour evidence at approximately 11 m depth, prompting the pipeline designer to seek a deeper diffuser location. Three longer extensions of the Pictou Roads route were examined; the affidavit says these would require 14–15 km of marine pipeline. The company then considered an overland route from the mill to Caribou and a marine route into Caribou Channel, reducing the marine segment to about 4 km and avoiding what the company described as known lobster fishing grounds. Two Caribou diffuser sites less than 500 m apart were studied at 20 m and 25 m depth; the 20 m location was preferred for flow dynamics and selected at the end of September 2018.
+
+### Fisheries dispute and survey access
+
+Fraser says PLFN representatives and local fishers had advised that they “fished all over” but did not provide specific fishing locations. She records concerns that treated effluent could contaminate lobsters and damage the Canadian lobster brand. She alleges survey work scheduled to begin on 23 October 2018 was prevented by fishing-boat operators, delaying geophysical/video survey, DFO review and detailed engineering.
+
+This is the operator's account in an injunction proceeding. It does not establish that fishers had no defined fishing grounds or that the route avoided all fishing activity. It must be compared with:
+- Fishers Working Group and PLFN records, including maps and seasonal fishing patterns;
+- DFO fisheries data, lobster landings/effort and local knowledge, subject to PLFN/fisher governance;
+- contractor field logs, GPS tracks, vessel AIS, survey work orders and incident reports;
+- court affidavits, hearing transcripts and injunction reasons; and
+- raw ice-scour, bathymetric, geophysical, video and hydrodynamic data for Pictou Roads and Caribou Channel.
+
+### Implications for independent monitoring
+
+The route change moved the proposed outfall into Caribou Channel and reduced marine pipeline length, but did not remove the need to assess fisheries interactions, ice scour, benthic habitat, sediment disturbance, plume behaviour and cumulative effects in the Strait. The 2018 route-selection rationale must be checked against the final route/as-builts and actual monitoring locations. “Avoids known lobster grounds” is a project proponent claim, not a verified absence of fishing activity.
