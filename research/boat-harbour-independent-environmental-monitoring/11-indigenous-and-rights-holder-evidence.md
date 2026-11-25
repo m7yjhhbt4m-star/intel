@@ -319,3 +319,15 @@ The paper reports higher proportions of digestive, respiratory, male genital and
 The paper describes the Joint Environmental Health Monitoring Committee (JEHMC), its 1990s mandate, the 1997 CanTox assessment, the 2008 Dillon review of 106 studies and the 2015 JEHMC report. **JEHMC is distinct from BHEAC**; they were established in different periods for different purposes and must not be conflated. The paper's statement about the 1995 settlement Act and Canadian liability should be checked against the actual Act and settlement agreement before legal conclusions are drawn.
 
 Any future health research must be community-led, respect PLFN governance and privacy, and use appropriate Indigenous data sovereignty protocols. Do not seek or publish identifiable health records outside authorized, privacy-protected processes.
+
+
+
+## 10. 2014 PLFN Environmental Health Survey — community-defined health measures
+
+The full text of Lewis et al. (2021), *If Only They Had Accessed the Data* (BH-129), has been reviewed. The paper reports the 2014 Environmental Health Survey developed with the Pictou Landing Native Women's Group, using a Mi'kmaw environmental-health framework and Etuaptmumk/Two-Eyed Seeing. Thirteen community research assistants were hired; 279 people participated (59% response rate based on a population of 470); the 297-question survey generated over 400 variables.
+
+The published paper presents selected measures of physical, mental, emotional and spiritual health and a community-defined environmental-dispossession question about whether participants feel the air, land and water around them will hurt them. It reports associations between environmental fear and self-rated health/depression and between racism and several health dimensions. These are self-reported cross-sectional associations, not proof of a specific chemical exposure or disease cause. The paper's bivariate analysis and comparisons with CCHS/RHS populations have limitations; the 2014 EHS is not a pre-exposure baseline.
+
+This is important because it demonstrates how PLFN defined environmental health beyond conventional toxicology. Future monitoring and health assessment should be co-designed with PLFN and include community-defined indicators of relationships to land, water, food, medicine, culture and spiritual well-being. Keep these indicators distinct from laboratory measurements and clinical outcomes.
+
+The paper presents only selected variables from the full survey; supplementary data/questionnaire and any later community health survey should be sought only with PLFN/NWG authorization. Raw individual-level data remain subject to community governance and privacy.
