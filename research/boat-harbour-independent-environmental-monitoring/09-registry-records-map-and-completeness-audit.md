@@ -1074,3 +1074,27 @@ The report evaluates tertiary treatment after a new activated-sludge secondary p
 - **Status:** Located; pages could not be retrieved for substantive review in this pass.
 
 **Status conflict requiring original review:** the 2010 Statement of Claim and 2020 Montgomerie affidavit say PLFN entered the agreement and agreed not to oppose a temporary extension to 31 January 2009; Signal's archive says it was proposed but not accepted and that an advance was returned. The original scans, drafts, signature pages, lawyer correspondence and payment records are needed.
+
+
+
+## 45. 2015 Bill 89 submissions — full-text review
+
+### BH-170 — Northern Pulp submission
+
+- **Source:** Northern Pulp Nova Scotia Corporation, submission to Law Amendments Committee on Bill 89, 27 April 2015.
+- **Status:** Full six-page submission reviewed.
+- **Review:** Operator's position on 1995/2002/2008 agreements, alleged contractual breach under Bill 89, operating performance, costs and closure schedule.
+
+### BH-171 — KSH Solutions letter
+
+- **Source:** KSH Solutions, Guy Martin, letter to Northern Pulp, 23 April 2015.
+- **Status:** Full three-page letter reviewed.
+- **Review:** Consultant's estimate of 18–30 months for marine outfall approval and 4–6 months for activated-sludge startup; 50/50 schedule likelihood under 2015 assumptions.
+
+### BH-172 — PLFN submission
+
+- **Source:** Pictou Landing First Nation submission on Bill 89, 2015.
+- **Status:** Full extracted text reviewed.
+- **Review:** PLFN's requests for closure, accommodation, $50,000/year environmental communications, $10,000 participation funding, source-separated air monitoring, odour jury testing and community health baseline.
+
+**Outstanding:** verify the actual implementation of each requested measure in the 2015 Industrial Approval, consultation record, final EARD, EA decision and monitoring data. Reconcile PLFN's ambiguous statement about 2001 MOU payments against actual ledgers and later agreements.
