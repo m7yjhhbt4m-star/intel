@@ -899,3 +899,21 @@ The Act identifies the underlying settlement as the July 20, 1993 agreement betw
 The debates describe the $35M settlement, referendum result, compensation and relocation trust allocations, monitoring programs, Canada's undertaking to explore environmental solutions, and the release/assignment provisions. Hansard is not the signed contract.
 
 **Still not located/reviewed:** the full executed July 20, 1993 settlement agreement and all schedules. The Act and debates cannot establish the precise contractual language. Obtain the original contract, referendum records, trust deed/accounting, monitoring program terms and implementation reports.
+
+
+
+## 35. OIC 96-621 and 1997 Evans correspondence — reviewed
+
+### BH-147 — Provincial Order-in-Council 96-621
+
+- **Date:** 14 August 1996.
+- **Located/opened:** Yes — scanned OIC text reviewed as Tab 22 in the PLFN 2014 submission.
+- **Review:** OIC approves transfer of facility operating responsibility to Kimberly-Clark for up to 10 years, a further 25-year renewal of the mill water-supply agreement, and conditional land-transfer authority for PLFN. Referenced Schedule A and underlying agreements remain incomplete in the scanned copy.
+
+### BH-148 — Greg Evans letter to B. Anthony Ross
+
+- **Date:** 6 October 1997.
+- **Located/opened:** Yes — two-page letter text reviewed as Tab 24 in the PLFN 2014 submission.
+- **Review:** Province's stated position on bulk land transfer, boundaries/easements, licence expiry on 31 December 2005, and cleanup to allow a tidal estuary or controlled lagoon.
+
+**Outstanding:** 1995 PLFN–Province agreement, Province–mill MOU/lease/licence/indemnity and schedules; OIC Schedule A; 1 October 1997 Ross letter; land-title records; 2001 MOU; 2002 lease extension; 2006 extension. The 1997 position must be compared with later amendments and actual land conveyances.
