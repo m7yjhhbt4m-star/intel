@@ -331,3 +331,15 @@ The published paper presents selected measures of physical, mental, emotional an
 This is important because it demonstrates how PLFN defined environmental health beyond conventional toxicology. Future monitoring and health assessment should be co-designed with PLFN and include community-defined indicators of relationships to land, water, food, medicine, culture and spiritual well-being. Keep these indicators distinct from laboratory measurements and clinical outcomes.
 
 The paper presents only selected variables from the full survey; supplementary data/questionnaire and any later community health survey should be sought only with PLFN/NWG authorization. Raw individual-level data remain subject to community governance and privacy.
+
+
+
+## 11. 2015–2019 planning and committee records — participation, consent and community voice
+
+The 2015 Boat Harbour Cleanup Committee Terms of Reference (BH-135) explicitly define the Committee as advisory, with no decision-making authority. No agreement is binding unless approved by both parties; BHCC meetings/work are without prejudice and are not consultation or a release of the Province's duty to consult and accommodate. The TOR says the cleanup agreement contemplated in the 2014 AIP remained outstanding. BHCC is distinct from BHEAC (2016) and the 2025 Alternative Site Advisory Committee.
+
+The 22 February 2019 BHCC minutes (BH-134) show PLFN participation in project planning and economic-opportunity discussions, but also record concerns about cell off-gassing, transport accidents, dredging too much clean bottom, procurement and employment barriers, and whether PLFN representatives were reflecting the community's voice. The Chief questioned whether the community was behind the representatives and requested PLFN-only discussions. The minutes record a proposed action to develop a long-term cell monitoring/maintenance entity with training/mentoring; this is not evidence that an entity or binding agreement was established.
+
+The 2019 Membertou Geomatics Land Use Plan (BH-132) documents community aspirations for safe water, restored fish/animal habitat, traditional plants/medicines, access to hunting/fishing/plant gathering, return of lands to a natural state, and improvement of the existing PLFN sewer outfall. It is a future land-use plan, assumes pending land/water transfers will be safe, and contemplates later Band Council Resolution/other acceptance. The reviewed copy does not show formal adoption. It must not be treated as consent to permanent waste storage.
+
+The Group ATN report (BH-133) concerns employment, training, procurement and economic opportunities. It is not an environmental safety assessment or a consent instrument. The Proponent's use of these records as evidence of “general project support” must be evaluated alongside the BHCC TOR's explicit exclusion of consultation and the minutes' recorded concerns.
