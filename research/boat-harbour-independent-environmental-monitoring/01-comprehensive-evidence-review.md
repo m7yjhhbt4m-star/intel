@@ -729,7 +729,7 @@ The main 2022 assessment says approximately 180,000 m³ is in the existing cell 
 
 ## 24. Hive Engineering's 2023 alternative-site screen — source-level review
 
-The original 23-page Hive Engineering report (4 August 2023; BH-137) has now been reviewed. It was commissioned by McKiggan Hebert Lawyers on behalf of PLFN to provide technical analysis of the IR82 alternative-containment-cell issue. It compares four locations: the existing Boat Harbour cell, Northern Pulp's active and closed landfill areas, Mount William and Granton. It also screens Crown and private parcels within 50 km.
+The original 23-page Hive Engineering report (4 August 2023; BH-188) has now been reviewed. It was commissioned by McKiggan Hebert Lawyers on behalf of PLFN to provide technical analysis of the IR82 alternative-containment-cell issue. It compares four locations: the existing Boat Harbour cell, Northern Pulp's active and closed landfill areas, Mount William and Granton. It also screens Crown and private parcels within 50 km.
 
 The report is important because it directly challenges the narrow scope of the 2022 Mount William assessment. Hive says PLFN did not intend Mount William to be the only alternative and that its own work identified other parcels and a potential existing industrial landfill.
 
@@ -808,7 +808,7 @@ The response says the Province was prepared to continue dialogue about a future 
 
 ## 26. The 2014 Agreement in Principle and its implementing agreements — primary-text comparison
 
-The original signed 2-page June 16, 2014 Agreement in Principle (BH-138) has now been reviewed against the October 14, 2014 funding MOA (BH-139), the Indian Cross Point burial-ground purchase agreement (BH-140), the Province's February 2024 IR82 response and PLFN's August 2023 response.
+The original signed 2-page June 16, 2014 Agreement in Principle (BH-182) has now been reviewed against the October 14, 2014 funding MOA (BH-183), the Indian Cross Point burial-ground purchase agreement (BH-184), the Province's February 2024 IR82 response and PLFN's August 2023 response.
 
 ### What the AIP actually says
 
@@ -818,9 +818,9 @@ The AIP does not specify a final cleanup design, the ultimate destination of dre
 
 ### What the two October 2014 agreements implement
 
-**Funding MOA (BH-139):** this agreement expressly says it satisfies AIP clause 2(b), the reasonable-costs/funding provision, and no further agreement/action is required in respect of that funding requirement. It provides an accountable $100,000 advance and eligible costs for legal/technical advice, meetings, community participation, travel and communications. It is not the closure/remediation agreement described in AIP clause 2.
+**Funding MOA (BH-183):** this agreement expressly says it satisfies AIP clause 2(b), the reasonable-costs/funding provision, and no further agreement/action is required in respect of that funding requirement. It provides an accountable $100,000 advance and eligible costs for legal/technical advice, meetings, community participation, travel and communications. It is not the closure/remediation agreement described in AIP clause 2.
 
-**Indian Cross Point purchase agreement (BH-140):** this implements part of the burial-site protection work under clause 2(c). The Province funds the Band's purchase of identified lands. The Band acknowledges meaningful and significant progress toward clause 2(c), while the Province expressly acknowledges that the purchase agreement does **not** fulfill all of its obligations under clause 2(c). It is not the overall remediation agreement.
+**Indian Cross Point purchase agreement (BH-184):** this implements part of the burial-site protection work under clause 2(c). The Province funds the Band's purchase of identified lands. The Band acknowledges meaningful and significant progress toward clause 2(c), while the Province expressly acknowledges that the purchase agreement does **not** fulfill all of its obligations under clause 2(c). It is not the overall remediation agreement.
 
 ### Why this matters to the 2024 dispute
 
@@ -870,7 +870,7 @@ This report is significant evidence of a known archaeological risk area and of u
 
 ## 28. 6 April 1966 Water Act report to Executive Council — original scan reviewed
 
-The one-page *Report for the Executive Council* dated 6 April 1966 (BH-142) has now been opened and reviewed. It is a ministerial recommendation under the Nova Scotia Water Act. It recommends that Governor in Council:
+The one-page *Report for the Executive Council* dated 6 April 1966 (BH-186) has now been opened and reviewed. It is a ministerial recommendation under the Nova Scotia Water Act. It recommends that Governor in Council:
 
 1. authorize the Nova Scotia Water Authority to provide for disposal of effluent from the Scott Maritimes Pulp Limited mill into Boat Harbour;
 2. authorize acquisition of all land required for that effluent disposal; and
@@ -886,7 +886,7 @@ The 1965 provincial OIC, the 6 April 1966 Water Act report and the 2 September 1
 
 ## 29. PLFN's 2014 historical/legal submission — 35-tab primary-record roadmap
 
-The full text of PLFN's 21 March 2014 submission concerning Northern Pulp's 2013 Industrial Approval renewal has been reviewed (BH-143). It is a primary source for PLFN's legal position and historical account at that time, and its 35-tab index is a particularly valuable retrieval roadmap.
+The full text of PLFN's 21 March 2014 submission concerning Northern Pulp's 2013 Industrial Approval renewal has been reviewed (BH-187). It is a primary source for PLFN's legal position and historical account at that time, and its 35-tab index is a particularly valuable retrieval roadmap.
 
 The submission recounts the 25 August 1965 community meeting, the objections raised about loss of fishing, shellfish, waterfowl, boating, swimming and shoreline uses, the Water Authority's representations about a freshwater lake and limited odour, and the October 10, 1965 visit to Renforth followed by a handwritten agreement signed by Chief Louis Francis and Councillor Martin Sapier. PLFN argues that the agreement was obtained through misleading representations and was legally ineffective. These statements must be checked against the original 1965 memoranda, handwritten agreement and other participants' records.
 
@@ -902,13 +902,13 @@ The index identifies 35 tabs, including:
 
 This index identifies several high-value technical and legal sources that have not yet been reviewed individually. The 1970 government reports, 2000 Agra Simons alternatives and 2010/2011 relocation studies deserve priority because they may reveal earlier treatment options, costs, feasibility assumptions and reasons those options were not pursued.
 
-**Document-internal date correction:** the submission's body says a Band Council Resolution was passed around October 22, 1995, but its index identifies the relevant B.G. Clench memorandum as dated October 22, 1965. Treat the body date as a likely typographical error pending inspection of the original memo. Also distinguish the 10 October 1965 handwritten agreement from the June 2014 Agreement in Principle (BH-138).
+**Document-internal date correction:** the submission's body says a Band Council Resolution was passed around October 22, 1995, but its index identifies the relevant B.G. Clench memorandum as dated October 22, 1965. Treat the body date as a likely typographical error pending inspection of the original memo. Also distinguish the 10 October 1965 handwritten agreement from the June 2014 Agreement in Principle (BH-182).
 
 
 
 ## 26. 2014 Agreement in Principle, MOA and Indian Cross Point purchase agreement — direct text review — 25 November 2026
 
-The full text of the 2014 Agreement in Principle, 14 October 2014 Memorandum of Agreement and Indian Cross Point burial-lands purchase agreement has now been reviewed in EIS Appendix I (IAAC document 137879E; BH-137–BH-140).
+The full text of the 2014 Agreement in Principle, 14 October 2014 Memorandum of Agreement and Indian Cross Point burial-lands purchase agreement has now been reviewed in EIS Appendix I (IAAC document 137879E; BH-137 and BH-182–BH-184).
 
 ### 26.1 Agreement in Principle — 16 June 2014
 
