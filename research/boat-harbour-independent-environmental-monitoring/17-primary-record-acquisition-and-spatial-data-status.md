@@ -724,3 +724,6 @@ Key results relevant to the Boat Harbour water/sediment evidence and the user's 
 - The thesis recommends establishing local organic and inorganic baseline concentrations in discussion with knowledge holders, including pre-1967 conditions.
 
 **Relevance to inventory items 2 and 3:** this is independent research that helps interpret the sludge-thickness report and pilot testing, but it is not either original report. It must not upgrade those inventory items from C. The 151-core/26.6 cm research dataset, the 57-core/23 cm earlier paper, the 500-point SCG/WSP presentation and the >600-profile summaries remain separate surveys/scopes until raw station IDs and dates are reconciled.
+
+
+**Independent-review gap confirmed:** BGC's January 2021 External Technical Review (BH-012) specifically lists the 23 December 2019, 580-page Pilot Scale Testing Construction Report as an extra-scope document it requested; it was not part of the received review set. Thus the BGC ETR did not independently validate the pilot report's volume-reduction, geotube-performance or construction findings. This strengthens—not closes—the need to obtain and review the original pilot report and raw data.
