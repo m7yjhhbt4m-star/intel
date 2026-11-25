@@ -730,3 +730,18 @@ NSECC's Annex 2 says Nova Scotia had no siting guidelines specific to hazardous-
 3. **Existing-cell volume:** main text says approximately 180,000 m³ in the cell (70,000 m³ deposited in 1996 plus 110,000 m³ subsequently); Annex 4 says approximately 116,000 m³ of sludge already placed. Reconcile definitions, survey date and material basis.
 
 The GHG discrepancy materially changes the comparative narrative. Use the annex-level scenario mapping unless the Proponent supplies a correction; do not quote 183,164 tonnes as the Mount William scenario. The 2018 315,020-tonne net reduction over 25 years is a separate estimate with a different baseline/scope and should not be directly subtracted from the one-time off-site scenario emissions without a common accounting basis.
+
+
+
+## 28. Hive Engineering IR82 Analysis — original PDF reviewed — 25 November 2026
+
+- **Source:** Hive Engineering Limited, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, project NS23.03.157, 4 August 2023, 23 pages.
+- **Official registry PDF:** https://iaac-aeic.gc.ca/050/documents/p80164/155835E.pdf
+- **Located/opened:** Yes — original IAAC PDF opened and text reviewed.
+- **Repository record:** BH-137 added to `05-source-register-and-evidence-quality.md`.
+
+The report was retained by McKiggan Hebert Lawyers on behalf of PLFN. It screens 109 Crown parcels and 97 private parcels within 50 km and compares the existing Boat Harbour cell, Northern Pulp landfill, Mount William and Granton. Hive applies the NSECC 2022 screening criteria drawn from Nova Scotia municipal landfill guidelines, federal hazardous-waste landfill guidance and BC hazardous-waste regulations. It concludes that the existing Boat Harbour cell has nine criteria exceedances and that Northern Pulp has no exceedances under the criteria applied. It describes Northern Pulp as the preferred site under this screen.
+
+**Limitations expressly acknowledged by Hive:** the private parcel list is not comprehensive because Property Online could only be visually screened; GeoNova data would be needed for complete GIS screening. Groundwater depth is assumed and requires detailed field investigation. The report is a desktop screen, not a site investigation or permit decision. The 109/97 parcels are candidate areas, not approved or confirmed landfill sites.
+
+The full parcel tables (Appendices A/B), four-site matrix (Appendix C), underlying GIS layers, Northern Pulp permit/capacity/engineering data, owner correspondence and field investigations remain necessary for independent verification.
