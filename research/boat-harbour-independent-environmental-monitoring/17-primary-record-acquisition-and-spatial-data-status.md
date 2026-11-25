@@ -415,3 +415,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 32 | `137876E` | IAAC EIS Appendix F, GHD/Nova Scotia Lands, *Public Open House No. 2 Documentation — Display Panels and Summary Report* (10 December 2019); https://iaac-aeic.gc.ca/050/documents/p80164/137876E.pdf | **B — Full 23-page browser-rendered PDF text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-132 in Document 05. The public-session summary says tidal-transport modelling was still outstanding, estimated project cost at about $250 million, and forecast a late-2021 start with 4–7 years of remediation. It contains proponent statements of no groundwater contamination and no pilot-related air increases/odours; reconcile with the 2018 Supplemental Phase 2 ESA and Stantec monitoring presentation before repeating. Distinct from the PLFN-only Open House No. 2 summary (Appendix R / item 20). |
+
+
+## 38. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 33 | `137874E` | IAAC EIS Appendix D, GHD/Nova Scotia Lands, *Boat Harbour Environmental Advisory Committee Terms of Reference*, 22 January 2016; https://iaac-aeic.gc.ca/050/documents/p80164/137874E.pdf | **B — Full browser-rendered 81-line text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-133 in Document 05. The ToR is explicitly a **draft for discussion**, not proof of an approved committee charter. It makes BHEAC advisory to Nova Scotia Lands; NS Lands appoints the chair and retains project decision authority; BHEAC is not a regulator or independent monitor. Obtain the approved ToR and full recommendation/response records before describing how the committee operated. |
