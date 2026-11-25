@@ -836,7 +836,7 @@ PLFN's 2023 submission contains a date typo in its paragraph 93: it says the Pro
 
 ## 27. Indian Cross Point burial-ground investigation — Boreas 2019 archaeological/GPR report
 
-The full 63-page Boreas Heritage Consulting report, *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey* (September 2019; permit A2019NS064; BH-141), has now been reviewed. It was commissioned by Nova Scotia Lands to inform pipeline decommissioning and remediation near the historic Mi'kmaw burial ground at Indian Cross Point.
+The full 63-page Boreas Heritage Consulting report, *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey* (September 2019; permit A2019NS064; BH-185), has now been reviewed. It was commissioned by Nova Scotia Lands to inform pipeline decommissioning and remediation near the historic Mi'kmaw burial ground at Indian Cross Point.
 
 ### What was investigated
 
