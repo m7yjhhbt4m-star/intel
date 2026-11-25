@@ -296,3 +296,17 @@ The Proponent reports no site preparation/remediation and no implementation of t
 **Condition 9 records:** The annual report says the Alternative Site Advisory Committee was established with PLFN; its Terms of Reference were executed; it met 20 November and 18 December 2025; a candidate alternative site was selected for feasibility assessment; and the design engineer/general services consultant were engaged. A separate report was submitted to IAAC on 22 January 2026 under separate cover, saying no technically and economically feasible alternative had yet been identified although a potential location remained under analysis.
 
 The annual report does not reproduce the candidate-site identity, executed ToR, meeting minutes, feasibility analysis or separate 22 January report. Publicly indexed searches in this pass did not locate those separate records. Do not infer that the records do not exist; record them as located by reference but not publicly recovered.
+
+
+
+## 15. PLFN 2023–2024 submissions and Castleden et al. 2017 — review status — 25 November 2026
+
+| Record | Direct source status | Review and limitations |
+|---|---|---|
+| PLFN *Document Brief* responding to IR82, 1 Aug 2023, 48 pp (contribution 52, attachment 1) | **Original PDF opened; substantive review** | 126-section historical chronology and source roadmap reviewed. Underlying tabs/primary historical records still require individual verification; Hive Engineering report not included. |
+| PLFN *Final Position on Proposed Boat Harbour Remediation Project*, 23 Apr 2024, 54 pp (contribution 52, attachment 2) | **Original PDF opened; substantive partial review** | PLFN's legal/rights-holder position, consultation, accommodation and alternative-site claims reviewed. Not a court finding or independent engineering report; original referendum, land-transfer, Hive and site records remain required. |
+| Castleden et al. (2017), *“Put It Near the Indians”*, 9 pp | **Full article text reviewed via accessible full-text copy** | Community-based oral history with 10 Elders, co-authored with PLFN Native Women's Group. Original binary PDF not separately downloaded; raw recordings/transcripts remain controlled by the Native Women's Group under OCAP® and are not public. |
+
+The 2023 brief and 2024 final position are primary sources for PLFN's stated position and historical account. They identify a number of records to recover: 1965 meeting record and handwritten agreement; 1966 OIC 1966-1669; 1970 agreement and technical reports; 1990 fish-kill documentation; 1991 closure/remediation commitment; 1993 Circle Two Phase II report; 1995 MOU and Evans/Ross correspondence; 1996 OIC 96-621; 2001 MOU; 2002 referendum records; 2008 accommodation/commitment agreements; 2014 Agreement in Principle; 2021/2023 referendum records; and the full Hive Engineering alternative-site report.
+
+Castleden et al. is the principal published oral-history source for the “before the mill” question. The article does not authorize access to or reuse of the underlying digital archive; PLFN/Native Women's Group direction and appropriate permission are required.
