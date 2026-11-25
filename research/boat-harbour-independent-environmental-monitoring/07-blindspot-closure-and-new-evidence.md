@@ -291,3 +291,69 @@ The existing technical design should be amended to include the following mandato
 - **BH-036:** Impact Assessment Agency of Canada, *Final Environmental Impact Statement Guidelines / project assessment requirements*, including hydrogeological model, seasonal groundwater, fracture flow, drainage basins, hydrology, water quality and sediment requirements. https://iaac-aeic.gc.ca/050/evaluations/document/143775
 - **BH-037:** Therrien et al. (2001), same DFO regional habitat report, specific Pictou Harbour habitat and other-source context. This is the same source as BH-032 and is not independent corroboration.
 - **BH-038:** Environment and Climate Change Canada (2016), same spill enforcement notification as BH-033. This is the same source and is not independent corroboration.
+
+
+
+## 12. New blindspots exposed by the 25 November 2026 PDF review
+
+### 12.1 Northumberland Strait near-field sediment impact is documented but not delineated
+
+The 2018 Supplemental Phase II ESA reports PHC exceedances in all five sediment samples NS-SED-3 to NS-SED-7 at the estuary mouth/northern shoreline and explicitly recommends horizontal delineation of NS-SED-1 to NS-SED-7. Five background sediment samples 2.5 km east had no exceedances. The report describes the near-mouth PHC impact as potentially related to mill/BHETF operations. The source attribution is not proven; the spatial extent remains unresolved.
+
+**Blindspot:** the EIS Volume III public-comment response says the Proponent did not plan cleanup from Amherst to Cape George because it considered the broader Strait not impacted by BHETF. That geographic conclusion must be reconciled with the localized near-mouth PHC exceedances and the original sample coordinates/analytical certificates. The five background points are not a whole-Strait baseline.
+
+### 12.2 The Supplemental Phase II ESA did not sample the Strait water column or marine biota
+
+The Supplemental Phase II field program collected one stream sample east of the containment-cell overflow pond and five background surface-water samples from Chance Harbour Lake. It did not collect new Northumberland Strait water-column or biota/tissue samples. Table 4.10 compiles earlier Phase II and Supplemental Phase II findings and lists Northumberland Strait surface-water metals (boron/cadmium), cyanide and chloride; these must be traced to their original Phase II sample IDs and dates rather than attributed to the supplemental field program.
+
+**Blindspot:** sediment samples at the mouth plus a small set of background sediment points do not establish current contaminant concentrations in water, suspended particulates, lobster, rock crab, shellfish, fish, eelgrass or benthic organisms.
+
+### 12.3 Pipeline corridor sampling was deferred
+
+The Supplemental Phase II ESA records that ten boreholes, one hand-auger sample and eight sediment samples along the pipeline corridor were not collected because the pipeline remained operational and sampling risked damaging it. A separate assessment was promised after shutdown in January 2020.
+
+**Blindspot:** the post-shutdown pipeline investigation and all associated soil, sediment, groundwater, surface-water and removal/disposal records must be located. Do not assume the deferred investigation was completed merely because the pipeline was later removed.
+
+### 12.4 Analytical reporting limits can mask exceedances
+
+The 2018 Laboratory Treatability Study reports treated-water non-detects at reporting limits higher than the comparison criteria (cyanide <10 µg/L vs 1 µg/L; mercury <0.2 vs 0.016 µg/L; lead <50 vs 2 µg/L; zinc <50 vs 10 µg/L; selenium <100 vs 2 µg/L). Those results cannot demonstrate below-criterion concentrations.
+
+The same study found PCDD/PCDF TEQ above the sediment criterion in Boat Harbour and ASB Geotube solids even where selected leach tests were below the chosen leachate threshold. Total solid-phase concentration and leachability are different endpoints.
+
+**Blindspot:** future data review must compare each laboratory reporting limit with the applicable criterion, preserve qualifiers, distinguish dissolved/total fractions, and obtain original lab certificates. “ND” is not equivalent to zero or below the criterion when the reporting limit is higher.
+
+### 12.5 Key source appendices and lab certificates are missing from accessible copies
+
+The Supplemental Phase II ESA's Appendix D is labelled “Laboratory Analytical Certificates (To be provided with final)” in the accessible PDF; the certificates are not present, although the main report says they are included. Appendix C's QA/QC memo concludes the data are acceptable with qualifications, but identifies estimated results, TCDF above calibration range and some duplicate variability. The memo header identifies Phase II ESA report no. 6 while its subject identifies the Supplemental Phase II ESA; this is a version/metadata point to verify.
+
+**Blindspot:** obtain the complete lab certificates, data validation files, sample-level dataset, qualifiers, detection limits, field sheets and chain-of-custody records before independently relying on the reported exceedances or non-detects.
+
+### 12.6 The 2018 design changed materially by the 2020 EIS
+
+The 2018 RODD selected full ex-situ removal of approximately 263,000 m³ of wetland sludge/root mass over about 38 ha, low-tech bulk-water treatment, off-site leachate disposal and clean/inspect/abandon-in-place for the pipeline. The 2020 EIS later described risk-based natural attenuation in wetlands below risk criteria with active hotspot removal, natural attenuation for bulk water, temporary on-site leachate treatment during remediation, and full pipeline removal after PLFN's preference was incorporated.
+
+**Blindspot:** trace the evidence and decision record for each change: HHERA exposure assumptions, revised sediment delineation, water-quality trend data, cost/risk tradeoffs, PLFN comments, regulator direction, and pilot-test results. The changes must not be described as purely technical improvements without the decision trail.
+
+### 12.7 Waste-volume estimates use different material definitions
+
+The 2020 EIS gives 634,000 m³ for Boat Harbour sludge/sediment. The SCG/WSP Sludge Thickness Determination presentation reports 271,000 m³ competent sludge and 400,500 m³ competent sludge plus transition zone. The latter is a combined total, not an additional volume. The 2020 EIS also gives 1.39 million m³ unconsolidated site-wide material and 770,000–922,400 m³ after consolidation/dewatering; wetland volumes differ depending on whether root mass is included.
+
+**Blindspot:** build a reconciled volume ledger with exact polygons, survey dates, bathymetry, transition-zone definitions, material density/solids content, wet/dry basis, and whether volumes include wetlands, ASB, settling basins and existing cell contents. Do not label these numbers contradictory until the bases are harmonized.
+
+### 12.8 LIF/EC is a mapping proxy, not a universal chemical detector
+
+The SCG/WSP presentation describes LIF fluorescence associated with PAHs/free-phase petroleum hydrocarbons and electrical-conductivity profiling. It says signals can distinguish material/structural differences and recommends coupling LIF/EC with chemical analysis for semi-quantitative interpretation.
+
+**Blindspot:** do not assume LIF/EC can identify or quantify metals, cyanide, dioxins/furans, PFAS or all contaminants. Any use for remediation verification requires matrix-specific calibration, laboratory ground truth, uncertainty/false-negative analysis and a defined decision threshold.
+
+### 12.9 BHEAC membership and independent oversight need separate treatment
+
+The 2016 BHEAC terms are a draft and explicitly advisory/non-regulatory. The 2020 EIS says the terms were revised, membership expanded and IAAC attended as observer from September 2019; it also identifies GHD as both NSLI's principal consultant and a BHEAC participant.
+
+**Blindspot:** obtain the revised Appendix I terms, Appendix M action list, agendas, minutes, attendance records, advice, responses and action closure evidence. Committee participation or meeting frequency is not proof of independent oversight, PLFN consent or adoption of recommendations.
+
+### 12.10 Full-scale pilot and HHERA remain direct-source blockers
+
+The original 580-page GHD Pilot Scale Testing Construction Report is linked through Google Drive but was not directly accessible; its performance figures remain attributed to BGC's 2021 ETR. Appendix A / HHERA (137871E, 154 MB) and Appendix C / public meeting minutes (137873E, 401 KB) were located but their official PDF endpoints timed out.
+
+**Blindspot:** do not treat BGC's selected pilot quotations as a substitute for the full report and appendices, and do not treat IAAC's 2025 HHERA summary as a substitute for the original HHERA calculations, exposure assumptions and lab data.
