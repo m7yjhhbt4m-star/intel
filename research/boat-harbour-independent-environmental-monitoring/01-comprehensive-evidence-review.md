@@ -1038,3 +1038,19 @@ Evans writes that the Province wished to transfer the bulk of the lands to PLFN,
 The 1997 letter is a snapshot of the terms and intentions understood at that time. It must be read alongside the 2001 PLFN/Kimberly-Clark MOU, 2002 lease extension, 2006 extension and 2008 closure commitment. Those later instruments materially changed the timetable and operational arrangements. The 2002 lease extension expressly extends the lease term to 35 years from 31 December 1995 (to 2030), while the 2001 MOU contemplated a staged closure and pipeline. The 1997 statement that the existing licence had no extension provision does not mean the arrangement was never later amended.
 
 **Outstanding:** full 1995 PLFN–Province agreement; 1995 Province–mill MOU, lease, licence and indemnity; OIC 96-621 Schedule A; 1 October 1997 Ross letter; registered land-transfer instruments; 2001 MOU; 2002 lease extension; 2006 extension; and proof of what lands were actually conveyed. The precise scope of the 25-year water-supply agreement must be distinguished from the separate effluent-treatment operating agreement.
+
+
+
+## 33. 2002 lease extension — 2030 term and proposed C–D pipeline easement
+
+The scanned 2002 Lease Extension Agreement between Nova Scotia and Kimberly-Clark (BH-149) has now been reviewed. It amends the original 31 December 1995 lease to a 35-year term beginning 31 December 1995, extending the lease to 31 December 2030. It also provides for an easement for a pipeline carrying effluent from Point C to a point near Point D, with the final easement location to be fixed after detailed engineering design and then registered.
+
+This is the legal/contractual mechanism behind the 2001 staged-closure proposal: wastewater from the aerated stabilization basin was to bypass the main stabilization lagoon and be conveyed through a pipeline toward the Northumberland Strait, allowing the lagoon to be cleaned and returned toward tidal conditions while some facility components remained in operation.
+
+**What it proves:** the Province and Kimberly-Clark executed a lease extension to 2030 and contemplated a C–D pipeline easement. **What it does not prove:** that the final easement was registered, the pipeline was built, the stabilization lagoon was cleaned, or the staged remediation was completed.
+
+### Date discrepancy
+
+The agreement's opening line appears to say it was made on 7 August 2002, while PLFN's 2014 tab index labels it 22 October 2002. The scan also has Pictou Registry stamp/reference information. Confirm the execution date, registration date/document number and registered easement against the original Registry of Deeds instrument and plan.
+
+The next critical evidence is the 2001 MOU, the full lease/licence/indemnity schedules, the 2006 amendment extending the pipeline deadline, and the engineering record explaining why the proposed C–D pipeline was not advanced.
