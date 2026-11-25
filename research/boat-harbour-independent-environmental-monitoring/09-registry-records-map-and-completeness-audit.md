@@ -676,3 +676,15 @@ PLFN states it does not consent to long-term use/expansion of the existing cell;
 ### Related primary oral-history source
 
 Castleden et al. (2017), *“Put It Near the Indians”*, full nine-page article text reviewed via an accessible full-text copy; see BH-127. The study is co-authored with the Pictou Landing Native Women's Group and reports oral histories from 10 Elders. The article says the recorded interviews remain in the group's hands under OCAP® principles. The paper is public; the underlying archive is not. Documentary reuse of raw recordings/transcripts requires PLFN/Native Women's Group direction and permission.
+
+
+
+## 25. Lewis et al. (2020) cancer-registry paper — full-text review — 25 November 2026
+
+- **Source:** Lewis, Castleden, Apostle, Francis & Francis-Strickland, *Governmental Fiduciary Failure in Indigenous Environmental Health Justice: The Case of Pictou Landing First Nation*, International Journal of Indigenous Health 15(1), 61–72, DOI 10.32799/ijih.v15i1.34085.
+- **Located/opened:** Yes — original 12-page PDF opened from the University of Victoria repository; full text reviewed.
+- **Repository record:** BH-128 added to `05-source-register-and-evidence-quality.md`.
+
+The paper uses 2013 Canadian Cancer Registry microdata to identify 55 diagnoses among people residing on PLFN reserve subdivisions at diagnosis during 1992–2013. It reports category proportions higher than comparison populations for digestive, respiratory, male genital and urinary cancers, and lower for breast/female genital cancers. The table reports proportions of diagnoses, not population-based age-standardized incidence rates; it provides no person-time denominators, confidence intervals or adjusted risk estimates. It excludes off-reserve members at diagnosis and does not link individual exposure to cancer. It does not establish that Boat Harbour or mill emissions caused cancer. The authors call for further in-depth research and updated data.
+
+The paper provides a source trail for JEHMC, CanTox (1997), the Dillon review (2008) and the 2015 JEHMC report. JEHMC must be kept distinct from BHEAC. Legal claims in the paper about the 1995 settlement Act should be checked against the actual Act and settlement agreement.
