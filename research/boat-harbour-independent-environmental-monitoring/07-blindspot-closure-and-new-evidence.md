@@ -373,3 +373,22 @@ The full Chaudhary et al. (2020) paper (BH-030) has now been reviewed. It provid
 - **Post-remediation issue:** the authors warn that tidal reconnection could allow Strait water to flow into Boat Harbour and potentially remobilize residual mercury; they recommend more detailed MeHg investigation in and around Boat Harbour and periodic sediment/biota monitoring after remediation.
 
 **Remaining limitations:** the paper is a near-field baseline, not a whole-Strait survey or direct assessment of the Boat Harbour basin. It did not sample water-column chemistry, suspended sediment, every fish/shellfish species or all contaminant classes; MeHg was measured in selected tissue samples. Raw sample-level data and lab certificates are still needed. The article discloses a Nova Scotia Lands grant and NSERC funding and declares no known competing interests; preserve that provenance without assuming the funding invalidates the peer-reviewed results.
+
+
+
+## 14. 2025 Annual Report: no federal follow-up monitoring implemented in 2025; Condition 9 records remain missing
+
+Build Nova Scotia's 2025 Annual Report (BH-123) states that the Project remained in pre-construction during 24 January–31 December 2025 while PLFN's judicial review was ongoing. The Proponent reports that no Decision Statement follow-up programs were developed or implemented during 2025, no monitoring/sampling was conducted under those programs, and no Indigenous monitors or third-party independent environmental monitor had been retained.
+
+**Important qualification:** many plans and monitoring roles are triggered before site preparation or during remediation. The annual report's status does not, by itself, establish a breach. It does establish that no federal follow-up program implementation or independent/Indigenous monitoring under the Decision Statement occurred during the 2025 reporting period.
+
+**Condition 9 progressed:** the Alternative Site Advisory Committee was established with PLFN, its Terms of Reference were executed by both parties, it met on 20 November and 18 December 2025, and a candidate site was selected for feasibility analysis with the design engineer/general services consultant engaged. The Proponent says a separate report was submitted to IAAC on 22 January 2026 stating no technically and economically feasible alternative had yet been identified, although a candidate remained under analysis. The Committee continues under condition 9.1.5 because no feasible site was identified within one year.
+
+**New high-priority records to recover:**
+- The executed Alternative Site Advisory Committee Terms of Reference, including consensus/dispute-resolution provisions and PLFN co-lead arrangements.
+- Agendas, minutes, attendance, site-selection criteria, candidate-site list and records of how PLFN-proposed sites were assessed.
+- The separate 22 January 2026 Condition 9.1.4 report submitted to IAAC.
+- The design engineer/general services consultant's feasibility analysis, technical assumptions, cost estimates, environmental constraints, groundwater/hydrogeology, access and cultural-use considerations.
+- IAAC's response, review comments or determination concerning the 22 January submission.
+
+The 2025 Annual Report does not name the candidate site or reproduce the above records. A search of publicly indexed project/IAAC material in this pass did not locate the separate report or executed Terms of Reference. That is a public-document retrieval gap, not proof the documents do not exist. The annual report is a Proponent self-report and should be cross-checked against IAAC correspondence and PLFN records.
