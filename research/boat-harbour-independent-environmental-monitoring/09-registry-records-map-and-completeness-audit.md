@@ -283,3 +283,22 @@ The 24 January 2025 IAAC Decision Statement (document reference 73) is the contr
 
 The PDF includes a 2017 GHD memorandum and an attached KMKNO ancestral-remains protocol marked “Privileged and Confidential” and carrying a confidentiality notice. Its presence is recorded, but the protected protocol content and contact details are not reproduced in the repository summary. Any further treatment must respect Mi’kmaq research governance and confidentiality.
 
+
+
+
+## 13. Appendix A HHERA retrieval status and IAAC assessment cross-check — 25 November 2026
+
+### IAAC EIS Appendix A — document 137871E, Human Health and Ecological Risk Assessment
+
+- **Located:** Yes — the official EIS index identifies Appendix A as *Human Health and Ecological Risk Assessment*, 154 MB.
+- **Opened and reviewed:** No. The official PDF endpoint timed out on direct retrieval. The size/access failure is not evidence that the document is absent.
+- **Repository status:** Original Appendix A remains unreviewed. No detailed HHERA findings are attributed directly to the PDF.
+- **Required next step:** Obtain a working copy/alternate official representation of the complete Appendix A and review its sample datasets, species and tissues, COPC screening, exposure scenarios, assumptions, uncertainty factors, calculations, SSTL derivation, and appendices. Reconcile the calculations against Health Canada's technical comments and the final provincial remedial objectives.
+
+### IAAC 2025 Environmental Assessment Report — document 161580
+
+- **Located:** Yes — official IAAC registry report, January 2025, document reference 71.
+- **Opened and reviewed:** Yes — the official HTML representation was opened and substantive sections on HHERA, groundwater, sediment remediation, country foods and health follow-up were reviewed. The linked 3.1 MB PDF endpoint timed out in this pass; the binary PDF itself was not directly opened.
+- **Repository record:** Expanded review note added to existing source BH-029 in `05-source-register-and-evidence-quality.md`.
+- **Important findings from IAAC's synthesis:** Health Canada and Nova Scotia Environment and Climate Change challenged the Proponent's screening-out of potable groundwater; IAAC agreed the potable groundwater pathway should not have been deemed inoperable under the provincial contaminated-sites framework. Health Canada raised concerns about screened-out country-food pathways, including shellfish, and possible bioaccumulation/biomagnification; it recommended extending monitoring beyond the estuary in light of suspended sediment and potential Northumberland Strait transport. Health Canada also questioned exposure-point-concentration-based delineation because hot spots could remain and sediment removal to statistical targets is imprecise. IAAC said the proposed SSTLs could reduce but might not eliminate risks, and uncertainty remained whether they were fully protective.
+- **Attribution caution:** These are IAAC's descriptions of the Proponent's HHERA and of comments from Health Canada, Nova Scotia Environment and Climate Change and PLFN. They are not a substitute for reading the original HHERA or its underlying data. Do not claim the original HHERA calculations have been independently reproduced.
