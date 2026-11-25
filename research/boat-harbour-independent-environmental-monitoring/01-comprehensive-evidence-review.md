@@ -945,3 +945,38 @@ These are PLFN's summaries of the consultants' reports, not verified current-dol
 ### 29.2 Date and source-record corrections
 
 The PDF cover page says “March 21, 2013,” but the signed/dated cover letter inside the document is dated March 21, 2014. Use 21 March 2014 provisionally and retain the cover-page discrepancy in the source metadata. The body also says a B.G. Clench memorandum/Band Council Resolution was dated 22 October 1995, while the index identifies Tab 2 as a B.G. Clench memorandum dated 22 October 1965. Both discrepancies require checking against the original correspondence.
+
+
+
+## 30. February 12, 1991 Leefe letter — written provincial closure and restoration commitment
+
+The original two-page letter from Nova Scotia Environment Minister John C. Leefe to federal Minister Thomas Siddon, dated 12 February 1991 (BH-144), has now been reviewed in its scanned form as Tab 18 of PLFN's 2014 submission.
+
+### What the Minister confirmed
+
+The letter states that the wastewater facility had raised Boat Harbour's water level by approximately nine feet and that this caused encroachment on three parcels of Indian Reservation land. It says the Province learned of the encroachment in September 1990.
+
+The Minister records commitments made in November 1990:
+1. Subject to the stated qualification, discontinue use of Boat Harbour as a wastewater treatment facility.
+2. Return Boat Harbour's waters to their naturally tidal fluctuating regime.
+3. Restore the then-exposed shoreline and alterations within Boat Harbour to their original condition, or as close as reasonably possible.
+4. Complete the work in an approximate five-year period.
+
+The letter explains that five years was needed to design, assess and construct an alternative facility to handle mill wastewater without a mill shutdown and resulting layoffs involving as many as 2,100 Scott Maritimes employees and contractors. It says the commitments were made on behalf of the Province by Robert Porter to Robert Anderson and PLFN lawyer Tony Ross. Leefe writes that the Department fully intends to honour them and expects the need for further action by Canada and PLFN to be put to rest so remedial measures can continue.
+
+### Significance and limits
+
+This is a contemporaneous written ministerial confirmation of provincial closure and estuary-restoration commitments. It is stronger evidence than a later recollection or summary. It is not, however, a signed agreement with PLFN, a court order or proof of completed performance. The original November 1990 meeting record, supporting land/elevation surveys, September–October 1990 correspondence and the legal form of the underlying commitment still need to be recovered.
+
+The “approximately nine feet” statement should be checked against original survey datums, parcel boundaries and historical water-level measurements. It is a ministerial statement in a letter, not a substitute for a surveyed elevation comparison.
+
+### Timeline to test against the original documents
+
+- **1990–1991:** Province acknowledges encroachment and confirms a five-year plan to stop using Boat Harbour for wastewater treatment and restore tidal conditions.
+- **1993:** Canada–PLFN settlement is later described by PLFN as having been reached in part on the strength of the Province's closure commitment; the settlement itself must be read to determine its actual terms and whether it incorporates or relies on the letter.
+- **1995:** Province and PLFN enter a later agreement that PLFN describes as postponing closure to 31 December 2005 in exchange for interim commitments.
+- **2001/2002:** proposed two-stage closure and lease extension to 2030.
+- **2006:** deadline extension to 31 December 2008.
+- **2008:** Province again confirms it will find another discharge location and clean up Boat Harbour.
+
+The sequence raises a central documentary question: how the original five-year closure/restoration commitment was amended, deferred, replaced or reaffirmed by each subsequent agreement. Do not describe the later dates as a simple continuation without examining the actual operative clauses, conditions precedent, defaults, amendments and signatures.
