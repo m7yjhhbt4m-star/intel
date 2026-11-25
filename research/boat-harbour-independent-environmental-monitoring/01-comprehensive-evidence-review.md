@@ -613,3 +613,22 @@ The 2020 EIS records PLFN opposition to leaving/expanding the on-site containmen
 - Supplemental Phase II Appendix D laboratory certificates: the accessible PDF marks them “to be provided with final” and does not contain them.
 
 The project remains a substantial but incomplete desk review. “Located,” “opened,” “substantively reviewed,” “partially reviewed,” and “not reviewed” remain separate statuses.
+
+
+
+## 18. Full-text review of the 2020 Northumberland Strait marine baseline paper — 25 November 2026
+
+The full nine-page Chaudhary, Walker, Willis and Oakes (2020) paper has now been opened and reviewed; this supersedes the earlier abstract-only status in Section 16.3. See source BH-030.
+
+The study sampled 16 stations on two transects extending approximately 8 km northeast and 7 km north from the estuary mouth. It analyzed 12 surficial sediment samples collected in July 2018 and July 2019, 13 adult lobster samples (including field duplicates), 13 composite rock-crab samples, and blue mussels from eight stations. Sediment and whole-body tissue were tested for metals and dioxins/furans; methylmercury was tested in selected near- and far-field tissue samples.
+
+**Findings:**
+- Sediment metals were below CCME ISQG and PEL values; total mercury in sediment was below the 0.05 mg/kg detection limit. Sediment dioxin/furan concentrations were below CCME ISQG values.
+- Six whole-body lobster/rock-crab tissue samples had methylmercury concentrations of 37.3, 53.4, 41.8, 47.2, 57.5 and 39.5 ng/kg, above the 33.3 ng/kg CCME tissue-residue guideline for protection of wildlife consumers of aquatic biota.
+- This 33.3 ng/kg value is a wildlife-consumer tissue-residue guideline, not a CFIA human seafood-consumption threshold. Do not imply that the paper establishes a human seafood advisory or human-health risk.
+- Arsenic concentrations in lobster and rock crab exceeded the CFIA tissue guideline at sampled stations; the authors considered regional natural arsenic a likely explanation. Lead exceeded the CFIA value at one rock-crab station (CN3), with the cause unresolved.
+- Blue-mussel tissue results were below the applicable tissue-residue guidelines; dioxins/furans in the three sampled marine biota species were below detection.
+
+**Interpretation and limits:** The authors concluded there was limited evidence of industrial-effluent impact on the sampled Strait sediments/biota and low risk to marine biota, but explicitly recommended more detailed methylmercury investigation in and around Boat Harbour and periodic sediment/biota monitoring after remediation. They warned that after tidal reconnection, Northumberland Strait water flowing into Boat Harbour could potentially remobilize residual mercury. The MeHg source was not determined; the authors noted that MeHg had not previously been tested in Boat Harbour biota, water or sediment.
+
+This is a useful near-field marine baseline, not a whole-Strait survey and not a direct assessment of the Boat Harbour basin. It does not measure the water column, suspended sediment, all fish/shellfish species, or all contaminant classes. MeHg was tested in selected tissue samples, and the raw lab certificates/sample-level data are still needed for independent reanalysis. The article disclosed funding from a Nova Scotia Lands grant and NSERC and declared no known competing interests. The disclosed funding should be retained in the provenance record; it does not by itself invalidate the peer-reviewed findings.
