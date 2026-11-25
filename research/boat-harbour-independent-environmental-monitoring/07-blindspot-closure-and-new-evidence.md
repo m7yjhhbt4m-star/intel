@@ -785,3 +785,16 @@ Two important documents have been located but not yet read from their original s
 - **2008 Accommodation Agreement (BH-169):** two-page document dated 31 December 2008. The 2010 PLFN Statement of Claim and 2020 Montgomerie affidavit say it was entered into and that PLFN agreed not to oppose a temporary licence extension to 31 January 2009. Signal's archival description says it was proposed by Northern Pulp but not accepted by the Band and that an advance was returned by PLFN's lawyer.
 
 The status conflict must be resolved from the signed original, drafts, covering letters, lawyer correspondence, proof of payment/return, and any Band Council resolution. Determine whether the agreement was signed, conditionally accepted, rejected, or superseded. Do not describe the non-opposition undertaking as effective or ineffective until this is established.
+
+
+
+## 37. 2015 Bill 89 submissions: verify competing claims and PLFN's monitoring requests
+
+The 2015 submissions by Northern Pulp (BH-170), KSH Solutions (BH-171) and PLFN (BH-172) identify competing claims and a concrete set of monitoring requests.
+
+Priority verification:
+- Northern Pulp's claim that the facility met federal regulations: obtain full PPER reports, daily/weekly data, EEM raw data and non-compliance notices; federal limits do not cover every contaminant or community endpoint.
+- KSH's 18–30 month outfall approval and 4–6 month startup assumptions: compare with actual EARD, federal EA, permits, construction and commissioning schedule.
+- PLFN's request for source-separated air monitoring, odour juries, community health baseline and accessible environmental communications: trace each through the 2015 IA, consultation record, final EARD, 2020 decision conditions and actual monitoring implementation.
+- PLFN's ambiguous statement about no 2001 MOU payments after 2008 versus payments under subsequent agreements: obtain ledgers, subsequent agreements and bank records.
+- Bill 89 section 4 and contractual-rights arguments: compare Northern Pulp's advocacy with the final Boat Harbour Act, 2018/2019 consultation judgments, and any contractual litigation outcomes.
