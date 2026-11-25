@@ -484,3 +484,14 @@ The agreement extends the 31 December 1995 lease to a 35-year term ending 31 Dec
 The report's “not likely significant” conclusion is conditional on implementation of mitigation, follow-up and monitoring conditions. It acknowledges high-magnitude, long-term mental-health and cultural/traditional-use effects while the containment cell remains, and says PLFN is unlikely to resume hunting, trapping, gathering or cultural use in the site study area until the waste is removed and the cell decommissioned. Relocation is subject to finding a suitable site and later approvals, permits and appropriations.
 
 The marine study area is not Strait-wide: marine LSA is within 500 m of the Pictou Road shoreline and underwater pipeline; marine RSA is the Strait segment from the east side of the Confederation Bridge to the eastern coast of PEI. IAAC assumes PLFN continues to lead on behalf of the Mi'kmaq of Nova Scotia for some arrangements but notes Membertou, Millbrook and Sipekne'katik consult independently of KMKNO. The report says pipeline removal was completed without identified adverse archaeological/environmental effects; 2019 GPR anomalies could be burials but exact locations were not identified.
+
+
+
+## 27. 2020 Montgomerie affidavit and joint 1954–2005 chronology
+
+- **BH-150:** Duff MacKay Montgomerie affidavit, sworn July 22, 2020, Supreme Court of British Columbia CCAA proceeding S206189; full affidavit and exhibits reviewed.
+- **BH-151:** Exhibit A, *Boat Harbour Chronology of Events 1954–2005, Final Version*, prepared by Nova Scotia, PLFN, Canada and Neenah; full extracted chronology reviewed.
+
+The affidavit provides the Province's account of the 1965/1970 agreements, 1995 MOU, 2001 PLFN MOU and July 2002 referendum, October 22 2002 lease extension, 2004/2008 transfers, 2006 extension, 2008 Accommodation Agreement, 2014 AIP, Boat Harbour Act and later events. The joint chronology documents technical modifications from 1972 through 2005, including settling basins, ASB, disposal cell, IR37, sediment testing, 2003 Sediment Management Plan, 2004 dredging/dewatering pilot and pipeline/tidal-restoration planning.
+
+**Outstanding primary records:** 1972 engineering design/as-builts; 1992 integrated environmental characterization; 1995–99 sediment and IR37 studies/lab data; 2003 Sediment Management Plan; 2004 pilot-scale dredging/dewatering report; CBCL pipeline/diffuser design; draft 2004 screening EA; and all monitoring results/decision records. The joint chronology itself is explicitly without prejudice, summary-only and not warranted complete/accurate; it is a retrieval roadmap, not a substitute for the underlying records.
