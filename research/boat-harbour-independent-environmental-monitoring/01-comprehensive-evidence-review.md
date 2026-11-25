@@ -1508,3 +1508,9 @@ The separate 7-page EXP memo (BH-167) divides additional work into proponent-ide
 EXP adds a specific lobster gap: test both larval and adult lobster for lethal and sublethal effects of the proposed treated effluent. It also calls for a sediment/erosion-control plan, construction monitoring, 1-in-100-year/24-hour spill-basin design storm, project bonding, and First Nations involvement in oversight of field implementation and monitoring. For air, it recommends an all-contaminant source inventory, broader AP-42 emission factors, assessment of co-combustion emissions and 10-minute odour averaging.
 
 The memo is a list of recommendations, not proof the work was not done. The next task is to build a condition-by-condition crosswalk against final EA decisions, later study reports and actual implementation evidence.
+
+
+
+### Correction to BH-165 provenance and pagination
+
+The ADI report's own cover and quality-system page show that it was prepared for **Pictou Landing First Nation**, not Northern Pulp, and that the report is dated **31 March 2011** (Draft, Revision 0). The RFP date was 24 May 2010. The report is approximately 50 pages, not 49. The source register has been corrected; all references should describe it as PLFN-commissioned.
