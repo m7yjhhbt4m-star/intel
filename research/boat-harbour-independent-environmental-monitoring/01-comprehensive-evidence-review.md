@@ -1654,3 +1654,57 @@ Other named participants:
 - **Dillon Consulting Ltd.** — environmental assessment consultant.
 
 The Hfx court file number is illegible in the reproduced scan. The affidavit alleges that fishing-boat operators prevented the October 23, 2018 survey; that allegation is not a court finding. The final injunction order/reasons, other party affidavits, hearing transcript, and any settlement/withdrawal record have not yet been located. The defendants' identities should be included in the historical people register only with this procedural context and without attributing the allegation as fact.
+
+
+
+## 47. January 2019 EARD Section 9 Human Health Evaluation — full 30-page review
+
+The full January 2019 Human Health Evaluation (HHE) in the EARD has now been reviewed (BH-034). It is important to describe it accurately: it is a qualitative screening/evaluation, **not a completed quantitative Human Health Risk Assessment (HHRA)**.
+
+### 47.1 The EARD's own limits and assumptions
+
+The HHE states that future treated-effluent chemistry was not known because the replacement plant had not been built or commissioned. It anticipated that future effluent would be better than current effluent and contain fewer/lower candidate contaminants. That is a design expectation, not measured performance.
+
+The report says that if an HHRA were required, candidate contaminants would first be screened using chemical properties, fate/behaviour and toxicology. It anticipated that this might reduce the candidate list to no contaminants requiring a full HHRA. It also says a robust screening process could be completed once future effluent chemistry was available. The EARD therefore deferred the decisive contaminant screening until after the plant was operating.
+
+### 47.2 What the 2018 effluent samples actually showed
+
+The HHE relies on historical EEM testing and 2018 Point A/C/D samples:
+- Treated Point C/D samples had measurable hydrocarbons, toluene, cyanide, mercury, other metals/metalloids and trace PAHs (fluoranthene, phenanthrene, pyrene).
+- Untreated Point A sample had measurable hydrocarbons, toluene, cyanide, metals/metalloids, phenol, o-cresol, a phthalate ester, chloroform, total trihalomethanes and trace PAHs.
+- Mercury and 2,3,7,8-TCDD/TCDF were **not tested** in the untreated Point A sample; the EARD says testing was not required under PPER.
+- The EARD describes most detections as low, near reporting/detection limits or within natural ranges. The raw laboratory certificates, reporting limits, blank corrections and full QA/QC must be examined before accepting those characterizations.
+
+The HHE says future treated effluent is expected to be better, but it also recognizes that the new treatment process and wood species/process changes could produce a different chemical profile. A prediction of improved effluent cannot substitute for full post-commissioning chemistry and independent verification.
+
+### 47.3 Human receptors and exposure pathways
+
+The HHE considers residents, workers, recreational users and consumers of marine foods, including PLFN. It discusses inhalation, drinking water, direct contact, fish/shellfish consumption and other exposure routes. However, it says community-specific consumption rates were unavailable. It refers to 89 PLFN participants in the First Nations Food, Nutrition and Environment Study (FNFNES) for some context; this is not the same dataset as the PLFN Native Women's Group's 2014 Environmental Health Survey (279 respondents).
+
+The HHE also relies on generic or regional exposure assumptions and historical EEM data. It does not provide a PLFN-specific quantitative exposure/risk estimate or integrate the community-defined environmental-health measures documented in the 2014 EHS paper (BH-129).
+
+### 47.4 Contaminant screening and legacy contamination
+
+The HHE draws on a 2006 Toxikos model and historical EEM testing to identify candidate contaminants. It gives particular attention to cadmium, mercury, selenium and PCDD/F, while suggesting some organics could be screened out due to the mill's elemental-chlorine-free (ECF) bleaching process and historical non-detects.
+
+The ECF conversion in 1998 may reduce generation of certain chlorinated by-products in current effluent. It does **not** demonstrate that legacy dioxins/furans or other contaminants previously deposited in Boat Harbour sediment, sludge or wetlands have disappeared. The HHE concerns future effluent and human exposure associated with the proposed new outfall; it is not a retrospective risk assessment of the historical Boat Harbour contamination footprint.
+
+### 47.5 What the HHE defers to future monitoring
+
+The HHE says that even if no final COPCs require an HHRA, marine monitoring would still be expected. It anticipates fish and shellfish tissue chemistry, pre-discharge baseline sampling, and post-construction/commissioning performance monitoring. It also says air emissions testing and ambient air monitoring would continue under the Industrial Approval, with a possible pilot test of co-combusting hog fuel and sludge.
+
+The proposed spill basin is described as 35,000 m³, providing 10–13 hours of storage at full production and lined with HDPE. Section 10 of the EARD treats accidents and malfunctions separately; the HHE itself is not a complete assessment of accident exposure.
+
+### 47.6 Independent assessment
+
+The 2019 EARD HHE should be understood as a preliminary qualitative evaluation that deferred final contaminant screening and quantitative risk assessment until future effluent chemistry and monitoring data became available. EXP's 2019 peer review (BH-166/BH-167) identified related concerns: the raw-effluent sample's broad contaminant detections, lack of guideline comparison, uncertain future chemistry, and the need for lobster larval/adult toxicity testing, broader monitoring and a stronger baseline.
+
+The central verification questions are:
+1. Was a full HHRA ever completed after the new plant design/effluent chemistry was finalized?
+2. Were the promised pre-discharge baseline and fish/shellfish tissue chemistry programs completed?
+3. What are the full analyte lists, lab certificates, detection/reporting limits, QA/QC and actual results?
+4. Were PLFN-specific food-consumption rates and the 2014 EHS/community-defined health indicators incorporated?
+5. Were contaminants excluded from the COPC list on defensible data, or because they were not required by PPER?
+6. Did the actual treated effluent meet the EARD's predicted quality, and was that independently verified?
+
+Do not summarize this HHE as “the health risk was assessed and found insignificant.” The report itself describes a qualitative evaluation and defers important work to later data and monitoring.
