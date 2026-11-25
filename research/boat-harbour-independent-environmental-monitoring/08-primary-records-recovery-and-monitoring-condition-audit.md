@@ -183,7 +183,7 @@ For a genuinely independent environmental investigation, the monitoring design s
 |---|---|---|
 | 2018 Supplemental Phase II ESA | **Partially recovered** — report readable; sample coordinates, depths, analyte matrix and selected results extracted | Full sample-level database, all lab certificates, QA/QC, complete coordinates for every medium and original GIS |
 | 2018 groundwater baseline | **Partially recovered** — EIS summary confirms 43 wells and 2018 sampling period; supplemental seven-well findings extracted | Complete time series, well logs, screened intervals, elevations, raw chemistry, hydraulic testing and 2020–2026 data |
-| 2020 marine baseline | **Substantially recovered at paper level** — design, station footprint, methods and MeHg exceedances extracted | Original individual lab certificates, full raw sample-level dataset, exact GPS coordinates and current repeat sampling |
+| 2020 marine baseline | **Full nine-page article text reviewed via an accessible full-text copy** — methods, station footprint, sediment results, tissue results, MeHg guideline exceedances and limitations | Original binary PDF not separately downloaded in this pass; raw sample-level data, lab certificates, full coordinates and current repeat sampling still needed |
 | 2018/2023 lobster baseline | **Partially recovered** — abstract-level results and study design | Full sample-level values, exact site coordinates, tissue definitions and raw lab certificates |
 | Pilot-scale dewatering/treatment | **Partially recovered** — BGC quotes key figures and critiques from the 580-page report | Complete 580-page GHD report, appendices, all lab results, flow logs, process records and complete leachate data |
 | 2014 pipeline spill | **Partially recovered** — event, approximate volume and enforcement finding confirmed | Full spill investigation, spill map, response sampling, cleanup/disposal and long-term follow-up |
@@ -268,3 +268,18 @@ This section supersedes earlier broad labels such as “partially recovered” w
 - The 2019 pilot report remains a direct-source blocker; all pilot performance figures quoted in this repo must remain attributed to BGC's 2021 ETR until the original is obtained.
 - The 2021 SCG/WSP presentation provides a headline volume result but not the full thickness report or raw LIF/EC/bathymetry data.
 
+
+
+
+## 13. 2020 Northumberland Strait marine baseline — full-text review status — 25 November 2026
+
+The full nine-page Chaudhary et al. (2020) article has been reviewed through an accessible full-text copy (Academia mirror) and cross-checked against PubMed and ScienceDirect metadata. The original binary PDF was not separately downloaded in this pass.
+
+- **Sampling footprint:** 16 stations along two transects approximately 8 km northeast and 7 km north from the estuary mouth; 12 sediment samples from July 2018/July 2019; 13 adult lobster samples (including field duplicates); 13 composite rock-crab samples; blue mussels at eight stations.
+- **Sediment:** metals below CCME ISQG/PEL; total mercury below 0.05 mg/kg detection limit; dioxins/furans below CCME ISQG.
+- **Methylmercury:** six whole-body lobster/rock-crab samples were above the 33.3 ng/kg CCME tissue-residue guideline for wildlife consumers of aquatic biota. This is not a human seafood-consumption threshold.
+- **Other tissue findings:** arsenic exceeded CFIA tissue guidelines in lobster/rock crab and was considered by the authors likely related to naturally elevated regional arsenic; one rock-crab station (CN3) had lead above the CFIA guideline with cause unresolved; blue mussels were below tissue-residue guidelines and dioxins/furans were below detection in sampled biota.
+- **Source attribution:** the study did not determine the source of MeHg and notes that Boat Harbour biota, water and sediment had not previously been tested for MeHg. It recommends further MeHg investigation in/around Boat Harbour and periodic sediment/biota monitoring after remediation because tidal reconnection could remobilize residual mercury.
+- **Limitations:** near-field baseline only, not whole-Strait or Boat Harbour-basin sampling; no water-column/suspended-sediment chemistry; selected tissue samples for MeHg; no raw sample-level dataset/lab certificates recovered.
+
+Repository source BH-030 was upgraded from abstract-level to full-text review. The earlier statement in this audit that only the abstract was accessible is superseded by this status update.
