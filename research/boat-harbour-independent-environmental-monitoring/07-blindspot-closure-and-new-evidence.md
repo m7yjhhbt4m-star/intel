@@ -924,3 +924,20 @@ The consolidated government-submissions PDF (BH-197) contains contemporaneous co
 - **Climate:** no operational climate adaptation plan; warmer water and project effects should be assessed together.
 
 The 17 December 2019 Minister decision and 2020 final ToR incorporate many of these concerns. Use BH-197 to build a requirement-by-requirement crosswalk: agency comment → proponent response → Minister decision → final ToR requirement → actual completion evidence. Since the project was withdrawn in 2021, do not assume the required work was ever completed.
+
+
+
+## 46. Direct review of the October 2019 Focus Report and appendices remains outstanding
+
+The official project page lists the 2 October 2019 Focus Report (18.1 MB) and more than 40 appendices (BH-198), but the PDF fetches for the main report and several small appendices returned cache misses in this pass. The 164-page government-submissions PDF (BH-197) has been reviewed in key agency sections and provides detailed criticisms, but it is not a substitute for reading the Proponent's actual Focus Report and appendices.
+
+Priority direct-review sequence:
+1. Appendix 9.2 HHRA and Appendix 4.2 Receiving Water Study;
+2. Appendix 4.3 Sediment Transport Modelling and Appendix 4.1 Marine Baseline;
+3. Appendix 2.3/2.4 raw and treated effluent characterization, plus 3.2 flow data;
+4. Appendix 3.4 spill basin, 3.5 leak detection and 3.6 dangerous goods;
+5. Appendix 6.2 air dispersion and 6.3 air monitoring;
+6. Appendix 7.3 marine fish impact and 7.4 EEM program;
+7. Appendix 10.1 archaeology and 11.1 MEKS (high-level review only, respecting PLFN governance and sensitive cultural information).
+
+The Minister found the Focus Report insufficient on 17 December 2019 (BH-194), and the final 2020 ToR required a complete EA Report. The project was withdrawn before that report was submitted. Do not infer that a Focus Report appendix or proposed monitoring plan was accepted, implemented or completed.
