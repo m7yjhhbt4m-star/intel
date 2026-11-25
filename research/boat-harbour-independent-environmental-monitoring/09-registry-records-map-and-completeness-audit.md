@@ -652,3 +652,27 @@ As at 31 December 2025, the annual report does not report new project-wide basel
 ### Limits and next records
 
 This is a conference presentation, not the full Sludge Thickness Determination report. It does not include the raw LIF/EC data, core-by-core chemical validation, laboratory correlation, GIS surfaces, uncertainty analysis or reproducible volume calculations. LIF is a proxy for optical signatures associated with some organic material/PAHs, not a universal contaminant assay and not a substitute for laboratory analysis of metals, dioxins/furans or PFAS. The full report linked from the official project Resources page remains inaccessible through the public Google Drive preview. Obtain the full report, raw profiles, core logs, lab data, QA/QC package, GIS/bathymetry and volume workbook before treating the two reported volume estimates as independently reproducible.
+
+
+
+## 24. IAAC contribution reference 52 — PLFN alternative-site and final-position attachments — 25 November 2026
+
+### Attachment 1 — PLFN Document Brief
+
+- **Source:** Pictou Landing First Nation, *PLFN Response to NS Technical and Economic Feasibility Assessment of Alternative Containment Cell Location Site — Document Brief*, 1 August 2023, 48 pages.
+- **Status:** Original PDF opened; substantive review of its 126-section chronology and source references completed.
+- **Repository:** BH-125 added to the source register.
+
+The brief provides a historical source roadmap from the 1965 meeting/handwritten agreement and 1966 OIC through 1970 technical investigations, 1990 fish kill, 1991 closure commitments, 1993 Phase II report, 1995 MOU and Evans/Ross correspondence, 1996 OIC, 2001 MOU, 2002 referendum, 2008 agreements, 2010 litigation, 2014 Agreement in Principle, 2015 Boat Harbour Act, 2020 closure, 2021 ASB sludge-transfer issue and 2023 alternative-site assessment. It identifies A.F. Wigglesworth, Chief Louis Francis and Councillor Martin Sapier in the 1965 meeting history, and provincial lawyer Greg Evans and PLFN lawyer Tony Ross in 1995 correspondence. All names and claims require verification against original records. The brief's quoted “small band of Indians” phrase must be checked in the complete 1965 record before documentary use.
+
+### Attachment 2 — PLFN Final Position
+
+- **Source:** Pictou Landing First Nation, *Final Position of Pictou Landing First Nation on Proposed Boat Harbour Remediation Project*, 23 April 2024, 54 pages.
+- **Status:** Original PDF opened; substantive partial review of legal/rights, consultation/accommodation and alternative-site sections completed.
+- **Repository:** BH-126 added to the source register.
+
+PLFN states it does not consent to long-term use/expansion of the existing cell; asserts Aboriginal title and Section 35 infringement; challenges consultation and accommodation; reports 98% opposition in the 2021 and 2023 referenda; and says Hive Engineering identified 109 Crown and 97 private parcels within 50 km (15 within 10 km) and nine siting-criteria exceedances at the Boat Harbour cell, while the Northern Pulp landfill met the criteria applied. These are PLFN submissions, not court findings or independent regulatory determinations. The full Hive report, siting criteria, referendum records, land-transfer documents and receiving-facility evidence remain outstanding. The submission has an internal 81,375 m³ / 89,375 m³ ASB sludge volume discrepancy requiring verification.
+
+### Related primary oral-history source
+
+Castleden et al. (2017), *“Put It Near the Indians”*, full nine-page article text reviewed via an accessible full-text copy; see BH-127. The study is co-authored with the Pictou Landing Native Women's Group and reports oral histories from 10 Elders. The article says the recorded interviews remain in the group's hands under OCAP® principles. The paper is public; the underlying archive is not. Documentary reuse of raw recordings/transcripts requires PLFN/Native Women's Group direction and permission.
