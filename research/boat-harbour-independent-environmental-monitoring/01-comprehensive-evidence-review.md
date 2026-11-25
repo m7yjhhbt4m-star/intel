@@ -980,3 +980,39 @@ The “approximately nine feet” statement should be checked against original s
 - **2008:** Province again confirms it will find another discharge location and clean up Boat Harbour.
 
 The sequence raises a central documentary question: how the original five-year closure/restoration commitment was amended, deferred, replaced or reaffirmed by each subsequent agreement. Do not describe the later dates as a simple continuation without examining the actual operative clauses, conditions precedent, defaults, amendments and signatures.
+
+
+
+## 31. The 1993 Canada–PLFN settlement and 1995 implementing statute — what can be verified so far
+
+The full *Pictou Landing Indian Band Agreement Act*, S.C. 1995, c. 4 (BH-145), and the relevant House of Commons debates of 12 December 1994 and 16 February 1995 (BH-146) have now been reviewed. The signed 20 July 1993 settlement agreement itself has **not yet been independently obtained and reviewed**; the following details are therefore separated by source type.
+
+### What the statute actually enacts
+
+The 1995 Act defines the “agreement” as the agreement concluded on 20 July 1993 between Canada and the Pictou Landing Indian Band. Section 3 provides that payments under the agreement are not Indian moneys under the Indian Act and that subsection 35(4) does not apply. Section 4 provides that Band-member claims arising from adverse effects referred to in section 13 of the agreement may only be made against the continuing compensation account and under the procedure in that section.
+
+The Act does **not** reproduce the agreement, set out its full release/assignment provisions, or establish that PLFN consented to permanent use of Boat Harbour. It does not impose a closure timetable on Nova Scotia or Northern Pulp.
+
+### What the federal parliamentary record says
+
+Government speakers described a $35 million settlement approved by a PLFN referendum of 141–25 on 5 July 1993. The described allocation was:
+- $8 million for individual compensation;
+- $9.725 million for a continuing compensation account for special individual claims;
+- $2.275 million for community projects/general impacts; and
+- $15 million for a community development trust fund intended to support relocation if needed.
+
+The parliamentary record also says the agreement provided for environmental and health monitoring programs, that Canada undertook to explore ways to address the environmental problem, and that the settlement separated resolution of PLFN's lawsuit against Canada from decisions about the future of the Boat Harbour treatment facility. Government speakers described a release of Canada from liability for past, present and future effects and an assignment to Canada of certain possible causes of action against Nova Scotia and Scott Maritimes. One speaker expressly stated that this did not mean there could never be claims against Nova Scotia or Scott Maritimes.
+
+### What remains unresolved
+
+PLFN's 2014 submission says the settlement did not surrender reserve lands or interests, did not authorize indefinite effluent discharge, and assigned certain causes of action to Canada under section 12; it says PLFN disputed the validity of those assignments in its later litigation. These are PLFN's legal submissions. The 1995 statute confirms only the provisions it actually enacts.
+
+The complete signed 1993 agreement and schedules are required to determine:
+- the exact release, indemnity, assignment and subrogation language;
+- the precise scope of section 13 and the continuing compensation account;
+- whether and how the agreement addressed environmental/health monitoring;
+- the exact federal undertaking to explore solutions;
+- whether any terms address land, riparian rights or continued use of Boat Harbour; and
+- how the referendum and ratification process was documented.
+
+**Do not describe the $35 million settlement as payment for surrender of Boat Harbour or as consent to permanent effluent discharge without the actual agreement and supporting legal record.** Equally, do not state that the settlement preserved every possible PLFN claim without examining its actual release and assignment clauses. The original contract is essential.
