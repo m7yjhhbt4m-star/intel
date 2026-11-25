@@ -688,3 +688,15 @@ Castleden et al. (2017), *“Put It Near the Indians”*, full nine-page article
 The paper uses 2013 Canadian Cancer Registry microdata to identify 55 diagnoses among people residing on PLFN reserve subdivisions at diagnosis during 1992–2013. It reports category proportions higher than comparison populations for digestive, respiratory, male genital and urinary cancers, and lower for breast/female genital cancers. The table reports proportions of diagnoses, not population-based age-standardized incidence rates; it provides no person-time denominators, confidence intervals or adjusted risk estimates. It excludes off-reserve members at diagnosis and does not link individual exposure to cancer. It does not establish that Boat Harbour or mill emissions caused cancer. The authors call for further in-depth research and updated data.
 
 The paper provides a source trail for JEHMC, CanTox (1997), the Dillon review (2008) and the 2015 JEHMC report. JEHMC must be kept distinct from BHEAC. Legal claims in the paper about the 1995 settlement Act should be checked against the actual Act and settlement agreement.
+
+
+
+## 26. Lewis et al. (2021) 2014 Environmental Health Survey paper — full-text review — 25 November 2026
+
+- **Source:** Lewis, Francis, Francis-Strickland, Castleden & Apostle, *If Only They Had Accessed the Data: Governmental Failure to Monitor Pulp Mill Impacts on Human Health in Pictou Landing First Nation*, Social Science & Medicine 288, 113184, DOI 10.1016/j.socscimed.2020.113184.
+- **Located/opened:** Yes — original 9-page PDF opened from University of Victoria repository; full text reviewed.
+- **Repository record:** BH-129 added to `05-source-register-and-evidence-quality.md`.
+
+The paper reports the 2014 PLFN Native Women's Group-led Environmental Health Survey: 279 respondents, 59% response rate, 13 community research assistants, 297 questions and more than 400 variables. It includes physical, mental, emotional and spiritual health measures and a community-defined indicator about whether the air, land and water around participants would hurt them. The authors report bivariate associations between environmental fear and self-rated health/depression and between racism and several health dimensions.
+
+The paper is cross-sectional and self-reported, not a clinical or causal environmental exposure study. The 2014 survey is not a pre-exposure baseline. Comparisons use different surveys/populations and the environmental-fear cross-tab has 126 complete cases. The paper presents only selected variables; supplementary data and the full questionnaire should be located with PLFN/NWG authorization. Raw individual data remain under community governance.
