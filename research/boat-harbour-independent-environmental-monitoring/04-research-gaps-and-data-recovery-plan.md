@@ -389,3 +389,8 @@ The 2015 Clean the Mill submission (BH-229) cites several technical records that
 ### Unidentified PLFN Tab 30 — earlier Boat Harbour sediment engineering report
 
 The 2015 PLFN legislative submission index (BH-198) lists a separate “Engineering report regarding sediments in Boat Harbour” as Tab 30 (BH-230), but provides no author, date or report number. It may be related to the user's WSP sludge-thickness report, but that identity is unconfirmed. Obtain the original Tab 30 document and compare its scope, methods, bathymetry, sediment thickness, geotechnical properties, contaminant chemistry and volume estimates with the 2019 WSP LIF/EC survey, 2018 Supplemental Phase 2 ESA and 2020 EIS.
+
+
+### 2010 AMEC and 2011 ADI relocation engineering reports
+
+The 2015 PLFN legislative submission index (BH-198) identifies two further consultant reports that are not in the 71-file inventory: AMEC's 21 April 2010 *Engineering Report on Costs of Relocating the Boat Harbour Treatment Facility* (BH-231, Tab 34) and ADI Inc.'s 31 March 2011 follow-up report (BH-232, Tab 35). These are distinct from the AMEC 2010 COD-performance comparison cited by Clean the Mill (BH-229). Obtain both complete reports, cost workbooks, site alternatives, design basis, receiving-water assessments, assumptions, and appendices. Compare their conclusions with the 2019 RAP, 2020 EIS alternatives analysis and 2024 PLFN alternative-site assessment to determine what options were considered, rejected, deferred or never costed.
