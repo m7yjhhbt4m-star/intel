@@ -519,3 +519,18 @@ This is important evidence of the intended project and funding arrangement, but 
 - the Water Authority's supporting technical, environmental and financial papers.
 
 Do not say the 6 April recommendation itself legally authorized effluent discharge. It recommended authorization; the final decision instrument must be verified. Also do not conflate the provincial water-supply/reservoir approval with the federal riparian-rights OIC or the later operational authorization for the wastewater treatment facility.
+
+
+
+## 22. PLFN 2014 submission exposes a high-value 1965–2011 archive still to recover
+
+PLFN's March 21, 2014 submission (BH-143) indexes 35 tabbed records. The source index is a research roadmap, not proof that every attachment is legible or independently verified. Several primary sources remain unreviewed or only partially OCR-readable:
+- 1965 meeting/consent: Shubenacadie Indian Agency memo (26 Aug 1965); W.A. MacDonald memo (9 Sep 1965); B.G. Clench memoranda (14 Sep and 22 Oct 1965); W.P. McIntyre letter (14 Oct 1965); handwritten agreement signed by Chief Louis Francis and Councillor Martin Sapier (10 Oct 1965).
+- 1966 federal OIC (2 Sep 1966), including all conditions and schedules; 1966 Joseph B. MacDonald letter.
+- 1970 Health Canada and Fisheries reports; Rust Associates review and appendices; Dr. MacDonald, Henry Ferguson, New Glasgow Lions Club, Dr. Hirtle and later community correspondence.
+- 1991 Leefe closure/remediation letter; 1993 Canada–PLFN settlement; 1995 PLFN/Province agreement and Scott MOU; 1996 OIC 96-621; 1997 Ross/Evans correspondence.
+- Agra Simons (2000), 2001 MOU, 2002 lease extension, Boat Harbour sediment engineering report, 2006 extension, 2008 correspondence, AMEC (2010) and ADI (2011) relocation-cost reports.
+
+**Internal date discrepancy:** the 2014 submission's body says B.G. Clench's Band Council Resolution was around 22 October 1995, while its own index identifies Tab 2 as a B.G. Clench memorandum dated 22 October 1965. Verify the original memo and do not repeat the 1995 date as fact.
+
+**Priority:** recover and compare the 1965 handwritten agreement and all preceding/following memoranda before reaching conclusions about consent. Then recover the 1966 OIC and contemporaneous 1970 technical reports. The legal characterization of the 1966 OIC in the PLFN submission remains an argument until checked against the original instrument, Indian Act requirements at the time and court decisions.
