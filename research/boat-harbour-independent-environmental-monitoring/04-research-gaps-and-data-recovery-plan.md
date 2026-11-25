@@ -259,3 +259,10 @@ The report identifies a separate **22 January 2026 Condition 9 submission** stat
 6. any Condition 9.2 notice or project-change submission, and the current judicial-review docket/order.
 
 Do not describe the potential site as feasible or approved; the annual report says it was selected for feasibility assessment, while no technically/economically feasible alternative had been identified by the Condition 9 reporting deadline.
+
+
+### Supplemental Phase 2 ESA — analytical-data validation records still missing
+
+Although the 2018 Supplemental Phase 2 ESA's Appendix C data-verification memo says results were acceptable with qualifications, Appendix D (laboratory analytical certificates) is a placeholder stating “To be provided with final” and is not included in the accessible PDF. The memo reports six trip blanks and five field blanks (all non-detect), twelve field duplicate sets (most acceptable; variable results qualified as estimated), and 2,3,7,8-TCDF results above the maximum calibration range (qualified as estimated). This means the report's QA/QC conclusion cannot be independently reproduced from the accessible package alone.
+
+**Priority records request:** final Appendix D; Maxxam laboratory certificates and EDDs; chain-of-custody; method blanks; LCS/MS/surrogate recoveries; calibration records for TCDF; field duplicate results and qualifiers; and any revised/final analytical data package. Do not treat the memo's “acceptable” conclusion as equivalent to independent validation of the underlying certificates.
