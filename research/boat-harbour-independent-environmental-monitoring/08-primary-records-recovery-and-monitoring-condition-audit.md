@@ -472,3 +472,15 @@ The 1997 Evans letter describes proposed bulk land transfer subject to boundarie
 The agreement extends the 31 December 1995 lease to a 35-year term ending 31 December 2030 and provides for a pipeline easement to carry effluent from Point C to near Point D, with the final location to be determined by detailed engineering design and registered afterward.
 
 **Outstanding:** original registered instrument, Pictou Registry document number/date, final plan and easement; engineering design and permits; as-built evidence of whether the pipeline was built; 2006 extension; and engineering/decision records explaining why the C–D pipeline did not proceed. The agreement's opening date appears to be 7 August 2002, while the PLFN index says 22 October 2002; verify execution versus registration date.
+
+
+
+## 21. IAAC 2025 Environmental Assessment Report — full-text review — 25 November 2026
+
+- **Source:** IAAC, *Boat Harbour Remediation Project — Environmental Assessment Report*, document 161580.
+- **Direct source status:** Full 2,245-line report text reviewed from the official IAAC project page.
+- **Repository record:** BH-144 added to source register.
+
+The report's “not likely significant” conclusion is conditional on implementation of mitigation, follow-up and monitoring conditions. It acknowledges high-magnitude, long-term mental-health and cultural/traditional-use effects while the containment cell remains, and says PLFN is unlikely to resume hunting, trapping, gathering or cultural use in the site study area until the waste is removed and the cell decommissioned. Relocation is subject to finding a suitable site and later approvals, permits and appropriations.
+
+The marine study area is not Strait-wide: marine LSA is within 500 m of the Pictou Road shoreline and underwater pipeline; marine RSA is the Strait segment from the east side of the Confederation Bridge to the eastern coast of PEI. IAAC assumes PLFN continues to lead on behalf of the Mi'kmaq of Nova Scotia for some arrangements but notes Membertou, Millbrook and Sipekne'katik consult independently of KMKNO. The report says pipeline removal was completed without identified adverse archaeological/environmental effects; 2019 GPR anomalies could be burials but exact locations were not identified.
