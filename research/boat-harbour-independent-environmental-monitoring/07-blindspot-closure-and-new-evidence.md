@@ -503,3 +503,19 @@ IAAC's January 2025 EA Report says the Indian Cross Point-to-Highway 348 pipelin
 **Internal Boreas discrepancy:** the executive summary says PA-4 was GPR-surveyed; the detailed body says Potential Area 3/Grid 5 was selected. The PA-4 narrative and Grid 5 location descriptions also differ in their distance/direction from the access road. Obtain original field maps/data and author clarification before locating the anomalies on a public map.
 
 Do not claim the anomalies are human remains, and do not claim no burials exist because none were detected in four limited ROW grids. Exact burial-site information is sensitive; consult PLFN before mapping or disclosing it.
+
+
+
+## 21. 1966 authorization chain — recommendation located; final provincial decision still to verify
+
+The 6 April 1966 *Report for the Executive Council* (BH-142) is a one-page ministerial recommendation that the Governor in Council authorize the Nova Scotia Water Authority to dispose of Scott Maritimes Pulp Limited mill effluent into Boat Harbour, acquire all land required and charge certified costs to a dedicated “Waste Disposal Facility (Scott Maritimes Pulp Limited)” capital vote.
+
+This is important evidence of the intended project and funding arrangement, but it is not the final Executive Council instrument. The following must be recovered and compared:
+- the final provincial Order in Council / Executive Council minute approving the recommendation;
+- the separate 1965 OIC concerning the Middle River water-supply/reservoir scheme;
+- the 2 September 1966 federal OIC concerning riparian rights, its full conditions and schedules;
+- land expropriation/purchase records and survey plans;
+- the 1965 PLFN meeting minutes, Band Council Resolution, handwritten agreement and federal Indian Affairs correspondence;
+- the Water Authority's supporting technical, environmental and financial papers.
+
+Do not say the 6 April recommendation itself legally authorized effluent discharge. It recommended authorization; the final decision instrument must be verified. Also do not conflate the provincial water-supply/reservoir approval with the federal riparian-rights OIC or the later operational authorization for the wastewater treatment facility.
