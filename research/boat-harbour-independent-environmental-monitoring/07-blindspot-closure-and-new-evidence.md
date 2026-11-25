@@ -410,3 +410,15 @@ PLFN's statement that only one consultation meeting occurred before Cabinet's 9 
 Castleden et al. (2017), co-authored with the Pictou Landing Native Women's Group, has now been reviewed in full (BH-127). It documents 10 Elders' accounts of A'se'k as an all-season food, medicine, recreation, refuge and intergenerational teaching place, and their descriptions of changes after the mill. This is a qualitative oral-history study, not a contaminant study or epidemiological proof of a specific disease cause.
 
 The paper says the Native Women's Group vetted the findings and retains the recorded interviews under OCAP® principles. Publication of the article does not make the raw recordings/transcripts an open archive or grant permission for documentary reuse. Any request to use recordings, unpublished transcripts, names, images or quotations must be guided by PLFN and the Native Women's Group. Do not assume the ten Elders represent every PLFN member or every knowledge holder.
+
+
+
+## 17. Community cancer-registry analysis: important signal, but not causal or age-standardized
+
+The full Lewis et al. (2020) paper (BH-128) has now been reviewed. It used 2013 Canadian Cancer Registry microdata and geographic coding to identify 55 cancer diagnoses among people residing on PLFN reserve subdivisions at diagnosis during 1992–2013. The authors report higher proportions of digestive, respiratory, male genital and urinary cancers than comparison populations, and lower proportions of breast/female genital cancers.
+
+**Critical limitation:** the published table reports percentages of cancer diagnoses by category, not population-based age-standardized incidence rates. It provides no person-time denominators, age standardization, confidence intervals, statistical significance tests or adjusted risk estimates in the reported table. It excludes PLFN members living off-reserve at diagnosis and those who moved away; data were current only to 2013; no individual environmental exposure data were linked. The paper does not establish that Boat Harbour or mill emissions caused cancer.
+
+This is community-led evidence of a disparity signal and a serious historical failure to answer PLFN health concerns. Do not dismiss it; do not overstate it as causal epidemiology. Follow-up should be community-led and governed by PLFN, with updated cancer-registry data, appropriate denominators/age standardization, complete registered-member linkage where authorized, and culturally appropriate health indicators. Do not pursue identifiable health data outside appropriate governance and privacy controls.
+
+The paper also distinguishes the Joint Environmental Health Monitoring Committee (JEHMC, established in the 1990s) from the BHEAC (established in 2016). These committees must not be conflated. Its statement about the 1995 settlement Act's effect on Canadian liability requires review of the actual Act and settlement agreement before legal conclusions are drawn.
