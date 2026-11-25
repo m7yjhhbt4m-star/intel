@@ -554,3 +554,16 @@ The 2015 BHCC TOR also says the closure timeline and participation costs were ac
 EIS Appendix I's A'se'k News newsletter (2018) says formal consultation with Chief and Council on cleanup options began 19 April 2018 and lists 18 May 2018 as the response deadline. It says Phase I ESA was complete and Phase II was nearly complete, and lists baseline work on air, noise, birds/wildlife, plants/fish, fisheries outside Boat Harbour, groundwater/surface water and geology.
 
 **Blindspot:** retrieve the 19 April meeting record, the 18 May response, the 30 May PLFN letter and 23 August provincial response, plus subsequent minutes. These records are necessary to reconcile PLFN's statement that only one formal consultation meeting occurred before Cabinet approval with the Proponent's broader engagement chronology.
+
+
+
+## 23. Earlier relocation studies may materially change the alternative-site history
+
+PLFN's 2014 submission (BH-143) summarizes three pre-2022 alternatives:
+- Agra Simons (Feb 2000): mill-site treatment facility with a Lighthouse Beach pipeline, reported at about $60M.
+- AMEC (21 Apr 2010): mill-site facility and Lighthouse Beach pipeline, reported at about $94M.
+- ADI Inc. (31 Mar 2011): tertiary treatment reportedly as low as $7.8M and a claimed $12M pipeline-cost saving for a shorter discharge route into Pictou Harbour.
+
+These are not yet verified cost comparisons. Obtain and review the original reports. Extract design flows and loads, treatment technology, residuals/sludge handling, receiving-water and outfall assumptions, pipeline route/length, permitting, capital estimate class, contingencies, operating/lifecycle costs and price year. Determine why each option was rejected, deferred or not advanced, and compare the assumptions with the later 2022 Mount William assessment and 2023 Hive screen. Do not compare headline dollars until costs are normalized to a common scope, price year and design basis.
+
+Also preserve two date discrepancies in BH-143: cover page “March 21, 2013” versus internal letter dated March 21, 2014; and body “October 22, 1995” for the B.G. Clench memo versus index “October 22, 1965.” Both need original-record confirmation.
