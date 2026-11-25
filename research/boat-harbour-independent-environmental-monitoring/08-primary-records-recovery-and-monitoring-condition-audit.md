@@ -310,3 +310,13 @@ The annual report does not reproduce the candidate-site identity, executed ToR, 
 The 2023 brief and 2024 final position are primary sources for PLFN's stated position and historical account. They identify a number of records to recover: 1965 meeting record and handwritten agreement; 1966 OIC 1966-1669; 1970 agreement and technical reports; 1990 fish-kill documentation; 1991 closure/remediation commitment; 1993 Circle Two Phase II report; 1995 MOU and Evans/Ross correspondence; 1996 OIC 96-621; 2001 MOU; 2002 referendum records; 2008 accommodation/commitment agreements; 2014 Agreement in Principle; 2021/2023 referendum records; and the full Hive Engineering alternative-site report.
 
 Castleden et al. is the principal published oral-history source for the “before the mill” question. The article does not authorize access to or reuse of the underlying digital archive; PLFN/Native Women's Group direction and appropriate permission are required.
+
+
+
+## 16. Lewis et al. (2020) cancer-registry paper — full-text review — 25 November 2026
+
+- **Source:** Lewis, Castleden, Apostle, Francis & Francis-Strickland, *Governmental Fiduciary Failure in Indigenous Environmental Health Justice: The Case of Pictou Landing First Nation*, International Journal of Indigenous Health 15(1), 61–72, DOI 10.32799/ijih.v15i1.34085.
+- **Direct source status:** Original 12-page PDF opened and fully text-reviewed via University of Victoria repository.
+- **Repository record:** BH-128 added to source register.
+
+The paper uses 2013 Canadian Cancer Registry microdata and geographic coding to identify 55 cancer diagnoses among PLFN on-reserve residents at diagnosis during 1992–2013. It reports higher proportions in several broad cancer categories compared with other populations. The published table is a distribution of diagnoses, not an age-standardized population incidence analysis; it has no person-time denominators, confidence intervals or adjusted risk estimates. It excludes off-reserve members at diagnosis and does not link individual environmental exposure. It is not proof of causal attribution to Boat Harbour or mill emissions. The paper is important community-led evidence and calls for more in-depth studies and updated data.
