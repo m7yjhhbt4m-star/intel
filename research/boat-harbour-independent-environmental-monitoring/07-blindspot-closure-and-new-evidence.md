@@ -680,3 +680,11 @@ The SEC filing omits schedules that are particularly important:
 The filing states that omitted schedules can be furnished to the SEC upon supplemental request. Recover these schedules and the complete Project Wahoo data-room index. Schedule 3.1(v) may identify the studies/report inventory available to Northern Pulp in 2008; Schedule 3.1(bb)(iv)/(v) may disclose historical hazardous substances and regulatory notices.
 
 The sale agreement expressly excludes from the purchaser's assumed liabilities the seller's obligation under the 2001 MOU to transfer real property to PLFN, while assigning specified environmental liabilities under the MOU and other Boat Harbour documents to the purchaser. This is a contract allocation between seller and purchaser, not a legal determination that the Province's land-transfer obligations were extinguished. Compare with OIC 2008-338, the May 12 2008 Acknowledgement Agreement, the December 31 2008 PLFN–Northern Pulp Accommodation Agreement and registered title records.
+
+
+
+## 30. Resolve the 2002 Lease Extension date from the Registry original
+
+The higher-quality scan of the 2002 Lease Extension Agreement in the 2018 public-comment PDF appears to state 22 August 2002 and carries a Pictou County Registry stamp dated 16 May 2003, Document 1955, Book 1458, pages 5–6. Multiple later references (2008 Acknowledgement Agreement, 2014 PLFN index, 2015 Northern Pulp appeal and 2020 Montgomerie affidavit) say 22 October 2002.
+
+This is a genuine documentary discrepancy, not an OCR error that can be safely corrected. Obtain certified Registry instrument 1955 / Book 1458 / pages 5–6, confirm execution and registration dates, and compare all versions. Until then, cite both conflicting dates and do not silently normalize them.
