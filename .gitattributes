@@ -1,0 +1,1 @@
+research/boat-harbour-independent-environmental-monitoring/source-pdfs/**/*.pdf filter=lfs diff=lfs merge=lfs -text
