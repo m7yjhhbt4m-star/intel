@@ -583,3 +583,21 @@ Key findings recorded in the comprehensive review include: EEM Cycles 1–7 show
 Northern Pulp argues the existing system meets federal regulations and Bill 89 breaches contracts; KSH estimates 18–30 months for outfall approval and 4–6 months for activated-sludge startup; PLFN requests source-separated air monitoring, odour jury testing, community health baseline, accessible environmental communications and participation funding.
 
 **Outstanding:** underlying PPER/EEM data, complete KSH project schedule assumptions, PLFN payment ledger/subsequent agreements, and proof of whether the specific PLFN monitoring requests were implemented in the 2015 Industrial Approval, final EARD, decision conditions and actual monitoring.
+
+
+
+## 36. 2016 Minister's Industrial Approval appeal decision — full text reviewed
+
+- **BH-176:** Minister Randy Delorey's decision under s.137, 8 February 2016; full text reviewed as Tab 17 in the 2018 public-comment PDF.
+- **Outcome:** removed conditions 6(g), 5(j), 6(i), 6(j), 12(ag) and 22(b); revised COD reductions, TRS conditions and surface-water station list; required reassessment of water-use reduction targets.
+- **Cross-check:** Terri Fraser's sworn affidavit (BH-177) says Northern Pulp withdrew its appeal on 15 March 2016.
+
+**Outstanding:** final consolidated Industrial Approval, Department water-use reassessment, actual COD/TRS results, corrected station data and compliance records.
+
+## 37. Terri Fraser 30 November 2018 affidavit — full text reviewed
+
+- **BH-177:** Northern Pulp Technical Manager Terri Fraser affidavit in the injunction proceeding concerning marine survey access; full text and chart descriptions reviewed.
+
+The affidavit describes 2016–2018 engineering/funding, Pictou Roads diffuser proposal, 2018 ice-scour findings at 11 m, route change to Caribou Channel (20/25 m), shortened marine pipeline and October 2018 survey-access dispute with fishers.
+
+**Outstanding:** full injunction decision and hearing record; raw geophysical/bathymetric data; final route/as-builts; contractor survey logs; DFO habitat review; and independent verification of fishing-ground claims.
