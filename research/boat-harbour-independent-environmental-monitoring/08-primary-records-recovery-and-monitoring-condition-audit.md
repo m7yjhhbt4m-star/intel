@@ -654,3 +654,24 @@ The EARD explicitly says its monitoring/follow-up elements are conceptual and hi
 The EARD describes an 11.4 km replacement pipeline, including 4.1 km marine route and three-port diffuser, and concludes all 18 VECs have not-significant residual effects after mitigation. This is the Proponent's conclusion and depends on conceptual follow-up plans and later design/conditions. The project was not constructed after the mill closed in 2020.
 
 **Outstanding:** track the 2020 EA decision/conditions and any pre-closure completed work; do not treat EARD predictions as observed marine performance or confuse this abandoned project with the 2025 remediation project.
+
+
+
+## 43. December 17, 2019 Minister's decision — full text reviewed
+
+- **BH-194:** Gordon Wilson, Minister of Environment, decision dated 17 December 2019, 4 pages.
+- **Status:** Full decision reviewed.
+
+The Minister found the Focus Report insufficient to assess effects on fish, air, water and human health. Specific deficiencies included only two Point A raw-wastewater samples one year apart, missing flow data, incomplete technology/COPC comparison, air-model exceedances without mitigation and not using maximum authorized production, no selected secondary containment/leak detection for the Town of Pictou water-supply area, inadequate groundwater risk analysis, unresolved spill-basin design and incomplete marine sediment/fish/human-health assessment.
+
+## 44. Final Terms of Reference — full 29-page review
+
+- **BH-193:** Nova Scotia Environment, Final ToR for EA Report, 28 April 2020.
+- **Status:** Full 29 pages reviewed.
+
+The ToR requires full raw-effluent characterization and bench testing; 85,000 m³/day design basis; land/marine pipeline leak probability and secondary containment; four-season marine baseline; sediment/fish/shellfish tissue chemistry; receiving-water/sediment transport modelling; completed HHRA to Health Canada's satisfaction; full air emissions inventory and replicable dispersion model; climate/worst-case scenarios; species/heritage/MEK work; and detailed compliance/effects monitoring with mapped stations, methods, frequencies, standards and reporting.
+
+## 45. Replacement ETF project withdrawal — official status reviewed
+
+- **BH-196:** Nova Scotia official EA project page.
+- **Status:** Confirms Northern Pulp withdrew the project on 5 May 2021. The final EA Report required by BH-193 was never submitted/accepted; no final provincial EA approval was issued for the replacement ETF.
