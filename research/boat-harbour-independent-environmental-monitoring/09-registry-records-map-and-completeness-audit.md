@@ -570,3 +570,28 @@ The 2025 Decision Statement conditions 3.4–3.7 require sediment-transport mode
 ### Remaining attachment
 
 IAAC contribution reference 48 also includes attachment 3, *DFO's Technical Review of Round 1 Information Requirement Responses* (355 KB), and attachment 1, *Annex 1–3 Consolidated IRs 1 to 81*. Attachment 2 is the only one directly opened in this pass; the other two remain not reviewed due retrieval errors.
+
+
+
+## 20. GHD Design Requirements Document — 2017 review — 25 November 2026
+
+- **Located/opened:** Yes — official project Resources page, direct 37-page PDF.
+- **Source:** GHD, *Design Requirements Document — Boat Harbour Remediation Planning and Design*, report 11148275 (4), 12 September 2017.
+- **Review status:** Full extracted text of all 37 pages reviewed.
+- **Repository record:** Source register entry BH-121 added to `05-source-register-and-evidence-quality.md`.
+
+### Important early design requirements and assumptions
+
+1. **Groundwater context:** GHD describes shallow groundwater and surface water flowing downhill to Boat Harbour, with bedrock groundwater mainly through fractures; drilled wells supply PLFN and watershed residents. It says groundwater and surface water may have been significantly impacted and must be considered in remediation.
+2. **Sludge assumptions:** The document describes sludge generally 10–20 cm thick, locally over 1 m, and identifies metals, PAHs, dioxins/furans, with VOCs, petroleum hydrocarbons and chlorophenols also expected. These are early conceptual statements, not a replacement for later delineation.
+3. **Tidal reconnection:** The early design basis specifies a 4.0 m channel depth at high tide and 1.5 m at low tide, with a roughly 25 m opening; bridge/culvert hydraulic requirements include a 1:100-year storm criterion and explicit recommendation to consider climate-change variability.
+4. **End use and scope boundary:** Risk-based criteria were to govern surface water, sediment and soil. Long-term ecological restoration and maintenance were expressly outside this design scope and deferred to separate contracts. The document notes that habitat objectives may depend on water quality entering from Pictou Harbour and may not all be attainable in the restored tidal environment.
+5. **Waste estimate:** The early 2015-era estimate was about 230,000 m³ after dewatering, plus possible native soil beneath sludge. The existing cell was assumed likely to have capacity based on NS Lands estimates. Later treatability, pilot and EIS work materially changed the volume/capacity picture.
+6. **Wetland replacement:** The design requirement was a minimum 2:1 wetland replacement ratio, with preference for saltwater marsh restoration/creation. Long-term ecological maintenance was excluded from this scope.
+7. **Cell governance/liability:** The document says ownership, operating approval and long-term liability for the cell were to remain with the Province; post-closure monitoring/care was to be prescribed by the Industrial Approval and landfill guidelines, with financial assurance to be considered if surrounding land transferred to PLFN.
+8. **Technology and monitoring:** It called for proven technologies rather than bench/pilot-only technologies as the default design basis, and required long-term monitoring costs to be included in option comparisons.
+9. **PLFN engagement:** The document says the engagement plan was revised after award and was under NS Lands review. Its use of “consensus/agreement” as a design-process goal is not proof of PLFN consent to any selected option.
+
+### Design-evolution checks created
+
+Compare these early assumptions against the Sludge Thickness Determination, Phase I/II and Supplemental Phase II ESAs, 2018 RODD, 2018 treatability study, 2019 pilot, 2020 EIS, final provincial approvals, as-built design and post-closure monitoring. Specifically track: sludge thickness/volume; groundwater pathways and well protection; wetland 2:1 replacement vs actual compensation; the change in cell capacity; who owns and carries liability; and which contract ultimately assumed long-term ecological restoration/maintenance.
