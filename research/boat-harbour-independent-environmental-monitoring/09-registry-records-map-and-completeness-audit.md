@@ -1146,3 +1146,16 @@ The HHE is qualitative, not a completed quantitative HHRA. It defers final COPC 
 The section assesses eight accident scenarios and concludes residual effects are not significant after proposed mitigation. It specifies a 35,000 m³ spill basin, 10–13 hours storage, average annual precipitation/freeboard, buried/armoured marine pipe, no-anchoring zone, diver/ROV inspections and PPER-based off-spec triggers.
 
 **Outstanding:** final spill-basin design storm/overflow controls, liner/leak detection, pipeline/diffuser as-builts and inspection logs, broader off-spec triggers, incident records, route-wide potable-well monitoring and cultural-resource implementation.
+
+
+
+## 50. EARD Section 12 Cumulative Effects Assessment — full-text review
+
+- **Source:** Northern Pulp EARD Section 12, January 2019, combined Sections 9–15 PDF.
+- **Official PDF:** https://novascotia.ca/nse/ea/Replacement_Effluent_Treatment_Facility_Project/Registration-Document-Section-9-15.pdf
+- **Located/opened:** Yes — full Section 12 text reviewed.
+- **Repository record:** BH-190 added to source register.
+
+The section assesses Pictou County and adjacent Northumberland Strait, identifies three future projects and concludes no significant cumulative effects for the VECs carried through. It identifies Indigenous land/resource use as a VEC but excludes it from the cumulative assessment; historical mill/Boat Harbour contamination is treated largely as baseline.
+
+**Outstanding:** PLFN response to the VEC exclusion, broader regional project/fisheries inventory, cumulative historical contamination, climate/sea-level/ice/sediment interactions and implementation evidence.
