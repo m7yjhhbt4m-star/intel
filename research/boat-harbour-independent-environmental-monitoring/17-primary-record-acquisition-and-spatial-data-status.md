@@ -359,3 +359,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 24 | `137884E` | IAAC EIS Appendix N, *A’se’k News — Project Update*, containing June 2019 and October 2019 newsletters; https://iaac-aeic.gc.ca/050/documents/p80164/137884E.pdf | **B — Full browser-rendered appendix text reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-125 in Document 05. Contemporaneous updates report pilot dredging changes, a drained-cove dry-dredging test, increased air-monitoring frequency, sludge-thickness mapping, fish survey and well-being survey. October newsletter reports a potential burial-site concern near the pipeline shoreline; the precise location is not reproduced. Newsletter statements are not substitutes for underlying technical reports. |
+
+
+## 30. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 25 | `137883E` | IAAC EIS Appendix M, GHD, *Boat Harbour Environmental Advisory Committee Meeting Action Items during the EIA*; https://iaac-aeic.gc.ca/050/documents/p80164/137883E.pdf | **B — Full browser-rendered 310-line appendix reviewed** | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-126 in Document 05. Action-item records run March 2019–January 2020. Pilot field testing marked wrapped up by July 2019, but reporting remained in progress through January 2020. Air monitoring and EIS work remained ongoing. GPR survey was complete but pipeline decision was still pending on 15 January 2020. These are status summaries, not full minutes or proof of final completion/acceptance. |
