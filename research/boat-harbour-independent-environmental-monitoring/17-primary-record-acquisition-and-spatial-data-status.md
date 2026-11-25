@@ -275,3 +275,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | 5 | `Phase I ESA` | *Phase I ESA.pdf* / Google Drive file ID `1narWx0xmVKWzc9PV6HiOv8iwAgsv14eF`; official resources page link 9 | **A0 + E** — source located; browser retrieval blocked (Drive returned loading/sign-in page). No text reviewed and no binary acquired | Obtain original GHD Report No. 3 (26 October 2017), including historical records review, site reconnaissance, APEC rationale, maps, photographs and limitations |
 
 **Important:** BH-115 (the Supplemental Phase 2 ESA) explicitly says it is to be read with the original June 2018 Phase 2 ESA. It does not replace that report. The original Phase 2 ESA remains a separate, unread inventory item. Similarly, the Pilot Scale Testing Construction Report is a separate technical source, not a substitute for the 2018 Laboratory Treatability Study (BH-114).
+
+
+## 18. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 7 | `137902E` | IAAC EIS Appendix EE, *Archaeological and Cultural Heritage Resources Assessment Documentation*; https://iaac-aeic.gc.ca/050/documents/p80164/137902E.pdf | **B — Full browser-rendered Appendix EE text reviewed**, including the 2017 archaeological screening/reconnaissance/shovel-testing report and the separate 2019 Indian Cross Point GPR report | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-116 in Document 05. **Restricted/sensitive:** source itself prohibits publication or public release without written consent from Nova Scotia Special Places. Repository note intentionally excludes exact archaeological locations, coordinates and maps. Obtain written permission and PLFN cultural-data guidance before detailed quotation, reproduction or documentary publication. GPR anomalies are not confirmed burials; no ground-truthing was performed. The user’s local phone copy was not accessed. |
