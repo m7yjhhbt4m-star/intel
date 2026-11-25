@@ -738,7 +738,7 @@ The GHG discrepancy materially changes the comparative narrative. Use the annex-
 - **Source:** Hive Engineering Limited, *Boat Harbour Remediation Environmental Impact Assessment — Information Requirement (IR) 82 Analysis*, project NS23.03.157, 4 August 2023, 23 pages.
 - **Official registry PDF:** https://iaac-aeic.gc.ca/050/documents/p80164/155835E.pdf
 - **Located/opened:** Yes — original IAAC PDF opened and text reviewed.
-- **Repository record:** BH-137 added to `05-source-register-and-evidence-quality.md`.
+- **Repository record:** BH-188 added to `05-source-register-and-evidence-quality.md`.
 
 The report was retained by McKiggan Hebert Lawyers on behalf of PLFN. It screens 109 Crown parcels and 97 private parcels within 50 km and compares the existing Boat Harbour cell, Northern Pulp landfill, Mount William and Granton. Hive applies the NSECC 2022 screening criteria drawn from Nova Scotia municipal landfill guidelines, federal hazardous-waste landfill guidance and BC hazardous-waste regulations. It concludes that the existing Boat Harbour cell has nine criteria exceedances and that Northern Pulp has no exceedances under the criteria applied. It describes Northern Pulp as the preferred site under this screen.
 
@@ -778,7 +778,7 @@ The Annex 3 records include the 2019 Membertou Geomatics Land Use Plan, Group AT
 
 ## 29. Original 2014 AIP and implementing agreements — original-text review — 25 November 2026
 
-### BH-138 — Agreement in Principle
+### BH-182 — Agreement in Principle
 
 - **Source:** Province of Nova Scotia and Pictou Landing First Nation, *Agreement in Principle*, signed 16 June 2014, 2 pages.
 - **Official PDF:** https://novascotia.ca/nse/dept/docs/Boat-Harbour-Agreement-in-Principle-2014-06.pdf
@@ -786,14 +786,14 @@ The Annex 3 records include the 2019 Membertou Geomatics Land Use Plan, Group AT
 
 The AIP commits the Province to introduce closure legislation by 30 June 2015 and separately commits the Province and Band to negotiate in good faith and execute an agreement respecting closure and remediation. It includes closure timelines, Band participation costs, identification/protection of Indian Cross Point burial sites and a conditional $1 million payment if closure timelines are not finalized through good-faith negotiations (subject to the Band's good-faith participation). It does not itself prescribe the final remedial design or approve permanent use of the existing cell.
 
-### BH-139 — October 2014 funding MOA
+### BH-183 — October 2014 funding MOA
 
 - **Source:** Province and PLFN, MOA for funding Band costs incurred in negotiating a closure/remediation agreement, signed 14 October 2014; reproduced in GHD EIS Appendix I, IAAC PDF 137879E.
 - **Status:** Full text reviewed.
 
 The MOA expressly satisfies AIP clause 2(b), the participation-cost provision, with a $100,000 accountable advance and eligible legal/technical, meeting, travel and communication costs. Its clause 1.2 is limited to the funding-cost requirement; it does not say the broader closure/remediation agreement under AIP clause 2 was completed.
 
-### BH-140 — Indian Cross Point purchase agreement
+### BH-184 — Indian Cross Point purchase agreement
 
 - **Source:** Province and Pictou Landing Band, *Agreement re: Purchase of Burial Grounds at Indian Cross Point*, 14 October 2014; reproduced in GHD EIS Appendix I, IAAC PDF 137879E.
 - **Status:** Agreement text reviewed.
@@ -808,7 +808,7 @@ The agreement funds the Band's acquisition of identified burial-ground lands. Th
 
 - **Source:** Boreas Heritage Consulting Inc., *Indian Cross Point Archaeological Reconnaissance and Ground Penetrating Radar Survey*, September 2019, permit A2019NS064, 63 pages.
 - **Located/opened:** Yes — full report text reproduced as Annex 3.11 in the February 2024 Build Nova Scotia IR82 response, IAAC PDF 155833E.
-- **Repository record:** BH-141 added to `05-source-register-and-evidence-quality.md`.
+- **Repository record:** BH-185 added to `05-source-register-and-evidence-quality.md`.
 
 Boreas reports no burial evidence in four selected GPR grids within the pipeline ROW. A separate adjacent-area GPR grid revealed regular anomalies at approximately 70 cm depth and deeper; Boreas says these may be burials but cannot be identified without ground-truthing. The report identifies the western ROW end as high potential for unmarked burials and recommends archaeological monitoring if the pipeline is removed there.
 
@@ -821,7 +821,7 @@ Boreas reports no burial evidence in four selected GPR grids within the pipeline
 - **Source:** Minister under the Nova Scotia Water Act, *Report for the Executive Council*, 6 April 1966, one page.
 - **Public archival copy:** https://signalhfx.ca/wp-content/uploads/2019/02/02.1966Reportfortheexecutivecouncil.pdf
 - **Located/opened:** Yes — original one-page scan opened and reviewed.
-- **Repository record:** BH-142 added to source register.
+- **Repository record:** BH-186 added to source register.
 
 The Minister recommended that Governor in Council authorize the Nova Scotia Water Authority to dispose of effluent from Scott Maritimes Pulp Limited into Boat Harbour, acquire all land required, and pay certified expenses from the dedicated capital vote “Waste Disposal Facility (Scott Maritimes Pulp Limited).”
 
@@ -833,7 +833,7 @@ The Minister recommended that Governor in Council authorize the Nova Scotia Wate
 
 - **Source:** Pictou Landing First Nation, *Submissions of Pictou Landing First Nation* concerning Northern Pulp's 2013 Industrial Approval renewal, dated 21 March 2014, Volume I; Nova Scotia Legislature public PDF.
 - **Located/opened:** Yes — main submission text and index reviewed; appended tabbed scans are partly low-quality/handwritten.
-- **Repository record:** BH-143 added to source register.
+- **Repository record:** BH-187 added to source register.
 
 The 35-tab index is a valuable roadmap for records dated 1965–2011. It identifies the 1965 meeting and consent memoranda, handwritten agreement, 1966 federal OIC, 1970 community letters and government reports, 1991 closure letter, 1993 settlement, 1995 agreement/MOU, 1996 OIC 96-621, 1997 lawyer correspondence, Agra Simons 2000, 2001 MOU, 2002 lease extension, sediment engineering report, 2006 extension, 2008 closure correspondence, AMEC 2010 and ADI 2011 relocation studies.
 
@@ -845,7 +845,7 @@ The 1965–1966 original attachments and 1970 technical records remain priority 
 
 - **Source:** GHD, *EIS Appendix I — Documentation of Informal PLFN Consultation*, report 11148275 (20), IAAC document 137879E.
 - **Opened/reviewed:** Original PDF opened; substantive partial review of 2014 AIP, Steering Committee TOR, MOA, Indian Cross Point land-purchase agreement, introduced Boat Harbour Act, Community Liaison Coordinator workplan and A'se'k News newsletters.
-- **Repository:** BH-137–BH-143 added to source register.
+- **Repository:** BH-137–BH-187 added to source register.
 
 ### Direct agreement findings
 
@@ -922,7 +922,7 @@ The debates describe the $35M settlement, referendum result, compensation and re
 
 ## 36. 2002 Province–Kimberly-Clark Lease Extension — full text reviewed
 
-- **Source:** Province of Nova Scotia and Kimberly-Clark Inc., Lease Extension Agreement, 2002; Tab 29 in PLFN's 2014 submission (BH-143).
+- **Source:** Province of Nova Scotia and Kimberly-Clark Inc., Lease Extension Agreement, 2002; Tab 29 in PLFN's 2014 submission (BH-187).
 - **Located/opened:** Yes — full OCR text of the scanned agreement reviewed.
 - **Repository record:** BH-149 added to source register.
 
@@ -1005,7 +1005,7 @@ The agreement defines the Effluent Treatment System to include Boat Harbour and 
 
 ## 40. December 4, 2008 Minister Scott letter — full-text review
 
-- **Source:** Murray Scott, Nova Scotia Minister of Transportation and Infrastructure Renewal, to Chief Anne Francis-Muise, 4 December 2008; Tab 33 of PLFN's 2014 submission (BH-143).
+- **Source:** Murray Scott, Nova Scotia Minister of Transportation and Infrastructure Renewal, to Chief Anne Francis-Muise, 4 December 2008; Tab 33 of PLFN's 2014 submission (BH-187).
 - **Located/opened:** Yes — original two-page letter text reviewed.
 - **Repository record:** BH-163 added to source register.
 
