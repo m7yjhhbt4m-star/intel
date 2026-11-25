@@ -355,3 +355,13 @@ Boreas found no burial evidence in four selected GPR grids within the pipeline r
 The report contains a PA-3/PA-4 inconsistency about which adjacent potential area was GPR-surveyed. IAAC's 2025 Environmental Assessment Report later says the Indian Cross Point-to-Highway 348 pipeline section had already been removed by Northern Pulp and no archaeological effects were identified. The work records, exact removal limits, monitoring logs and reconciliation with Boreas's high-potential recommendation remain outstanding.
 
 This evidence concerns a sacred/cultural heritage place. Do not publish exact suspected burial locations, GPR anomaly coordinates, or sensitive maps without PLFN direction. GPR anomalies must not be described as confirmed graves, and a negative result in four limited ROW grids must not be generalized to the entire burial-ground area.
+
+
+
+## 12. 2014 AIP and Indian Cross Point burial-land commitments
+
+The signed 16 June 2014 Agreement in Principle (BH-138) is a primary record of the Province's commitments following the June 2014 pipeline failure and PLFN blockade. It commits the Province to introduce closure legislation by 30 June 2015 and the Province/PLFN to negotiate and execute an agreement respecting closure and remediation. It separately addresses PLFN participation costs, burial-site identification/protection at Indian Cross Point and a $1 million ex gratia clause if closure timelines were not finalized through good-faith negotiations.
+
+The 14 October 2014 MOA (BH-139) addresses the participation-cost clause only; it provides a $100,000 accountable advance and eligible technical, legal, travel and community-participation costs. The separate Indian Cross Point land-purchase agreement (BH-140) funds acquisition up to $103,500 and says the purchase is meaningful progress toward clause 2(c), but expressly acknowledges that it does not fulfill all burial-site obligations. The 2015 BHCC Terms of Reference says the cleanup/remediation agreement remained outstanding.
+
+These agreements should be described by their actual scope. The funding MOA is not the remediation agreement; the land-purchase agreement does not establish that all burial sites were identified or protected; and the closure legislation did not itself complete remediation. Any remaining burial-site work and the Palmer parcel require respectful, rights-holder-led handling and appropriate cultural protocols.
