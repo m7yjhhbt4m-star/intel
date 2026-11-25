@@ -813,3 +813,16 @@ The agreement funds the Band's acquisition of identified burial-ground lands. Th
 Boreas reports no burial evidence in four selected GPR grids within the pipeline ROW. A separate adjacent-area GPR grid revealed regular anomalies at approximately 70 cm depth and deeper; Boreas says these may be burials but cannot be identified without ground-truthing. The report identifies the western ROW end as high potential for unmarked burials and recommends archaeological monitoring if the pipeline is removed there.
 
 **Reconciliation gap:** IAAC's 2025 EA Report says the Indian Cross Point-to-Highway 348 pipeline section was already removed by Northern Pulp and no archaeological effects were identified. Obtain precise removal limits/as-builts, archaeological monitor logs, photographs, permits, ground-truthing records and confirmation whether the high-potential area and anomaly grid were disturbed or avoided. Resolve Boreas's internal PA-3/PA-4 location discrepancy using original field maps/data. Exact burial locations are sensitive and should not be publicly mapped without PLFN direction.
+
+
+
+## 31. 6 April 1966 Water Act Report for Executive Council — original scan reviewed — 25 November 2026
+
+- **Source:** Minister under the Nova Scotia Water Act, *Report for the Executive Council*, 6 April 1966, one page.
+- **Public archival copy:** https://signalhfx.ca/wp-content/uploads/2019/02/02.1966Reportfortheexecutivecouncil.pdf
+- **Located/opened:** Yes — original one-page scan opened and reviewed.
+- **Repository record:** BH-142 added to source register.
+
+The Minister recommended that Governor in Council authorize the Nova Scotia Water Authority to dispose of effluent from Scott Maritimes Pulp Limited into Boat Harbour, acquire all land required, and pay certified expenses from the dedicated capital vote “Waste Disposal Facility (Scott Maritimes Pulp Limited).”
+
+**Outstanding:** final provincial OIC/Executive Council minute, supporting departmental file, separate 1965 water-supply OIC, 1966 federal riparian-rights OIC and schedules, land acquisition/expropriation records, and the contemporaneous PLFN/Indian Affairs consultation record. The report is a recommendation, not the final authorization.
