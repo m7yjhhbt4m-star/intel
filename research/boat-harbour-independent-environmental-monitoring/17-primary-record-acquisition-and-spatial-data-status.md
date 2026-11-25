@@ -247,3 +247,10 @@ The Design Requirements Document is a 2017 conceptual requirements source. It de
 | 63 — `pdf` | Castleden et al. (2017), “Put It Near the Indians”: Indigenous Perspectives on Pulp Mill Contaminants in Their Traditional Territories, Project MUSE article 661289, DOI 10.1353/cpr.2017.0004; https://muse.jhu.edu/article/661289/pdf | **B — Full browser-rendered article text reviewed** | **Not A1/A2.** Original PDF bytes have not been downloaded, hashed or preserved in the evidence vault | This is the original research article, pp. 25–33. The companion Community Policy Brief is a separate item, DOI 10.1353/cpr.2017.0003. The article is recorded as BH-113 in Document 05. The user’s local phone copy was not accessed. |
 
 This row records online text review only. It does not assert that the local file was inspected or that the source binary was acquired.
+
+
+## 15. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 6 | `Laboratory+Treatability+Study` | GHD, *Laboratory Treatability Study*, Report 10, Project 11148275, 9 April 2018; official project-hosted PDF: https://static1.squarespace.com/static/5fa9ac321d1bf94e1f13e118/t/5fb2fbd5cce468531e584c73/1605565406097/Laboratory%2BTreatability%2BStudy.pdf | **B — Full browser-rendered PDF text reviewed**, including report body and analytical tables | **Not A1/A2.** Original PDF bytes not downloaded to evidence storage, hashed or preserved | Source recorded as BH-114 in Document 05. Key limitation: bench-scale tests based on samples from three site areas collected in 2017; not current monitoring or full-scale validation. The user’s local phone copy was not accessed. |
