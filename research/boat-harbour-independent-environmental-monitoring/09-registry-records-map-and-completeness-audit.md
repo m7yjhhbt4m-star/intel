@@ -977,3 +977,26 @@ Exhibit A is the *Boat Harbour Chronology of Events 1954–2005*, prepared by No
 The agreement defines the Effluent Treatment System to include Boat Harbour and receiving waters. It allocates specified environmental liabilities under the 2001 PLFN MOU, lease, licence, indemnity and water-supply agreements to Northern Pulp, while expressly excluding the seller's obligation to transfer real property to PLFN. It represents that the seller provided complete Boat Harbour Documents and amendments to the purchaser and transferred environmental studies/records.
 
 **Material omitted schedules:** 2.3(b) (Boat Harbour agreements), 3.1(v) (other Boat Harbour documents/studies), 3.1(bb)(i) (compliance exceptions), (ii) (environmental permits), (iv) (hazardous substances) and (v) (written environmental non-compliance notices). The SEC filing says omitted schedules can be furnished upon supplemental request. These schedules and the Project Wahoo data-room index remain priority recovery targets.
+
+
+
+## 39. 2018 NSSC 306 / 2019 NSCA 75 / SCC leave — judicial review status
+
+### BH-160 — 2018 NSSC 306
+
+- **Source:** *Pictou Landing First Nation v. Nova Scotia (Aboriginal Affairs)*, 2018 NSSC 306, 30 November 2018.
+- **Located/opened:** Yes — full reasons reproduced in the 2018 public-comment PDF; all 29 pages reviewed.
+- **Review:** Court rejected PLFN's specific procedural-fairness complaint about the information disclosed in the Minister's decision process, but held the Province had a duty to consult on whether it would fund the replacement ETF and the form of financing because funding could make continued mill operation beyond the statutory closure date more likely.
+
+### BH-161 — 2019 NSCA 75
+
+- **Source:** *Nova Scotia (Aboriginal Affairs) v. Pictou Landing First Nation*, 2019 NSCA 75, 17 September 2019.
+- **Official case record:** Supreme Court of Canada file 38917, https://www.scc-csc.ca/cases-dossiers/search-recherche/38917/
+- **Status:** Official SCC record confirms appeal dismissed. Full appellate reasons still require separate retrieval/review.
+
+### BH-162 — Supreme Court of Canada leave decision
+
+- **Source:** SCC file 38917, judgment on leave application, 26 March 2020.
+- **Status:** Official docket reviewed; leave dismissed with costs. This is not a merits decision.
+
+**Outstanding:** obtain and read full 2019 NSCA 75 reasons before quoting detailed holdings or paragraph numbers. Keep 2019 NSCA 12 (intervention) separate from 2019 NSCA 75 (merits appeal).
