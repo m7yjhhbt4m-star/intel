@@ -422,3 +422,13 @@ The full Lewis et al. (2020) paper (BH-128) has now been reviewed. It used 2013 
 This is community-led evidence of a disparity signal and a serious historical failure to answer PLFN health concerns. Do not dismiss it; do not overstate it as causal epidemiology. Follow-up should be community-led and governed by PLFN, with updated cancer-registry data, appropriate denominators/age standardization, complete registered-member linkage where authorized, and culturally appropriate health indicators. Do not pursue identifiable health data outside appropriate governance and privacy controls.
 
 The paper also distinguishes the Joint Environmental Health Monitoring Committee (JEHMC, established in the 1990s) from the BHEAC (established in 2016). These committees must not be conflated. Its statement about the 1995 settlement Act's effect on Canadian liability requires review of the actual Act and settlement agreement before legal conclusions are drawn.
+
+
+
+## 18. 2014 PLFN Environmental Health Survey: a community-defined baseline, not a causal exposure study
+
+The full Lewis et al. (2021) paper (BH-129) has now been reviewed. It reports the 2014 Native Women's Group-led Environmental Health Survey: 279 respondents, 59% response rate, 297 questions and more than 400 variables, with 13 community research assistants. It measures physical, mental, emotional and spiritual health and includes a community-defined environmental-dispossession indicator asking whether participants feel the air, land and water around them will hurt them.
+
+The paper reports associations between environmental fear and self-rated physical/mental health, and between racism and several health dimensions. It is a cross-sectional self-reported survey with bivariate analysis, not a clinical study, exposure assessment or causal epidemiology. It does not establish that Boat Harbour or mill emissions caused the outcomes. The 2014 survey is not a pre-exposure baseline; it is a community health snapshot after decades of effluent exposure. Comparisons use different surveys/populations and the environmental-fear cross-tab has n=126 complete cases.
+
+**Blindspot:** future monitoring cannot rely only on contaminant concentrations and conventional toxicological endpoints. It must be co-designed with PLFN and include community-defined health, access to land/food/medicine, cultural/spiritual well-being and environmental fear, while keeping self-reported indicators distinct from measured exposures and clinical outcomes. The full questionnaire/supplementary data and any later PLFN health survey should be located with PLFN/NWG authorization; individual-level data must remain under community governance.
