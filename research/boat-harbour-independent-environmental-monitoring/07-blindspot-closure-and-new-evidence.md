@@ -729,3 +729,19 @@ Minister Murray Scott's December 4, 2008 letter (BH-163) confirms the Province's
 The promised Province–PLFN MOU, committee terms/minutes, negotiator mandate, detailed work plan, contribution proposal/payment records and subsequent implementation records have not yet been recovered. The original December 31, 2008 PLFN–Northern Pulp Accommodation Agreement is also still missing; only a 2020 affidavit summary is currently available. Obtain the separate April 2009 forbearance agreement and the September 2006 PLFN–Neenah amendment.
 
 Do not conflate the December 4 Minister letter, the December 31 PLFN–Northern Pulp Accommodation Agreement and the May 12 Province–Northern Pulp Acknowledgement Agreement. They have different parties and purposes. The first is a provincial written commitment to relocate/clean/restore; the second is a temporary non-opposition agreement; the third confirms continuing mill contract benefits.
+
+
+
+## 33. The original 2001 MOU, 2006 amendment and 2008 accommodation instruments remain critical
+
+PLFN's 2010 Statement of Claim (BH-164) describes the 27 September 2001 MOU as a two-stage decommissioning arrangement: a Point C–Point D pipeline by 31 December 2005; cleaning and tidal restoration of the main lagoon; continued use of settling ponds/ASB to 2030; annual mill payments starting at $200,000 and rising to $280,000; and forest-land transfer after pipeline construction. These are pleaded allegations, not yet verified against the executed agreement.
+
+Obtain:
+- original 2001 PLFN–Kimberly-Clark MOU, schedules, maps, referendum resolution and payment records;
+- original 2 January 2006 amendment (PLFN submission calls it January 2; 2010 claim says September 2006), including signatures, effective date, conditions and any consideration;
+- October 2008 engineers' report and hydraulic/tidal modelling concluding no pipeline alternative was feasible due to eutrophication risk;
+- May 13, 2008 month-to-month licence extension and June 11, 2008 correspondence;
+- original December 31, 2008 PLFN–Northern Pulp Accommodation Agreement and any April 2009 forbearance agreement;
+- complete licence extension instruments and regulatory approvals.
+
+The 2010 pleading's 25-million-gallons/day wastewater figure must be checked against actual flow-meter data; do not confuse it with the 1995 Water Supply Agreement's 25-million-Imperial-gallons/day fresh-water supply.
