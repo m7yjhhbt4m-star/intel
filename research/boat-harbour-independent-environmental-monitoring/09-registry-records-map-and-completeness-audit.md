@@ -964,3 +964,16 @@ Exhibit A is the *Boat Harbour Chronology of Events 1954–2005*, prepared by No
 **Outstanding original documents identified by the chronology:** 1972 engineering drawings; 1992 integrated environmental characterization; 1995–99 sediment/IR37 studies and lab data; 2003 Sediment Management Plan; 2004 pilot-scale dredging/dewatering report; CBCL pipeline/diffuser design; draft screening EA; monitoring data and decision records.
 
 **Date correction:** BH-150 identifies the 2002 lease extension as dated 22 October 2002, corroborating PLFN's index. The apparent 7 August reading in the low-quality OCR of the scanned lease is an OCR error.
+
+
+
+## 38. 2008 Neenah–Northern Pulp Asset Purchase Agreement — full-text review
+
+- **Source:** Neenah Paper Company of Canada and Northern Pulp Nova Scotia Corporation, *Asset Purchase Agreement — Pictou Pulp Mill and Woodlands Operations*, dated 24 June 2008.
+- **Official source:** SEC Exhibit 10.4, https://www.sec.gov/Archives/edgar/data/1296435/000110465908051919/a08-18779_1ex10d4.htm
+- **Located/opened:** Yes — full public agreement text reviewed.
+- **Repository record:** BH-152 added to source register.
+
+The agreement defines the Effluent Treatment System to include Boat Harbour and receiving waters. It allocates specified environmental liabilities under the 2001 PLFN MOU, lease, licence, indemnity and water-supply agreements to Northern Pulp, while expressly excluding the seller's obligation to transfer real property to PLFN. It represents that the seller provided complete Boat Harbour Documents and amendments to the purchaser and transferred environmental studies/records.
+
+**Material omitted schedules:** 2.3(b) (Boat Harbour agreements), 3.1(v) (other Boat Harbour documents/studies), 3.1(bb)(i) (compliance exceptions), (ii) (environmental permits), (iv) (hazardous substances) and (v) (written environmental non-compliance notices). The SEC filing says omitted schedules can be furnished upon supplemental request. These schedules and the Project Wahoo data-room index remain priority recovery targets.
