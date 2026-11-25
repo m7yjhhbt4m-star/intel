@@ -472,3 +472,28 @@ BGC was retained by IAAC for two defined charge questions concerning alternative
 ### Status and evidentiary limits
 
 RODD is a Proponent/consultant options document, not final approval. It expressly states qualified remedial options may change due to executive direction, regulator conditions, new information, pilot testing and EA outcomes. Cost estimates are Class D, 2018 dollars, with stated accuracy of -30%/+50%; do not treat them as final actual costs.
+
+
+
+## 20. Supplemental Phase 2 ESA — original report review — 25 November 2026
+
+- **Located:** Yes — official Boat Harbour project Resources page, direct static PDF.
+- **Source:** GHD, *Supplemental Phase 2 Environmental Site Assessment — Boat Harbour Remediation Planning and Design*, report 11148275 (11), 14 September 2018.
+- **Opened and reviewed:** Yes — original report and its accessible appendices opened; substantive review of executive summary, field program, sampling methods, hydrogeology, criteria, principal results/exceedance tables, distribution-of-impact table, conceptual site model, recommendations, maps and Appendix C QA/QC memo. Appendix D lab certificates are not included in the accessible copy.
+- **Repository record:** Source register entry BH-121 added to `05-source-register-and-evidence-quality.md`.
+
+### High-value findings
+
+1. **Northumberland Strait sediment:** Five samples NS-SED-3 to -7 at the mouth/northern shoreline all exceeded the applicable marine sediment criteria for TPH >C21–C32. GHD reports 71–150 mg/kg and says the impact was potentially associated with mill/BHETF operations. Five background sediment samples 2.5 km east of the estuary had no exceedances. GHD explicitly states that further horizontal delineation is required for NS-SED-1 to -7.
+2. **Groundwater:** BHSL-MW-6 recorded cadmium 0.49 µg/L against a 0.12 µg/L provincial ecological marine guideline and chloroform 6.2 µg/L against a 3 µg/L human-health guideline. EST-MW-2 recorded chloroform 3.3 µg/L against 3 µg/L. GHD recommended confirmatory sampling. Several new wells also had low pH relative to the cited marine groundwater ranges.
+3. **Wetland sediments:** FSP2 had exceedances for metals, multiple PAHs, PHCs, VOCs and dioxin/furan TEQ in both upper and lower sediment samples at FSP2-SED-8/-9; further vertical sampling below 0.9 m/0.85 m remained recommended. FSP3 had perylene, PHC and dioxin/furan exceedances; further vertical delineation below 0.9 m remained recommended, and another location could not be sampled below 0.7 m because sediment was too dense.
+4. **Background conditions:** Chance Harbour Lake background surface water exceeded the freshwater aluminum criterion and field pH range; laboratory pH was reported within range. Five background Strait sediment samples had no exceedances. These are specific background points, not a full regional baseline.
+5. **Sampling limits:** 19 sediment samples (plus QA/QC) from 10 site locations and five background Strait locations; 20 surface soils; 14 subsurface soils; seven new groundwater wells; six surface-water samples (one stream sample and five lake background samples). No new marine water-column or marine biota/tissue samples were collected in this supplemental program.
+6. **Pipeline gap:** The report records that ten boreholes, one hand-auger sample and eight sediment samples along the pipeline corridor were deferred because the pipeline was operational and sampling risked damaging it; a separate assessment was promised after shutdown in January 2020.
+7. **Hydrogeology:** The report describes general northeast groundwater flow toward Boat Harbour in overburden and bedrock units, but static elevations for the seven new wells could not be calculated because forest cover limited GPS survey accuracy.
+8. **QA/QC and appendices:** Appendix C reports six trip blanks, five field blanks and twelve field duplicate sets; most duplicates were acceptable, but some results were qualified as estimated and TCDF exceeded calibration range in some samples. The memo concludes data are acceptable with qualifications. Appendix D, Laboratory Analytical Certificates, is marked “To be provided with final” in the accessible PDF and is not actually present, despite the main report referring to certificates in Appendix D.
+9. **Combined impact map:** Table 4.10 compiles Phase 2 and Supplemental Phase 2 findings and identifies contaminants across the source property, third-party properties, estuary and Northumberland Strait. Its Northumberland Strait surface-water contaminant entries (boron/cadmium, cyanide, chloride) are from the combined Phase 2 record, not new Supplemental Phase 2 Strait water sampling.
+
+### Documentary implications
+
+The 2018 Supplemental ESA directly establishes localized PHC exceedances in marine sediment at the estuary mouth, while its small background sample set does not establish conditions across the entire Strait. The report itself leaves delineation outstanding. The 2020 EIS statement that the broader Strait was not considered impacted must be compared against these actual data and the basis for the geographic boundary. The promised post-shutdown pipeline assessment also needs to be located and reviewed. The missing Appendix D lab certificates and Appendix C qualifiers must be addressed before independently validating the analytical results.
