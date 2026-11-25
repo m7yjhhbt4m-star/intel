@@ -506,3 +506,15 @@ The affidavit provides the Province's account of the 1965/1970 agreements, 1995 
 The agreement defines the Effluent Treatment System to include Boat Harbour and receiving waters. Northern Pulp assumes specified Environmental Liabilities under the 2001 PLFN MOU, lease, licence, indemnity and water-supply agreements. Section 2.4(d) excludes the seller's MOU obligation to transfer real property to PLFN. Section 3.1(v) says the seller delivered complete Boat Harbour Documents and related studies to the purchaser; Section 2.1(g) transfers environmental studies and records.
 
 **Missing schedules:** 2.3(b), 3.1(v), 3.1(bb)(i), (ii), (iv) and (v) are omitted from the SEC filing. They cover additional Boat Harbour documents, environmental studies, compliance exceptions, permits, hazardous substances and non-compliance notices. The SEC filing says omitted schedules can be furnished upon supplemental request. Recover these schedules and the 2008 Project Wahoo data-room index. Contractual allocation must not be mistaken for a ruling on statutory liability or PLFN's rights.
+
+
+
+## 29. Judicial decisions on provincial funding consultation — full-text/review status
+
+- **BH-160:** *Pictou Landing First Nation v. Nova Scotia (Aboriginal Affairs)*, 2018 NSSC 306 — full reasons reviewed.
+- **BH-161:** *Nova Scotia (Aboriginal Affairs) v. Pictou Landing First Nation*, 2019 NSCA 75 — appellate outcome verified from official SCC case record; full reasons still to be retrieved.
+- **BH-162:** Supreme Court of Canada file 38917 — leave to appeal dismissed 26 March 2020.
+
+The 2018 NSSC decision rejected PLFN's specific procedural-fairness complaint about the information record but held that the Province had a duty to consult about potential funding of the replacement ETF, because funding could increase the likelihood of continued mill operations beyond the Boat Harbour Act deadline. The Court of Appeal dismissed the Province's appeal. The Supreme Court of Canada refused leave; this was not a merits decision.
+
+**Outstanding:** retrieve and fully review the complete 2019 NSCA 75 reasons, including the precise appellate analysis and paragraph references. Do not conflate 2019 NSCA 12 (leave to intervene) with 2019 NSCA 75 (appeal on the merits).
