@@ -662,3 +662,21 @@ It identifies a number of high-value records not yet reviewed individually:
 **Blindspot:** the research has focused heavily on the later 2018–2025 record; this chronology shows that substantial treatment-system changes, sediment testing and remediation planning occurred in 1972, 1992, 1995–1999 and 2003–2005. These are essential for understanding the actual historical contaminant inventory, sediment redistribution, legacy disposal cells, shoreline/IR37 conditions, and why earlier tidal-restoration plans did not proceed. Recover original engineering reports, lab data, as-builts, monitoring results and decision records before relying on this summary chronology.
 
 The chronology's statement that the 1998 chlorine-bleaching change stopped generation of dioxins/furans as pulping by-products does not mean legacy dioxins/furans already in sediment or waste disappeared. It is a process-generation statement, not a site-cleanup result.
+
+
+
+## 29. 2008 asset-sale schedules are a high-value route to the company's historical Boat Harbour records
+
+The 24 June 2008 Neenah–Northern Pulp Asset Purchase Agreement (BH-152) says the seller delivered complete copies of the Boat Harbour Documents and all material amendments to the purchaser. It also says books/records transferred included environmental studies and plans relating to the mill, Effluent Treatment System and Boat Harbour.
+
+The SEC filing omits schedules that are particularly important:
+- Schedule 2.3(b): other Boat Harbour agreements;
+- Schedule 3.1(v): other Boat Harbour and Effluent Treatment System documents/studies;
+- Schedule 3.1(bb)(i): environmental compliance exceptions;
+- Schedule 3.1(bb)(ii): environmental permits;
+- Schedule 3.1(bb)(iv): hazardous substances;
+- Schedule 3.1(bb)(v): written environmental non-compliance notices.
+
+The filing states that omitted schedules can be furnished to the SEC upon supplemental request. Recover these schedules and the complete Project Wahoo data-room index. Schedule 3.1(v) may identify the studies/report inventory available to Northern Pulp in 2008; Schedule 3.1(bb)(iv)/(v) may disclose historical hazardous substances and regulatory notices.
+
+The sale agreement expressly excludes from the purchaser's assumed liabilities the seller's obligation under the 2001 MOU to transfer real property to PLFN, while assigning specified environmental liabilities under the MOU and other Boat Harbour documents to the purchaser. This is a contract allocation between seller and purchaser, not a legal determination that the Province's land-transfer obligations were extinguished. Compare with OIC 2008-338, the May 12 2008 Acknowledgement Agreement, the December 31 2008 PLFN–Northern Pulp Accommodation Agreement and registered title records.
