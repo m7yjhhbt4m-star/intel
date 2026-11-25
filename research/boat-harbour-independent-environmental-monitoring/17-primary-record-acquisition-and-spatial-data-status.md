@@ -282,3 +282,10 @@ The following files are linked from the official Boat Harbour Remediation Projec
 | Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
 |---|---|---|---|---|---|
 | 7 | `137902E` | IAAC EIS Appendix EE, *Archaeological and Cultural Heritage Resources Assessment Documentation*; https://iaac-aeic.gc.ca/050/documents/p80164/137902E.pdf | **B — Full browser-rendered Appendix EE text reviewed**, including the 2017 archaeological screening/reconnaissance/shovel-testing report and the separate 2019 Indian Cross Point GPR report | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-116 in Document 05. **Restricted/sensitive:** source itself prohibits publication or public release without written consent from Nova Scotia Special Places. Repository note intentionally excludes exact archaeological locations, coordinates and maps. Obtain written permission and PLFN cultural-data guidance before detailed quotation, reproduction or documentary publication. GPR anomalies are not confirmed burials; no ground-truthing was performed. The user’s local phone copy was not accessed. |
+
+
+## 19. User's 71-file inventory — additional reviewed item
+
+| Inventory item | User-supplied filename | Identified source | Online review status | Binary preservation status | Review note |
+|---|---|---|---|---|---|
+| 15 | `137894E` | IAAC EIS Appendix W, WSP, *Baseline Noise Monitoring*, 8 March 2018; https://iaac-aeic.gc.ca/050/documents/p80164/137894E.pdf | **B — Full 20-page browser-rendered PDF reviewed**, including results table and site plan | **Not A1/A2.** Original PDF bytes not downloaded, hashed or preserved | Source recorded as BH-117 in Document 05. Important limitation: 19 of 28 monitoring days were invalidated by weather; only three complete valid days (72 hours) were recovered across all five stations, plus six days of partial data. The report’s no-exceedance conclusion should not be described as a 28-day continuous baseline. The user’s local phone copy was not accessed. |
