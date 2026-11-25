@@ -392,3 +392,21 @@ Build Nova Scotia's 2025 Annual Report (BH-123) states that the Project remained
 - IAAC's response, review comments or determination concerning the 22 January submission.
 
 The 2025 Annual Report does not name the candidate site or reproduce the above records. A search of publicly indexed project/IAAC material in this pass did not locate the separate report or executed Terms of Reference. That is a public-document retrieval gap, not proof the documents do not exist. The annual report is a Proponent self-report and should be cross-checked against IAAC correspondence and PLFN records.
+
+
+
+## 15. PLFN's 2023–2024 alternative-site submissions: claims require original technical and legal records
+
+PLFN's 2023 Document Brief and 2024 Final Position (BH-125/BH-126) identify major alternative-site and accommodation issues. PLFN reports that Hive Engineering identified 109 Crown and 97 private parcels within 50 km, including 15 within 10 km (3 Crown, 12 private), and says the Northern Pulp landfill met the selected siting criteria while the Boat Harbour cell failed nine criteria. PLFN also says 98% of voters opposed long-term use of the Boat Harbour landfill in 2021 and 2023 referenda.
+
+**Blindspot:** these are PLFN's legal/technical submissions, not a regulator's finding. The full Hive Engineering report, selected criteria and rationale, parcel screening dataset, site owner correspondence, Northern Pulp landfill permit/receiving capacity, and original referendum records must be obtained. The Province's 2022 Mount William assessment and the 2026 Condition 9 process are separate processes and must not be conflated.
+
+The 2024 submission reports 81,375 m³ of ASB sludge under a prior Northern Pulp obligation and elsewhere 89,375 m³ transferred/added to the Boat Harbour cell. Reconcile this against the original agreement/order and surveyed quantities. It also says 128 ha of a proposed 173 ha land transfer had already been promised in 1991/1992; verify against original agreements and title records.
+
+PLFN's statement that only one consultation meeting occurred before Cabinet's 9 August 2018 decision must be assessed against the EIS chronology. BHEAC meetings, technical engagement, later open houses and formal Section 35 consultation are different categories; attendance at a committee or an open house after Cabinet approval is not automatically evidence of formal consultation before the decision.
+
+## 16. Oral-history source is available; underlying archive remains community-controlled
+
+Castleden et al. (2017), co-authored with the Pictou Landing Native Women's Group, has now been reviewed in full (BH-127). It documents 10 Elders' accounts of A'se'k as an all-season food, medicine, recreation, refuge and intergenerational teaching place, and their descriptions of changes after the mill. This is a qualitative oral-history study, not a contaminant study or epidemiological proof of a specific disease cause.
+
+The paper says the Native Women's Group vetted the findings and retains the recorded interviews under OCAP® principles. Publication of the article does not make the raw recordings/transcripts an open archive or grant permission for documentary reuse. Any request to use recordings, unpublished transcripts, names, images or quotations must be guided by PLFN and the Native Women's Group. Do not assume the ten Elders represent every PLFN member or every knowledge holder.
