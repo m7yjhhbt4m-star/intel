@@ -826,3 +826,15 @@ Boreas reports no burial evidence in four selected GPR grids within the pipeline
 The Minister recommended that Governor in Council authorize the Nova Scotia Water Authority to dispose of effluent from Scott Maritimes Pulp Limited into Boat Harbour, acquire all land required, and pay certified expenses from the dedicated capital vote “Waste Disposal Facility (Scott Maritimes Pulp Limited).”
 
 **Outstanding:** final provincial OIC/Executive Council minute, supporting departmental file, separate 1965 water-supply OIC, 1966 federal riparian-rights OIC and schedules, land acquisition/expropriation records, and the contemporaneous PLFN/Indian Affairs consultation record. The report is a recommendation, not the final authorization.
+
+
+
+## 32. PLFN 2014 submission — 35-tab historical/technical archive index reviewed
+
+- **Source:** Pictou Landing First Nation, *Submissions of Pictou Landing First Nation* concerning Northern Pulp's 2013 Industrial Approval renewal, dated 21 March 2014, Volume I; Nova Scotia Legislature public PDF.
+- **Located/opened:** Yes — main submission text and index reviewed; appended tabbed scans are partly low-quality/handwritten.
+- **Repository record:** BH-143 added to source register.
+
+The 35-tab index is a valuable roadmap for records dated 1965–2011. It identifies the 1965 meeting and consent memoranda, handwritten agreement, 1966 federal OIC, 1970 community letters and government reports, 1991 closure letter, 1993 settlement, 1995 agreement/MOU, 1996 OIC 96-621, 1997 lawyer correspondence, Agra Simons 2000, 2001 MOU, 2002 lease extension, sediment engineering report, 2006 extension, 2008 closure correspondence, AMEC 2010 and ADI 2011 relocation studies.
+
+The 1965–1966 original attachments and 1970 technical records remain priority individual reviews. The submission's body has a likely typo of 22 October 1995 for the B.G. Clench memo, while the index says 22 October 1965; confirm against the original.
